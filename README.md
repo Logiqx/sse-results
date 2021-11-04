@@ -1,18 +1,22 @@
 # wsw-results
 
-## Project Overview
+## Overview
 
-This project has been created to produce the daily results for Weymouth Speed Week 2022.
+This project has been created to produce the daily results for [Weymouth Speed Week](https://www.speedsailing.com/) 2022.
 
-It supersedes the Excel macros that were used for generating results up to and including WSW 2021.
+It supersedes the Excel macros that were used for generating results up to and including Weymouth Speed Week 2021.
 
 
 
 ## Weymouth Speed Week
 
+The following text is from the [event background](https://speedsailing.com/index.php/eventinformation/background) page of the WSW [website](https://www.speedsailing.com/).
+
+
+
 ### Origin
 
-**Weymouth Speed Week** began in 1972 under the direction of the Royal Yachting Association (RYA). It was seen as the premier event at which boats could demonstrate their prowess, reach world-record breaking speeds and further the advancement of sailing technology. Speed sailing records have been sanctioned by the World Sailing Speed Record Council (WSSRC) since 1972.
+Weymouth Speed Week began in 1972 under the direction of the Royal Yachting Association (RYA). It was seen as the premier event at which boats could demonstrate their prowess, reach world-record breaking speeds and further the advancement of sailing technology. Speed sailing records have been sanctioned by the World Sailing Speed Record Council (WSSRC) since 1972.
 
 The speed trials of the 1970's and 80's attracted many thousands of pounds of sponsorship money and competitors attended by invitation. Several world speed records were set and then broken during these years, firstly with the boats and then, as technologies improved, by the windsurfers.
 
