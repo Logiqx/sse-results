@@ -1,7 +1,7 @@
 {
    "Event Name": [
       {
-         "Value": "Weymouth Speed Week 2021"
+         "Value": "Weymouth Speed Week"
       }
    ],
    "Event Venue": [
@@ -57,12 +57,6 @@
       {
          "Value": "Y",
          "Description": "Y or N; Y recommended - Display progress forms during processing (Y/N)"
-      }
-   ],
-   "Event Dates": [
-      {
-         "Value": "09/10/2021-15/10/2021",
-         "Description": "DD/MM/YYYY-DD/MM/YYYY"
       }
    ],
    "Age Class": [
