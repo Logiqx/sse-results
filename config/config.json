@@ -1,146 +1,65 @@
 {
-   "Event Name": [
-      {
-         "Value": "Weymouth Speed Week"
-      }
-   ],
-   "Event Venue": [
-      {
-         "Value": "Portland Harbour, Dorset, UK"
-      }
-   ],
-   "Event Website": [
-      {
-         "Value": "www.weymouthspeedweek.com"
-      }
-   ],
-   "Event Banner Picture": [
-      {
-         "Value": "\\IMAGES\\wswlogo.png"
-      }
-   ],
-   "Event Courses": [
-      {
-         "Value": "H=Harbour,S=Shore"
-      }
-   ],
-   "Craft Types": [
-      {
-         "Value": "Boat,Kite Board,Sailboard",
-         "Description": "event choices"
-      }
-   ],
-   "Statuses": [
-      {
-         "Value": "Amateur,Boat-Fleet,Gold-Fleet,Kite-Fleet,Pro-Fleet",
-         "Description": "event choices"
-      }
-   ],
-   "Results Logging": [
-      {
-         "Value": "N",
-         "Description": "Y or N; Y recommended (no logging in preliminary run)"
-      }
-   ],
-   "Auto Quiet Mode": [
-      {
-         "Value": "N",
-         "Description": "Y or N; Y recommended - Automatically continues to Analysis and Reporting if no exceptions found in daily processing (Y/N)"
-      }
-   ],
-   "Hide Excel Flashing": [
-      {
-         "Value": "Y"
-      }
-   ],
-   "Display Progress Forms": [
-      {
-         "Value": "Y",
-         "Description": "Y or N; Y recommended - Display progress forms during processing (Y/N)"
-      }
-   ],
-   "Age Class": [
-      {
-         "Value": "1,18,Youth,Youth",
-         "Description": "age class: >=, <, male, female"
-      },
-      {
-         "Value": "18,45,Men,Women",
-         "Description": "age class: >=, <, male, female"
-      },
-      {
-         "Value": "45,99,Master,Master",
-         "Description": "age class: >=, <, male, female"
-      }
-   ],
-   "GT31 Match Format": [
-      {
-         "Value": "Prefix",
-         "Description": "Full or Prefix"
-      }
-   ],
-   "Registration Checks": [
-      {
-         "Value": "N",
-         "Description": "Y or N; Y recommended for Event Stats checking"
-      }
-   ],
-   "Country Codes": [
-      {
-         "Description": "blank, ISAF or ISO3; displays countries as codes for reporting"
-      }
-   ],
-   "Daily Profile": [
-      {
-         "Value": "Hour",
-         "Description": "produce a daily profile, n,hour or session"
-      }
-   ],
-   "Wind Data": [
-      {
-         "Value": "N",
-         "Description": "Use wind data in results processing, Y or N - select N for quick processing"
-      }
-   ],
-   "Quick Check Print Errors": [
-      {
-         "Value": "N",
-         "Description": "print list of errors when detected, Y or N"
-      }
-   ],
-   "Birthdays Calculated As At": [
-      {
-         "Value": "Event From Date",
-         "Description": "Event From Date, Event To Date, Current Date"
-      }
-   ],
-   "ISWC Qualifying Round %": [
-      {
-         "Value": "20",
-         "Description": "% of finishing racers required for a qualifing ISWC round"
-      }
-   ],
-   "ISWC Qualifying Speed": [
-      {
-         "Value": "28",
-         "Description": "knots above which a leg is valid"
-      }
-   ],
-   "ISWC Round": [
-      {
-         "Value": "Great Britain",
-         "Description": "name of the round in the ISWC Series"
-      }
-   ],
-   "ISWC Series": [
-      {
-         "Value": "European Tour Championship",
-         "Description": "name of series of which this round is a part"
-      }
-   ],
-   "ISWC Banner Picture": [
-      {
-         "Value": "\\images\\iswc_logo.jpg"
-      }
-   ]
+  "Event": {
+    "Name": "Weymouth Speed Week",
+    "Venue": "Portland Harbour, Dorset, UK",
+    "Banner": "wswlogo.png",
+    "Website": "https://www.weymouthspeedweek.com"
+  },
+  "Courses": {
+    "H": "Harbour",
+    "S": "Shore"
+  },
+  "Entrants": {
+    "Craft Type": [
+      "Boat",
+      "Kite Board",
+      "Sailboard",
+      "Wing Board"
+    ],
+    "Status": [
+      "Amateur",
+      "Boat-Fleet",
+      "Gold-Fleet",
+      "Kite-Fleet",
+      "Pro-Fleet",
+      "Wing-Fleet"
+    ],
+    "EntryType": [
+      "2-Day",
+      "All Week",
+      "Youth Weekend"
+    ],
+    "Gender": [
+      "M",
+      "F"
+    ],
+    "First Timer": [
+      "Y",
+      "N"
+    ],
+    "ISWC Member": [
+      "Y",
+      "N"
+    ],
+    "UKWA Member": [
+      "Y",
+      "N"
+    ]
+  },
+  "Series": {
+    "ISWC": {
+      "Name": "European Tour Championship",
+      "Round": "Great Britain",
+      "Banner": "iswc_logo.jpg",
+      "Qualifying Round %": 20,
+      "Qualifying Speed": 28
+    },
+    "UKWA": {
+      "Name": "UKWA Speed Championship",
+      "Round": "Weymouth",
+      "Banner": "ukwa_logo.jpg",
+      "Qualifying Round %": 25,
+      "Qualifying Speed": 25
+    }
+  }
 }
