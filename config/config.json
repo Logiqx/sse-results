@@ -45,21 +45,5 @@
       "Y",
       "N"
     ]
-  },
-  "Series": {
-    "ISWC": {
-      "Name": "European Tour Championship",
-      "Round": "Great Britain",
-      "Banner": "iswc_logo.jpg",
-      "Qualifying Round %": 20,
-      "Qualifying Speed": 28
-    },
-    "UKWA": {
-      "Name": "UKWA Speed Championship",
-      "Round": "Weymouth",
-      "Banner": "ukwa_logo.jpg",
-      "Qualifying Round %": 25,
-      "Qualifying Speed": 25
-    }
   }
 }
