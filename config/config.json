@@ -51,13 +51,13 @@
       "Name": "European Tour Championship",
       "Round": "Great Britain",
       "Banner": "iswc_logo.jpg",
+      "Qualifying Round %": 20,
+      "Qualifying Speed": 28,
       "Years": [
         2008,
         2010,
         2011
-      ],
-      "Qualifying Round %": 20,
-      "Qualifying Speed": 28
+      ]
     },
     "UKWA": {
       "Name": "UKWA Speed Championship",
