@@ -20,8 +20,9 @@ The configuration files are an evolution of the Excel spreadsheet that was used 
 
 | Filename         | Description |
 | ---------------- | ----------- |
-| reports/*        | Folder containing report definitions |
+| reports/\*        | Folder containing report definitions |
 | config.json      | Main configuration |
+| countries.json   | Lookup for country flags (CSS sprites) |
 | README.md        | This file |
 | stats.json       | Statistical summary definitions - yet to be defined |
 
