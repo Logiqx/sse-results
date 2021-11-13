@@ -14,7 +14,8 @@
       "Boat",
       "Kite Board",
       "Sailboard",
-      "Wing Board"
+      "Wing Board",
+      "Unknown"
     ],
     "Status": [
       "Amateur",
@@ -22,28 +23,34 @@
       "Gold-Fleet",
       "Kite-Fleet",
       "Pro-Fleet",
-      "Wing-Fleet"
+      "Wing-Fleet",
+      "Unknown"
     ],
     "EntryType": [
       "2-Day",
       "All Week",
-      "Youth Weekend"
+      "Youth Weekend",
+      "Unknown"
     ],
     "Gender": [
       "M",
-      "F"
+      "F",
+      "?"
     ],
     "First Timer": [
       "Y",
-      "N"
+      "N",
+      "?"
     ],
     "ISWC Member": [
       "Y",
-      "N"
+      "N",
+      "?"
     ],
     "UKWA Member": [
       "Y",
-      "N"
+      "N",
+      "?"
     ]
   },
   "Series": {
