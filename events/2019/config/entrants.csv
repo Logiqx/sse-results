@@ -1,0 +1,69 @@
+ID,Male/Female,EnteredDateTime,Title,First Name,Family Name,Country,First Timer,Status,Craft Type,Accept Terms(Y/N),GT31 ID,GT31 SN,GT31 FW,Grouping,Nationality,requiredGT31,EntryType,UKWA Member,Boat Name,T Shirt Size,Rash Vest Fee,Entry Fee,PayPal Fee,DataLogger Hire Fee,Total Amount,Payment Method,Reconciled,Sponsorship,RegDateTime
+4,M,28/08/2019,Mr,Simon,Pettifer,England,N,Pro-Fleet,Sailboard,Y,PETTI45SIMON,133200837,V1.4(B0803T),,England,N,All Week,Y,,Large,0,180,,0,180,PayPal,Y,Sponsored by Duotone; Fanatic; Ion; F-Hot fins; southeast signage  and The OTC,10/05/2019 10:11
+7,M,29/08/2019,Mr,Cartridge,Danny,England,N,Amateur,Sailboard,Y,DANNY19CARTR,133200506,V1.4(B0803T),,England,Y,All Week,N,,Large,20,180,,25,225,PayPal,Y,No,10/04/2019 17:01
+8,M,29/08/2019,Mr,Paul,Sibley,England,N,Gold-Fleet,Sailboard,Y,SIBLE46PAUL,123200076,V1.4(B0315C),Twb,England,N,All Week,Y,,Medium,0,180,,0,180,bank,Y,Starboard and Severne; discounted kit deal. ,10/05/2019 10:45
+9,M,29/08/2019,Mr,James,Battye,England,N,Pro-Fleet,Sailboard,Y,BATTY3JAMES,103200479,V1.4(B0315C),,England,Y,All Week,Y,,Xtra Large,20,180,,25,225,PayPal,Y,"Simmer Oshea",10/04/2019 14:02
+10,M,29/08/2019,Mr,Bob,Cartridge,England,N,Gold-Fleet,Sailboard,Y,CARTR18BOB,932000712,V1.4(B0803T),,England,Y,All Week,N,,Large,20,180,,25,225,PayPal,Y,,10/04/2019 16:57
+12,M,29/08/2019,Mr,Roger,Oernvang,Sweden,N,Kite-Fleet,Kite Board,Y,OERNV50ROGER,133200018,V1.4(B0803T),,Sweden,N,All Week,N,,Xtra Large,0,180,,0,180,PayPal,Y,R-Tech Solution AB ,10/05/2019 16:00
+17,M,29/08/2019,Mr,Steven,Summerfield,England,N,Amateur,Sailboard,Y,SUMME12STEVE,123200454,V1.4(B0315C),Stan's 50Th,England,Y,All Week,N,,Large,20,180,,25,225,bank,Y,,10/04/2019 15:56
+18,M,29/08/2019,Mr,Trevor,Whatford,England,N,Gold-Fleet,Sailboard,Y,WHATF48TREVO,832004534,V1.4(D0428T),,England,N,All Week,Y,,Medium,0,180,,0,180,PayPal,Y,,10/05/2019 11:42
+19,M,29/08/2019,Mr,Adrian,Wallis,England,N,Gold-Fleet,Sailboard,Y,WALLI35ADRIA,932000562,V1.4(B0803T),Forces - Royal Navy,England,Y,All Week,Y,,Large,20,180,,25,225,bank,Y,,10/04/2019 18:08
+20,M,29/08/2019,Mr,Jean-Marc,De Bruyne,Belgium,N,Pro-Fleet,Sailboard,Y,DEBR27JEAN,123201188,V1.4(B0315C),,Belgium,N,All Week,N,,Small,0,180,,0,180,bank,Y,Gun sails-F2-Select fins-VW-Optic Benoit,10/04/2019 17:45
+21,M,29/08/2019,Mr,Nick,Deakin,England,N,Amateur,Sailboard,Y,DEAKI28NICK,932000570,V1.4(B0803T),,England,Y,All Week,Y,,Large,20,180,,25,225,bank,Y,,10/04/2019 17:49
+22,M,29/08/2019,Mr,John,Oliver,England,N,Gold-Fleet,Sailboard,Y,OLIVE52JOHN,133200495,V1.4(B0803T),Surf Hogs,England,N,All Week,N,,Large,20,180,,0,200,bank,Y,,10/06/2019 09:24
+23,M,30/08/2019,Mr,Richard,Crosby,England,N,Amateur,Sailboard,Y,CROSB25RICHA,932000574,V1.4(B0803T),Surf Hogs,England,Y,All Week,Y,,Xtra Large,20,180,,25,225,bank,Y,no,10/04/2019 17:39
+24,M,30/08/2019,Mr,Steve,Watson,England,N,Amateur,Sailboard,Y,WATSO36STEVE,932000557,V1.4(B0803T),Surf Hogs,England,Y,All Week,N,,Large,20,180,,25,225,bank,Y,no,10/04/2019 18:09
+25,M,30/08/2019,Mr,Simon,Olley,England,N,Amateur,Sailboard,Y,OLLEY14SIMON,103200682,V1.4(B0315C),Stan's 50Th,England,N,All Week,Y,,Xtra Large,20,180,,0,200,bank,Y,,10/04/2019 16:23
+26,M,30/08/2019,Mr,Simon,Gregory,Guernsey,N,Amateur,Sailboard,Y,GREGO29SIMON,932000584,V1.4(B0803T),,Guernsey,Y,All Week,N,,Xtra Large,20,180,,25,225,bank,Y,,10/04/2019 17:54
+27,M,31/08/2019,Mr,Olly,Wood,England,Y,Amateur,Sailboard,Y,WOOD57OLLY,832000210,V1.3(B1015),,England,N,All Week,Y,,Xtra Large,20,180,,0,200,bank,Y,,10/07/2019 09:46
+28,M,31/08/2019,Mr,Josh,Lane,England,N,Amateur,Sailboard,Y,LANE31JOSH,932000585,V1.4(B0803T),,England,Y,Youth Weekend,Y,,Xtra Large,0,40,0,10,£200.00,Bank,Y,,10/04/2019 17:58
+29,M,31/08/2019,Mr,Angus,Hitchin,England,N,Kite-Fleet,Kite Board,Y,HITCH21ANGUS,123200065,V1.4(B0315C),Stan's 50Th,England,N,All Week,N,,Xtra Xtra Large,20,180,,0,200,bank,Y,,10/04/2019 17:22
+30,M,01/09/2019,Mr,William,Oscroft,England,N,Amateur,Sailboard,Y,OSCRO16WILLI,133200095,V1.4(B0315C),Stan's 50Th,England,N,All Week,N,,Xtra Large,20,180,,0,200,PayPal,Y,No,10/04/2019 16:44
+32,M,01/09/2019,Mr,Neil,Thompson,England,N,Kite-Fleet,Kite Board,Y,THOMP49NEIL,123200930,V1.4(B0315C),,England,N,All Week,N,,Xtra Large,20,180,,0,200,PayPal,Y,,10/05/2019 11:53
+33,M,02/09/2019,Mr,Robin,Russell,England,N,Gold-Fleet,Sailboard,Y,RUSSE63ROBIN,113200238,V1.4(B0803T),Surf Hogs,England,N,All Week,N,,Large,0,180,,0,180,bank,Y,,10/07/2019 14:18
+34,M,02/09/2019,Mr,Peter,Crosby,England,N,Gold-Fleet,Sailboard,Y,CROSB47PETER,933000012,V1.4(D0428T),Surf Hogs,England,N,All Week,Y,,Medium,20,180,,0,200,bank,Y,No,10/05/2019 11:18
+36,M,03/09/2019,Mr,Jeb,Beresford,England,N,Kite-Fleet,Kite Board,Y,BERES23JEB,832002092,V1.4(B0803T),,England,Y,All Week,N,,Large,20,180,,25,225,PayPal,Y,No,10/04/2019 17:33
+37,F,03/09/2019,Mrs,Tania,Mertens,Belgium,N,Amateur,Sailboard,Y,MERTE10TANIA,133201596,V1.4(B0803T),,Belgium,N,All Week,N,,Medium,20,180,,0,200,PayPal,Y,,10/04/2019 16:04
+38,M,03/09/2019,Mr,Patrick,Van Hoof,Belgium,N,Pro-Fleet,Sailboard,Y,VANH11PATRI,"32001288,,832001646,832004341",V1.4(B0803T),,Belgium,N,All Week,N,,Large,20,180,,0,200,PayPal,Y,"Duotone Fanatic Ion Sonntag Fins Imvano",10/04/2019 16:18
+39,M,04/09/2019,Mr,David,Ellerbeck,England,N,Kite-Fleet,Kite Board,Y,ELLER22DAVID,932001290,V1.4(B0803T),Stan's 50Th,England,Y,All Week,N,,Large,20,180,,25,225,bank,Y,,10/04/2019 17:29
+40,M,04/09/2019,Mr,Tristan,Drane,England,N,Gold-Fleet,Sailboard,Y,DRANE15TRIST,932000540,V1.4(B0803T),Stan's 50Th,England,Y,All Week,N,,Xtra Large,20,180,,25,225,bank,Y,No,10/04/2019 16:45
+41,M,04/09/2019,Mr,Fin,Drane,England,Y,Amateur,Sailboard,Y,DRANE17FIN,932000583,V1.4(B0803T),Stan's 50Th,England,Y,Youth Weekend,N,,Xtra Large,20,40,,10,70,bank,Y,No,10/04/2019 16:50
+42,M,04/09/2019,Mr,Jim,Crossley,England,N,Pro-Fleet,Sailboard,Y,CROSS55JIM,133200501,V1.4(B0803T),,England,N,All Week,Y,,Xtra Large,20,180,,0,200,bank,N,4Boards; RRD;  loftsails; Unifiber; Black Salamander ,10/06/2019 10:25
+43,M,07/09/2019,Mr,Garry,Connell,England,N,Gold-Fleet,Sailboard,Y,CONNE2GARRY,133200827,V1.4(B0803T),Hamworthy Heros,England,N,All Week,Y,,Xtra Large,20,180,,0,200,bank,N,No,10/04/2019 13:18
+45,M,09/09/2019,Mr,George,Fulton,England,N,Gold-Fleet,Sailboard,Y,FULTO13GEORG,143200187,V1.4(B0803T),Portland Pirates,England,N,All Week,Y,,Large,0,180,,0,180,bank,Y,,10/04/2019 16:02
+46,M,09/09/2019,Mr,James,Longmuir,England,N,Kite-Fleet,Kite Board,Y,LONGM42JAMES,113200508,V1.4(B0315C),,England,N,All Week,N,,Xtra Large,20,180,,0,200,bank,Y,,10/05/2019 09:15
+47,F,10/09/2019,Mrs,Christine,Daffe,Belgium,N,Amateur,Sailboard,Y,DAFFE26CHRIS,932000586,V1.4(B0803T),,Belgium,N,All Week,N,,Medium,20,180,,0,200,bank,Y,,10/04/2019 17:42
+48,M,10/09/2019,Mr,Robin,Hofman,Belgium,Y,Amateur,Sailboard,Y,HOFMA8ROBIN,"23300129,,932000383",V1.4(B0803T),Boards & Beards,Belgium,N,All Week,N,,Large,20,180,,0,200,PayPal,Y,,10/04/2019 15:28
+49,M,10/09/2019,Mr,Ruben,Hofman,Belgium,Y,Amateur,Sailboard,Y,HOFMA9RUBEN,"2000559,,,833002160",V1.4(B0803T),Boards & Beards,Belgium,Y,All Week,N,,Large,20,180,,25,225,PayPal,Y,,10/04/2019 15:36
+50,M,14/09/2019,Mr,Andrew,Twinn,England,N,Amateur,Sailboard,Y,TWINN34ANDRE,932000572,V1.4(B0803T),,England,Y,All Week,N,,Small,20,180,,25,225,PayPal,Y,No,10/04/2019 18:06
+51,M,15/09/2019,Mr,David,Williams,England,N,Kite-Fleet,Kite Board,Y,WILLI37DAVID,932000560,V1.4(B0803T),,England,Y,All Week,N,,Xtra Large,20,180,,25,225,bank,Y,"Rockerline clothing Flysurfer Pc2 ",10/04/2019 18:10
+52,M,15/09/2019,Mr,Spenser,Arnold,England,N,Amateur,Sailboard,Y,ARNOL20SPENS,932001083,V1.4(B0803T),,England,Y,All Week,Y,,Xtra Large,20,180,,25,225,PayPal,Y,,10/04/2019 17:18
+53,M,15/09/2019,Mr,Harry,Keenan,England,N,Gold-Fleet,Sailboard,Y,KEENA30HARRY,932000538,V1.4(B0803T),Forces - Royal Navy,England,Y,All Week,Y,,Medium,20,180,,25,225,bank,Y,NO,10/04/2019 17:56
+54,M,15/09/2019,Mr,Lewis,Limm,England,N,Amateur,Sailboard,Y,LIMM32LEWIS,932000569,V1.4(B0803T),,England,Y,Youth Weekend,Y,,Medium,0,40,0,10,£200.00,PayPal,Y,,10/04/2019 18:01
+55,M,15/09/2019,Mr,Scotty,Stallman,England,N,Pro-Fleet,Sailboard,Y,STALL39SCOTT,832001487,V1.4(B0803T),Portland Pirates,England,N,All Week,Y,GBR-68,Large,0,180,,0,180,PayPal,Y,OTC-Starboard-Severne-F-hot Fins-ION-Rockerline-South East Signage,10/05/2019 09:06
+57,M,16/09/2019,Mr,Chris ,Cleland ,England,N,Amateur,Sailboard,Y,CLELA51CHRIS,113200978,V1.4(B0315C),,England,N,All Week,Y,,Xtra Large,20,180,,0,200,PayPal,Y,,10/06/2019 09:15
+58,M,19/09/2019,Mr,Matt,Roche,England,Y,Amateur,Sailboard,Y,ROCHE33MATT,932000576,V1.4(B0803T),,England,Y,Youth Weekend,Y,,Medium,20,40,,10,70,PayPal,Y,,10/04/2019 18:03
+59,M,20/09/2019,Mr,Ben,Wisbey,England,Y,Amateur,Sailboard,Y,WISBE38BEN,932000179,V1.4(B0803T),,England,Y,All Week,N,,Medium,0,180,0,25,£355.00,Bank,Y,,10/04/2019 18:12
+60,M,22/09/2019,Mr,Martin,Carter,England,N,Kite-Fleet,Kite Board,Y,CARTE44MARTI,103200708,V1.4(B0315C),,England,N,All Week,N,,Medium,20,180,,0,200,bank,Y,"F-One kites Old Guys Rule Toad Hall Cottages ",10/05/2019 10:13
+61,M,22/09/2019,Mr,Gavin,Nicholson,England,N,Gold-Fleet,Sailboard,Y,NICHO56GAVIN,833001749,V1.4(B0803T),Forces - Royal Navy,England,N,All Week,Y,,Xtra Large,20,180,,0,200,PayPal,Y,,10/06/2019 12:16
+62,M,23/09/2019,Mr,Will,Trossell,England,N,Gold-Fleet,Sailboard,Y,TROSS67WILL,133200819,V1.4(B0803T),,England,N,All Week,Y,,Large,20,180,,0,200,PayPal,Y,,10/08/2019 09:44
+63,M,23/09/2019,Mr,Tyler ,Baker ,England,N,Amateur,Sailboard,Y,BAKER24TYLER,"932000571,833002174",V1.4(B0803T),,England,Y,Youth Weekend,Y,,Large,0,40,0,10,£200.00,PayPal,Y,,10/04/2019 17:36
+66,F,23/09/2019,Miss,Jenna,Gibson,England,N,Pro-Fleet,Sailboard,Y,GIBSO43JENNA,123200455,V1.4(B0803T),,England,N,All Week,Y,,Xtra Large,20,180,,0,200,bank,Y,Yes; Duotone; Fanatic ; Foilworx,10/05/2019 09:32
+67,M,23/09/2019,Mr,Paul,Morris,England,N,Gold-Fleet,Sailboard,Y,MORRI54PAUL,832000612,V1.4(B0803T),,England,N,All Week,N,,Xtra Large,20,180,,0,200,PayPal,Y,No,10/06/2019 10:18
+68,M,23/09/2019,Mr,Dave,Strudwick,England,N,Gold-Fleet,Sailboard,Y,STRUD41DAVE,832004640,V1.4(B0803T),Forces - Royal Navy,England,N,All Week,Y,,Large,20,180,,0,200,PayPal,Y,No,10/05/2019 09:14
+1070,M,10/04/2019,Mr,Michael ,George,England,N,Gold-Fleet,Sailboard,Y,GEORG5MICHA,123201112,V1.4(B0803T),,England,N,All Week,Y,,,0,180,0,0,£180.00,Credit Card,,JP / Neil Pryde,10/04/2019 14:50
+1071,M,10/04/2019,Mr,Pete,Young,England,N,Pro-Fleet,Sailboard,Y,YOUNG6PETE,133201112,V1.4(B0803T),,England,N,2-Day,N,,,0,75,0,0,£75.00,Cash,,,10/04/2019 14:58
+1072,M,10/04/2019,Mr,Mark,Newman,England,N,Pro-Fleet,Sailboard,Y,NEWMA7MARK,932000564,V1.4(B0803T),,England,Y,All Week,N,,,20,180,0,25,£375.00,,,,10/04/2019 15:24
+1073,M,10/05/2019,Mr,James,Faley,England,N,Amateur,Sailboard,Y,FALEY40JAMES,932000563,V1.4(B0803T),Portland Pirates,England,Y,Youth Weekend,Y,,,0,40,0,10,£200.00,Credit Card,,,10/05/2019 09:13
+1074,M,10/06/2019,mr,claude,Van-martyn,England,N,Amateur,Sailboard,Y,VANM53CLAUD,932000575,V1.4(B0803T),,England,Y,All Week,N,,,20,180,0,25,£375.00,,,,10/06/2019 09:34
+1075,M,10/07/2019,Mr,Malcolm ,Barnsley,England,N,Boat-Fleet,Boat,Y,BARNS58MALCO,932000403,V1.4(D0428T),,England,Y,All Week,N,,,20,180,0,25,£375.00,,,,10/07/2019 09:54
+1076,M,10/07/2019,Mr,Fred,Ball,England,N,Boat-Fleet,Boat,Y,BALL59FRED,932000196,V1.3(B1015),,England,N,All Week,N,,,20,180,0,0,£200.00,Cheque,,,10/07/2019 10:38
+1079,M,10/07/2019,Mr,mark,salvage,England,N,Amateur,Sailboard,Y,SALVA60MARK,932000569,V1.4(B0803T),,England,Y,2-Day,Y,,,20,75,0,10,£255.00,,,,10/07/2019 11:29
+1080,F,10/07/2019,Ms,Katharine,Skinner,England,Y,Amateur,Sailboard,Y,SKINN61KATHA,123200899,V1.4(D0428T),,England,N,2-Day,Y,,,20,75,0,0,£95.00,Credit Card,,,10/07/2019 12:05
+1081,M,10/07/2019,mr,neil,thompson,England,N,Amateur,Sailboard,Y,THOMP62NEIL,932000588,V1.4(B0803T),,England,Y,All Week,N,,,0,180,0,25,£355.00,,,,10/07/2019 12:48
+1082,M,10/07/2019,Mr,Tom,Joyce,England,N,Amateur,Sailboard,Y,JOYCE64TOM,932000571,V1.4(B0803T),Forces - Royal Navy,England,Y,All Week,Y,,,20,180,0,25,£375.00,,,,10/07/2019 16:20
+1083,M,10/08/2019,Mr,Steve,Davison,England,N,Kite-Fleet,Kite Board,Y,DAVIS65STEVE,832000842,V1.4(B0803T),,England,N,2-Day,N,,,20,75,0,0,£95.00,,,,10/08/2019 09:17
+1084,M,10/08/2019,Mr,Neven,Juretic,England,N,Amateur,Sailboard,Y,JURET66NEVEN,932000585,V1.4(B0803T),,England,Y,2-Day,Y,,,20,75,0,10,£255.00,Credit Card,,,10/08/2019 09:26
+1085,M,10/08/2019,mr,Tom,Squires,England,N,Pro-Fleet,Sailboard,Y,SQUIR68TOM,932000169,V1.4(D0428T),,England,Y,2-Day,Y,,,20,75,0,10,£255.00,,,,10/08/2019 10:05
+1086,M,10/09/2019,Mr,Richard,Trubger,England,N,Kite-Fleet,Kite Board,Y,TRUBG69RICHA,832001510,V1.4(B0803T),,England,N,2-Day,N,,,20,75,0,0,£95.00,,,,10/09/2019 10:13
+1087,M,10/09/2019,Mr,Ian,Hill,England,N,Gold-Fleet,Sailboard,Y,HILL70IAN,932000583,V1.4(B0803T),,England,Y,2-Day,N,,,20,75,0,10,£255.00,,,,10/09/2019 12:47
