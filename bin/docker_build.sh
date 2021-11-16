@@ -9,6 +9,9 @@ IMAGE_TAG=$(git rev-parse --short=12 HEAD)
 DOCKER_BUILDKIT=1 docker build . --file Dockerfile-slim --build-arg LOGIQX_DEBUG -t $IMAGE_NAME:$IMAGE_TAG
 
 # Run unit tests
+run_py_script entrant.py
+
+# Run daily reporting
 run_py_script daily_results.py
 
 # Docker Tag
