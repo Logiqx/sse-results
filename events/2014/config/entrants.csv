@@ -44,7 +44,7 @@ ID,Male/Female,Entry Date,Title,First Name,Family Name,Country,First Timer,Statu
 228,M,03/10/2014 16:23,Mr,Richard,Cole,England,Yes,Amateur,Sailboard,Y,Cole39Richa,932000557,,,,Yes,2-Day,No,,Large,20,70,100,0,Bank,Yes,,,,,,,,,,18/10/2014
 229,M,04/10/2014 02:12,Mr,Mark,Palmer,England,Yes,Amateur,Sailboard,Y,Palme72Mark,133200689,,Portland Pirates,,No,All Week,Yes,,Medium,20,165,185,0,Bank,Yes,,,,,,,,,,19/10/2014
 230,M,04/10/2014 10:03,Mr,Tim,Frampton,England,Yes,Amateur,Sailboard,Y,,,,pitsford,,Yes,All Week,Yes,,Large,20,165,205,0,Bank,No,,,,,,,,,,
-103,M,04/10/2014 10:06,Mr,Nigel,Spriggs,England,No,Gold-Fleet,Sailboard,Y,Sprig57Nigel,932000060,,,,No,All Week,Yes,,Xtra Xtra Large,20,165,185,0,Bank,,,,,,,,,,,18/10/2014
+103,M,04/10/2014 10:06,Mr,Nigel,Spriggs,England,No,Gold-Fleet,Sailboard,Y,Sprig57Nigel,932000060;123200901,,,,No,All Week,Yes,,Xtra Xtra Large,20,165,185,0,Bank,,,,,,,,,,,18/10/2014
 232,M,06/10/2014 14:37,Mr,Ben,Mccann,England,Yes,Amateur,Sailboard,Y,Mccan36Ben,832004508,,,,No,Youth Weekend,Yes,,Medium,20,35,60,0,Paypal,Yes,,,,,,,,,,18/10/2014
 19,M,07/10/2014 07:30,Mr,Ian,Hill,England,No,Gold-Fleet,Sailboard,Y,Hill73Ian,932000569,,,,Yes,2-Day,No,,Xtra Xtra Large,20,70,100,0,Bank,Yes,,,,,,,,,,19/10/2014
 155,M,08/10/2014 06:25,Mr,Steve,Watson,England,No,Amateur,Sailboard,Y,Watso14Steve,932000575,,,,Yes,All Week,No,,Large,20,165,205,0,Bank,Yes,,,,,,,,,,17/10/2014
@@ -67,7 +67,7 @@ ID,Male/Female,Entry Date,Title,First Name,Family Name,Country,First Timer,Statu
 241,M,15/10/2014 21:32,Mr,Andrew,Finlay,England,Yes,Amateur,Sailboard,Y,Finla28Andre,133201112,,,,No,2-Day,No,,Xtra Large,20,70,95,0,Paypal,No,,,,,,,,,,18/10/2014
 242,M,16/10/2014 01:16,Mr,Pj,Simmons,England,No,Pro-Fleet,Sailboard,Y,Simmo44Pj,832004505,,,,No,2-Day,No,,Large,20,70,95,0,Paypal,No,,,,,,,,,,18/10/2014
 244,M,16/10/2014 09:05,Mr,Ben,Clothier,England,No,Amateur,Sailboard,Y,Cloth71Ben,932001080,,,,No,All Week,No,,Medium,20,165,185,0,Bank,No,,,,,,,,,,19/10/2014
-142,M,16/10/2014 10:44,Mr,Patrick,Van Hoof,Belgium,No,Pro-Fleet,Sailboard,Y,VanH8Patri,932000945,,,,No,All Week,No,,Medium,20,165,185,0,Bank,,,,,,,,,,,17/10/2014
+142,M,16/10/2014 10:44,Mr,Patrick,Van Hoof,Belgium,No,Pro-Fleet,Sailboard,Y,VanH8Patri,932000945;832001646,,,,No,All Week,No,,Medium,20,165,185,0,Bank,,,,,,,,,,,17/10/2014
 166,F,16/10/2014 14:21,Miss,Alexandra,Muzika,England,No,Amateur,Sailboard,Y,Muzik60Alexa,133200688,,,,No,Youth Weekend,No,,Small,0,35,35,0,Bank,,,,,,,,,,,18/10/2014
 113,M,16/10/2014 18:29,Mr,Robin,Penna,England,No,Gold-Fleet,Sailboard,Y,Penna65Robin,113200494,,,,No,All Week,No,,Large,0,165,165,0,Bank,,,,,,,,,,,18/10/2014
 501,M,17/10/2014 15:35,Mr,Peter,Young,England,No,Pro-Fleet,Sailboard,Y,Young2Peter,133200844,,,,No,All Week,No,,Extra Large,,,,,,,,,,,,,,,,17/10/2014
