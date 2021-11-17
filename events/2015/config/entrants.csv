@@ -3,7 +3,7 @@ ID,Male/Female,Entry Date,Title,First Name,Family Name,Country,First Timer,Statu
 52,M,23/08/2015 12:52,,Russell,Clark,England,No,Gold-Fleet,Sailboard,Y,Clark25Russe,123201733,,Forces - Royal Navy,,No,All Week,Yes,,Large,20,165,185,0,Bank,Yes,,,,,,,,,,10/03/2015
 189,F,23/08/2015 12:55,,Penny,Clark,England,No,Gold-Fleet,Sailboard,Y,Clark24Penny,932000563,,Forces - Royal Navy,,Yes,All Week,No,,Small,20,165,205,0,Bank,Yes,,,,,,,,,,10/03/2015
 34,M,23/08/2015 14:43,,Duncan,Adam,England,No,Amateur,Sailboard,Y,Adam58Dunca,833001517,,Portland Pirates,,No,All Week,Yes,,Large,0,165,165,Null,Bank,Yes,,,,,,,,,,10/04/2015
-44,F,23/08/2015 15:30,,Zara,Davis,England,No,Pro-Fleet,Sailboard,Y,Davis31Zara,932000382,,,,No,All Week,Yes,,Large,20,165,185,0,Bank,Yes,,,,,,,,,,10/03/2015
+44,F,23/08/2015 15:30,,Zara,Davis,England,No,Pro-Fleet,Sailboard,Y,Davis31Zara,932000382;932000192,,,,No,All Week,Yes,,Large,20,165,185,0,Bank,Yes,,,,,,,,,,10/03/2015
 258,M,23/08/2015 15:32,,Henry ,Ayres,England,Yes,Amateur,Sailboard,Y,,,,,,Yes,All Week,No,,Xtra Large,20,165,210,Null,Paypal,,,,,,,,,,,
 220,M,23/08/2015 16:49,,Mark,Salvage,England,No,Amateur,Sailboard,Y,Salva16Mark,932000584,,,,Yes,All Week,Yes,,Small,20,165,210,1,Paypal,Yes,,,,,,,,,,10/03/2015
 259,M,23/08/2015 18:20,,John,Oliver,England,No,Gold-Fleet,Sailboard,Y,Olive29John,133200495,,,,No,All Week,No,,Large,20,165,185,Null,Bank,Yes,,,,,,,,,,10/03/2015
@@ -12,7 +12,7 @@ ID,Male/Female,Entry Date,Title,First Name,Family Name,Country,First Timer,Statu
 27,M,23/08/2015 22:41,,Adrian,Wallis,England,No,Gold-Fleet,Sailboard,Y,Walli13Adria,113200822,,Forces - Royal Navy,,No,All Week,Yes,,Large,20,165,190,0,Paypal,Yes,,,,,,,,,,10/03/2015
 89,M,24/08/2015 09:02,,Jean-Marc,De Bruyne,Belgium,No,Pro-Fleet,Sailboard,Y,DeBr10Jean,932000971,,,,No,All Week,No,,Small,0,165,165,1,Bank,Yes,,,,,,,,,,10/03/2015
 81,M,24/08/2015 15:23,,Robin,Russell,England,No,Gold-Fleet,Sailboard,Y,Russe44Robin,113200238,,Surf Hogs,,No,All Week,No,,Large,0,165,165,1,Bank,Yes,,,,,,,,,,10/03/2015
-29,M,25/08/2015 08:16,,Neil,Hardwick,England,No,Gold-Fleet,Sailboard,Y,Hardw4Neil,"833,000,784",,,,No,All Week,No,,Xtra Large,20,165,185,0,Bank,Yes,,,,,,,,,,10/02/2015
+29,M,25/08/2015 08:16,,Neil,Hardwick,England,No,Gold-Fleet,Sailboard,Y,Hardw4Neil,123200905;833000784,,,,No,All Week,No,,Xtra Large,20,165,185,0,Bank,Yes,,,,,,,,,,10/02/2015
 245,M,25/08/2015 11:58,,Peter,Crosby,England,No,Amateur,Sailboard,Y,Crosb55Peter,932000575,,Surf Hogs,,Yes,2-Day,Yes,,Xtra Large,20,70,100,0,Bank,Yes,,,,,,,,,,10/04/2015
 260,M,25/08/2015 12:15,,Richard,Crosby,England,Yes,Amateur,Sailboard,Y,Crosb56Richa,932000588,,Surf Hogs,,Yes,2-Day,Yes,,Xtra Large,20,70,100,Null,Bank,Yes,,,,,,,,,,10/04/2015
 51,M,25/08/2015 15:41,,Trevor,Funnell,England,No,Amateur,Sailboard,Y,,,,,,Yes,2-Day,Yes,,Xtra Large,0,70,80,0,Bank,Yes,,,,,,,,,,
@@ -82,7 +82,7 @@ ID,Male/Female,Entry Date,Title,First Name,Family Name,Country,First Timer,Statu
 294,M,10/05/2015,,John,Kennedy,England,No,Gold-Fleet,Sailboard,Yes,Kenne62John,123300069,,,,,2-Day,No,,,,,,,,,,,,,,,,,,10/05/2015
 295,M,10/05/2015,,Michael,Barton,England,No,Boat-Fleet,Boat,Yes,,,,,,,All Week,No,,,,,,,,,,,,,,,,,,
 296,M,10/05/2015,,Martin,Allman,England,No,Gold-Fleet,Sailboard,Yes,Allma66Marti,113200495,,,,,All Week,No,,,,,,,,,,,,,,,,,,10/05/2015
-297,F,10/05/2015,,Christine,Daffe,Belgium,No,Amateur,Sailboard,Yes,Daffe67Chris,932000564,,,,,2-Day,No,,,,,,,,,,,,,,,,,,10/05/2015
+297,F,10/05/2015,,Christine,Daffe,Belgium,No,Amateur,Sailboard,Yes,Daffe67Chris,932000564;932000575,,,,,2-Day,No,,,,,,,,,,,,,,,,,,10/05/2015
 298,M,10/05/2015,,Tom,Wells,England,No,Gold-Fleet,Sailboard,Yes,Wells68Tom,133201112,,,,,2-Day,No,,,,,,,,,,,,,,,,,,10/05/2015
 299,M,10/05/2015,,Frank,Lord,England,No,Kite-Fleet,Kite Board,Yes,,,,,,,2-Day,No,,,,,,,,,,,,,,,,,,
 300,M,10/05/2015,,Fred,Ball,England,No,Boat-Fleet,Boat,Yes,,,,,,,All Week,No,,,,,,,,,,,,,,,,,,
