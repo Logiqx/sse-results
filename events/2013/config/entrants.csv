@@ -1,7 +1,7 @@
 ID,Male/Female,Entry Date,Title,First Name,Family Name,Country,Novice,Status,Craft Type,Accept Terms(Y/N),GT31 ID,GT31 SN,Sponsorship,Grouping,Payment,requiredGT31,EntryType,First Timer,UKWA Member,Boat Name,T Shirt Size,Rash Vest Fee,Entry Fee,Total Amount Paid,Entry Allocated,PayMethod
 168,M,07/09/2013 15:47,Mr,Martin,Allman,England,,Amateur,Sailboard,Y,206MALLMAN,113200495,,,Bank,No,All Week,No,Yes,,Medium,0,165,V1.4(B0315C),12/10/2013 10:49,Bank
 114,M,28/09/2013 20:59,Mr,Tony,Attfield,England,,Gold-Fleet,Sailboard,Y,559TONY,833000998,,,Bank,No,All Week,No,Yes,,Xtra Large,20,165,V1.3(B1123T),12/10/2013 10:06,Bank
-3,M,11/10/2013,Mr,Antony,Baker,England,N,Pro-Fleet,Sailboard,N,WSW14,932000932,,,Guest,,All Week,No,Yes,,,,,V1.4(D0428T),12/10/2013 10:31,Bank
+3,M,11/10/2013,Mr,Antony,Baker,England,N,Pro-Fleet,Sailboard,N,WSW14,932000577,,,Guest,,All Week,No,Yes,,,,,V1.4(D0428T),12/10/2013 10:31,Bank
 2,M,11/10/2013,Mr,Antony,Baker(KITE),England,N,Kite-Fleet,Kite Board,N,BAKER3ANTON,932000173,,,Guest,,All Week,No,No,,,,,V1.4(D0428T),12/10/2013 17:55,Bank
 36,M,07/10/2013 08:43,Mr,Jamie,Bambridge,England,,Amateur,Sailboard,Y,508BAM,103200477,,,,No,2-Day,No,Yes,,Medium,20,70,V1.4(B0315C),17/10/2013 09:06,Paypal
 22,M,13/10/2013,Mr,Michael,Barton,England,n,Boat-Fleet,Boat,Y,WSW 12,932000575,,,Bank,,All Week,No,No,,,,,V1.4(B0803T),13/10/2012 16:33,
@@ -23,7 +23,7 @@ ID,Male/Female,Entry Date,Title,First Name,Family Name,Country,Novice,Status,Cra
 35,M,01/09/2013 20:27,Mr,Bob,Cunningham,England,,Pro-Fleet,Sailboard,Y,89 CUNNINGHAM,832001475;832002171,,,Bank,No,All Week,No,Yes,,Medium,0,165,V1.4(B0803T),16/10/2013 17:08,Bank
 12,F,15/10/2013,Mrs,Christine,Daffe,Belgium,,Amateur,Sailboard,Y,WSWA8,932000584,,,,,2-Day,Yes,No,,,,,,,
 159,M,03/09/2013 11:26,Mr,Bryn,Dampney,England,,Amateur,Sailboard,Y,WSWA16,932000576;1002864,,,Bank,Yes,2-Day,Yes,Yes,,Large,20,70,V1.4(B0803T),16/10/2013 10:14,Bank
-7,F,12/10/2013,Mrs,Zara,Davis,England,N,Pro-Fleet,Sailboard,N,ZARADAVISK47,932000382,,,,,All Week,No,No,,,,,V1.4(D0428T),12/10/2013 14:33,Bank
+7,F,12/10/2013,Mrs,Zara,Davis,England,N,Pro-Fleet,Sailboard,N,ZARADAVISK47,932000192,,,,,All Week,No,No,,,,,V1.4(D0428T),12/10/2013 14:33,Bank
 185,M,09/10/2013 19:23,Mr,Steve,Davison,England,,Kite-Fleet,Kite Board,Y,STEVE DAVISON,832000842,,,PayPal,No,All Week,No,No,,Xtra Large,20,165,V1.4(B0803T),14/10/2013 09:55,Paypal
 89,M,01/09/2013 16:17,Mr,Jean-Marc,De Bruyne,Belgium,,Amateur,Sailboard,Y,JEANMARC DEBR,932000971,,,Bank,No,All Week,No,No,,Small,0,165,V1.4(D0428T),12/10/2013 09:53,Bank
 149,M,02/09/2013 08:45,Mr,James,Dehavilland,England,,Amateur,Sailboard,Y,WSW 21Z,932000540,,,PayPal,Yes,2-Day,No,No,,Large,20,70,V1.4(B0803T),16/10/2013 14:23,Paypal
@@ -76,7 +76,7 @@ ID,Male/Female,Entry Date,Title,First Name,Family Name,Country,Novice,Status,Cra
 81,M,01/09/2013 21:56,Mr,Robin,Russell,England,,Amateur,Sailboard,Y,ROBIN RUSSELL,113200238,,,Bank,No,All Week,No,No,,Xtra Large,0,165,V1.4(B0315C),12/10/2013 09:33,Bank
 164,M,11/09/2013 09:02,Mr,Jordan,Smith,England,,Kite-Fleet,Kite Board,Y,JORD SMITH,123200437,,QSW,PayPal,No,All Week,Yes,No,,Xtra Large,20,165,V1.4(B0315C),12/10/2013 10:43,Bank
 179,M,01/10/2013 20:41,Mr,Laurence,Spagnoletti,England,,Amateur,Sailboard,Y,LOZZSPAG9,113200986,,,Bank,No,Youth Weekend,Yes,No,,Medium,20,35,V1.4(D0428T),12/10/2013 09:58,Paypal
-156,M,02/09/2013 16:27,Mr,Matthew,Spooner,England,,Amateur,Sailboard,Y,MATT SPOONER,123200468,,,Bank,No,2-Day,No,Yes,,Xtra Large,20,70,V1.4(B0315C),12/10/2013 10:04,Bank
+156,M,02/09/2013 16:27,Mr,Matthew,Spooner,England,,Amateur,Sailboard,Y,MATT SPOONER,123200468;832001486,,,Bank,No,2-Day,No,Yes,,Xtra Large,20,70,V1.4(B0315C),12/10/2013 10:04,Bank
 103,M,12/09/2013 17:06,Mr,Nigel,Spriggs,England,,Gold-Fleet,Sailboard,Y,NIGEL SPRIGGS,932000060,,,Bank,No,All Week,No,Yes,,Xtra Xtra Large,20,165,V1.4(D0428T),12/10/2013 11:00,Bank
 61,M,14/09/2013 08:38,Mr,Dave,Strudwick,England,,Gold-Fleet,Sailboard,Y,DAVEK44,832004640,,,Bank,No,All Week,No,Yes,,Xtra Large,20,165,V1.4(B0803T),12/10/2013 09:55,Bank
 26,M,02/09/2013 08:40,Mr,Simon,Thompson,England,,Gold-Fleet,Sailboard,Y,43SIMON,833001620,,,Bank,No,2-Day,No,No,,Xtra Large,0,70,V1.4(B0803T),16/10/2013 09:14,Paypal
