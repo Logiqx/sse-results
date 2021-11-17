@@ -11,28 +11,28 @@
   },
   "Entrants": {
     "Craft Type": [
-      "Boat",
-      "Kite Board",
       "Sailboard",
+      "Kite Board",
       "Wing Board",
-      "Unknown"
+      "Boat",
+      "TBC"
     ],
     "Status": [
-      "Amateur",
-      "Boat-Fleet",
-      "Gold-Fleet",
-      "Kite-Fleet",
-      "Pro-Fleet",
-      "Wing-Fleet",
       "Youth-Fleet",
-      "Unknown"
+      "Amateur",
+      "Gold-Fleet",
+      "Pro-Fleet",
+      "Kite-Fleet",
+      "Wing-Fleet",
+      "Boat-Fleet",
+      "TBC"
     ],
     "Entry Type": [
-      "1-Day",
-      "2-Day",
       "All Week",
       "Youth Weekend",
-      "Unknown"
+      "2-Day",
+      "1-Day",
+      "TBC"
     ],
     "Gender": [
       "M",
