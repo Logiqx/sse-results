@@ -1,0 +1,260 @@
+[
+  {
+    "Craft Type": "Boat",
+    "Gender": "M",
+    "Speed": "26.3",
+    "Year": "1972",
+    "Name": "Tim Colman",
+    "Nationality": "United Kingdom",
+    "Boat Name": "Crossbow"
+  },
+  {
+    "Craft Type": "Boat",
+    "Gender": "M",
+    "Speed": "29.3",
+    "Year": "1973",
+    "Name": "Tim Colman",
+    "Nationality": "United Kingdom",
+    "Boat Name": "Crossbow"
+  },
+  {
+    "Craft Type": "Boat",
+    "Gender": "M",
+    "Speed": "31.1",
+    "Year": "1975",
+    "Name": "Tim Colman",
+    "Nationality": "United Kingdom",
+    "Boat Name": "Crossbow"
+  },
+  {
+    "Craft Type": "Boat",
+    "Gender": "M",
+    "Speed": "31.8",
+    "Year": "1975",
+    "Name": "Tim Colman",
+    "Nationality": "United Kingdom",
+    "Boat Name": "Crossbow II"
+  },
+  {
+    "Craft Type": "Boat",
+    "Gender": "M",
+    "Speed": "33.8",
+    "Year": "1977",
+    "Name": "Tim Colman",
+    "Nationality": "United Kingdom",
+    "Boat Name": "Crossbow II"
+  },
+  {
+    "Craft Type": "Boat",
+    "Gender": "M",
+    "Speed": "34.4",
+    "Year": "1977",
+    "Name": "Tim Colman",
+    "Nationality": "United Kingdom",
+    "Boat Name": "Crossbow II"
+  },
+  {
+    "Craft Type": "Sailboard",
+    "Gender": "M",
+    "Speed": "19.1",
+    "Year": "1977",
+    "Name": "Derk Thijs",
+    "Nationality": "Holland"
+  },
+  {
+    "Craft Type": "Boat",
+    "Gender": "M",
+    "Speed": "36.0",
+    "Year": "1980",
+    "Name": "Tim Colman",
+    "Nationality": "United Kingdom",
+    "Boat Name": "Crossbow II"
+  },
+  {
+    "Craft Type": "Sailboard",
+    "Gender": "M",
+    "Speed": "24.75",
+    "Year": "1981",
+    "Name": "Jurgen Honscheid",
+    "Nationality": "Germany"
+  },
+  {
+    "Craft Type": "Sailboard",
+    "Gender": "M",
+    "Speed": "27.82",
+    "Year": "1982",
+    "Name": "Pascal Maka",
+    "Nationality": "France"
+  },
+  {
+    "Craft Type": "Sailboard",
+    "Gender": "F",
+    "Speed": "23.67",
+    "Year": "1982",
+    "Name": "Jenna de Rosnay",
+    "Nationality": "France"
+  },
+  {
+    "Craft Type": "Sailboard",
+    "Gender": "M",
+    "Speed": "30.83",
+    "Year": "1983",
+    "Name": "Fred Haywood",
+    "Nationality": "United States"
+  },
+  {
+    "Craft Type": "Sailboard",
+    "Gender": "F",
+    "Speed": "24.47",
+    "Year": "1983",
+    "Name": "Marie-Annick Maus",
+    "Nationality": "France"
+  },
+  {
+    "Craft Type": "Sailboard",
+    "Gender": "F",
+    "Speed": "25.27",
+    "Year": "1984",
+    "Name": "Jenna de Rosnay",
+    "Nationality": "France"
+  },
+  {
+    "Craft Type": "Sailboard",
+    "Gender": "F",
+    "Speed": "27.09",
+    "Year": "1984",
+    "Name": "Jenna de Rosnay",
+    "Nationality": "France"
+  },
+  {
+    "Craft Type": "Kiteboard",
+    "Gender": "M",
+    "Speed": "24.84",
+    "Date": "2001-10-03",
+    "Name": "Andrew Macdonald",
+    "Nationality": "United Kingdom"
+  },
+  {
+    "Craft Type": "Sailboard",
+    "Gender": "M",
+    "Speed": "34.92",
+    "Date": "2003-10-06",
+    "Name": "David Garrel",
+    "Nationality": "Luxembourg"
+  },
+  {
+    "Craft Type": "Sailboard",
+    "Gender": "M",
+    "Speed": "35.01",
+    "Date": "2003-10-08",
+    "Name": "Bjorn Dunkerbeck",
+    "Nationality": "Holland"
+  },
+  {
+    "Craft Type": "Kiteboard",
+    "Gender": "M",
+    "Speed": "32.08",
+    "Date": "2003-10-06",
+    "Name": "Cory Roeseler",
+    "Nationality": "United States"
+  },
+  {
+    "Craft Type": "Sailboard",
+    "Gender": "M",
+    "Speed": "36.18",
+    "Date": "2004-10-03",
+    "Name": "Bjorn Dunkerbeck",
+    "Nationality": "Holland"
+  },
+  {
+    "Craft Type": "Sailboard",
+    "Gender": "F",
+    "Speed": "27.51",
+    "Date": "2004-10-03",
+    "Name": "Zara Davis",
+    "Nationality": "United Kingdom"
+  },
+  {
+    "Craft Type": "Kiteboard",
+    "Gender": "M",
+    "Speed": "33.78",
+    "Date": "2004-10-03",
+    "Name": "Jeremy Waitt",
+    "Nationality": "United Kingdom"
+  },
+  {
+    "Craft Type": "Kiteboard",
+    "Gender": "F",
+    "Speed": "17.05",
+    "Date": "2004-10-03",
+    "Name": "Tessa Wilson",
+    "Nationality": "United Kingdom"
+  },
+  {
+    "Craft Type": "Kiteboard",
+    "Gender": "M",
+    "Speed": "36.85",
+    "Year": "2006",
+    "Name": "Nigel Bowley",
+    "Nationality": "United Kingdom"
+  },
+  {
+    "Craft Type": "Sailboard",
+    "Gender": "M",
+    "Speed": "36.64",
+    "Year": "2006",
+    "Name": "Dave White",
+    "Nationality": "United Kingdom"
+  },
+  {
+    "Craft Type": "Sailboard",
+    "Gender": "F",
+    "Speed": "32.44",
+    "Year": "2006",
+    "Name": "Zara Davis",
+    "Nationality": "United Kingdom"
+  },
+  {
+    "Craft Type": "Sailboard",
+    "Gender": "M",
+    "Status": "Youth",
+    "Speed": "28.39",
+    "Year": "2006",
+    "Name": "Dan Simpson",
+    "Nationality": "United Kingdom"
+  },
+  {
+    "Craft Type": "Sailboard",
+    "Gender": "M",
+    "Speed": "38.48",
+    "Year": "2008",
+    "Name": "Anders Bringdal",
+    "Nationality": "Sweden"
+  },
+  {
+    "Craft Type": "Sailboard",
+    "Gender": "M",
+    "Status": "Youth",
+    "Speed": "32.27",
+    "Year": "2006",
+    "Name": "Liam Round",
+    "Nationality": "United Kingdom"
+  },
+  {
+    "Craft Type": "Kiteboard",
+    "Gender": "F",
+    "Speed": "24.01",
+    "Year": "2009",
+    "Name": "Jenny Cooper",
+    "Nationality": "United Kingdom"
+  },
+  {
+    "Craft Type": "Boat",
+    "Gender": "F",
+    "Speed": "18.35",
+    "Year": "2009",
+    "Name": "Katherine Knight",
+    "Nationality": "United Kingdom",
+    "Boat Name": "International Moth"
+  }
+]

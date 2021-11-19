@@ -61,61 +61,21 @@
       "Name": "European Tour Championship",
       "Round": "Great Britain",
       "Banner": "iswc_logo.jpg",
-      "Qualifying Round %": 20,
-      "Qualifying Speed": 28
+      "Qualifying Round %": 25,
+      "Qualifying Speed": [
+        "Harbour": 28,
+        "Shore": 30
+      ]
     },
     "UKWA": {
       "Name": "UKWA Speed Championship",
       "Round": "Weymouth",
       "Banner": "ukwa_logo.jpg",
       "Qualifying Round %": 25,
-      "Qualifying Speed": 25
+      "Qualifying Speed": [
+        "Harbour": 28,
+        "Shore": 30
+      ]
     }
-  },
-  "Records": [
-    {
-      "Craft Type": "Boat",
-      "Gender": "M",
-      "Speed": "36.00",
-      "Year": "1982",
-      "Name": "Tim Colman",
-      "Boat Name": "Crossbow II"
-    },
-    {
-      "Craft Type": "Boat",
-      "Gender": "F",
-      "Speed": "18.35",
-      "Year": "2009",
-      "Name": "Katherine Knight",
-      "Boat Name": "International Moth"
-    },
-    {
-      "Craft Type": "Sailboard",
-      "Gender": "M",
-      "Speed": "38.48",
-      "Year": "2008",
-      "Name": "Anders Bringdal"
-    },
-    {
-      "Craft Type": "Sailboard",
-      "Gender": "F",
-      "Speed": "32.44",
-      "Year": "2006",
-      "Name": "Zara Davis"
-    },
-    {
-      "Craft Type": "Kiteboard",
-      "Gender": "M",
-      "Speed": "36.85",
-      "Year": "2006",
-      "Name": "Nigel Bowley"
-    },
-    {
-      "Craft Type": "Kiteboard",
-      "Gender": "F",
-      "Speed": "24.01",
-      "Year": "2009",
-      "Name": "Jenny Cooper"
-    }
-  ]
+  }
 }
