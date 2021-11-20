@@ -60,7 +60,7 @@ Speed, position and distance are recorded by GPS units; each competitor wears an
 
 ### Today's competition
 
-Although the Outright Record (speed sailing over 500m) may be out of reach at speed week, the competition is definitely on for breaking the event's Harbour Record of 38.48 knots, set by Anders Bringdal on a sail board at the 2008 event.
+Although the Outright Record (speed sailing over 500m) may be out of reach at speed week, the competition is definitely on for breaking the event's Harbour Record of 41.21 knots, set by James Longmuir on a kiteboard at the 2019 event.
 
 #### Today's speed sailing course
 
