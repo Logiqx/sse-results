@@ -194,7 +194,7 @@
     "Craft Type": "Kiteboard",
     "Gender": "M",
     "Speed": "36.85",
-    "Year": "2006",
+    "Date": "2006-10-02",
     "Name": "Nigel Bowley",
     "Nationality": "United Kingdom"
   },
@@ -202,7 +202,7 @@
     "Craft Type": "Sailboard",
     "Gender": "M",
     "Speed": "36.64",
-    "Year": "2006",
+    "Date": "2006-10-06",
     "Name": "Dave White",
     "Nationality": "United Kingdom"
   },
@@ -210,7 +210,7 @@
     "Craft Type": "Sailboard",
     "Gender": "F",
     "Speed": "32.44",
-    "Year": "2006",
+    "Date": "2006-10-06",
     "Name": "Zara Davis",
     "Nationality": "United Kingdom"
   },
@@ -219,7 +219,7 @@
     "Gender": "M",
     "Status": "Youth",
     "Speed": "28.39",
-    "Year": "2006",
+    "Date": "2006-10-02",
     "Name": "Dan Simpson",
     "Nationality": "United Kingdom"
   },
@@ -227,7 +227,7 @@
     "Craft Type": "Sailboard",
     "Gender": "M",
     "Speed": "38.48",
-    "Year": "2008",
+    "Date": "2008-10-04",
     "Name": "Anders Bringdal",
     "Nationality": "Sweden"
   },
@@ -236,7 +236,7 @@
     "Gender": "M",
     "Status": "Youth",
     "Speed": "32.27",
-    "Year": "2006",
+    "Date": "2008-10-04",
     "Name": "Liam Round",
     "Nationality": "United Kingdom"
   },
@@ -244,7 +244,7 @@
     "Craft Type": "Kiteboard",
     "Gender": "F",
     "Speed": "24.01",
-    "Year": "2009",
+    "Date": "2009-10-11",
     "Name": "Jenny Cooper",
     "Nationality": "United Kingdom"
   },
@@ -252,7 +252,7 @@
     "Craft Type": "Boat",
     "Gender": "F",
     "Speed": "18.35",
-    "Year": "2009",
+    "Date": "2009-10-10",
     "Name": "Katherine Knight",
     "Nationality": "United Kingdom",
     "Boat Name": "International Moth"
