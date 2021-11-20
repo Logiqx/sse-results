@@ -65,7 +65,9 @@
       "Qualifying Speed": [
         "Harbour": 28,
         "Shore": 30
-      ]
+      ],
+      "Discards": "0,0,0,1,1,1,2,2,2,2,3,3,3,3",
+      "Sort": "Net Score=ASC,Best Speed=DSC,Positions=ASC"
     },
     "UKWA": {
       "Name": "UKWA Speed Championship",
@@ -75,7 +77,9 @@
       "Qualifying Speed": [
         "Harbour": 28,
         "Shore": 30
-      ]
+      ],
+      "Discards": "0,0,0,1,1,1,2,2,2,2,3,3,3,3",
+      "Sort": "Net Score=ASC,Best Speed=DSC,Positions=ASC"
     }
   }
 }
