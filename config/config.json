@@ -70,7 +70,7 @@
         "Shore": 30
       },
       "Discards": "0,0,0,1,1,1,2,2,2,2,3,3,3,3",
-      "Sort": "Net Score=ASC,Best Speed=DESC,Positions=ASC,Final Result=DESC"
+      "Sort": "Net Score=ASC,Best Speed=DESC,Results=ASC,Final Result=ASC"
     },
     "UKWA": {
       "Name": "UKWA Speed Championship",
@@ -85,7 +85,7 @@
         "Shore": 30
       },
       "Discards": "0,0,0,1,1,1,2,2,2,2,3,3,3,3",
-      "Sort": "Net Score=ASC,Best Speed=DESC,Positions=ASC,Final Result=DESC"
+      "Sort": "Net Score=ASC,Best Speed=DESC,Results=ASC,Final Result=ASC"
     }
   }
 }
