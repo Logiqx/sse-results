@@ -12,18 +12,10 @@ Fluff was removed post-conversion and the report definitions were amended to ens
 
 
 
-## Structure
+## Summary
 
 This folder contains a number of configuration files to generate results for Weymouth Speed Week (WSW).
 
 The configuration files are an evolution of the Excel spreadsheet that was used up to and including WSW 2021.
-
-| Filename         | Description |
-| ---------------- | ----------- |
-| reports/\*        | Folder containing report definitions |
-| config.json      | Main configuration |
-| countries.json   | Lookup for country flags (CSS sprites) |
-| README.md        | This file |
-| stats.json       | Statistical summary definitions - yet to be defined |
 
 
