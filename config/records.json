@@ -6,7 +6,8 @@
     "Year": "1972",
     "Name": "Tim Colman",
     "Nationality": "United Kingdom",
-    "Boat Name": "Crossbow"
+    "Boat Name": "Crossbow",
+    "WR": true
   },
   {
     "Craft Type": "Boat",
@@ -15,7 +16,8 @@
     "Year": "1973",
     "Name": "Tim Colman",
     "Nationality": "United Kingdom",
-    "Boat Name": "Crossbow"
+    "Boat Name": "Crossbow",
+    "WR": true
   },
   {
     "Craft Type": "Boat",
@@ -24,7 +26,8 @@
     "Year": "1975",
     "Name": "Tim Colman",
     "Nationality": "United Kingdom",
-    "Boat Name": "Crossbow"
+    "Boat Name": "Crossbow",
+    "WR": true
   },
   {
     "Craft Type": "Boat",
@@ -33,7 +36,8 @@
     "Year": "1975",
     "Name": "Tim Colman",
     "Nationality": "United Kingdom",
-    "Boat Name": "Crossbow II"
+    "Boat Name": "Crossbow II",
+    "WR": true
   },
   {
     "Craft Type": "Boat",
@@ -42,7 +46,8 @@
     "Year": "1977",
     "Name": "Tim Colman",
     "Nationality": "United Kingdom",
-    "Boat Name": "Crossbow II"
+    "Boat Name": "Crossbow II",
+    "WR": true
   },
   {
     "Craft Type": "Boat",
@@ -51,7 +56,8 @@
     "Year": "1977",
     "Name": "Tim Colman",
     "Nationality": "United Kingdom",
-    "Boat Name": "Crossbow II"
+    "Boat Name": "Crossbow II",
+    "WR": true
   },
   {
     "Craft Type": "Sailboard",
@@ -59,7 +65,8 @@
     "Speed": "19.1",
     "Year": "1977",
     "Name": "Derk Thijs",
-    "Nationality": "Holland"
+    "Nationality": "Holland",
+    "WR": true
   },
   {
     "Craft Type": "Boat",
@@ -68,7 +75,8 @@
     "Year": "1980",
     "Name": "Tim Colman",
     "Nationality": "United Kingdom",
-    "Boat Name": "Crossbow II"
+    "Boat Name": "Crossbow II",
+    "WR": true
   },
   {
     "Craft Type": "Sailboard",
@@ -76,7 +84,8 @@
     "Speed": "24.75",
     "Year": "1981",
     "Name": "Jurgen Honscheid",
-    "Nationality": "Germany"
+    "Nationality": "Germany",
+    "WR": true
   },
   {
     "Craft Type": "Sailboard",
@@ -84,7 +93,8 @@
     "Speed": "27.82",
     "Year": "1982",
     "Name": "Pascal Maka",
-    "Nationality": "France"
+    "Nationality": "France",
+    "WR": true
   },
   {
     "Craft Type": "Sailboard",
@@ -92,7 +102,8 @@
     "Speed": "23.67",
     "Year": "1982",
     "Name": "Jenna de Rosnay",
-    "Nationality": "France"
+    "Nationality": "France",
+    "WR": true
   },
   {
     "Craft Type": "Sailboard",
@@ -100,7 +111,8 @@
     "Speed": "30.83",
     "Year": "1983",
     "Name": "Fred Haywood",
-    "Nationality": "United States"
+    "Nationality": "United States",
+    "WR": true
   },
   {
     "Craft Type": "Sailboard",
@@ -108,7 +120,8 @@
     "Speed": "24.47",
     "Year": "1983",
     "Name": "Marie-Annick Maus",
-    "Nationality": "France"
+    "Nationality": "France",
+    "WR": true
   },
   {
     "Craft Type": "Sailboard",
@@ -116,7 +129,8 @@
     "Speed": "25.27",
     "Year": "1984",
     "Name": "Jenna de Rosnay",
-    "Nationality": "France"
+    "Nationality": "France",
+    "WR": true
   },
   {
     "Craft Type": "Sailboard",
@@ -124,7 +138,8 @@
     "Speed": "27.09",
     "Year": "1984",
     "Name": "Jenna de Rosnay",
-    "Nationality": "France"
+    "Nationality": "France",
+    "WR": true
   },
   {
     "Craft Type": "Kiteboard",
