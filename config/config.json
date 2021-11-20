@@ -61,14 +61,14 @@
       "Name": "ISWC Speed Championship",
       "Round": "Great Britain",
       "Banner": "iswc_logo.jpg",
-      "Website": "http://www.internationalwindsurfing.com/windsurfing_competion_0327v01.htm"
+      "Website": "http://www.internationalwindsurfing.com/windsurfing_competion_0327v01.htm",
       "Average Runs": 2,
       "Qualifying Runs": 3,
       "Qualifying Round %": 25,
-      "Qualifying Speed": [
+      "Qualifying Speed": {
         "Harbour": 28,
         "Shore": 30
-      ],
+      },
       "Discards": "0,0,0,1,1,1,2,2,2,2,3,3,3,3",
       "Sort": "Net Score=ASC,Best Speed=DESC,Positions=ASC,Final Result=DESC"
     },
@@ -76,14 +76,14 @@
       "Name": "UKWA Speed Championship",
       "Round": "Weymouth",
       "Banner": "ukwa_logo.jpg",
-      "Website": "https://ukwindsurfing.com/"
+      "Website": "https://ukwindsurfing.com/",
       "Average Runs": 2,
       "Qualifying Runs": 3,
       "Qualifying Round %": 25,
-      "Qualifying Speed": [
+      "Qualifying Speed": {
         "Harbour": 28,
         "Shore": 30
-      ],
+      },
       "Discards": "0,0,0,1,1,1,2,2,2,2,3,3,3,3",
       "Sort": "Net Score=ASC,Best Speed=DESC,Positions=ASC,Final Result=DESC"
     }
