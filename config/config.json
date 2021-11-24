@@ -18,7 +18,8 @@
       "TBC"
     ],
     "Status": [
-      "First Time",
+      "Novice",
+      "First Timer",
       "Youth Fleet",
       "Amateur",
       "Gold Fleet",
@@ -38,6 +39,11 @@
     "Gender": [
       "M",
       "F",
+      "?"
+    ],
+    "Novice": [
+      "Y",
+      "N",
       "?"
     ],
     "First Timer": [
