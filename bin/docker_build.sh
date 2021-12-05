@@ -16,7 +16,7 @@ run_py_script session.py
 run_py_script event.py
 
 # Run daily reporting
-run_py_script daily_results.py
+run_py_script results.py
 
 # Docker Tag
 docker tag $IMAGE_NAME:$IMAGE_TAG $IMAGE_NAME:latest
