@@ -1,4 +1,5 @@
 First Name,Family Name,Sail Number,Craft Type
+Jean,Hurtado,81,TBC
 Alex,Montgomery,1,Boat
 Fred,Ball,10,Boat
 John,Peperell,13,Boat
@@ -8,11 +9,12 @@ Chris,Evans,30/33,Boat
 Patrick,Mayne,50,Boat
 Philip,Middleton,99,Boat
 Torix,Bennett,101,Boat
+Andy,,114,Boat
 Guy,Hawkins,222,Boat
-Neils,Haarbosch,444/576,Boat
 Slade,Penoyre,503,Boat
-Andrew,Macdonald,39,Kite
-Chris,Calthrop,48,Kite
+Neils,Haarbosch,444/576,Boat
+John,Perry,555,Boat
+Robin,Ball,2,Sailboard
 Mathew,Brown,3,Sailboard
 Robbie,Brotherwood,4,Sailboard
 Graham,Holbert,5,Sailboard
@@ -24,6 +26,7 @@ Tony,Morris,11,Sailboard
 Steve,Summerfield,12,Sailboard
 Ian,Hill,14,Sailboard
 James,Paine,17,Sailboard
+Richard,Ashenden,19,Sailboard
 Jeremy,Walwin,20,Sailboard
 Vanessa,Miles,22,Sailboard
 Trevor,Whatford,27,Sailboard
@@ -44,3 +47,5 @@ Nick,Beaney,386,Sailboard
 Bob,Spagnoletti,639,Sailboard
 Paul,Sleightholm,671,Sailboard
 Peter,Watkinson,808,Sailboard
+Andrew,Macdonald,39,Kite
+Chris,Calthrop,48,Kite
