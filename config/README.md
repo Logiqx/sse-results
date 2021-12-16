@@ -1,17 +1,5 @@
 # Configuration
 
-## Background
-
-The legacy Excel configuration and report definitions were initially converted from CSV to JSON using an online tool:
-
-- [Convert CSV to JSON](https://www.convertcsv.com/csv-to-json.htm)
-
-The only non-default option selected was 'Do Not output field/value pair if value is empty'.
-
-Fluff was removed post-conversion and the report definitions were amended to ensure greater consistency.
-
-
-
 ## Summary
 
 This folder contains a number of configuration files to generate results for Weymouth Speed Week (WSW).
