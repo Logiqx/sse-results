@@ -75,6 +75,7 @@ Sail Number,Title,FirstName,LastName,CraftType,AgeStatus,Novice,Professional
 102,Mr,Norman,Petty,Sailboard,Master,No,Neither
 97,Mr,Mike,Price,Sailboard,Master,No,Neither
 88,Mr,Richard,Riddell,Sailboard,Neither,No,Neither
+598,Mr,Michael,Roberts,Sailboard,Master,No,Neither
 343,Mr,andrew,robinson,Sailboard,Junior,No,Neither
 353,Mr,paul,robinson,Sailboard,Master,No,Neither
 29,Mr,Tony,Robinson,Sailboard,Master,No,Neither
@@ -98,7 +99,6 @@ Sail Number,Title,FirstName,LastName,CraftType,AgeStatus,Novice,Professional
 143,Mr,Charles,Wilson,Sailboard,Neither,No,Neither
 112,Miss,Emily,Wood,Sailboard,Neither,No,Neither
 161,Miss,Martina,Zuhlke,Sailboard,Neither,Yes,Neither
-17,Fred,Ball,,Boat,,,
-630,,gifford,,Boat,,,
-138,Nigel,Leeming,,Boat,,,
-598,Michael,Roberts,,Sailboard,Master,No,Neither
+17,Mr,Fred,Ball,Boat,Master,No,Neither
+630,,,gifford,Boat,,,
+138,Mr,Nigel,Leeming,Boat,,,
