@@ -1,0 +1,227 @@
+Sail Number,Title,FirstName,LastName,CraftType,AgeStatus,Novice,Professional,Time,Speed
+3,Mr,John,McIntyre,Sailboard,Master,No,Neither,14:44:12,20.76
+3,Mr,John,McIntyre,Sailboard,Master,No,Neither,14:39:54,20.3
+3,Mr,John,McIntyre,Sailboard,Master,No,Neither,15:02:52,19.39
+3,Mr,John,McIntyre,Sailboard,Master,No,Neither,14:28:12,19.18
+3,Mr,John,McIntyre,Sailboard,Master,No,Neither,15:13:47,17.34
+3,Mr,John,McIntyre,Sailboard,Master,No,Neither,15:27:25,15.58
+23,Mr,barry,mason,Sailboard,Master,No,Neither,12:37:54,19.37
+23,Mr,barry,mason,Sailboard,Master,No,Neither,14:00:12,4.75
+30,Mr,alan,bennett,Sailboard,Neither,No,Neither,13:54:01,5.19
+30,Mr,alan,bennett,Sailboard,Neither,No,Neither,13:23:35,4.89
+42,Mr,John,Langdown,Sailboard,Neither,No,Neither,13:46:55,4.22
+42,Mr,John,Langdown,Sailboard,Neither,No,Neither,13:23:00,4.11
+44,Mr,Dave,Strudwick,Sailboard,Master,No,Gold Fleet,14:40:06,21
+44,Mr,Dave,Strudwick,Sailboard,Master,No,Gold Fleet,14:29:50,20.33
+44,Mr,Dave,Strudwick,Sailboard,Master,No,Gold Fleet,15:03:20,20.07
+44,Mr,Dave,Strudwick,Sailboard,Master,No,Gold Fleet,14:35:11,19.66
+44,Mr,Dave,Strudwick,Sailboard,Master,No,Gold Fleet,14:45:13,19.5
+44,Mr,Dave,Strudwick,Sailboard,Master,No,Gold Fleet,13:34:03,4.82
+44,Mr,Dave,Strudwick,Sailboard,Master,No,Gold Fleet,15:31:23,4.45
+54,Mr,Alan,Blundell,Boat,Master,No,Neither,14:34:57,8.13
+54,Mr,Alan,Blundell,Boat,Master,No,Neither,15:04:49,5.81
+54,Mr,Alan,Blundell,Boat,Master,No,Neither,14:48:17,5.74
+54,Mr,Alan,Blundell,Boat,Master,No,Neither,15:18:18,4.82
+54,Mr,Alan,Blundell,Boat,Master,No,Neither,15:35:22,3.94
+55,Mr,James,Lawton,Sailboard,Neither,Yes,Neither,12:53:21,3.96
+69,Mr,Gareth,Baker,Sailboard,Neither,No,Gold Fleet,13:00:23,19.42
+69,Mr,Gareth,Baker,Sailboard,Neither,No,Gold Fleet,12:48:45,18.43
+69,Mr,Gareth,Baker,Sailboard,Neither,No,Gold Fleet,12:42:58,18.41
+69,Mr,Gareth,Baker,Sailboard,Neither,No,Gold Fleet,13:24:24,17.69
+76,Mr,Simon,Perkins,Sailboard,Neither,No,Neither,13:16:49,4.22
+95,Mr,Stephen,Cronshaw,Sailboard,Neither,Yes,Neither,13:21:38,4.58
+101,Mr,Torix,Bennett,Boat,Master,No,Gold Fleet,15:02:45,6.41
+102,Mr,Norman,Petty,Sailboard,Master,No,Neither,14:32:42,18.76
+102,Mr,Norman,Petty,Sailboard,Master,No,Neither,14:28:10,18.6
+102,Mr,Norman,Petty,Sailboard,Master,No,Neither,15:06:02,18.14
+102,Mr,Norman,Petty,Sailboard,Master,No,Neither,13:44:01,17.96
+102,Mr,Norman,Petty,Sailboard,Master,No,Neither,14:37:30,17.92
+102,Mr,Norman,Petty,Sailboard,Master,No,Neither,14:07:17,17.51
+102,Mr,Norman,Petty,Sailboard,Master,No,Neither,15:15:06,17.06
+102,Mr,Norman,Petty,Sailboard,Master,No,Neither,13:50:06,16.28
+102,Mr,Norman,Petty,Sailboard,Master,No,Neither,13:37:10,15.68
+102,Mr,Norman,Petty,Sailboard,Master,No,Neither,13:59:07,15.59
+102,Mr,Norman,Petty,Sailboard,Master,No,Neither,13:28:52,15.17
+102,Mr,Norman,Petty,Sailboard,Master,No,Neither,13:14:23,14.4
+102,Mr,Norman,Petty,Sailboard,Master,No,Neither,15:36:47,4.12
+104,Mr,Will,Houghton,Sailboard,Junior,Yes,Neither,15:02:40,8.39
+104,Mr,Will,Houghton,Sailboard,Junior,Yes,Neither,15:13:31,6.42
+104,Mr,Will,Houghton,Sailboard,Junior,Yes,Neither,13:47:25,6.16
+104,Mr,Will,Houghton,Sailboard,Junior,Yes,Neither,13:27:21,6.06
+104,Mr,Will,Houghton,Sailboard,Junior,Yes,Neither,13:08:02,5.08
+104,Mr,Will,Houghton,Sailboard,Junior,Yes,Neither,15:39:25,3.9
+112,Miss,Emily,Wood,Sailboard,Neither,No,Neither,14:01:28,5.69
+112,Miss,Emily,Wood,Sailboard,Neither,No,Neither,13:37:13,5.66
+112,Miss,Emily,Wood,Sailboard,Neither,No,Neither,15:26:52,5.06
+116,Mr,Michael,Barton,Boat,Master,No,Neither,14:48:55,4.82
+116,Mr,Michael,Barton,Boat,Master,No,Neither,14:32:34,4.76
+116,Mr,Michael,Barton,Boat,Master,No,Neither,15:08:32,4.7
+116,Mr,Michael,Barton,Boat,Master,No,Neither,15:24:30,4.49
+129,Mr,Tim,Fricke,Sailboard,Neither,No,Neither,13:36:21,4.47
+131,Mr,P J,Simmons,Sailboard,Neither,No,Professional,12:32:46,16.83
+140,Mr,Steve,Jones,Sailboard,Neither,No,Gold Fleet,15:04:25,19.92
+140,Mr,Steve,Jones,Sailboard,Neither,No,Gold Fleet,14:40:56,19.69
+140,Mr,Steve,Jones,Sailboard,Neither,No,Gold Fleet,14:31:55,19.19
+140,Mr,Steve,Jones,Sailboard,Neither,No,Gold Fleet,12:47:57,18.66
+140,Mr,Steve,Jones,Sailboard,Neither,No,Gold Fleet,14:46:21,18.65
+140,Mr,Steve,Jones,Sailboard,Neither,No,Gold Fleet,14:36:26,18.38
+140,Mr,Steve,Jones,Sailboard,Neither,No,Gold Fleet,15:09:05,18.14
+140,Mr,Steve,Jones,Sailboard,Neither,No,Gold Fleet,15:14:38,17.99
+140,Mr,Steve,Jones,Sailboard,Neither,No,Gold Fleet,12:54:48,17.63
+140,Mr,Steve,Jones,Sailboard,Neither,No,Gold Fleet,14:59:16,17.13
+140,Mr,Steve,Jones,Sailboard,Neither,No,Gold Fleet,13:02:36,16.78
+140,Mr,Steve,Jones,Sailboard,Neither,No,Gold Fleet,14:54:11,16.32
+140,Mr,Steve,Jones,Sailboard,Neither,No,Gold Fleet,13:16:36,6.88
+140,Mr,Steve,Jones,Sailboard,Neither,No,Gold Fleet,15:26:24,6.22
+143,Mr,Charles,Wilson,Sailboard,Neither,No,Neither,13:44:25,4.26
+143,Mr,Charles,Wilson,Sailboard,Neither,No,Neither,13:05:24,4.23
+146,Mr,Will,Giles,Sailboard,Junior,No,Neither,14:31:50,17.31
+146,Mr,Will,Giles,Sailboard,Junior,No,Neither,15:01:47,15.66
+146,Mr,Will,Giles,Sailboard,Junior,No,Neither,14:38:34,15.47
+146,Mr,Will,Giles,Sailboard,Junior,No,Neither,14:46:11,15.45
+146,Mr,Will,Giles,Sailboard,Junior,No,Neither,13:34:09,5.14
+161,Miss,Martina,Zuhlke,Sailboard,Neither,Yes,Neither,13:25:02,5.83
+161,Miss,Martina,Zuhlke,Sailboard,Neither,Yes,Neither,13:39:58,5.47
+161,Miss,Martina,Zuhlke,Sailboard,Neither,Yes,Neither,15:45:14,4.15
+161,Miss,Martina,Zuhlke,Sailboard,Neither,Yes,Neither,15:32:07,4.03
+175,Mr,Robin,Penna,Sailboard,Master,No,Gold Fleet,12:58:40,17.97
+175,Mr,Robin,Penna,Sailboard,Master,No,Gold Fleet,13:38:30,16.77
+175,Mr,Robin,Penna,Sailboard,Master,No,Gold Fleet,12:46:03,16.38
+175,Mr,Robin,Penna,Sailboard,Master,No,Gold Fleet,13:27:52,15.48
+206,Mr,martin,allman,Sailboard,Master,No,Neither,14:44:20,16.56
+206,Mr,martin,allman,Sailboard,Master,No,Neither,14:31:53,16.07
+206,Mr,martin,allman,Sailboard,Master,No,Neither,14:38:28,16.05
+206,Mr,martin,allman,Sailboard,Master,No,Neither,15:14:31,15.82
+206,Mr,martin,allman,Sailboard,Master,No,Neither,15:07:24,15.44
+206,Mr,martin,allman,Sailboard,Master,No,Neither,15:01:43,14.52
+206,Mr,martin,allman,Sailboard,Master,No,Neither,15:27:29,13.64
+206,Mr,martin,allman,Sailboard,Master,No,Neither,13:43:52,6.05
+206,Mr,martin,allman,Sailboard,Master,No,Neither,14:24:43,0.58
+210,Mr,Gavin,Nicholson,Sailboard,Neither,Yes,Neither,13:50:58,19.95
+210,Mr,Gavin,Nicholson,Sailboard,Neither,Yes,Neither,14:34:29,19.79
+210,Mr,Gavin,Nicholson,Sailboard,Neither,Yes,Neither,15:05:31,19.22
+210,Mr,Gavin,Nicholson,Sailboard,Neither,Yes,Neither,14:29:05,18.63
+210,Mr,Gavin,Nicholson,Sailboard,Neither,Yes,Neither,14:07:35,18.24
+210,Mr,Gavin,Nicholson,Sailboard,Neither,Yes,Neither,14:46:42,18.21
+210,Mr,Gavin,Nicholson,Sailboard,Neither,Yes,Neither,15:12:03,17.36
+210,Mr,Gavin,Nicholson,Sailboard,Neither,Yes,Neither,15:00:25,17.21
+210,Mr,Gavin,Nicholson,Sailboard,Neither,Yes,Neither,15:18:10,16.91
+210,Mr,Gavin,Nicholson,Sailboard,Neither,Yes,Neither,13:59:53,16.44
+210,Mr,Gavin,Nicholson,Sailboard,Neither,Yes,Neither,13:03:43,4.89
+248,Mr,MArcus,Partridge,Sailboard,Neither,No,Neither,13:14:10,4.71
+248,Mr,MArcus,Partridge,Sailboard,Neither,No,Neither,15:31:36,4.69
+292,Mr,Nic,Dodd,Sailboard,Neither,No,Neither,14:41:07,19.47
+292,Mr,Nic,Dodd,Sailboard,Neither,No,Neither,15:04:52,19.05
+292,Mr,Nic,Dodd,Sailboard,Neither,No,Neither,14:37:06,18.63
+292,Mr,Nic,Dodd,Sailboard,Neither,No,Neither,14:46:08,18.3
+292,Mr,Nic,Dodd,Sailboard,Neither,No,Neither,14:28:54,18.25
+292,Mr,Nic,Dodd,Sailboard,Neither,No,Neither,15:00:22,17.15
+292,Mr,Nic,Dodd,Sailboard,Neither,No,Neither,13:22:04,14.48
+292,Mr,Nic,Dodd,Sailboard,Neither,No,Neither,15:20:38,1.98
+328,Mr,Adrian,Wallis,Sailboard,Master,No,Gold Fleet,12:36:59,20.67
+328,Mr,Adrian,Wallis,Sailboard,Master,No,Gold Fleet,14:40:36,20.17
+328,Mr,Adrian,Wallis,Sailboard,Master,No,Gold Fleet,15:07:34,19.78
+328,Mr,Adrian,Wallis,Sailboard,Master,No,Gold Fleet,14:30:03,19.49
+328,Mr,Adrian,Wallis,Sailboard,Master,No,Gold Fleet,14:45:37,18.98
+328,Mr,Adrian,Wallis,Sailboard,Master,No,Gold Fleet,14:25:47,18.92
+328,Mr,Adrian,Wallis,Sailboard,Master,No,Gold Fleet,14:35:29,18.09
+328,Mr,Adrian,Wallis,Sailboard,Master,No,Gold Fleet,15:14:50,17.26
+328,Mr,Adrian,Wallis,Sailboard,Master,No,Gold Fleet,15:23:47,16.22
+328,Mr,Adrian,Wallis,Sailboard,Master,No,Gold Fleet,13:14:16,4.36
+328,Mr,Adrian,Wallis,Sailboard,Master,No,Gold Fleet,15:40:12,4.01
+329,Mr,Mark,Collins,Sailboard,Master,No,Neither,13:47:14,16.97
+329,Mr,Mark,Collins,Sailboard,Master,No,Neither,13:39:09,16.88
+329,Mr,Mark,Collins,Sailboard,Master,No,Neither,13:26:52,16.69
+329,Mr,Mark,Collins,Sailboard,Master,No,Neither,13:58:18,12.91
+330,Mr,ALISTAIR,WILLIAMS,Sailboard,Master,No,Neither,13:42:49,5.92
+330,Mr,ALISTAIR,WILLIAMS,Sailboard,Master,No,Neither,13:25:44,5.47
+343,Mr,andrew,robinson,Sailboard,Junior,No,Neither,15:02:20,15.16
+343,Mr,andrew,robinson,Sailboard,Junior,No,Neither,15:18:00,14.38
+343,Mr,andrew,robinson,Sailboard,Junior,No,Neither,13:40:12,13.27
+343,Mr,andrew,robinson,Sailboard,Junior,No,Neither,13:53:25,10.86
+343,Mr,andrew,robinson,Sailboard,Junior,No,Neither,13:08:15,6.07
+343,Mr,andrew,robinson,Sailboard,Junior,No,Neither,15:37:34,4.37
+349,Mr,Bruno,Warner,Sailboard,Master,No,Neither,15:08:30,6.76
+349,Mr,Bruno,Warner,Sailboard,Master,No,Neither,15:25:31,5.27
+353,Mr,paul,robinson,Sailboard,Master,No,Neither,13:54:55,5.03
+353,Mr,paul,robinson,Sailboard,Master,No,Neither,13:22:29,4.62
+353,Mr,paul,robinson,Sailboard,Master,No,Neither,15:29:32,4.51
+358,Mr,Gerard,Northwood,Sailboard,Master,No,Gold Fleet,13:00:07,19.01
+358,Mr,Gerard,Northwood,Sailboard,Master,No,Gold Fleet,15:04:06,18.89
+358,Mr,Gerard,Northwood,Sailboard,Master,No,Gold Fleet,15:07:56,18.64
+358,Mr,Gerard,Northwood,Sailboard,Master,No,Gold Fleet,12:46:29,18.36
+358,Mr,Gerard,Northwood,Sailboard,Master,No,Gold Fleet,13:22:13,17.99
+358,Mr,Gerard,Northwood,Sailboard,Master,No,Gold Fleet,12:40:24,17.77
+358,Mr,Gerard,Northwood,Sailboard,Master,No,Gold Fleet,14:59:38,17.7
+358,Mr,Gerard,Northwood,Sailboard,Master,No,Gold Fleet,15:11:54,17.45
+358,Mr,Gerard,Northwood,Sailboard,Master,No,Gold Fleet,13:16:16,17.3
+358,Mr,Gerard,Northwood,Sailboard,Master,No,Gold Fleet,15:15:54,16.45
+358,Mr,Gerard,Northwood,Sailboard,Master,No,Gold Fleet,15:21:06,16.22
+358,Mr,Gerard,Northwood,Sailboard,Master,No,Gold Fleet,14:54:03,15.98
+358,Mr,Gerard,Northwood,Sailboard,Master,No,Gold Fleet,15:41:07,3.9
+420,Mr,Chris,Etchells,Sailboard,Neither,Yes,Neither,13:25:56,5.64
+425,Mr,Sam,Jenkins,Sailboard,Junior,No,Gold Fleet,15:14:13,16.46
+425,Mr,Sam,Jenkins,Sailboard,Junior,No,Gold Fleet,13:40:20,15.93
+425,Mr,Sam,Jenkins,Sailboard,Junior,No,Gold Fleet,14:48:08,15.6
+425,Mr,Sam,Jenkins,Sailboard,Junior,No,Gold Fleet,14:03:23,7.46
+555,Mr,claude,Van-martyn,Sailboard,Master,No,Neither,13:06:24,3.83
+571,Mr,Ryan,Dunkling,Sailboard,Junior,Yes,Neither,15:37:03,3.82
+625,Mr,Jason,McCaffrey,Kite Board,Neither,No,Gold Fleet,12:30:31,24.48
+625,Mr,Jason,McCaffrey,Kite Board,Neither,No,Gold Fleet,12:37:52,23.75
+625,Mr,Jason,McCaffrey,Kite Board,Neither,No,Gold Fleet,12:43:13,22.54
+625,Mr,Jason,McCaffrey,Kite Board,Neither,No,Gold Fleet,14:33:51,21.89
+625,Mr,Jason,McCaffrey,Kite Board,Neither,No,Gold Fleet,13:42:00,21.63
+625,Mr,Jason,McCaffrey,Kite Board,Neither,No,Gold Fleet,13:27:48,21.27
+625,Mr,Jason,McCaffrey,Kite Board,Neither,No,Gold Fleet,13:37:18,21
+625,Mr,Jason,McCaffrey,Kite Board,Neither,No,Gold Fleet,14:27:15,20.97
+625,Mr,Jason,McCaffrey,Kite Board,Neither,No,Gold Fleet,12:13:03,19.96
+625,Mr,Jason,McCaffrey,Kite Board,Neither,No,Gold Fleet,15:10:41,19.73
+625,Mr,Jason,McCaffrey,Kite Board,Neither,No,Gold Fleet,15:15:59,19.4
+625,Mr,Jason,McCaffrey,Kite Board,Neither,No,Gold Fleet,14:40:02,18.93
+625,Mr,Jason,McCaffrey,Kite Board,Neither,No,Gold Fleet,15:26:11,18.59
+625,Mr,Jason,McCaffrey,Kite Board,Neither,No,Gold Fleet,15:32:34,14.29
+626,Mr,martin,hayes,Kite Board,Neither,No,Neither,12:57:58,15.44
+626,Mr,martin,hayes,Kite Board,Neither,No,Neither,14:33:44,11.22
+670,Mr,Eddie,Murrell,Sailboard,Master,No,Gold Fleet,13:33:11,5.01
+681,Mr,Alan,Cross,Sailboard,Master,No,Gold Fleet,15:04:40,19.66
+681,Mr,Alan,Cross,Sailboard,Master,No,Gold Fleet,12:58:07,19.23
+681,Mr,Alan,Cross,Sailboard,Master,No,Gold Fleet,13:20:03,18.68
+681,Mr,Alan,Cross,Sailboard,Master,No,Gold Fleet,15:08:38,18.17
+681,Mr,Alan,Cross,Sailboard,Master,No,Gold Fleet,12:39:49,18.09
+681,Mr,Alan,Cross,Sailboard,Master,No,Gold Fleet,15:13:27,17.99
+681,Mr,Alan,Cross,Sailboard,Master,No,Gold Fleet,12:47:39,17.97
+681,Mr,Alan,Cross,Sailboard,Master,No,Gold Fleet,15:00:00,17.59
+714,Miss,Emily,Hall,Sailboard,Junior,Yes,Gold Fleet,14:46:28,10.8
+714,Miss,Emily,Hall,Sailboard,Junior,Yes,Gold Fleet,13:21:14,6.13
+714,Miss,Emily,Hall,Sailboard,Junior,Yes,Gold Fleet,13:33:52,5.42
+852,Mr,Henry,Bloodworth,Sailboard,Junior,No,Neither,13:50:02,7.24
+852,Mr,Henry,Bloodworth,Sailboard,Junior,No,Neither,13:05:49,5.77
+863,Mr,Duncan,Adam,Sailboard,Master,No,Neither,14:31:27,19.14
+863,Mr,Duncan,Adam,Sailboard,Master,No,Neither,12:37:38,18.48
+863,Mr,Duncan,Adam,Sailboard,Master,No,Neither,14:25:32,18.48
+863,Mr,Duncan,Adam,Sailboard,Master,No,Neither,14:42:53,18.43
+863,Mr,Duncan,Adam,Sailboard,Master,No,Neither,14:37:57,17.68
+863,Mr,Duncan,Adam,Sailboard,Master,No,Neither,13:46:31,17.4
+863,Mr,Duncan,Adam,Sailboard,Master,No,Neither,13:29:33,16.64
+863,Mr,Duncan,Adam,Sailboard,Master,No,Neither,13:39:26,16.1
+888,Mr,Michael,George,Sailboard,Neither,No,Neither,12:35:58,17.87
+1966,Mr,Martin,Schramm,Sailboard,Neither,Yes,Neither,13:38:19,3.98
+3021,Miss,Katherine,Knight,Boat,Neither,Yes,Neither,12:28:14,18.35
+3021,Miss,Katherine,Knight,Boat,Neither,Yes,Neither,12:36:31,18.27
+3021,Miss,Katherine,Knight,Boat,Neither,Yes,Neither,12:45:15,17.55
+3021,Miss,Katherine,Knight,Boat,Neither,Yes,Neither,15:08:12,16.7
+3021,Miss,Katherine,Knight,Boat,Neither,Yes,Neither,13:01:48,16.58
+3021,Miss,Katherine,Knight,Boat,Neither,Yes,Neither,13:45:52,16.53
+3021,Miss,Katherine,Knight,Boat,Neither,Yes,Neither,14:39:39,16.52
+3021,Miss,Katherine,Knight,Boat,Neither,Yes,Neither,15:03:26,16.52
+3021,Miss,Katherine,Knight,Boat,Neither,Yes,Neither,14:29:03,16.52
+3021,Miss,Katherine,Knight,Boat,Neither,Yes,Neither,14:46:34,16.48
+3021,Miss,Katherine,Knight,Boat,Neither,Yes,Neither,13:38:04,16.41
+3021,Miss,Katherine,Knight,Boat,Neither,Yes,Neither,12:53:52,16.25
+3021,Miss,Katherine,Knight,Boat,Neither,Yes,Neither,13:53:28,16.12
+3021,Miss,Katherine,Knight,Boat,Neither,Yes,Neither,14:34:14,16.1
+3021,Miss,Katherine,Knight,Boat,Neither,Yes,Neither,13:29:40,16.04
+3021,Miss,Katherine,Knight,Boat,Neither,Yes,Neither,13:21:11,16.02
+3021,Miss,Katherine,Knight,Boat,Neither,Yes,Neither,14:02:05,15.16
+3021,Miss,Katherine,Knight,Boat,Neither,Yes,Neither,15:16:40,14.96
+3021,Miss,Katherine,Knight,Boat,Neither,Yes,Neither,13:13:02,14.11

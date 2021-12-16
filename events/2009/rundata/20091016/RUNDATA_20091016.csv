@@ -1,0 +1,182 @@
+Sail Number,FirstName,LastName,CraftType,Status,Time,Speed
+3,John,McIntyre,Sailboard,Result,12:36:03,19.02
+3,John,McIntyre,Sailboard,Result,12:31:34,18.09
+3,John,McIntyre,Sailboard,Result,12:28:08,17.09
+3,John,McIntyre,Sailboard,Result,12:20:49,17.08
+3,John,McIntyre,Sailboard,Result,12:45:31,16.36
+10,Anders,Bringdal,Sailboard,Result,12:32:31,22.05
+10,Anders,Bringdal,Sailboard,Result,12:28:02,21.32
+10,Anders,Bringdal,Sailboard,Result,12:22:31,20.3
+10,Anders,Bringdal,Sailboard,Result,12:45:06,19.96
+10,Anders,Bringdal,Sailboard,Result,12:17:35,19.93
+10,Anders,Bringdal,Sailboard,Result,12:10:10,17.24
+10,Anders,Bringdal,Sailboard,Result,12:05:58,14.21
+17,Fred,Ball,Boat,Result,12:02:37,6.6
+17,Fred,Ball,Boat,Result,12:13:51,4.96
+17,Fred,Ball,Boat,Result,12:25:35,4.82
+23,barry,mason,Sailboard,Result,11:15:32,20.44
+23,barry,mason,Sailboard,Result,11:23:29,19.02
+23,barry,mason,Sailboard,Result,11:07:31,18.53
+23,barry,mason,Sailboard,Result,12:07:35,18.5
+23,barry,mason,Sailboard,Result,11:29:42,17.64
+23,barry,mason,Sailboard,Result,11:38:33,16.35
+23,barry,mason,Sailboard,Result,11:47:08,16.3
+23,barry,mason,Sailboard,Result,11:02:29,14.78
+30,alan,bennett,Sailboard,Result,12:34:57,18.03
+30,alan,bennett,Sailboard,Result,12:27:49,11.07
+30,alan,bennett,Sailboard,Result,12:58:14,4.74
+44,Dave,Strudwick,Sailboard,Result,11:17:20,21.98
+44,Dave,Strudwick,Sailboard,Result,11:11:51,21.76
+44,Dave,Strudwick,Sailboard,Result,12:34:42,21.12
+44,Dave,Strudwick,Sailboard,Result,11:22:27,21.07
+44,Dave,Strudwick,Sailboard,Result,12:00:48,19.85
+44,Dave,Strudwick,Sailboard,Result,12:29:44,18.42
+44,Dave,Strudwick,Sailboard,Result,12:16:45,18.4
+44,Dave,Strudwick,Sailboard,Result,11:33:48,18.24
+44,Dave,Strudwick,Sailboard,Result,11:54:06,18.14
+44,Dave,Strudwick,Sailboard,Result,12:23:04,17.45
+44,Dave,Strudwick,Sailboard,Result,12:48:02,16.17
+52,Patrick,Van Hoof,Sailboard,Result,12:35:19,21.43
+52,Patrick,Van Hoof,Sailboard,Result,12:30:27,19.46
+52,Patrick,Van Hoof,Sailboard,Result,12:22:22,18.36
+52,Patrick,Van Hoof,Sailboard,Result,13:00:25,3.97
+55,James,Lawton,Sailboard,Result,12:33:30,6.13
+55,James,Lawton,Sailboard,Result,12:19:53,5.13
+55,James,Lawton,Sailboard,Result,12:53:31,4.29
+62,Dave,Crowhurst,Sailboard,Result,11:19:31,20.1
+62,Dave,Crowhurst,Sailboard,Result,11:24:57,19.15
+62,Dave,Crowhurst,Sailboard,Result,11:36:20,18.07
+69,Gareth,Baker,Sailboard,Result,11:15:52,21.58
+69,Gareth,Baker,Sailboard,Result,11:20:08,20.2
+69,Gareth,Baker,Sailboard,Result,12:31:07,18.51
+69,Gareth,Baker,Sailboard,Result,12:39:09,17.67
+77,Anthony,Baker,Sailboard,Result,11:30:41,5.85
+95,Stephen,Cronshaw,Sailboard,Result,12:03:35,18.25
+95,Stephen,Cronshaw,Sailboard,Result,12:28:13,9.82
+95,Stephen,Cronshaw,Sailboard,Result,12:58:31,4.31
+116,Michael,Barton,Boat,Result,12:36:09,6.04
+116,Michael,Barton,Boat,Result,13:00:08,4.47
+138,Nigel,Leeming,Boat,Result,12:39:26,19.07
+138,Nigel,Leeming,Boat,Result,12:27:40,6.7
+140,Steve,Jones,Sailboard,Result,12:01:17,20.29
+140,Steve,Jones,Sailboard,Result,12:37:44,19.76
+140,Steve,Jones,Sailboard,Result,12:32:23,18.88
+140,Steve,Jones,Sailboard,Result,12:08:44,18.09
+140,Steve,Jones,Sailboard,Result,12:28:30,17.84
+140,Steve,Jones,Sailboard,Result,11:08:05,17.77
+140,Steve,Jones,Sailboard,Result,11:37:21,17.74
+140,Steve,Jones,Sailboard,Result,11:55:02,17.02
+140,Steve,Jones,Sailboard,Result,12:13:45,16.92
+140,Steve,Jones,Sailboard,Result,12:21:45,16.51
+157,nigel,spriggs,Sailboard,Result,12:38:34,20.85
+157,nigel,spriggs,Sailboard,Result,12:29:57,20.48
+157,nigel,spriggs,Sailboard,Result,12:20:06,19.66
+161,Martina,Zuhlke,Sailboard,Result,12:31:10,7.09
+161,Martina,Zuhlke,Sailboard,Result,12:21:04,6.09
+161,Martina,Zuhlke,Sailboard,Result,12:53:18,5.05
+175,Robin,Penna,Sailboard,Result,12:02:32,20.11
+175,Robin,Penna,Sailboard,Result,12:06:59,19.9
+175,Robin,Penna,Sailboard,Result,12:38:05,19.05
+175,Robin,Penna,Sailboard,Result,12:12:03,17.29
+175,Robin,Penna,Sailboard,Result,12:26:29,16.52
+203,Dave,Standing,Sailboard,Result,12:34:59,20.2
+203,Dave,Standing,Sailboard,Result,11:26:17,20.12
+203,Dave,Standing,Sailboard,Result,11:21:50,19.61
+203,Dave,Standing,Sailboard,Result,12:07:38,19.6
+203,Dave,Standing,Sailboard,Result,12:30:08,18.52
+203,Dave,Standing,Sailboard,Result,12:19:44,18.31
+203,Dave,Standing,Sailboard,Result,12:12:09,18.3
+203,Dave,Standing,Sailboard,Result,12:48:32,17.52
+203,Dave,Standing,Sailboard,Result,11:39:20,16.88
+210,Gavin,Nicholson,Sailboard,Result,11:18:23,20.16
+210,Gavin,Nicholson,Sailboard,Result,11:23:59,20.08
+210,Gavin,Nicholson,Sailboard,Result,12:02:09,19.04
+210,Gavin,Nicholson,Sailboard,Result,12:08:06,18.61
+210,Gavin,Nicholson,Sailboard,Result,11:40:45,18.12
+210,Gavin,Nicholson,Sailboard,Result,11:34:06,18.08
+210,Gavin,Nicholson,Sailboard,Result,12:20:38,17.53
+210,Gavin,Nicholson,Sailboard,Result,12:14:13,17.53
+210,Gavin,Nicholson,Sailboard,Result,11:53:52,17.42
+210,Gavin,Nicholson,Sailboard,Result,11:47:14,17.18
+210,Gavin,Nicholson,Sailboard,Result,12:40:55,17.14
+292,Nic,Dodd,Sailboard,Result,11:14:07,19.95
+292,Nic,Dodd,Sailboard,Result,11:18:01,19.22
+292,Nic,Dodd,Sailboard,Result,11:23:45,18.86
+292,Nic,Dodd,Sailboard,Result,12:03:03,18.45
+292,Nic,Dodd,Sailboard,Result,12:33:25,18.05
+292,Nic,Dodd,Sailboard,Result,12:39:19,18.04
+292,Nic,Dodd,Sailboard,Result,12:08:24,17.83
+292,Nic,Dodd,Sailboard,Result,11:38:22,17.8
+292,Nic,Dodd,Sailboard,Result,12:28:37,17.28
+292,Nic,Dodd,Sailboard,Result,12:23:23,16.8
+292,Nic,Dodd,Sailboard,Result,11:29:56,16.51
+292,Nic,Dodd,Sailboard,Result,11:44:10,16.35
+292,Nic,Dodd,Sailboard,Result,12:46:44,16.32
+292,Nic,Dodd,Sailboard,Result,11:58:21,16.24
+292,Nic,Dodd,Sailboard,Result,11:52:36,16.12
+292,Nic,Dodd,Sailboard,Result,12:52:58,14.67
+329,Mark,Collins,Sailboard,Result,11:31:58,8.16
+358,Gerard,Northwood,Sailboard,Result,11:16:20,20.68
+358,Gerard,Northwood,Sailboard,Result,11:12:26,19.94
+358,Gerard,Northwood,Sailboard,Result,11:26:37,19.94
+358,Gerard,Northwood,Sailboard,Result,11:21:35,19.58
+358,Gerard,Northwood,Sailboard,Result,12:01:33,19.46
+358,Gerard,Northwood,Sailboard,Result,12:06:23,19.13
+358,Gerard,Northwood,Sailboard,Result,11:33:06,18
+358,Gerard,Northwood,Sailboard,Result,11:40:59,17.76
+358,Gerard,Northwood,Sailboard,Result,12:13:06,17.68
+358,Gerard,Northwood,Sailboard,Result,11:52:52,17.68
+358,Gerard,Northwood,Sailboard,Result,11:46:41,17.2
+420,Chris,Etchells,Sailboard,Result,12:29:18,6.51
+420,Chris,Etchells,Sailboard,Result,12:58:28,4.5
+559,Tony,Attfield,Sailboard,Result,12:32:56,8.88
+521,dan,ellis,Sailboard,Result,12:26:48,23.86
+521,dan,ellis,Sailboard,Result,12:32:48,22
+598,Michael,Roberts,Sailboard,Result,12:01:48,13.17
+598,Michael,Roberts,Sailboard,Result,12:27:00,12.65
+598,Michael,Roberts,Sailboard,Result,12:17:54,10.16
+625,Jason,McCaffrey,Kite Board,Result,11:13:23,23.04
+625,Jason,McCaffrey,Kite Board,Result,11:23:01,22.88
+625,Jason,McCaffrey,Kite Board,Result,11:59:24,22.81
+625,Jason,McCaffrey,Kite Board,Result,11:18:36,22.7
+625,Jason,McCaffrey,Kite Board,Result,11:28:47,22.17
+625,Jason,McCaffrey,Kite Board,Result,12:37:18,21.72
+625,Jason,McCaffrey,Kite Board,Result,12:07:11,21.71
+625,Jason,McCaffrey,Kite Board,Result,11:38:03,21.36
+625,Jason,McCaffrey,Kite Board,Result,12:11:18,21.23
+625,Jason,McCaffrey,Kite Board,Result,12:44:07,20.83
+625,Jason,McCaffrey,Kite Board,Result,12:48:37,20.8
+625,Jason,McCaffrey,Kite Board,Result,11:42:30,20.78
+625,Jason,McCaffrey,Kite Board,Result,12:03:00,20.58
+625,Jason,McCaffrey,Kite Board,Result,11:51:11,20.57
+625,Jason,McCaffrey,Kite Board,Result,11:34:10,20.34
+625,Jason,McCaffrey,Kite Board,Result,12:19:35,20.18
+625,Jason,McCaffrey,Kite Board,Result,11:55:38,20.08
+625,Jason,McCaffrey,Kite Board,Result,11:06:33,20.04
+625,Jason,McCaffrey,Kite Board,Result,11:47:19,20.01
+625,Jason,McCaffrey,Kite Board,Result,12:28:41,19.3
+625,Jason,McCaffrey,Kite Board,Result,12:33:34,18.61
+625,Jason,McCaffrey,Kite Board,Result,12:15:24,17.76
+625,Jason,McCaffrey,Kite Board,Result,12:53:52,17.18
+630,,gifford,Boat,Result,12:39:56,15.44
+630,,gifford,Boat,Result,12:49:54,13.95
+630,,gifford,Boat,Result,12:10:51,13.81
+630,,gifford,Boat,Result,12:24:00,13.4
+630,,gifford,Boat,Result,12:00:37,11.72
+863,Duncan,Adam,Sailboard,Result,12:03:50,18.68
+863,Duncan,Adam,Sailboard,Result,12:30:48,17.43
+863,Duncan,Adam,Sailboard,Result,12:09:50,17.28
+863,Duncan,Adam,Sailboard,Result,12:16:13,16.45
+863,Duncan,Adam,Sailboard,Result,11:42:33,16.04
+863,Duncan,Adam,Sailboard,Result,11:55:42,15.12
+863,Duncan,Adam,Sailboard,Result,12:36:51,14.7
+888,Michael,George,Sailboard,Result,12:33:48,20.14
+888,Michael,George,Sailboard,Result,11:25:52,19.87
+888,Michael,George,Sailboard,Result,12:08:47,19.23
+888,Michael,George,Sailboard,Result,12:00:27,19.06
+888,Michael,George,Sailboard,Result,12:39:34,18.11
+888,Michael,George,Sailboard,Result,12:19:26,18.09
+888,Michael,George,Sailboard,Result,11:35:45,17.27
+888,Michael,George,Sailboard,Result,11:50:46,15.99
+888,Michael,George,Sailboard,Result,12:50:30,10.98
+888,Michael,George,Sailboard,Result,12:28:50,8.96
