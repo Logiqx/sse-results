@@ -1,0 +1,506 @@
+Name,Sail Number,Time,Wind Start,Wind Finish,Speed (kts)
+Danny & Will,5,13:13:50,18,6,9.91
+Danny & Will,5,13:37:26,10,8,13.6
+Danny & Will,5,13:48:06,10,10,18.34
+Tristan Drane,7,12:11:26,0,9,23.52
+Tristan Drane,7,12:15:59,17,11,23.28
+Tristan Drane,7,12:19:16,0,10,8.03
+Tristan Drane,7,12:33:10,16,16,23.35
+Tristan Drane,7,12:49:54,14,13,24.41
+Tristan Drane,7,12:55:23,14,11,19.67
+Tristan Drane,7,13:01:32,14,11,21.98
+Tristan Drane,7,13:12:38,12,7,11.11
+Les Paley,8,13:31:30,12,8,9.51
+Mike Pearce,9,11:53:05,0,75,21.43
+Mike Pearce,9,11:59:55,0,10,21.92
+Mike Pearce,9,12:10:15,0,11,19.85
+Mike Pearce,9,12:17:47,0,10,4.48
+Mike Pearce,9,12:33:53,21,18,22.16
+Mike Pearce,9,12:41:11,19,14,22.78
+Mike Pearce,9,15:28:19,16,12,18.48
+Mike Pearce,9,15:42:18,11,7,7.13
+Mike Pearce,9,16:24:33,14,10,22.8
+Mike Pearce,9,16:33:05,18,11,20.99
+Ian Hill,14,11:55:35,19,8,19.41
+Ian Hill,14,12:04:07,0,75,22.21
+Ian Hill,14,14:29:42,14,8,17.41
+Ian Hill,14,14:43:22,11,10,20.04
+Ian Hill,14,14:48:32,12,8,21.99
+Ian Hill,14,16:05:26,13,9,17.34
+Ian Hill,14,16:21:40,14,11,21.76
+Ian Hill,14,16:26:54,17,10,21.94
+Ian Hill,14,16:38:54,13,11,20.51
+Ian Hill,14,16:44:24,18,11,24.04
+Stephen Corps,15,12:01:58,0,11,18.64
+Stephen Corps,15,12:31:02,18,13,21.85
+Stephen Corps,15,12:44:40,14,10,23.61
+James Paine,17,12:53:25,10,18,22.86
+James Paine,17,13:01:25,0,10,20.53
+James Paine,17,13:09:30,15,9,20.67
+James Paine,17,13:25:32,12,7,21.14
+James Paine,17,13:33:00,9,9,22.03
+James Paine,17,13:38:23,14,10,21.48
+James Paine,17,13:43:52,13,8,23.09
+James Paine,17,15:22:11,17,7,18.48
+James Paine,17,15:30:18,10,7,16.64
+James Paine,17,15:39:26,14,7,20.51
+James Paine,17,15:57:54,16,6,19.91
+James Paine,17,16:03:03,13,12,21.51
+James Paine,17,16:19:31,12,13,22.49
+James Paine,17,16:24:01,15,9,23.4
+James Paine,17,16:30:57,16,12,21.5
+James Paine,17,16:38:20,17,12,22.55
+Alan Blundell,18,13:00:06,14,11,10.71
+?,19,12:45:46,20,9,23.77
+?,19,13:05:23,13,7,19.15
+David Garrel,22,11:50:40,0,12,26.86
+David Garrel,22,11:55:15,15,17,27.68
+David Garrel,22,11:59:21,0,75,25.55
+David Garrel,22,12:07:02,0,9,25.1
+David Garrel,22,12:16:22,0,8,26.59
+David Garrel,22,12:31:17,0,15,2.46
+David Garrel,22,12:34:50,13,14,28.59
+David Garrel,22,12:38:45,13,11,27.65
+David Garrel,22,12:43:46,14,9,22.97
+David Garrel,22,12:47:08,17,12,27.86
+David Garrel,22,12:50:38,16,12,27.25
+David Garrel,22,12:55:43,17,14,26.08
+David Garrel,22,13:00:47,17,10,25.57
+David Garrel,22,13:08:53,12,9,16.75
+David Garrel,22,15:22:39,15,9,21.53
+David Garrel,22,15:27:55,13,12,21.71
+David Garrel,22,15:36:55,18,5,23.26
+David Garrel,22,15:57:28,11,10,25.19
+David Garrel,22,16:02:46,15,8,25.61
+David Garrel,22,16:15:04,16,14,23.56
+David Garrel,22,16:19:07,11,11,24.89
+David Garrel,22,16:22:50,14,9,24.85
+David Garrel,22,16:27:05,16,12,25.57
+David Garrel,22,16:33:49,18,15,25.43
+David Garrel,22,16:37:25,16,11,25.57
+David Garrel,22,16:41:11,11,8,25.75
+David Garrel,22,16:44:57,16,11,27.46
+Barry Mason,23,11:55:56,11,10,21.51
+Barry Mason,23,13:09:19,15,9,20.14
+Barry Mason,23,13:23:48,10,11,19.88
+Barry Mason,23,14:55:59,15,8,17.39
+Barry Mason,23,15:01:51,13,8,20.41
+Barry Mason,23,15:21:37,15,8,19.35
+Barry Mason,23,15:52:57,13,16,13.84
+Barry Mason,23,16:00:00,11,7,17.39
+Brian Leake,26,11:51:34,0,14,19.83
+Brian Leake,26,11:57:09,0,12,19.55
+Brian Leake,26,12:03:54,0,9,19.94
+Trevor Watford,27,12:10:28,0,10,18.54
+Trevor Watford,27,12:17:26,0,10,21.5
+Trevor Watford,27,12:57:38,14,10,20.85
+Trevor Watford,27,13:21:46,20,10,20.38
+Trevor Watford,27,13:32:20,13,8,16.23
+Trevor Watford,27,13:38:17,13,11,18.29
+Trevor Watford,27,13:49:58,11,7,10.35
+Tony Attfield,46,12:32:42,0,11,22.56
+Tony Attfield,46,12:51:27,13,9,23.12
+Tony Attfield,46,12:57:21,13,6,23.11
+Tony Attfield,46,13:04:10,14,9,20.35
+Clive Ellis,51,14:28:30,11,8,16.26
+Clive Ellis,51,14:53:46,12,6,17.67
+Clive Ellis,51,15:10:53,9,9,8.47
+Clive Ellis,51,16:06:13,19,8,18.93
+Dan Ellis,52,12:16:20,14,14,27.15
+Dan Ellis,52,12:32:20,0,11,2.33
+Dan Ellis,52,12:40:13,16,11,27.61
+Dan Ellis,52,12:48:16,17,13,25.47
+Dan Ellis,52,12:52:10,16,6,25.34
+Dan Ellis,52,12:57:34,12,10,26.94
+Dan Ellis,52,13:13:57,12,8,19.57
+Dan Ellis,52,13:23:16,14,9,24.93
+Dan Ellis,52,14:57:46,11,11,22.42
+Dan Ellis,52,15:04:24,12,6,22.2
+Dan Ellis,52,15:12:01,13,9,19.21
+Dan Ellis,52,15:22:15,15,9,22.8
+Dan Ellis,52,15:27:45,14,9,20.88
+Dan Ellis,52,15:37:03,17,7,22.07
+Dan Ellis,52,16:20:07,17,10,24.35
+Dan Ellis,52,16:35:56,15,10,25.61
+Dan Ellis,52,16:45:41,18,12,28.27
+Richard Holgate,53,11:56:33,0,11,22.62
+Richard Holgate,53,13:28:01,21,13,20.69
+Richard Holgate,53,14:19:58,14,12,19.25
+Richard Holgate,53,14:24:36,12,9,19.58
+Richard Holgate,53,15:31:30,11,10,17.19
+Richard Holgate,53,15:45:09,13,11,20.55
+Richard Holgate,53,16:16:44,16,9,16.45
+Nick Scott,55,11:56:37,0,0,25.13
+Nick Scott,55,13:17:14,0,7,0.4
+Nick Scott,55,13:44:53,14,8,22.53
+Nick Scott,55,15:40:13,15,11,15.47
+Nick Scott,55,15:53:01,11,17,21.23
+Nick Scott,55,16:07:58,13,11,20.9
+Nick Scott,55,16:13:53,15,9,23.64
+Nick Scott,55,16:19:45,12,12,23.17
+Nick Scott,55,16:25:17,16,11,22.42
+Nick Scott,55,16:32:31,16,11,22.44
+Nick Scott,55,16:37:14,17,12,20.48
+Nick Scott,55,16:42:20,13,10,23.52
+Keith Atkinson,56,11:58:02,0,11,25.31
+Keith Atkinson,56,12:10:42,0,13,24.11
+Keith Atkinson,56,12:31:50,18,10,24.15
+Keith Atkinson,56,12:37:28,19,10,25.61
+Keith Atkinson,56,12:51:50,16,6,25.33
+Dave White,63,12:42:32,14,9,25.44
+Dave White,63,12:49:25,16,13,24.13
+Dave White,63,14:45:23,15,8,18.74
+Allan Cross (Army Team),68,13:32:02,13,8,21.36
+Allan Cross (Army Team),68,13:42:38,14,13,21.6
+Gareth Baker (Army Team),69,12:01:17,0,15,23.8
+Gareth Baker (Army Team),69,12:08:31,0,14,20.52
+Gareth Baker (Army Team),69,13:31:09,12,10,21.6
+Gareth Baker (Army Team),69,13:42:55,13,10,22.27
+Gareth Baker (Army Team),69,14:36:26,14,5,19.51
+Gareth Baker (Army Team),69,14:42:37,14,15,19.78
+Gareth Baker (Army Team),69,14:51:36,12,6,20.32
+Gareth Baker (Army Team),69,15:02:59,15,9,19.93
+Gareth Baker (Army Team),69,15:21:00,16,8,19.76
+Gareth Baker (Army Team),69,15:38:42,15,8,21.38
+Gareth Baker (Army Team),69,15:44:33,16,8,21.73
+Gareth Baker (Army Team),69,15:49:46,11,10,19.85
+Gareth Baker (Army Team),69,15:54:26,14,8,19.97
+Gareth Baker (Army Team),69,16:03:11,14,15,22.86
+Gareth Baker (Army Team),69,16:13:13,14,9,22.37
+Gareth Baker (Army Team),69,16:18:21,14,10,21.09
+Gareth Baker (Army Team),69,16:23:35,15,10,21.56
+Gareth Baker (Army Team),69,16:39:02,15,17,22.09
+Dion Hunt,71,12:53:07,14,14,23.55
+Dion Hunt,71,13:13:02,14,7,4.13
+Anton Poll,72,12:36:29,11,13,20.33
+Anton Poll,72,13:48:33,11,16,17.19
+Pete Davis,73,12:00:58,0,13,23.14
+Pete Davis,73,12:07:18,0,75,22.24
+Pete Davis,73,12:13:32,0,9,20.32
+Pete Davis,73,12:34:26,12,11,22.45
+Pete Davis,73,12:39:36,14,11,23.76
+Pete Davis,73,14:44:10,13,8,8.77
+Pete Davis,73,14:56:50,13,10,19.27
+Pete Davis,73,15:04:40,14,10,20.6
+Robin Penna,75,12:35:10,17,20,21.85
+Robin Penna,75,12:40:46,20,10,25.3
+Robin Penna,75,13:24:19,0,8,0.46
+Robin Penna,75,13:30:26,16,9,20.83
+Robin Penna,75,13:35:56,16,13,22.7
+Robin Penna,75,15:16:08,16,10,14.61
+Robin Penna,75,15:29:56,14,7,17.93
+Robin Penna,75,15:51:37,16,16,1.43
+Robin Penna,75,15:56:16,19,7,22.97
+Robin Penna,75,16:01:39,15,14,21.16
+Robin Penna,75,16:42:02,10,16,23.98
+David Temple,77,12:04:17,0,75,22.1
+David Temple,77,12:15:47,0,75,20.63
+David Temple,77,12:40:10,18,11,21.62
+David Temple,77,12:51:40,12,11,20.65
+David Temple,77,13:05:30,15,13,20.53
+John Morrish,80,12:05:45,0,0,20.63
+John Morrish,80,12:18:22,0,75,19.15
+John Morrish,80,12:58:19,18,15,19.33
+John Morrish,80,13:45:53,21,9,14.21
+Stephen Walker,84,13:45:00,13,7,16.08
+Amy Carter,85,11:53:17,0,75,21.86
+Amy Carter,85,12:01:39,0,12,20.96
+Amy Carter,85,12:08:53,0,11,20.64
+Amy Carter,85,12:58:47,11,13,21.9
+Amy Carter,85,13:05:01,11,6,20.42
+Amy Carter,85,13:13:19,14,9,20.9
+Amy Carter,85,13:19:15,15,8,22.51
+Amy Carter,85,13:30:29,11,14,20.42
+Amy Carter,85,13:36:21,12,9,20.49
+Amy Carter,85,13:44:38,15,10,22.22
+Amy Carter,85,14:33:56,0,9,0.38
+Amy Carter,85,14:41:02,16,9,17.86
+Amy Carter,85,14:46:38,13,7,18.67
+Amy Carter,85,14:52:39,13,9,18.37
+Amy Carter,85,15:05:11,14,10,19.89
+Amy Carter,85,15:11:13,12,16,19.47
+Amy Carter,85,15:17:25,13,8,18.55
+Amy Carter,85,15:23:19,11,7,19.97
+Amy Carter,85,15:31:51,11,13,12.09
+Amy Carter,85,15:37:26,18,6,19.37
+Amy Carter,85,15:42:45,12,14,19.27
+Amy Carter,85,16:21:19,18,9,22.44
+Amy Carter,85,16:26:28,17,9,22.12
+Amy Carter,85,16:36:20,17,10,21.53
+Amy Carter,85,16:42:04,13,8,22.41
+Claire Newman,91,13:10:03,15,13,16.39
+Mark Newman,92,12:30:36,13,10,24.04
+Mark Newman,92,12:39:32,18,10,23.55
+Mark Newman,92,12:45:28,17,11,24.26
+Mark Newman,92,13:12:52,13,7,7.35
+Mark Newman,92,16:32:09,13,11,19.76
+Mark Newman,92,16:44:03,17,9,24.95
+Mike Price,97,12:04:48,0,10,12.06
+Mike Price,97,12:49:58,12,13,16.8
+Mike Price,97,13:03:54,14,9,17.21
+Mike Price,97,14:44:33,17,8,5.98
+Mike Price,97,15:20:14,12,10,16.82
+Mike Price,97,15:26:48,14,6,18.32
+Mike Price,97,15:34:13,12,7,17.31
+Mike Price,97,15:45:21,13,10,18.7
+Mike Price,97,16:20:47,18,9,21.31
+Mike Price,97,16:27:00,17,8,18.8
+Torix Bennett,101,12:55:07,0,11,12.33
+Torix Bennett,101,13:09:36,14,11,12.41
+Torix Bennett,101,13:23:02,13,6,12.62
+Emile Burnaby Lautier,108,12:51:26,0,16,9.27
+Emile Burnaby Lautier,108,13:02:13,15,8,12.86
+Emile Burnaby Lautier,108,13:15:30,16,7,11.69
+Emile Burnaby Lautier,108,13:25:11,17,9,11.13
+Emile Burnaby Lautier,108,15:35:52,15,10,11.04
+Richard Stark,110,11:56:08,0,16,21.97
+Richard Stark,110,12:13:46,0,0,21.28
+Richard Stark,110,12:42:13,15,10,23.86
+Richard Stark,110,13:02:20,13,14,20.07
+Richard Stark,110,13:17:54,6,9,12.44
+Richard Stark,110,13:26:09,16,7,21.57
+Richard Stark,110,13:32:34,13,12,22.11
+Richard Stark,110,13:40:38,13,8,22.16
+Richard Stark,110,13:46:11,16,13,23.71
+Paul Morris (Royal Navy Team),111,11:52:58,12,9,25.56
+Paul Morris (Royal Navy Team),111,11:58:08,17,10,24.17
+Paul Morris (Royal Navy Team),111,12:09:32,13,10,23.11
+Paul Morris (Royal Navy Team),111,12:13:22,0,6,22.03
+Paul Morris (Royal Navy Team),111,12:33:40,0,12,25.3
+Paul Morris (Royal Navy Team),111,12:38:15,17,13,25.03
+Paul Morris (Royal Navy Team),111,12:43:23,15,16,25.79
+Paul Morris (Royal Navy Team),111,12:47:53,17,11,24.25
+Paul Morris (Royal Navy Team),111,12:52:28,17,8,23.67
+Paul Morris (Royal Navy Team),111,12:59:46,15,10,23.82
+Paul Morris (Royal Navy Team),111,13:06:30,12,11,22.48
+Paul Morris (Royal Navy Team),111,13:25:54,14,10,22.53
+Nigel Spriggs,118,14:41:15,12,8,3.95
+Nigel Spriggs,118,15:10:47,10,11,4.38
+Nigel Spriggs,118,15:39:15,11,8,4.76
+Nigel Spriggs,118,16:22:16,13,8,18.07
+Nigel Spriggs,118,16:32:51,15,9,20.39
+Nigel Spriggs,118,16:40:35,12,16,14.04
+Andrew Penhaligon,119,13:08:21,15,10,6.34
+Andrew Penhaligon,119,13:39:03,12,15,18.69
+Andrew Penhaligon,119,13:49:49,16,8,8.31
+Dave Ellerbeck,122,13:13:44,14,6,18.64
+Dave Ellerbeck,122,13:30:59,15,6,19.65
+Dave Ellerbeck,122,13:44:56,14,8,18.65
+Dave Ellerbeck,122,14:33:40,14,6,17.05
+Dave Ellerbeck,122,14:49:03,12,11,17.23
+Dave Ellerbeck,122,15:05:24,12,8,18.67
+Dave Ellerbeck,122,15:28:51,14,5,20.73
+Dave Ellerbeck,122,15:41:45,15,9,19.66
+Dave Ellerbeck,122,15:57:15,13,8,20.78
+SeaCart 30 Team,123,14:17:15,13,7,15.6
+SeaCart 30 Team,123,14:21:20,12,10,17.1
+SeaCart 30 Team,123,14:25:36,12,7,16.32
+SeaCart 30 Team,123,14:32:33,14,5,16.52
+SeaCart 30 Team,123,14:38:25,15,9,18.12
+SeaCart 30 Team,123,14:42:07,14,9,18.9
+SeaCart 30 Team,123,14:46:11,13,9,17.94
+SeaCart 30 Team,123,15:09:05,13,13,18
+SeaCart 30 Team,123,15:14:24,14,11,14.24
+SeaCart 30 Team,123,15:19:39,11,11,17.31
+SeaCart 30 Team,123,15:23:40,15,8,18.52
+SeaCart 30 Team,123,15:29:19,15,6,15.41
+SeaCart 30 Team,123,15:32:32,14,10,18.5
+Paul Simmons,131,11:51:29,0,11,22.99
+Paul Simmons,131,11:57:38,0,17,22.56
+Paul Simmons,131,12:04:48,18,10,22.53
+Paul Simmons,131,12:39:11,14,12,22.08
+Paul Simmons,131,12:44:25,15,8,23.76
+Paul Simmons,131,12:50:54,18,14,23.11
+Paul Simmons,131,12:56:06,13,11,21.38
+Paul Simmons,131,13:00:42,13,11,22.97
+Paul Simmons,131,13:11:29,10,7,19.74
+Paul Simmons,131,13:24:34,16,9,21.14
+Paul Simmons,131,13:33:23,15,8,22.84
+Paul Simmons,131,13:39:32,18,12,20.6
+Paul Simmons,131,13:45:07,13,11,20.9
+Steve Mather,134,11:59:16,0,11,22.4
+Steve Mather,134,12:11:03,0,0,24.73
+Steve Mather,134,13:38:56,14,11,19.47
+Steve Mather,134,13:47:09,16,9,22.45
+Steve Mather,134,14:51:48,14,10,10.63
+Charles Thompson,138,12:00:08,0,15,23.26
+Charles Thompson,138,12:17:10,16,10,27.93
+Ian Craft,154,15:30:42,12,11,3.7
+Ian Craft,154,16:13:39,15,10,18.93
+Ian Craft,154,16:19:53,12,17,19.27
+Ian Craft,154,16:42:39,12,7,18.46
+Sean Carroll,171,11:57:51,0,10,21.06
+Sean Carroll,171,12:44:53,14,11,20.76
+Sean Carroll,171,12:56:59,15,8,21.65
+Sean Carroll,171,13:11:34,13,9,15.24
+Sean Carroll,171,15:38:53,16,12,7.83
+Steve Hunt,177,12:02:24,16,11,19.27
+Steve Hunt,177,12:36:05,14,15,20.54
+Steve Hunt,177,13:15:58,15,6,11.25
+Steve Hunt,177,15:37:47,16,7,10.21
+John Sanderson,180,12:14:48,0,10,25.31
+John Sanderson,180,12:38:19,17,12,27.77
+John Sanderson,180,12:48:22,14,14,26.37
+John Sanderson,180,13:06:08,18,9,18.18
+John Sanderson,180,14:41:28,15,9,21.43
+Pete Martin,181,12:02:27,0,75,22.6
+Pete Martin,181,12:14:19,16,13,22.56
+Pete Martin,181,12:30:29,17,9,17.81
+Pete Martin,181,12:35:35,14,13,23.29
+Pete Martin,181,12:48:18,17,15,22.53
+Pete Martin,181,15:57:32,11,11,20.6
+Pete Martin,181,16:06:31,16,12,22.36
+Gordon Roach,196,13:38:52,15,13,18.15
+Gordon Roach,196,16:11:22,13,12,16.08
+Gordon Roach,196,16:22:04,14,7,15.8
+David Goodrich,197,13:09:22,15,11,17.49
+David Goodrich,197,13:35:05,12,12,19.72
+David Goodrich,197,13:44:21,13,7,20.69
+David Goodrich,197,14:40:27,18,6,13.49
+David Goodrich,197,15:00:04,11,11,10.77
+David Goodrich,197,15:46:43,14,9,10.29
+Martin Allman,206,12:09:29,15,10,19.79
+Martin Allman,206,12:34:45,13,16,18.63
+Martin Allman,206,13:04:17,13,7,17.94
+Martin Allman,206,15:00:23,15,9,17.5
+Thor  Gustafsson (RM Team),211,12:13:19,0,9,15.14
+Thor  Gustafsson (RM Team),211,12:32:58,16,12,21.8
+Thor  Gustafsson (RM Team),211,12:40:17,16,12,20.31
+Thor  Gustafsson (RM Team),211,12:49:04,16,12,20.6
+Thor  Gustafsson (RM Team),211,12:56:44,18,11,21.58
+Thor  Gustafsson (RM Team),211,13:03:16,18,6,18.22
+Thor  Gustafsson (RM Team),211,16:40:01,16,12,20.37
+Ian Grounds,276,13:00:19,13,11,14.67
+Ian Grounds,276,13:16:02,15,6,11.22
+Ian Grounds,276,13:34:51,12,9,19.03
+Ian Grounds,276,15:59:25,14,10,17.5
+Ian Ruby,313,12:32:16,15,15,22.26
+Ian Ruby,313,12:38:50,19,13,24.04
+Ian Ruby,313,12:47:28,18,10,23.91
+Ian Ruby,313,12:56:38,11,13,22.89
+Ian Ruby,313,13:06:55,15,9,20.86
+Alistair Williams,330,11:58:53,15,13,21.2
+Alistair Williams,330,12:07:02,18,9,19.87
+Alistair Williams,330,12:16:59,0,75,18.47
+Alistair Williams,330,12:59:52,12,12,19.31
+Alistair Williams,330,14:59:46,12,9,19.29
+Mike Coombes,332,12:14:41,0,9,22.16
+Mike Coombes,332,12:40:42,13,10,20.33
+Brian Warner,349,13:17:59,13,8,6.1
+Neil Hardwick,413,11:52:03,0,10,22.21
+Neil Hardwick,413,12:02:27,20,10,22.31
+Neil Hardwick,413,12:12:10,0,8,20.5
+Neil Hardwick,413,12:39:58,17,9,23.38
+Neil Hardwick,413,12:57:48,17,11,20.33
+Neil Hardwick,413,13:45:34,20,13,23.83
+Neil Hardwick,413,16:09:00,15,12,20.8
+Neil Hardwick,413,16:17:13,66,10,14.08
+Neil Hardwick,413,16:27:30,13,15,20.75
+Neil Hardwick,413,16:39:11,66,12,20.15
+Non Entrant - Tornado Catamaran,420,15:52:55,15,19,19.43
+Bob Date,458,12:34:59,20,12,10.15
+Bob Date,458,12:45:32,15,10,12.99
+Bob Date,458,12:54:53,0,9,11.17
+Bob Date,458,13:12:19,12,7,10.97
+Bob Date,458,13:21:01,16,14,10.33
+Bob Date,458,13:28:07,15,12,11.11
+Bob Date,458,13:36:27,15,9,11.69
+Bob Date,458,13:42:45,17,12,11.47
+Tony Ireland (Army Team),480,12:10:45,15,12,21.16
+Tony Ireland (Army Team),480,13:36:23,16,9,10.32
+Tony Ireland (Army Team),480,13:44:29,14,6,20.95
+Tony Ireland (Army Team),480,14:39:05,16,10,16.92
+Tony Ireland (Army Team),480,14:52:17,13,9,18.09
+Tony Ireland (Army Team),480,15:26:37,13,6,19.47
+Tony Ireland (Army Team),480,15:45:48,16,9,16.93
+Tony Ireland (Army Team),480,15:55:11,15,12,19.23
+Tony Ireland (Army Team),480,16:05:39,13,8,20.73
+Tony Ireland (Army Team),480,16:15:27,13,14,19.7
+Tony Ireland (Army Team),480,16:23:25,19,9,21.91
+Tony Ireland (Army Team),480,16:29:06,14,10,20.26
+Tony Ireland (Army Team),480,16:39:39,14,11,20.83
+John Peperell,504,12:08:28,19,10,11.35
+John Peperell,504,12:16:53,0,13,11.8
+Tim Lawes,561,13:19:44,18,6,4.95
+Tony Morris,604,11:56:15,0,0,22.57
+Tony Morris,604,12:10:56,0,8,21.33
+Tony Morris,604,13:19:44,15,7,21.21
+Tony Morris,604,13:27:51,18,10,22.08
+Tony Morris,604,13:37:42,13,9,20.78
+Tony Morris,604,13:47:12,13,8,21.95
+Tony Morris,604,14:29:19,15,10,18.35
+Tony Morris,604,15:01:31,13,13,19.37
+Tony Morris,604,15:12:58,11,9,16.65
+Tony Morris,604,15:17:46,11,11,18.5
+Tony Morris,604,16:03:23,11,6,21.33
+David Williams,612,12:02:44,0,0,20.09
+David Williams,612,12:11:43,18,12,21.74
+David Williams,612,12:37:20,16,10,5.12
+David Williams,612,12:59:10,15,11,8.31
+David Williams,612,14:18:36,12,11,19.7
+David Williams,612,16:37:21,12,10,6.52
+Ludo Brockway,616,11:50:56,0,9,23.95
+Ludo Brockway,616,11:55:52,0,75,21.68
+Ludo Brockway,616,12:00:32,0,10,23.4
+Ludo Brockway,616,12:08:23,0,15,21.76
+Ludo Brockway,616,12:14:15,0,11,20.77
+Ludo Brockway,616,12:36:41,0,8,20.15
+Ludo Brockway,616,14:27:52,11,7,20.02
+Michael Pacey,622,11:50:21,0,8,20.38
+Michael Pacey,622,12:07:50,0,12,20.05
+Michael Pacey,622,14:23:46,12,12,19.13
+Mathew Burridge,666,11:57:05,17,12,25.38
+Mathew Burridge,666,12:11:37,0,8,23.02
+Mathew Burridge,666,12:37:21,16,10,23.83
+Mathew Burridge,666,12:59:18,12,11,21.45
+Mathew Burridge,666,16:33:56,15,13,2.57
+Mathew Burridge,666,16:45:21,15,16,21.86
+Eddie Murrell,670,12:17:01,0,9,20.47
+Eddie Murrell,670,15:37:43,11,7,18.7
+Eddie Murrell,670,15:54:05,12,10,21.73
+Eddie Murrell,670,16:12:23,13,12,21.68
+Eddie Murrell,670,16:17:57,15,6,20.44
+Eddie Murrell,670,16:30:26,14,16,21.62
+Zara Davis,731,11:54:34,0,12,21.76
+Zara Davis,731,12:03:18,0,0,21.71
+Zara Davis,731,12:09:49,15,11,21.55
+Zara Davis,731,12:15:33,13,8,22.29
+Zara Davis,731,12:34:11,0,13,8.83
+Zara Davis,731,12:38:09,0,10,19.34
+Zara Davis,731,12:44:02,0,7,22
+Zara Davis,731,12:51:14,14,10,21.28
+Zara Davis,731,13:00:15,13,11,20.76
+Simon Moore,751,12:18:03,0,11,1.45
+Simon Moore,751,12:29:38,19,11,19.41
+Rob Stack,777,12:05:10,0,11,21.95
+Rob Stack,777,12:38:03,0,10,21.23
+Rob Stack,777,12:48:48,17,12,20.33
+Rob Stack,777,12:57:51,12,13,20.29
+Bob Cunningham,818,11:59:39,0,13,26.07
+Bob Cunningham,818,12:17:53,0,13,3.08
+Bob Cunningham,818,12:42:03,18,8,26.41
+Bob Cunningham,818,12:54:10,74,11,5.13
+Bob Cunningham,818,13:34:03,17,11,24.61
+Bob Cunningham,818,13:46:31,16,8,25.51
+Bob Cunningham,818,15:27:38,14,7,19.19
+Bob Cunningham,818,16:45:26,14,13,0.72
+Duncan Adam,863,14:47:28,14,7,16.85
+Duncan Adam,863,14:57:09,15,11,17.55
+Duncan Adam,863,15:06:18,15,9,16.25
+Duncan Adam,863,15:20:48,12,8,16.49
+Duncan Adam,863,16:09:48,12,13,19.16
+Duncan Adam,863,16:26:02,12,6,20.35
+Duncan Adam,863,16:37:08,18,10,18.7
+David Tuttlebee,888,13:03:08,15,12,8.86
+David Tuttlebee,888,13:28:24,18,10,13.71
+David Tuttlebee,888,16:02:41,17,8,10.28
+David Tuttlebee,888,16:37:24,17,12,11.87
+Simon Olley,953,11:53:43,0,10,21.66
+Simon Olley,953,12:02:20,0,0,21.56
+Simon Olley,953,12:09:51,0,15,21.09
+Simon Olley,953,12:36:41,14,13,21.16
+Simon Olley,953,12:47:37,17,11,20.58
+Simon Olley,953,13:00:56,13,8,21.21
+Simon Olley,953,13:11:44,10,8,19.31
+Simon Olley,953,13:17:16,13,11,20.64
+Simon Olley,953,13:21:29,16,11,21.65
