@@ -2,12 +2,12 @@ ID,Sail Number,Title,First Name,Family Name,Craft Type,Age Status,Novice,Profess
 1,863,Mr,Duncan,Adam,Sailboard,Master,No,Neither
 2,206,Mr,Martin,Allman,Sailboard,Master,No,Neither
 3,559,Mr,Tony,Attfield,Sailboard,Neither,No,Neither
-4,77,Mr,Anthony,Baker,Sailboard,Neither,No,Professional
+4,77,Mr,Antony,Baker,Sailboard,Neither,No,Professional
 5,69,Mr,Gareth,Baker,Sailboard,Neither,No,Gold Fleet
 6,116,Mr,Michael,Barton,Boat,Master,No,Neither
 7,30,Mr,Alan,Bennett,Sailboard,Neither,No,Neither
 8,101,Mr,Torix,Bennett,Boat,Master,No,Gold Fleet
-9,66,Mr,Alex,Bennett- Baggs,Sailboard,Neither,No,Neither
+9,66,Mr,Alex,Bennett-Baggs,Sailboard,Neither,No,Neither
 10,852,Mr,Henry,Bloodworth,Sailboard,Junior,No,Neither
 11,54,Mr,Alan,Blundell,Boat,Master,No,Neither
 12,90,Mr,Ian,Blundell,Sailboard,Neither,Yes,Neither
@@ -19,7 +19,7 @@ ID,Sail Number,Title,First Name,Family Name,Craft Type,Age Status,Novice,Profess
 18,624,Mrs,Jenny,Cooper,Kite Board,Master,Yes,Gold Fleet
 19,115,Mr,Stephen,Corps,Sailboard,Neither,No,Gold Fleet
 20,95,Mr,Stephen,Cronshaw,Sailboard,Neither,Yes,Neither
-21,681,Mr,Alan,Cross,Sailboard,Master,No,Gold Fleet
+21,681,Mr,Allan,Cross,Sailboard,Master,No,Gold Fleet
 22,62,Mr,Dave,Crowhurst,Sailboard,Master,Yes,Neither
 23,73,Mr,Pete,Davis,Sailboard,Neither,No,Professional
 24,47,Mrs,Zara,Davis,Sailboard,Neither,No,Gold Fleet
@@ -96,7 +96,7 @@ ID,Sail Number,Title,First Name,Family Name,Craft Type,Age Status,Novice,Profess
 95,63,Mr,Dave,White,Sailboard,Neither,No,Professional
 96,330,Mr,Alistair,Williams,Sailboard,Master,No,Neither
 97,951,Mr,Fred,Willis,Sailboard,Neither,No,Professional
-98,143,Mr,Charles,Wilson,Sailboard,Neither,No,Neither
+98,143,Mr,Charlie,Wilson,Sailboard,Neither,No,Neither
 99,112,Miss,Emily,Wood,Sailboard,Neither,No,Neither
 100,161,Miss,Martina,Zuhlke,Sailboard,Neither,Yes,Neither
 101,17,Mr,Fred,Ball,Boat,Master,No,Neither
