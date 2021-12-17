@@ -3,7 +3,7 @@ ID,First Name,Family Name,Sail Number,Grouping,Craft Type,Description,Entry Type
 2,Stephen,Walker,84,,Boat,Catri 24,
 3,Torix,Bennett,101,,Boat,10m Catamaran,
 4,Emile,Burnaby Lautier,108,,Boat,Sandrak (from the Netherlands),
-5,SeaCart 30,Team,123,,Boat,SeaCart 30 (from Sweden),
+5,SeaCart,Team,123,,Boat,SeaCart 30 (from Sweden),
 6,Charles,Thompson,138,,Boat,Tri-foiler,
 7,Joddy,Chapman,141,,Boat,Demeter,
 8,Kay,Melaun,148,,Boat,Kahuna 1 (from Austria),
@@ -32,7 +32,7 @@ ID,First Name,Family Name,Sail Number,Grouping,Craft Type,Description,Entry Type
 31,Brian,Leake,26,,Sailboard,,
 32,Trevor,Whatford,27,,Sailboard,,
 33,David,Barnard,28,,Sailboard,,
-34,Richard,Jones (GBR-32),32,,Sailboard,,Youth Weekend
+34,Richard,Jones GBR-32,32,,Sailboard,,Youth Weekend
 35,Cliff,Eglington,34,,Sailboard,,
 36,Pierre,Saville,38,,Sailboard,,
 37,Simon,Hinkley,40,,Sailboard,,
@@ -83,7 +83,7 @@ ID,First Name,Family Name,Sail Number,Grouping,Craft Type,Description,Entry Type
 82,Gordon,Roach,196,,Sailboard,,
 83,David,Goodrich,197,,Sailboard,,
 84,Martin,Allman,206,,Sailboard,,
-85,Thor Elroy,Gustafsson,211,Forces - Royal Navy,Sailboard,,
+85,Thor,Gustafsson,211,Forces - Royal Navy,Sailboard,,
 86,Richard,Jones,213,,Sailboard,,
 87,Ian,Grounds,276,,Sailboard,,
 88,Ian,Ruby,313,,Sailboard,,

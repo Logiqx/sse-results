@@ -6,7 +6,7 @@ ID,Sail Number,Title,First Name,Family Name,Craft,Age Status,Novice,Professional
 5,21,Mr,Dan,Simpson,Sailboard,Neither,No,Yes
 6,23,Mr,Barry,Mason,Sailboard,Master,No,No
 7,24,Mr,Trevor,Funnell,Sailboard,Master,No,No
-8,27,Mr,Trevor Lyn,Whatford,Sailboard,Master,No,No
+8,27,Mr,Trevor,Whatford,Sailboard,Master,No,No
 9,29,Mr,Tony,Robinson,Sailboard,Master,No,No
 10,40,Mr,Simon,Hinkley,Sailboard,Neither,No,Yes
 11,42,Mr,John,Langdown,Sailboard,Neither,No,No
@@ -42,7 +42,7 @@ ID,Sail Number,Title,First Name,Family Name,Craft,Age Status,Novice,Professional
 41,181,Mr,Pete,Martin,Sailboard,Neither,No,No
 42,190,Mr,James,Grogono,Boat,Master,No,No
 43,201,Miss,Elizabeth,Bowen,Sailboard,Neither,Yes,No
-44,203,Mr,Dave - Vinnie -,Standing,Sailboard,Neither,No,Yes
+44,203,Mr,Dave,Standing,Sailboard,Neither,No,Yes
 45,206,Mr,Martin,Allman,Sailboard,Master,No,No
 46,211,Mr,Jamie,Walker,Sailboard,Neither,No,No
 47,237,Mr,John,Norman,Sailboard,Neither,Yes,No
@@ -68,7 +68,7 @@ ID,Sail Number,Title,First Name,Family Name,Craft,Age Status,Novice,Professional
 67,555,Mr,Claud,Van Martin,Sailboard,Master,No,No
 68,559,Mr,Tony,Attfield,Sailboard,Neither,No,No
 69,561,Mr,Sam,Sills,Sailboard,Junior,No,No
-70,598,Mr,Michael John,Roberts,Sailboard,Master,No,No
+70,598,Mr,Michael,Roberts,Sailboard,Master,No,No
 71,602,Mr,Stephen,Davison,Kite Board,Master,No,Yes
 72,603,Mr,Mark,Newman,Sailboard,Neither,No,No
 73,604,Mr,Tony,Morris,Sailboard,Neither,No,No
