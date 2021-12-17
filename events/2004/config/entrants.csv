@@ -5,7 +5,7 @@ ID,First Name,Family Name,Sail Number,Craft Type,Description
 4,Jean,Hurtado,81,Boat,Tribar
 5,Torix,Bennett,101/121,Boat,10m Catamaran
 6,Arthur,Lister,325,Boat,Foiled Catapult
-7,John,Pepperel,510,Boat,Catapult
+7,John,Peperell,510,Boat,Catapult
 8,Neils,Haarbosch,907,Boat,Flaxcat
 9,Neil,Peacock,602,Kite Board,
 10,Tessa,Wilson,603,Kite Board,
@@ -21,7 +21,7 @@ ID,First Name,Family Name,Sail Number,Craft Type,Description
 20,Steve,Davison,626,Kite Board,
 21,Alex,Montgomery,1,Sailboard,
 22,Wolfgang,Lewang,2,Sailboard,
-23,Bjorn,Haacke,4,Sailboard,
+23,Bjoern,Haacke,4,Sailboard,
 24,Andrew,Blain,6,Sailboard,
 25,Tristan,Drane,7,Sailboard,
 26,Les,Paley,8,Sailboard,
@@ -30,7 +30,7 @@ ID,First Name,Family Name,Sail Number,Craft Type,Description
 29,Ian,Hill,14,Sailboard,
 30,Stephen,Corps,15,Sailboard,
 31,Richard,Ashenden,19,Sailboard,
-32,Mathew,Tarrier,21,Sailboard,
+32,Matthew,Tarrier,21,Sailboard,
 33,Barry,Mason,23,Sailboard,
 34,Peter,D'Arcy,25,Sailboard,
 35,Brian,Leake,26,Sailboard,
@@ -40,7 +40,7 @@ ID,First Name,Family Name,Sail Number,Craft Type,Description
 39,Pierre,Saville,38,Sailboard,
 40,Simon,Hinkley,40,Sailboard,
 41,Ed,Gollop,41,Sailboard,
-42,John,Langdon,42,Sailboard,
+42,John,Langdown,42,Sailboard,
 43,Simon,Langley,43,Sailboard,
 44,Steve,Davidson,44,Sailboard,
 45,Simon,Hiscocks,49,Sailboard,
@@ -75,17 +75,17 @@ ID,First Name,Family Name,Sail Number,Craft Type,Description
 74,Nigel,Spriggs,118,Sailboard,
 75,Richard,Trubger,124,Sailboard,
 76,Daniel,Robinson,131,Sailboard,
-77,Mathew,Spooner,150,Sailboard,
+77,Matthew,Spooner,150,Sailboard,
 78,Sean,Carroll,171,Sailboard,
 79,Zara,Davis,173,Sailboard,
 80,John,Sanderson,180,Sailboard,
-81,Pete,Martin,181,Sailboard,
+81,Peter,Martin,181,Sailboard,
 82,Richard,Jones,213,Sailboard,
 83,Paul,Foster,239,Sailboard,
 84,Neil,Ellison,295,Sailboard,
-85,Alastair,Williams,330,Sailboard,
+85,Alistair,Williams,330,Sailboard,
 86,Nick,Beaney,386,Sailboard,
-87,Charles,Wilson,430,Sailboard,
+87,Charlie,Wilson,430,Sailboard,
 88,Tim,Gulland,454,Sailboard,
 89,Clyde,Waite,500,Sailboard,
 90,Tim,Lawes,560,Sailboard,

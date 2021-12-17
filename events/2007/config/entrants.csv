@@ -30,7 +30,7 @@ ID,Sail Number,Title,First Name,Family Name,Craft,Age Status,Novice,Professional
 29,113,Mr,Theo,Theinert,Sailboard,Master,No,No
 30,129,Mr,Tim,Fricke,Sailboard,Neither,Yes,No
 31,131,Mr,Paul,Simmons,Sailboard,Neither,No,Yes
-32,140,Mr,William,Oscroft,Sailboard,Neither,No,No
+32,140,Mr,Will,Oscroft,Sailboard,Neither,No,No
 33,144,Mr,Steve,Giles,Sailboard,Neither,No,No
 34,146,Mr,William,Giles,Sailboard,Junior,Yes,No
 35,151,Mr,Sam,Latham,Sailboard,Junior,No,No
@@ -39,7 +39,7 @@ ID,Sail Number,Title,First Name,Family Name,Craft,Age Status,Novice,Professional
 38,171,Mr,Sean,Carroll,Sailboard,Neither,No,No
 39,179,Mr,Ray,Smith,Sailboard,Master,Yes,No
 40,180,Mr,John,Sanderson,Sailboard,Neither,No,Yes
-41,181,Mr,Pete,Martin,Sailboard,Neither,No,No
+41,181,Mr,Peter,Martin,Sailboard,Neither,No,No
 42,190,Mr,James,Grogono,Boat,Master,No,No
 43,201,Miss,Elizabeth,Bowen,Sailboard,Neither,Yes,No
 44,203,Mr,Dave,Standing,Sailboard,Neither,No,Yes
@@ -65,7 +65,7 @@ ID,Sail Number,Title,First Name,Family Name,Craft,Age Status,Novice,Professional
 64,507,Mr,Sam,Sills,Sailboard,Junior,No,No
 65,515,Mr,Stuart,Trunkfield,Sailboard,Neither,Yes,No
 66,550,Mr,Charlie,Railton,Boat,Neither,Yes,Yes
-67,555,Mr,Claud,Van Martin,Sailboard,Master,No,No
+67,555,Mr,Claude,Van-Martyn,Sailboard,Master,No,No
 68,559,Mr,Tony,Attfield,Sailboard,Neither,No,No
 69,561,Mr,Sam,Sills,Sailboard,Junior,No,No
 70,598,Mr,Michael,Roberts,Sailboard,Master,No,No

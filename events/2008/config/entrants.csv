@@ -17,7 +17,7 @@ ID,Sail Number,Title,First Name,Family Name,Craft
 16,127,Mr,David,Connor,Sailboard
 17,115,Mr,Stephen,Corps,Sailboard
 18,9,Mr,Guy,Cribb,Sailboard
-19,68,Mr,Alan,Cross,Sailboard
+19,68,Mr,Allan,Cross,Sailboard
 20,89,Mr,Bob,Cunningham,Sailboard
 21,22,Mr,Pete,Cunningham,Sailboard
 22,47,Mrs,Zara,Davis,Sailboard
@@ -29,7 +29,7 @@ ID,Sail Number,Title,First Name,Family Name,Craft
 28,74,Mr,David,Finch,Sailboard
 29,250,Mr,Alastair,Nichol,Sailboard
 30,411,Mr,Steve,Flanagan,Sailboard
-31,451,Mr,Xavier,Forlet,Sailboard
+31,451,Mr,Xavier,Ferlet,Sailboard
 32,129,Mr,Tim,Fricke,Sailboard
 33,58,Mr,Graeme,Fuller,Sailboard
 34,241,Mr,Trevor,Funnell,Sailboard
@@ -65,7 +65,7 @@ ID,Sail Number,Title,First Name,Family Name,Craft
 64,670,Mr,Eddie,Murrell,Sailboard
 65,873,Mr,Lance,Newbery,Sailboard
 66,15,Mr,Thorsten,Niehaus,Sailboard
-67,12,Mr,William,Oscroft,Sailboard
+67,12,Mr,Will,Oscroft,Sailboard
 68,348,Mr,Marcus,Partridge,Sailboard
 69,25,Mr,Barry,Pearce,Sailboard
 70,999,Mr,Richard,Peel,Sailboard
@@ -98,7 +98,7 @@ ID,Sail Number,Title,First Name,Family Name,Craft
 97,626,Mr,Stacey,Vass,Kite Board
 98,151,Mr,Philip,Vince,Sailboard
 99,211,Mr,Jamie,Walker,Sailboard
-100,3,Mr,Mike,Walklin,Sailboard
+100,3,Mr,Michael,Walklin,Sailboard
 101,328,Mr,Adrian,Wallis,Sailboard
 102,349,Mr,Brian,Warner,Sailboard
 103,215,Mr,George,Warren,Sailboard
@@ -110,4 +110,4 @@ ID,Sail Number,Title,First Name,Family Name,Craft
 109,480/747,Mr,Simon,White,Sailboard
 110,143,Mr,Charlie,Wilson,Sailboard
 111,112,Miss,Emily,Wood,Sailboard
-112,708,Mr,Peter,Young,Sailboard
+112,708,Mr,Pete,Young,Sailboard

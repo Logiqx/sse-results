@@ -66,8 +66,8 @@ ID,Entry Date,Title,Male/Female,First Name,Family Name,Country,Novice(Y/N),Statu
 78,28/08/2010 16:26,Mr,M,Keith,Gorman,Ireland,N,Amateur,Sailboard,Y,IR 1111 Keith,IR 1111,,All Week,,Y,,
 80,29/08/2010 10:25,Mr,M,Ian,Blundell,England,N,Amateur,Sailboard,Y,121WSW,,,2 Days Only,N,,,
 81,30/08/2010 11:31,Mrs,F,Zara,Davis,England,N,Professional,Sailboard,Y,Zara Davis,47,,All Week,Y,Y,,
-82,30/08/2010 11:35,Mr,M,Peter,Davis,England,N,Professional,Sailboard,Y,73 P DAVIS,73,,All Week,Y,Y,,Y
-83,30/08/2010 14:13,Mr,M,Peter,Young,England,N,Gold Fleet,Sailboard,Y,708 PYOUNGA,708,,All Week,Y,Y,,Y
+82,30/08/2010 11:35,Mr,M,Pete,Davis,England,N,Professional,Sailboard,Y,73 P DAVIS,73,,All Week,Y,Y,,Y
+83,30/08/2010 14:13,Mr,M,Pete,Young,England,N,Gold Fleet,Sailboard,Y,708 PYOUNGA,708,,All Week,Y,Y,,Y
 85,31/08/2010 12:31,Mr,M,Simon,Pettifer,England,N,Gold Fleet,Sailboard,Y,503 SIMP,503,,2 Days Only,Y,Y,,
 86,01/09/2010 07:57,Miss,F,Elizabeth,Bowen,Wales,N,Amateur,Sailboard,Y,125WSW,,,All Week,N,,,
 87,01/09/2010 16:33,Mr,M,Peter,Cutts,England,Y,Amateur,Sailboard,Y,pcutts,,Team East,All Week,N,,,Y
@@ -82,7 +82,7 @@ ID,Entry Date,Title,Male/Female,First Name,Family Name,Country,Novice(Y/N),Statu
 97,08/09/2010 12:37,Mr,M,Roger,Dyer,England,N,Amateur,Boat,Y,Messenger77,77,AYRS,All Week,N,,,Y
 99,10/09/2010 07:29,Mr,M,Tony,Morris,England,N,Amateur,Sailboard,Y,604TONY,604,,All Week,N,,,
 102,13/09/2010 06:14,Mr,M,Steve,Giles,England,N,Amateur,Sailboard,Y,Gilesey144,144,,All Week,Y,Y,,Y
-104,14/09/2010 08:42,Mr,M,Matt,Philpott,Wales,N,Amateur,Sailboard,Y,117WSW,,,All Week,N,,,
+104,14/09/2010 08:42,Mr,M,Matthew,Philpott,Wales,N,Amateur,Sailboard,Y,117WSW,,,All Week,N,,,
 107,16/09/2010 07:52,Mr,M,Peter,Martin,England,N,Gold Fleet,Sailboard,Y,181PETEMARTIN,181,Grafham Water,All Week,N,,,Y
 108,16/09/2010 17:07,Mr,M,Alan,Blundell,England,N,Amateur,Boat,Y,115WSW,54,,All Week,N,,,Y
 109,17/09/2010 13:35,Mr,M,Michael,Barton,England,N,Amateur,Boat,Y,101WSW,116,,All Week,N,,,Y
@@ -102,14 +102,14 @@ ID,Entry Date,Title,Male/Female,First Name,Family Name,Country,Novice(Y/N),Statu
 129,28/09/2010 15:32,Mr,M,Michael,Walklin,Wales,N,Amateur,Sailboard,Y,GBR MIKEW,3,,All Week,N,,,Y
 130,29/09/2010 12:33,Mr,M,Mark,Collins,England,N,Gold Fleet,Sailboard,Y,GBR329 MARK,GBR329,Forces- The Army,All Week,Y,Y,,Y
 131,30/09/2010 05:14,Mr,M,Steve,Jones,England,N,Gold Fleet,Sailboard,Y,140SJONES,140,Forces- The Army,All Week,Y,Y,,
-132,30/09/2010 11:46,Mr,M,Ant,Baker Windsurf,England,N,Professional,Sailboard,Y,k77 wind,k77,,All Week,Y,Y,,
-134,30/09/2010 12:01,Mr,M,Ant,Baker Kitesurf,England,N,Professional,Kite Board,Y,K77 kitesurf,77,,All Week,N,,,
+132,30/09/2010 11:46,Mr,M,Antony,Baker,England,N,Professional,Sailboard,Y,k77 wind,k77,,All Week,Y,Y,,
+134,30/09/2010 12:01,Mr,M,Antony,Baker,England,N,Professional,Kite Board,Y,K77 kitesurf,77,,All Week,N,,,
 136,01/10/2010 05:04,Mr,M,Daniel,Borgelind,Sweden,N,Gold Fleet,Sailboard,Y,SWE38 DANIEL,38,,All Week,,Y,,
 140,02/10/2010 13:30,Mr,M,Antony,Todd,England,N,Amateur,Sailboard,Y,760ATODD,760,,All Week,Y,Y,,
 142,05/10/2010 13:35,Mr,M,Bjorn,Dunkerbeck,Switzerland,N,Professional,Sailboard,Y,SUI11 BJORN,SUI-11,,All Week,,Y,,
 143,05/10/2010 13:38,Mr,M,Eugen,Dunkerbeck,Spain,N,Gold Fleet,Sailboard,Y,117 EUGEN,117,,All Week,,Y,,Y
 145,05/10/2010 13:46,Mr,M,Thorsten,Niehaus,Spain,N,Professional,Sailboard,Y,E15 T NIEHAUS,ESP - 15,,All Week,,Y,,
-146,05/10/2010 13:49,Mr,M,Rüdiger,Lotz,Germany,N,Gold Fleet,Sailboard,Y,113 R LOTZ,113,,All Week,,Y,,Y
+146,05/10/2010 13:49,Mr,M,Rudiger,Lotz,Germany,N,Gold Fleet,Sailboard,Y,113 R LOTZ,113,,All Week,,Y,,Y
 147,05/10/2010 13:52,Mr,M,Markus,Wilms,Germany,N,Gold Fleet,Sailboard,Y,147 M WILMS,147,,All Week,,Y,,
 148,06/10/2010 12:24,Mr,M,Nigel,Spriggs,England,N,Gold Fleet,Sailboard,Y,NIGEL SPRIGGS,157,,All Week,Y,Y,,
 149,10/10/2010 15:29,Mr,M,Allan,Cross,England,N,Gold Fleet,Sailboard,Y,148WSW,68,Forces- The Army,All Week,Y,Y,,Y
@@ -123,4 +123,4 @@ ID,Entry Date,Title,Male/Female,First Name,Family Name,Country,Novice(Y/N),Statu
 158,19/10/2010 00:00,Mrs,F,Pam,Green,England,Y,Amateur,Sailboard,Y,158WSW,,,,N,,,
 159,22/10/2010 00:00,Mr,M,Ian,Grounds,England,N,Amateur,Sailboard,Y,GB276IG,,,,,,,Y
 160,22/10/2010 00:00,Mr,M,John,Langley,England,N,Amateur,Sailboard,Y,202WSW,,,,,,,
-161,22/10/2010 00:00,Mr,M,Charles,Wilson,England,N,Amateur,Sailboard,Y,CHIDS WILSON,,,,,,,
+161,22/10/2010 00:00,Mr,M,Charlie,Wilson,England,N,Amateur,Sailboard,Y,CHIDS WILSON,,,,,,,

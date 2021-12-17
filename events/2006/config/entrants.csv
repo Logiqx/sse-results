@@ -12,7 +12,7 @@ ID,First Name,Family Name,Country,Age Status,Craft Type,Description,Pro,Sponsors
 11,Alex,Montgomery,UK,Neither,Sailboard,Neil Pryde RS4 5.4m and 6.2m. Boards tbc,No,,,45
 12,Neil,Hardwick,UK,Neither,Sailboard,,No,,,413
 13,Rolf,Broch,Norway,Master,Boat,Boat name: Cat Attack Boat type: Catamaran Boat model: Reynolds 33,No,,www.25knop.no,284
-14,Edward,Murrell,England,Master,Sailboard,,No,,,670
+14,Eddie,Murrell,England,Master,Sailboard,,No,,,670
 15,Uwe,Dieckmann,Germany,Neither,Boat,"The boat is named EXE. She is a single handed skiff with rigid wings and a complete windsurfer rigg hold by a pair of shrouds and a forestay. Its a total new design by Uwe Dieckmann, Hamburg. The construction is based upyon a Standard Laser hull. The goal with this boat is to have a powerful sail, a clean sharp edged planing bottom and good control. Here are some basic data: Length of hull: 3.26 m Length over all: 4.46 m Breadth of hull: 1.37 m Breads over the wings: 2.12 m Sail areas: 12.5, 11.9, 8.5, 6.4 m Weight ready to sail with 12.5 m sail: 92 kg ",No,,,98
 16,Trevor,Funnell,U.K.,Master,Sailboard,F2 Boards Gaastra sails,No,,,K24 
 17,Simon,Andrew,england,Neither,Sailboard,windsurf proof/sails,No,n\a,,561
@@ -28,7 +28,7 @@ ID,First Name,Family Name,Country,Age Status,Craft Type,Description,Pro,Sponsors
 27,David,Barnard,UK,Neither,Sailboard,,No,,,333
 28,Dan,Simpson,England,Junior,Sailboard,Tiga Hyper X boards Neil Pryde RS5 Sails,Yes,"Ultra Sport, Offshore Sports, Surfkraft, Bloc,Oxford SC, Cherwell DC, ",www.dansimpson.net,323
 29,Mike,Price,UK,Neither,Sailboard,,No,,,97
-30,Peter,Davis,UK,Master,Sailboard,Thommen & Gaastra,Yes,"Thommen, Gasstra, Kangaroo Poo ",,73
+30,Pete,Davis,UK,Master,Sailboard,Thommen & Gaastra,Yes,"Thommen, Gasstra, Kangaroo Poo ",,73
 31,Zara,Davis,UK,Neither,Sailboard,Thommen,Yes,"Thommen, Gaastra, Kangaroo Poo, Walnut Grove Clinic ",www.zaradavis.co.uk,731
 32,Anton,Poll,uk,Neither,Sailboard,Angulo boards & Maui Sails,No,,,72
 33,Dave,Standing,Great britain,Neither,Sailboard,JP Excite ride 120 Tabou 3S 87,No,,,30
@@ -48,11 +48,10 @@ ID,First Name,Family Name,Country,Age Status,Craft Type,Description,Pro,Sponsors
 47,Carl,Miller,UK,Neither,Sailboard,,Yes,T1 Gaastra Kangaroo Poo Windgear,www.kangaroopoo.com,96
 48,Mark,Minter,UK,Neither,Sailboard,Thommen 1,No,,www.thommen1.com,100
 49,Mark,Hayford,UK,Neither,Sailboard,,No,,,33
-50,Nick,Brumfit,uk,Neither,Sailboard,,No,,,66
+50,Nick,Brumfitt,uk,Neither,Sailboard,,No,,,66
 51,Michael,Roberts,England,Master,Sailboard,Windsurfer,No,,,598
 52,Geoff,Hautman,UK,Neither,Sailboard,TBD,No,,,222
 53,Jay,Gwynn,england,Junior,Sailboard,windsurfing board and sails,No,,,33
-54,Nick,Brumfitt,UK,Neither,Sailboard,,No,,,33
 55,Robert,Munn,England,Neither,Sailboard,Tabou Rocket 105. Mistal Syncro 115,No,,,13
 56,Mark,Spreadbury,UK,Neither,Sailboard,"Mistral radar 105 and 125, starboard acid 88 ",No,,,16
 57,Denis,Royet,UK,Neither,Sailboard,"Boards: Exocet S4II, Exocet TB62, Proto Sails: Gaastra 5.9, 6.3, 7, 8.5, 9.8 ",No,,,46
@@ -99,8 +98,8 @@ ID,First Name,Family Name,Country,Age Status,Craft Type,Description,Pro,Sponsors
 98,Robin,Penna,England,Master,Sailboard,Windsurfer,No,none,none,75
 99,John,Smalley,Channel Islands,Neither,Sailboard,Naish Sails (Stealth) F2 and A&B boards,No,,,K42 
 100,Jamie,Walker,UK,Master,Sailboard,"iSonic 115, Sonic 85, Tushingham Sails ",Yes,Royal Navy,,211
-101,Peter,Cunningham,England,Neither,Sailboard,,No,,,22
-102,David,Strudwick,UK,Master,Sailboard,Tushingham sails Starboard 104,No,,,44
+101,Pete,Cunningham,England,Neither,Sailboard,,No,,,22
+102,Dave,Strudwick,UK,Master,Sailboard,Tushingham sails Starboard 104,No,,,44
 103,Richard,Jones,UK,Junior,Sailboard,"Windsurfing, staroard and tushingham ",Yes,"STARBOARD, TUSHINGHAM, SOLA, GUY CRIBB INTUITION, BOARDWISE, SURFKRAFT,SCOTT USA ",,GBR32 
 104,Ian,Jones,UK,Master,Sailboard,windsurfing,Yes,Boardwise,,GBR183 
 105,Will,Rowles,england,Junior,Sailboard,windsurf board+sail,No,,,31
