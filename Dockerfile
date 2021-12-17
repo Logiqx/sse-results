@@ -44,6 +44,9 @@ RUN pip install --no-cache-dir \
     scipy==1.6.* \
     xlrd==1.2.*
 
+# Install Levenshtein and pyphonetics seperately to benefit from image layers
+RUN pip install --no-cache-dir Levenshtein==0.16.* pyphonetics==0.5.*
+
 # Copy project files from the builder
 USER ${PY_USER}
 WORKDIR /home/${PY_USER}/work/wsw-results
