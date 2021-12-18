@@ -50,7 +50,7 @@ Editing the relevant entrants to make the names consistent across all years ensu
 
 The bespoke "fuzzy matching" algorithm uses a combination of a nickname lookup, [Soundex](https://en.wikipedia.org/wiki/Soundex) and [Levenshtein distance](https://en.wikipedia.org/wiki/Levenshtein_distance).
 
-The algorithm itself will not be explained in this document but the code can be found in [fuzzy.ipynb](python/fuzzy.ipynb).
+The algorithm itself will not be explained in this document but the code can be found in [fuzzy.ipynb](python/fuzzy.ipynb) and [name.ipynb](python/name.ipynb).
 
 There are 3 main reasons for building this "fuzzy matching" functionality as actual code:
 
