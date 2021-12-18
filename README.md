@@ -46,7 +46,7 @@ Competitors often register with slight variations in how their name is written. 
 
 This project implements a bespoke "fuzzy matching" algorithm to spot name variations and highlight them during report generation.
 
-Editing the relevant entrants to make the names consistent ensures that competitor profiles are as accurate as possible.
+Editing the relevant entrants to make the names consistent across all years ensures that competitor profiles are as accurate as possible.
 
 The bespoke "fuzzy matching" algorithm uses a combination of a nickname lookup, [Soundex](https://en.wikipedia.org/wiki/Soundex) and [Levenshtein distance](https://en.wikipedia.org/wiki/Levenshtein_distance).
 
