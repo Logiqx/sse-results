@@ -2,88 +2,75 @@
 
 ## Overview
 
-This project has been created to produce the daily results for [Weymouth Speed Week](https://www.speedsailing.com/) 2022.
+This project has been created to produce the daily and weekly results for [Weymouth Speed Week](https://www.speedsailing.com/) 2022.
 
-It supersedes the Excel macros that were used for generating results up to and including Weymouth Speed Week 2021.
-
-
-
-## Weymouth Speed Week
-
-The following text is from the [event background](https://speedsailing.com/index.php/eventinformation/background) page of the WSW [website](https://www.speedsailing.com/).
+It supersedes the Excel macros (Sserpant) that were used to generate the WSW results between 2010 and 2021.
 
 
 
-### Origin
+## Features
 
-Weymouth Speed Week began in 1972 under the direction of the Royal Yachting Association (RYA). It was seen as the premier event at which boats could demonstrate their prowess, reach world-record breaking speeds and further the advancement of sailing technology. Speed sailing records have been sanctioned by the World Sailing Speed Record Council (WSSRC) since 1972.
+This project has become rather more elaborate than originally planned and now has the following features:
 
-The speed trials of the 1970's and 80's attracted many thousands of pounds of sponsorship money and competitors attended by invitation. Several world speed records were set and then broken during these years, firstly with the boats and then, as technologies improved, by the windsurfers.
+- Generates Weymouth Speed Week (WSW) results for all years since 1998.
+  - Daily and weekly reports.
+  - Overall results and competitor profiles across multiple years.
+  - Country flags will be shown where known for the competitors.
+  - Prizes and records will be highlighted via emojis, where applicable.
+  - Categories (e.g. Gold Fleet) have varied over the years and will be applied to historical results, where applicable.
+- Records will be automatically detected + highlighted in reports and competitor profiles; historically and during an event.
+  - Overall records
+  - Records by craft type; Boat, Windsurfer, Kiteboard, etc.
+  - Female records; overall, craft type, etc.
+- Events such as the UKWA Speed Championship and ISWC competitions will automatically be scored where applicable.
+  - Qualifying criteria will be applied, dependent on course type.
+  - Results will be calculated based on the average of each competitors best runs.
+  - Series discards will be applied, where applicable.
+  - Tiebreak rules will be applied in the event of equal points.
+- Heaps of data validation
+  - The main goal is to get results produced quickly and reliably, without crashing due to minor data issues.
+  - Data issues (registration data or run data) are automatically highlighted to the person running the reports.
+  - Extensive unit testing has been implemented and is described later in this document.
 
-During the second half of the 80's the increasing popularity and capability of windsurfers came to take and then dominate the speed records. Locations with more favourable and predictable wind conditions became the place to set records, and the importance of Weymouth Speed Week as a record-breaking location began to decline.
-
-Its popularity remained however and, due to the voluntary efforts of a few individuals, Weymouth Speed Week progressed into the 1990s supported by Weymouth and Portland Borough Council, the Weymouth Sailing Centre and the Amateur Yacht Research Society who assisted by donating prizes each year. Such was the enthusiasm for the event that some individuals even made their sailing boats available for use as 'course boats' during the week. The efforts of all these organisations and individuals has ensured that Weymouth Speed Week is the enjoyable and exciting event that it is today.
-
-
-
-### Portland Harbour
-
-Portland Harbour provides a great location for speed sailing. It is bounded on its south western side (the direction from which the prevailing wind blows) by Chesil Bank. Chesil Bank is a huge natural breakwater that stops the waves but not the wind. Shortly after the Autumn Equinox the wind conditions become most favourable; it is at this time that Weymouth Speed Week runs in Portland Harbour to provide the best chance of getting ideal speed sailing conditions, that of smooth, strong winds and flat water. 
-
-
-
-### An open competition
-
-Weymouth Speed Week is a unique event; there are NO restrictions as to who may enter and all types of sailing craft are welcome. If it's wind-powered, it is eligible.
-
-The lack of rules in the early years provided the ideal proving ground for both experts and dreamers to build the type of boats which, but for Weymouth Speed Week, would never otherwise see the light of day. Many early boat and board designs have since been refined and some of today's fastest craft owe their origins to the people that designed craft for and/or competed in the event.
-
-In recent years we have witnessed World Champion and Record holding professionals sailing on the same course as novices and juniors. This is another great feature of Weymouth Speed Week you don't get elsewhere.
-
-#### Today's competitors
-
-For several years the competitors have been invited to compete with a craft of one of three types:
-
-- Boats
-- Sailboards (aka windsurfer)
-- Kiteboards
-
-Competition for the top place is fiercely fought; in the last few years the kite boarders have reached and even exceeded the speeds of the sail boarders.
-
-Weymouth Speed Week provides a number of categories of competition and encourages first-time entrants to compete as well as those with greater experience. The event's weekend sees a youth competition being held to encourage and inspire the next generation of speed sailors.
-
-The last couple of years has also seen Weymouth Speed Week encompass the British round of the International Speed Windsurfing Class (ISWC) European Tour.
-
-Speed, position and distance are recorded by GPS units; each competitor wears an individual GPS data logger that continuously records their location.
+Note: Some years had 200m, 300m and 700m courses which will be reported but kept separate from 500m records.
 
 
 
-### Today's competition
+## Fuzzy Name Matching
 
-Although the Outright Record (speed sailing over 500m) may be out of reach at speed week, the competition is definitely on for breaking the event's Harbour Record of 41.21 knots, set by James Longmuir on a kiteboard at the 2019 event.
+Competitors often register with slight variations in how their name is written. For example:
 
-#### Today's speed sailing course
+- Ed Murrell, Eddie Murrell and Edward Murrell are the same person.
+- Bob Spagnoletti and Robert Spagnoletti are the same person.
+- Trevor Watford and Trevor Whatford are the same person, despite the typo.
 
-The 500 metre course has become a standard in speed sailing records. This course length challenges the speed sailor to pit his/her wits against the elements. 
+This project implements a bespoke "fuzzy matching" algorithm to spot name variations and highlight them during report generation.
 
-Courses are laid out in the Harbour each day by the event organisers. Depending upon the prevailing wind conditions, they may set one or more courses that are best suited to the competition and the achievement of the highest speeds. Competitors are free to make as many qualifying runs as they can whilst the course is open; a good run normally takes around 25 to 30 seconds.
+Editing the relevant entrants to make the names consistent ensures that competitor profiles are as accurate as possible.
 
-Accurate measurement of the 500 metre course and plotting of each competitor's movements are performed in software based on GPS location.
+The bespoke "fuzzy matching" algorithm uses a combination of a nickname lookup, [Soundex](https://en.wikipedia.org/wiki/Soundex) and [Levenshtein distance](https://en.wikipedia.org/wiki/Levenshtein_distance).
+
+The algorithm itself will not be explained in this document but the code can be found in [fuzzy.ipynb](/Logiqx/wsw-results/blob/main/python/fuzzy.ipynb).
+
+There are 3 main reasons for building this "fuzzy matching" functionality as actual code:
+
+1. The initial process of getting competitor names consistent between 1998 to 2021 was a lot less tedious and less prone to error.
+2. The automated testing which compares newly generated results with past results can recognise the names in the original results.
+3. All future competitors with "fuzzy matches" to names in previous years can be highlighted automatically by the reporting process.
 
 
 
-### Speed sailing around the world
+## Unit Testing
 
-Weymouth Speed Week is the oldest and longest-running speed sailing event. Many early records were set and broken at Portland Harbour during a Weymouth speed trial. Sadly, Portland Harbour no longer provides the focus for those challenging for the world records.
+The project includes pretty extensive unit testing within all of the Python modules:
 
-Speed sailing has witnessed a growing battle between kite, boat and sailboard. The Outright Record of 46.52 knots was set in 1993 by Simon McKeon (AUS) in his boat "Yellow Pages" at Sandy Point, Australia. The sailboards were the first to break that record, but it took until 2004 for Finian Maynard (BVI) to do it at Stes.Marie, France with a speed of 46.82 knots. Frenchman Antoine Albeau achieved 49.09 knots in 2009, the fastest speed currently recorded by a windsurfer over 500m.
+- Core functionality for all of the classes / modules is tested during the software build.
+- Results generated for past years (1988-2021) are automatically compared against what was originally published, where available:
+  - Course results
+  - Session results
+  - Event results
+- Results for the various categories in past years are also automatically checked where applicable - e.g. Master, Gold Fleet, etc.
+- The "fuzzy name matching" algorithm is utilised when comparing results of past years against what was published on the website.
 
-Lately, Luderitz in Namibia has become the favourite location for record-breaking attempts. The kite boarders sailing at Luderitz were edging towards and then breaking the 50 knot barrier, with a record-breaking speed of 50.57 kt recorded by another Frenchman, Alexandre Caizergues in 2009. 
-
-During 2009, even as the British designed boat Sailrocket sailing in Walvis Bay, Namibia was inching towards the speed record, the massive, French D Class hydrofoil "l'Hydroptère" regained the 500m title with a speed of 51.36 knots. For the next few years, higher speeds were set only by kites.. that was until November 2012 when Paul Larsen and Sailrocket 2 edged towards and then smashed the 60 knot barrier.
-
-The current Outright Record of 65.45 knots was set by Paul Larsen (AUS) with the B class Vestas Sailrocket 2 (pictured below) at Walvis bay, Namibia in 2012.
-
-Chasing the top speed and the Outright Record continues; the race is now on to be the first to achieve 70 knots. Will it be a boat, a kite board or a sail board? It could in fact be any of them.
-
+The above automated testing ensures that the software can be trusted for all past results and will accurately generate all future results.
 
