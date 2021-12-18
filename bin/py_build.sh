@@ -11,6 +11,7 @@ DOCKER_BUILDKIT=1 docker build . --file Dockerfile-slim --build-arg LOGIQX_DEBUG
 # Copy the library scripts
 docker run --rm --entrypoint cat $IMAGE_NAME:$IMAGE_TAG $WORK_DIR/python/constants.py >$PROJ_DIR/python/constants.py
 docker run --rm --entrypoint cat $IMAGE_NAME:$IMAGE_TAG $WORK_DIR/python/common.py >$PROJ_DIR/python/common.py
+docker run --rm --entrypoint cat $IMAGE_NAME:$IMAGE_TAG $WORK_DIR/python/name.py >$PROJ_DIR/python/name.py
 docker run --rm --entrypoint cat $IMAGE_NAME:$IMAGE_TAG $WORK_DIR/python/fuzzy.py >$PROJ_DIR/python/fuzzy.py
 docker run --rm --entrypoint cat $IMAGE_NAME:$IMAGE_TAG $WORK_DIR/python/entrant.py >$PROJ_DIR/python/entrant.py
 docker run --rm --entrypoint cat $IMAGE_NAME:$IMAGE_TAG $WORK_DIR/python/filter.py >$PROJ_DIR/python/filter.py
