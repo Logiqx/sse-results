@@ -4,7 +4,7 @@
 
 This project has been created to produce the daily and weekly results for [Weymouth Speed Week](https://www.speedsailing.com/) 2022.
 
-It supersedes the Excel macros (Sserpant) that were used to generate the WSW results between 2010 and 2021.
+It supersedes the Excel macros (SSERPANT) that were used to generate the WSW results between 2010 and 2021.
 
 
 
