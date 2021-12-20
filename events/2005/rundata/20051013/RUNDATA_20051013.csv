@@ -140,28 +140,28 @@ Dave White,63,13:26:14,11,0,20.66
 Dave White,63,15:44:03,0,11,19.61
 Dave White,63,15:38:14,0,6,18.94
 Dave White,63,13:15:11,15,0,3.22
-Allan Cross (Army Team),68,13:12:56,14,0,23.7
-Allan Cross (Army Team),68,14:19:10,15,12,23.55
-Allan Cross (Army Team),68,13:21:18,12,0,23.09
-Allan Cross (Army Team),68,14:24:06,15,13,21.89
-Allan Cross (Army Team),68,13:26:38,11,0,20.96
-Allan Cross (Army Team),68,13:31:46,12,0,20.95
-Allan Cross (Army Team),68,12:59:26,17,0,20.9
-Allan Cross (Army Team),68,14:05:15,0,11,3.73
-Gareth Baker (Army Team),69,14:03:57,0,12,25.41
-Gareth Baker (Army Team),69,13:08:12,12,0,24.77
-Gareth Baker (Army Team),69,12:59:46,0,0,24.26
-Gareth Baker (Army Team),69,13:21:36,16,0,23.97
-Gareth Baker (Army Team),69,13:04:27,13,0,23.46
-Gareth Baker (Army Team),69,16:00:40,14,14,23.33
-Gareth Baker (Army Team),69,15:49:16,14,8,23.21
-Gareth Baker (Army Team),69,14:16:24,15,14,23.12
-Gareth Baker (Army Team),69,16:13:12,14,9,22.91
-Gareth Baker (Army Team),69,15:36:24,14,14,22.39
-Gareth Baker (Army Team),69,14:32:06,14,12,22.24
-Gareth Baker (Army Team),69,15:44:52,14,13,21.51
-Gareth Baker (Army Team),69,13:31:17,17,0,19.85
-Gareth Baker (Army Team),69,13:27:16,12,0,17.41
+Allan Cross,68,13:12:56,14,0,23.7
+Allan Cross,68,14:19:10,15,12,23.55
+Allan Cross,68,13:21:18,12,0,23.09
+Allan Cross,68,14:24:06,15,13,21.89
+Allan Cross,68,13:26:38,11,0,20.96
+Allan Cross,68,13:31:46,12,0,20.95
+Allan Cross,68,12:59:26,17,0,20.9
+Allan Cross,68,14:05:15,0,11,3.73
+Gareth Baker,69,14:03:57,0,12,25.41
+Gareth Baker,69,13:08:12,12,0,24.77
+Gareth Baker,69,12:59:46,0,0,24.26
+Gareth Baker,69,13:21:36,16,0,23.97
+Gareth Baker,69,13:04:27,13,0,23.46
+Gareth Baker,69,16:00:40,14,14,23.33
+Gareth Baker,69,15:49:16,14,8,23.21
+Gareth Baker,69,14:16:24,15,14,23.12
+Gareth Baker,69,16:13:12,14,9,22.91
+Gareth Baker,69,15:36:24,14,14,22.39
+Gareth Baker,69,14:32:06,14,12,22.24
+Gareth Baker,69,15:44:52,14,13,21.51
+Gareth Baker,69,13:31:17,17,0,19.85
+Gareth Baker,69,13:27:16,12,0,17.41
 Dion Hunt,71,16:17:13,0,16,20.49
 Dion Hunt,71,13:35:05,15,0,17.98
 Dion Hunt,71,13:40:08,0,12,16.57
@@ -219,32 +219,32 @@ Emile Burnaby Lautier,108,14:16:07,11,12,15.62
 Emile Burnaby Lautier,108,14:32:37,14,16,13.88
 Emile Burnaby Lautier,108,14:35:25,14,14,13.29
 Emile Burnaby Lautier,108,14:28:05,14,11,11.86
-Paul Morris (Royal Navy Team),111,13:10:43,15,0,24.94
-Paul Morris (Royal Navy Team),111,15:28:19,15,10,24.64
-Paul Morris (Royal Navy Team),111,12:58:45,0,0,24.53
-Paul Morris (Royal Navy Team),111,13:06:56,15,0,24.26
-Paul Morris (Royal Navy Team),111,16:02:36,15,11,24.26
-Paul Morris (Royal Navy Team),111,14:03:15,0,13,23.93
-Paul Morris (Royal Navy Team),111,15:01:24,0,11,23.7
-Paul Morris (Royal Navy Team),111,14:58:04,0,12,23.52
-Paul Morris (Royal Navy Team),111,15:52:28,15,12,23.52
-Paul Morris (Royal Navy Team),111,13:02:19,14,0,23.4
-Paul Morris (Royal Navy Team),111,15:05:26,0,12,23.4
-Paul Morris (Royal Navy Team),111,15:58:42,15,11,23.31
-Paul Morris (Royal Navy Team),111,16:15:39,15,13,23.21
-Paul Morris (Royal Navy Team),111,16:06:18,15,13,22.65
-Paul Morris (Royal Navy Team),111,14:11:34,13,12,22.19
-Paul Morris (Royal Navy Team),111,15:37:03,15,9,22.11
-Paul Morris (Royal Navy Team),111,14:31:36,15,9,21.94
-Paul Morris (Royal Navy Team),111,14:18:55,15,10,21.62
-Paul Morris (Royal Navy Team),111,13:18:36,10,0,21.31
-Paul Morris (Royal Navy Team),111,15:19:19,14,14,21.1
-Paul Morris (Royal Navy Team),111,15:49:05,15,9,21.1
-Paul Morris (Royal Navy Team),111,15:40:46,15,14,21.06
-Paul Morris (Royal Navy Team),111,13:33:34,13,0,20.93
-Paul Morris (Royal Navy Team),111,15:45:51,15,12,20.69
-Paul Morris (Royal Navy Team),111,13:23:33,13,0,20.66
-Paul Morris (Royal Navy Team),111,14:15:14,17,14,19.7
+Paul Morris,111,13:10:43,15,0,24.94
+Paul Morris,111,15:28:19,15,10,24.64
+Paul Morris,111,12:58:45,0,0,24.53
+Paul Morris,111,13:06:56,15,0,24.26
+Paul Morris,111,16:02:36,15,11,24.26
+Paul Morris,111,14:03:15,0,13,23.93
+Paul Morris,111,15:01:24,0,11,23.7
+Paul Morris,111,14:58:04,0,12,23.52
+Paul Morris,111,15:52:28,15,12,23.52
+Paul Morris,111,13:02:19,14,0,23.4
+Paul Morris,111,15:05:26,0,12,23.4
+Paul Morris,111,15:58:42,15,11,23.31
+Paul Morris,111,16:15:39,15,13,23.21
+Paul Morris,111,16:06:18,15,13,22.65
+Paul Morris,111,14:11:34,13,12,22.19
+Paul Morris,111,15:37:03,15,9,22.11
+Paul Morris,111,14:31:36,15,9,21.94
+Paul Morris,111,14:18:55,15,10,21.62
+Paul Morris,111,13:18:36,10,0,21.31
+Paul Morris,111,15:19:19,14,14,21.1
+Paul Morris,111,15:49:05,15,9,21.1
+Paul Morris,111,15:40:46,15,14,21.06
+Paul Morris,111,13:33:34,13,0,20.93
+Paul Morris,111,15:45:51,15,12,20.69
+Paul Morris,111,13:23:33,13,0,20.66
+Paul Morris,111,14:15:14,17,14,19.7
 Nigel Spriggs,118,12:56:29,16,0,22.96
 Nigel Spriggs,118,13:04:23,16,0,22.79
 Nigel Spriggs,118,15:01:00,0,15,21.31
@@ -312,13 +312,13 @@ Pete Martin,181,14:10:26,0,10,4.76
 David Goodrich,197,14:57:42,0,12,21.34
 David Goodrich,197,14:39:27,14,9,20
 David Goodrich,197,15:09:33,0,9,19.74
-Thor Gustafsson (RM Team),211,14:23:56,14,9,20.35
-Thor Gustafsson (RM Team),211,14:19:04,15,13,20.33
-Thor Gustafsson (RM Team),211,14:30:55,16,7,20.12
-Thor Gustafsson (RM Team),211,14:37:53,13,12,19.46
-Thor Gustafsson (RM Team),211,15:44:14,0,11,14.78
-Thor Gustafsson (RM Team),211,12:56:49,13,0,13.7
-Thor Gustafsson (RM Team),211,14:11:30,13,16,0.25
+Thor Gustafsson,211,14:23:56,14,9,20.35
+Thor Gustafsson,211,14:19:04,15,13,20.33
+Thor Gustafsson,211,14:30:55,16,7,20.12
+Thor Gustafsson,211,14:37:53,13,12,19.46
+Thor Gustafsson,211,15:44:14,0,11,14.78
+Thor Gustafsson,211,12:56:49,13,0,13.7
+Thor Gustafsson,211,14:11:30,13,16,0.25
 Ian Grounds,276,15:56:17,0,12,20.08
 Ian Grounds,276,15:45:45,0,15,17.46
 Jane Sanderson,297,16:17:16,0,14,14.44
@@ -343,16 +343,16 @@ Neil Hardwick,413,13:22:52,12,0,21.73
 Neil Hardwick,413,13:13:34,14,0,21.11
 Neil Hardwick,413,14:15:11,15,15,19.44
 Neil Hardwick,413,14:26:15,16,15,17.74
-Tony Ireland (Army Team),480,14:09:30,19,15,23.55
-Tony Ireland (Army Team),480,15:50:21,0,14,23.21
-Tony Ireland (Army Team),480,15:57:54,0,11,22.97
-Tony Ireland (Army Team),480,16:07:41,0,12,22.42
-Tony Ireland (Army Team),480,16:13:31,0,14,22.16
-Tony Ireland (Army Team),480,14:16:41,12,13,21.57
-Tony Ireland (Army Team),480,14:31:03,15,11,20.83
-Tony Ireland (Army Team),480,15:45:26,0,10,20.26
-Tony Ireland (Army Team),480,13:19:52,11,0,19.67
-Tony Ireland (Army Team),480,13:31:41,11,0,19.54
+Tony Ireland,480,14:09:30,19,15,23.55
+Tony Ireland,480,15:50:21,0,14,23.21
+Tony Ireland,480,15:57:54,0,11,22.97
+Tony Ireland,480,16:07:41,0,12,22.42
+Tony Ireland,480,16:13:31,0,14,22.16
+Tony Ireland,480,14:16:41,12,13,21.57
+Tony Ireland,480,14:31:03,15,11,20.83
+Tony Ireland,480,15:45:26,0,10,20.26
+Tony Ireland,480,13:19:52,11,0,19.67
+Tony Ireland,480,13:31:41,11,0,19.54
 Claude Van Martyn,555,15:02:36,0,14,22.31
 Claude Van Martyn,555,16:13:53,13,14,20.76
 Claude Van Martyn,555,12:57:49,17,0,20.66

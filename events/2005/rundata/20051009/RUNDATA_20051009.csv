@@ -12,30 +12,30 @@ Barry Mason,23,16:40:29,10,0,11.99
 Trevor Watford,27,16:17:04,11,0,6.32
 Trevor Watford,27,16:29:36,2,0,6.18
 Trevor Watford,27,16:03:45,9,0,5.51
-Richard Jones (Jr),32,15:56:54,12,0,18.51
-Richard Jones (Jr),32,15:52:16,11,0,18.41
-Richard Jones (Jr),32,16:10:06,9,0,17.62
-Richard Jones (Jr),32,16:10:06,9,0,17.62
-Richard Jones (Jr),32,12:37:02,9,0,17.6
-Richard Jones (Jr),32,16:32:44,8,0,17.46
-Richard Jones (Jr),32,15:35:57,9,0,17.44
-Richard Jones (Jr),32,15:47:51,9,0,17.33
-Richard Jones (Jr),32,16:37:28,9,0,17.23
-Richard Jones (Jr),32,15:42:52,9,0,16.99
-Richard Jones (Jr),32,13:02:34,10,0,16.78
-Richard Jones (Jr),32,16:15:51,9,0,16.74
-Richard Jones (Jr),32,15:23:09,11,0,16.73
-Richard Jones (Jr),32,12:40:55,11,0,16.69
-Richard Jones (Jr),32,14:36:53,11,0,16.62
-Richard Jones (Jr),32,12:23:42,10,0,16.16
-Richard Jones (Jr),32,14:42:21,10,0,16.13
-Richard Jones (Jr),32,12:52:49,11,0,16.13
-Richard Jones (Jr),32,16:02:17,7,0,15.77
-Richard Jones (Jr),32,14:30:28,12,0,15.74
-Richard Jones (Jr),32,12:28:30,8,0,15.26
-Richard Jones (Jr),32,14:57:46,9,0,15.23
-Richard Jones (Jr),32,14:24:24,9,0,14.75
-Richard Jones (Jr),32,16:25:55,9,0,14.74
+Richard Jones GBR-32,32,15:56:54,12,0,18.51
+Richard Jones GBR-32,32,15:52:16,11,0,18.41
+Richard Jones GBR-32,32,16:10:06,9,0,17.62
+Richard Jones GBR-32,32,16:10:06,9,0,17.62
+Richard Jones GBR-32,32,12:37:02,9,0,17.6
+Richard Jones GBR-32,32,16:32:44,8,0,17.46
+Richard Jones GBR-32,32,15:35:57,9,0,17.44
+Richard Jones GBR-32,32,15:47:51,9,0,17.33
+Richard Jones GBR-32,32,16:37:28,9,0,17.23
+Richard Jones GBR-32,32,15:42:52,9,0,16.99
+Richard Jones GBR-32,32,13:02:34,10,0,16.78
+Richard Jones GBR-32,32,16:15:51,9,0,16.74
+Richard Jones GBR-32,32,15:23:09,11,0,16.73
+Richard Jones GBR-32,32,12:40:55,11,0,16.69
+Richard Jones GBR-32,32,14:36:53,11,0,16.62
+Richard Jones GBR-32,32,12:23:42,10,0,16.16
+Richard Jones GBR-32,32,14:42:21,10,0,16.13
+Richard Jones GBR-32,32,12:52:49,11,0,16.13
+Richard Jones GBR-32,32,16:02:17,7,0,15.77
+Richard Jones GBR-32,32,14:30:28,12,0,15.74
+Richard Jones GBR-32,32,12:28:30,8,0,15.26
+Richard Jones GBR-32,32,14:57:46,9,0,15.23
+Richard Jones GBR-32,32,14:24:24,9,0,14.75
+Richard Jones GBR-32,32,16:25:55,9,0,14.74
 Nick Scott,55,13:18:17,12,0,21.12
 Nick Scott,55,15:26:54,10,0,18.84
 Nick Scott,55,13:24:18,11,0,18.84
@@ -43,9 +43,9 @@ Nick Scott,55,13:44:43,9,0,18.82
 Nick Scott,55,16:04:20,11,0,17.74
 Nick Scott,55,13:36:37,9,0,16.57
 Nick Scott,55,13:40:10,10,0,15.92
-Gareth Baker (Army Team),69,16:35:44,11,0,18.69
-Gareth Baker (Army Team),69,16:41:54,10,0,16.06
-Gareth Baker (Army Team),69,16:28:32,8,0,15.58
+Gareth Baker,69,16:35:44,11,0,18.69
+Gareth Baker,69,16:41:54,10,0,16.06
+Gareth Baker,69,16:28:32,8,0,15.58
 Simon Gregory,82,14:58:57,10,0,17.11
 Simon Gregory,82,14:45:45,11,0,17.1
 Simon Gregory,82,14:40:34,11,0,16.21
@@ -120,9 +120,9 @@ John Fildes,467,12:23:08,8,0,14.03
 John Fildes,467,12:11:30,9,0,13.18
 John Fildes,467,12:38:20,8,0,11.54
 John Fildes,467,12:04:47,5,0,8.51
-Sam Gooch (Jr),567,15:49:42,11,0,19.2
-Sam Gooch (Jr),567,13:18:59,11,0,15.9
-Sam Gooch (Jr),567,12:53:47,8,0,4.91
+Sam Gooch,567,15:49:42,11,0,19.2
+Sam Gooch,567,13:18:59,11,0,15.9
+Sam Gooch,567,12:53:47,8,0,4.91
 Tony Morris,604,14:37:07,10,0,18.14
 Tony Morris,604,16:31:52,10,0,18.04
 Tony Morris,604,16:10:39,10,0,17.69

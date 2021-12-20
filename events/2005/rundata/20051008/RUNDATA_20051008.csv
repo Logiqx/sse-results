@@ -14,12 +14,12 @@ Time,Name,Craft Type,Sail Number,Speed (kts)
 12:00:00,Pete Martin,Sailboard,181,25.53
 12:00:00,Ian Ruby,Sailboard,313,25.52
 12:00:00,Adrian Bugler,Sailboard,328,25.39
-12:00:00,Paul Morris (Royal Navy Team),Sailboard,111,25.33
+12:00:00,Paul Morris,Sailboard,111,25.33
 12:00:00,Robin Penna,Sailboard,75,25.23
 12:00:00,Nick Scott,Sailboard,55,24.93
 12:00:00,Mark Newman,Sailboard,92,24.93
 12:00:00,Charles Wilson,Sailboard,143,24.74
-12:00:00,Richard Jones (Jr),Sailboard,32,24.61
+12:00:00,Richard Jones GBR-32,Sailboard,32,24.61
 12:00:00,Mathew Spooner,Sailboard,150,24.48
 12:00:00,Amy Carter,Sailboard,85,24.46
 12:00:00,,Sailboard,321,24.36
@@ -28,15 +28,15 @@ Time,Name,Craft Type,Sail Number,Speed (kts)
 12:00:00,James Paine,Sailboard,17,24.21
 12:00:00,Eddie Murrell,Salboard,670,24.21
 12:00:00,Duncan Adam,Sailboard,863,24.21
-12:00:00,Dan Simpson (Jr),Sailboard,323,24.18
+12:00:00,Dan Simpson,Sailboard,323,24.18
 12:00:00,Mathew Burridge,Sailboard,666,24.06
 12:00:00,Richard Stark,Sailboard,110,24.03
 12:00:00,Carl Miller,Sailboard,96,23.82
-12:00:00,Thor Elroy Gustaffson (RM Team),Sailboard,211,23.65
+12:00:00,Thor Gustafsson,Sailboard,211,23.65
 12:00:00,Alex Montgomery,Sailboard,1,23.64
 12:00:00,Alistair Williams,Sailboard,330,23.59
 12:00:00,David Williams,Kite Board,612,23.56
-12:00:00,Sam Gooch (Jr),Sailboard,567,23.47
+12:00:00,Sam Gooch,Sailboard,567,23.47
 12:00:00,Dion Hunt,Sailboard,71,23.33
 12:00:00,Zara Davis,Sailboard,731,23.22
 12:00:00,Pete Davis,Sailboard,73,23.11
@@ -50,7 +50,7 @@ Time,Name,Craft Type,Sail Number,Speed (kts)
 12:00:00,Barry Mason,Sailboard,23,22.25
 12:00:00,Richard Holgate,Sailboard,53,22.18
 12:00:00,Neil Hardwick,Sailboard,413,22.15
-12:00:00,Allan Cross (Army Team),Sailboard,68,21.73
+12:00:00,Allan Cross,Sailboard,68,21.73
 12:00:00,Clive Ellis,Sailboard,51,21.61
 12:00:00,Rob Stack,Sailboard,777,21.58
 12:00:00,Anton Poll,Sailboard,72,20.95

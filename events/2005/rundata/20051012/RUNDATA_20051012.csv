@@ -1,7 +1,7 @@
 Name,Sail Number,Time,Wind Start,Wind Finish,Speed (kts)
-Danny & Will,5,13:13:50,18,6,9.91
-Danny & Will,5,13:37:26,10,8,13.6
-Danny & Will,5,13:48:06,10,10,18.34
+Danny Norris + Will Oscroft,5,13:13:50,18,6,9.91
+Danny Norris + Will Oscroft,5,13:37:26,10,8,13.6
+Danny Norris + Will Oscroft,5,13:48:06,10,10,18.34
 Tristan Drane,7,12:11:26,0,9,23.52
 Tristan Drane,7,12:15:59,17,11,23.28
 Tristan Drane,7,12:19:16,0,10,8.03
@@ -150,26 +150,26 @@ Keith Atkinson,56,12:51:50,16,6,25.33
 Dave White,63,12:42:32,14,9,25.44
 Dave White,63,12:49:25,16,13,24.13
 Dave White,63,14:45:23,15,8,18.74
-Allan Cross (Army Team),68,13:32:02,13,8,21.36
-Allan Cross (Army Team),68,13:42:38,14,13,21.6
-Gareth Baker (Army Team),69,12:01:17,0,15,23.8
-Gareth Baker (Army Team),69,12:08:31,0,14,20.52
-Gareth Baker (Army Team),69,13:31:09,12,10,21.6
-Gareth Baker (Army Team),69,13:42:55,13,10,22.27
-Gareth Baker (Army Team),69,14:36:26,14,5,19.51
-Gareth Baker (Army Team),69,14:42:37,14,15,19.78
-Gareth Baker (Army Team),69,14:51:36,12,6,20.32
-Gareth Baker (Army Team),69,15:02:59,15,9,19.93
-Gareth Baker (Army Team),69,15:21:00,16,8,19.76
-Gareth Baker (Army Team),69,15:38:42,15,8,21.38
-Gareth Baker (Army Team),69,15:44:33,16,8,21.73
-Gareth Baker (Army Team),69,15:49:46,11,10,19.85
-Gareth Baker (Army Team),69,15:54:26,14,8,19.97
-Gareth Baker (Army Team),69,16:03:11,14,15,22.86
-Gareth Baker (Army Team),69,16:13:13,14,9,22.37
-Gareth Baker (Army Team),69,16:18:21,14,10,21.09
-Gareth Baker (Army Team),69,16:23:35,15,10,21.56
-Gareth Baker (Army Team),69,16:39:02,15,17,22.09
+Allan Cross,68,13:32:02,13,8,21.36
+Allan Cross,68,13:42:38,14,13,21.6
+Gareth Baker,69,12:01:17,0,15,23.8
+Gareth Baker,69,12:08:31,0,14,20.52
+Gareth Baker,69,13:31:09,12,10,21.6
+Gareth Baker,69,13:42:55,13,10,22.27
+Gareth Baker,69,14:36:26,14,5,19.51
+Gareth Baker,69,14:42:37,14,15,19.78
+Gareth Baker,69,14:51:36,12,6,20.32
+Gareth Baker,69,15:02:59,15,9,19.93
+Gareth Baker,69,15:21:00,16,8,19.76
+Gareth Baker,69,15:38:42,15,8,21.38
+Gareth Baker,69,15:44:33,16,8,21.73
+Gareth Baker,69,15:49:46,11,10,19.85
+Gareth Baker,69,15:54:26,14,8,19.97
+Gareth Baker,69,16:03:11,14,15,22.86
+Gareth Baker,69,16:13:13,14,9,22.37
+Gareth Baker,69,16:18:21,14,10,21.09
+Gareth Baker,69,16:23:35,15,10,21.56
+Gareth Baker,69,16:39:02,15,17,22.09
 Dion Hunt,71,12:53:07,14,14,23.55
 Dion Hunt,71,13:13:02,14,7,4.13
 Anton Poll,72,12:36:29,11,13,20.33
@@ -262,18 +262,18 @@ Richard Stark,110,13:26:09,16,7,21.57
 Richard Stark,110,13:32:34,13,12,22.11
 Richard Stark,110,13:40:38,13,8,22.16
 Richard Stark,110,13:46:11,16,13,23.71
-Paul Morris (Royal Navy Team),111,11:52:58,12,9,25.56
-Paul Morris (Royal Navy Team),111,11:58:08,17,10,24.17
-Paul Morris (Royal Navy Team),111,12:09:32,13,10,23.11
-Paul Morris (Royal Navy Team),111,12:13:22,0,6,22.03
-Paul Morris (Royal Navy Team),111,12:33:40,0,12,25.3
-Paul Morris (Royal Navy Team),111,12:38:15,17,13,25.03
-Paul Morris (Royal Navy Team),111,12:43:23,15,16,25.79
-Paul Morris (Royal Navy Team),111,12:47:53,17,11,24.25
-Paul Morris (Royal Navy Team),111,12:52:28,17,8,23.67
-Paul Morris (Royal Navy Team),111,12:59:46,15,10,23.82
-Paul Morris (Royal Navy Team),111,13:06:30,12,11,22.48
-Paul Morris (Royal Navy Team),111,13:25:54,14,10,22.53
+Paul Morris,111,11:52:58,12,9,25.56
+Paul Morris,111,11:58:08,17,10,24.17
+Paul Morris,111,12:09:32,13,10,23.11
+Paul Morris,111,12:13:22,0,6,22.03
+Paul Morris,111,12:33:40,0,12,25.3
+Paul Morris,111,12:38:15,17,13,25.03
+Paul Morris,111,12:43:23,15,16,25.79
+Paul Morris,111,12:47:53,17,11,24.25
+Paul Morris,111,12:52:28,17,8,23.67
+Paul Morris,111,12:59:46,15,10,23.82
+Paul Morris,111,13:06:30,12,11,22.48
+Paul Morris,111,13:25:54,14,10,22.53
 Nigel Spriggs,118,14:41:15,12,8,3.95
 Nigel Spriggs,118,15:10:47,10,11,4.38
 Nigel Spriggs,118,15:39:15,11,8,4.76
@@ -325,10 +325,10 @@ Steve Mather,134,13:47:09,16,9,22.45
 Steve Mather,134,14:51:48,14,10,10.63
 Charles Thompson,138,12:00:08,0,15,23.26
 Charles Thompson,138,12:17:10,16,10,27.93
-Ian Craft,154,15:30:42,12,11,3.7
-Ian Craft,154,16:13:39,15,10,18.93
-Ian Craft,154,16:19:53,12,17,19.27
-Ian Craft,154,16:42:39,12,7,18.46
+Ian Kraft,154,15:30:42,12,11,3.7
+Ian Kraft,154,16:13:39,15,10,18.93
+Ian Kraft,154,16:19:53,12,17,19.27
+Ian Kraft,154,16:42:39,12,7,18.46
 Sean Carroll,171,11:57:51,0,10,21.06
 Sean Carroll,171,12:44:53,14,11,20.76
 Sean Carroll,171,12:56:59,15,8,21.65
@@ -363,13 +363,13 @@ Martin Allman,206,12:09:29,15,10,19.79
 Martin Allman,206,12:34:45,13,16,18.63
 Martin Allman,206,13:04:17,13,7,17.94
 Martin Allman,206,15:00:23,15,9,17.5
-Thor  Gustafsson (RM Team),211,12:13:19,0,9,15.14
-Thor  Gustafsson (RM Team),211,12:32:58,16,12,21.8
-Thor  Gustafsson (RM Team),211,12:40:17,16,12,20.31
-Thor  Gustafsson (RM Team),211,12:49:04,16,12,20.6
-Thor  Gustafsson (RM Team),211,12:56:44,18,11,21.58
-Thor  Gustafsson (RM Team),211,13:03:16,18,6,18.22
-Thor  Gustafsson (RM Team),211,16:40:01,16,12,20.37
+Thor  Gustafsson,211,12:13:19,0,9,15.14
+Thor  Gustafsson,211,12:32:58,16,12,21.8
+Thor  Gustafsson,211,12:40:17,16,12,20.31
+Thor  Gustafsson,211,12:49:04,16,12,20.6
+Thor  Gustafsson,211,12:56:44,18,11,21.58
+Thor  Gustafsson,211,13:03:16,18,6,18.22
+Thor  Gustafsson,211,16:40:01,16,12,20.37
 Ian Grounds,276,13:00:19,13,11,14.67
 Ian Grounds,276,13:16:02,15,6,11.22
 Ian Grounds,276,13:34:51,12,9,19.03
@@ -397,7 +397,7 @@ Neil Hardwick,413,16:09:00,15,12,20.8
 Neil Hardwick,413,16:17:13,66,10,14.08
 Neil Hardwick,413,16:27:30,13,15,20.75
 Neil Hardwick,413,16:39:11,66,12,20.15
-Non Entrant - Tornado Catamaran,420,15:52:55,15,19,19.43
+Non Entrant,420,15:52:55,15,19,19.43
 Bob Date,458,12:34:59,20,12,10.15
 Bob Date,458,12:45:32,15,10,12.99
 Bob Date,458,12:54:53,0,9,11.17
@@ -406,19 +406,19 @@ Bob Date,458,13:21:01,16,14,10.33
 Bob Date,458,13:28:07,15,12,11.11
 Bob Date,458,13:36:27,15,9,11.69
 Bob Date,458,13:42:45,17,12,11.47
-Tony Ireland (Army Team),480,12:10:45,15,12,21.16
-Tony Ireland (Army Team),480,13:36:23,16,9,10.32
-Tony Ireland (Army Team),480,13:44:29,14,6,20.95
-Tony Ireland (Army Team),480,14:39:05,16,10,16.92
-Tony Ireland (Army Team),480,14:52:17,13,9,18.09
-Tony Ireland (Army Team),480,15:26:37,13,6,19.47
-Tony Ireland (Army Team),480,15:45:48,16,9,16.93
-Tony Ireland (Army Team),480,15:55:11,15,12,19.23
-Tony Ireland (Army Team),480,16:05:39,13,8,20.73
-Tony Ireland (Army Team),480,16:15:27,13,14,19.7
-Tony Ireland (Army Team),480,16:23:25,19,9,21.91
-Tony Ireland (Army Team),480,16:29:06,14,10,20.26
-Tony Ireland (Army Team),480,16:39:39,14,11,20.83
+Tony Ireland,480,12:10:45,15,12,21.16
+Tony Ireland,480,13:36:23,16,9,10.32
+Tony Ireland,480,13:44:29,14,6,20.95
+Tony Ireland,480,14:39:05,16,10,16.92
+Tony Ireland,480,14:52:17,13,9,18.09
+Tony Ireland,480,15:26:37,13,6,19.47
+Tony Ireland,480,15:45:48,16,9,16.93
+Tony Ireland,480,15:55:11,15,12,19.23
+Tony Ireland,480,16:05:39,13,8,20.73
+Tony Ireland,480,16:15:27,13,14,19.7
+Tony Ireland,480,16:23:25,19,9,21.91
+Tony Ireland,480,16:29:06,14,10,20.26
+Tony Ireland,480,16:39:39,14,11,20.83
 John Peperell,504,12:08:28,19,10,11.35
 John Peperell,504,12:16:53,0,13,11.8
 Tim Lawes,561,13:19:44,18,6,4.95
