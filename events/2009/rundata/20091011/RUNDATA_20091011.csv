@@ -7,7 +7,7 @@ Sail Number,Title,FirstName,LastName,CraftType,AgeStatus,Novice,Professional,Tim
 63,Mr,Dave,White,Sailboard,Neither,No,Professional,GPS,27.83
 47,Mrs,Zara,Davis,Sailboard,Neither,No,Gold Fleet,GPS,27.3
 951,Mr,Fred,Willis,Sailboard,Neither,No,Professional,GPS,27.28
-131,Mr,P J,Simmons,Sailboard,Neither,No,Professional,GPS,26.95
+131,Mr,Paul,Simmons,Sailboard,Neither,No,Professional,GPS,26.95
 73,Mr,Pete,Davis,Sailboard,Neither,No,Professional,GPS,26.65
 15,Mr,Thorsten,Niehaus,Sailboard,Neither,No,Professional,GPS,25.87
 2,Mr,Will,Oscroft,Sailboard,Neither,No,Neither,11/10/2009 14:14,26.24
@@ -44,11 +44,11 @@ Sail Number,Title,FirstName,LastName,CraftType,AgeStatus,Novice,Professional,Tim
 3,Mr,John,McIntyre,Sailboard,Master,No,Neither,11/10/2009 11:54,22.84
 3,Mr,John,McIntyre,Sailboard,Master,No,Neither,11/10/2009 11:20,3.49
 5,Mr,Jean,Hurtado,Boat,Master,No,Neither,11/10/2009 14:39,5.29
-8,Mr,Raj,Kanasam,Sailboard,Neither,No,Neither,11/10/2009 13:59,22.8
-8,Mr,Raj,Kanasam,Sailboard,Neither,No,Neither,11/10/2009 13:30,21.59
-8,Mr,Raj,Kanasam,Sailboard,Neither,No,Neither,11/10/2009 14:58,21.31
-8,Mr,Raj,Kanasam,Sailboard,Neither,No,Neither,11/10/2009 11:22,21.1
-8,Mr,Raj,Kanasam,Sailboard,Neither,No,Neither,11/10/2009 11:37,19.98
+8,Mr,Raj,Kandasamy,Sailboard,Neither,No,Neither,11/10/2009 13:59,22.8
+8,Mr,Raj,Kandasamy,Sailboard,Neither,No,Neither,11/10/2009 13:30,21.59
+8,Mr,Raj,Kandasamy,Sailboard,Neither,No,Neither,11/10/2009 14:58,21.31
+8,Mr,Raj,Kandasamy,Sailboard,Neither,No,Neither,11/10/2009 11:22,21.1
+8,Mr,Raj,Kandasamy,Sailboard,Neither,No,Neither,11/10/2009 11:37,19.98
 12,Mr,Jim,Brooks-Dowsett,Sailboard,Neither,No,Gold Fleet,11/10/2009 10:56,24.67
 12,Mr,Jim,Brooks-Dowsett,Sailboard,Neither,No,Gold Fleet,11/10/2009 14:55,24.43
 12,Mr,Jim,Brooks-Dowsett,Sailboard,Neither,No,Gold Fleet,11/10/2009 14:46,24
