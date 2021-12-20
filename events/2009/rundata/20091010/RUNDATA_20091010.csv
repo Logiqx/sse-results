@@ -1,4 +1,4 @@
-Sail Number,Title,FirstName,LastName,CraftType,AgeStatus,Novice,Professional,Time,Speed
+Sail Number,Title,FirstName,LastName,CraftType,AgeStatus,Novice,Professional,Time,Speed (kts)
 3,Mr,John,McIntyre,Sailboard,Master,No,Neither,14:44:12,20.76
 3,Mr,John,McIntyre,Sailboard,Master,No,Neither,14:39:54,20.3
 3,Mr,John,McIntyre,Sailboard,Master,No,Neither,15:02:52,19.39
