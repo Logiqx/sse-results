@@ -1,56 +1,56 @@
 Sail Number,Finish Time,Speed (kts),Course Length,First Name,Last Name,Craft
-7,09/10/2008 11:12,3.70,544,Fred,Ball,Boat
-7,09/10/2008 11:28,3.33,544,Fred,Ball,Boat
-7,09/10/2008 12:31,2.91,544,Fred,Ball,Boat
-17,09/10/2008 13:13,3.96,544,Paul,Morris,Sailboard
-17,09/10/2008 13:02,3.75,544,Paul,Morris,Sailboard
-17,09/10/2008 13:27,0.96,544,Paul,Morris,Sailboard
-23,09/10/2008 14:11,4.32,544,barry,mason,Sailboard
-23,09/10/2008 14:35,4.04,544,barry,mason,Sailboard
-23,09/10/2008 14:58,1.45,544,barry,mason,Sailboard
-58,09/10/2008 16:02,13.11,544,Graeme,Fuller,Sailboard
-58,09/10/2008 15:55,13.04,544,Graeme,Fuller,Sailboard
-81,09/10/2008 15:11,4.70,544,Roger,Dyer,Boat
-81,09/10/2008 14:52,4.60,544,Roger,Dyer,Boat
-81,09/10/2008 14:24,4.58,544,Roger,Dyer,Boat
-81,09/10/2008 14:40,4.57,544,Roger,Dyer,Boat
-81,09/10/2008 12:28,4.14,544,Roger,Dyer,Boat
-81,09/10/2008 13:00,4.09,544,Roger,Dyer,Boat
-81,09/10/2008 12:42,4.07,544,Roger,Dyer,Boat
-81,09/10/2008 12:03,3.93,544,Roger,Dyer,Boat
-81,09/10/2008 13:12,1.14,544,Roger,Dyer,Boat
-81,09/10/2008 13:24,0.62,544,Roger,Dyer,Boat
-83,09/10/2008 16:01,15.98,544,David,Tuttlebee,Sailboard
-83,09/10/2008 15:07,4.95,544,David,Tuttlebee,Sailboard
-83,09/10/2008 14:34,4.78,544,David,Tuttlebee,Sailboard
-83,09/10/2008 15:55,4.73,544,David,Tuttlebee,Sailboard
-83,09/10/2008 14:21,4.69,544,David,Tuttlebee,Sailboard
-83,09/10/2008 14:56,4.66,544,David,Tuttlebee,Sailboard
-83,09/10/2008 15:36,4.52,544,David,Tuttlebee,Sailboard
-83,09/10/2008 14:44,4.47,544,David,Tuttlebee,Sailboard
-83,09/10/2008 14:02,4.46,544,David,Tuttlebee,Sailboard
-112,09/10/2008 13:00,3.48,544,Emily,Wood,Sailboard
-112,09/10/2008 13:18,0.77,544,Emily,Wood,Sailboard
-116,09/10/2008 14:21,3.10,544,Michael,Barton,Boat
-116,09/10/2008 13:50,2.84,544,Michael,Barton,Boat
-118,09/10/2008 13:19,0.75,544,Rozy,Timson,Sailboard
-188,09/10/2008 15:13,4.09,544,Rozy,Timson,Sailboard
-328,09/10/2008 14:10,7.77,544,Adrian,Wallis,Sailboard
-328,09/10/2008 13:48,7.49,544,Adrian,Wallis,Sailboard
-328,09/10/2008 13:05,3.64,544,Adrian,Wallis,Sailboard
-328,09/10/2008 13:21,0.84,544,Adrian,Wallis,Sailboard
-328,09/10/2008 13:36,0.49,544,Adrian,Wallis,Sailboard
-602,09/10/2008 14:07,12.55,544,Dave,White,Kite Board
-602,09/10/2008 15:36,10.64,544,Dave,White,Kite Board
-602,09/10/2008 13:13,10.04,544,Dave,White,Kite Board
-602,09/10/2008 15:29,8.94,544,Dave,White,Kite Board
-602,09/10/2008 12:47,5.72,544,Dave,White,Kite Board
-747,09/10/2008 15:53,8.44,544,Simon,White,Sailboard
-747,09/10/2008 15:13,6.07,544,Simon,White,Sailboard
-747,09/10/2008 14:19,4.25,544,Simon,White,Sailboard
-747,09/10/2008 15:40,4.24,544,Simon,White,Sailboard
-747,09/10/2008 14:33,4.18,544,Simon,White,Sailboard
-747,09/10/2008 13:09,3.81,544,Simon,White,Sailboard
-747,09/10/2008 13:29,0.71,544,Simon,White,Sailboard
-917,09/10/2008 12:24,3.40,544,Florian,Hildebrand,Sailboard
-917,09/10/2008 12:43,3.31,544,Florian,Hildebrand,Sailboard
+7,11:12:00,3.70,544,Fred,Ball,Boat
+7,11:28:00,3.33,544,Fred,Ball,Boat
+7,12:31:00,2.91,544,Fred,Ball,Boat
+17,13:13:00,3.96,544,Paul,Morris,Sailboard
+17,13:02:00,3.75,544,Paul,Morris,Sailboard
+17,13:27:00,0.96,544,Paul,Morris,Sailboard
+23,14:11:00,4.32,544,barry,mason,Sailboard
+23,14:35:00,4.04,544,barry,mason,Sailboard
+23,14:58:00,1.45,544,barry,mason,Sailboard
+58,16:02:00,13.11,544,Graeme,Fuller,Sailboard
+58,15:55:00,13.04,544,Graeme,Fuller,Sailboard
+81,15:11:00,4.70,544,Roger,Dyer,Boat
+81,14:52:00,4.60,544,Roger,Dyer,Boat
+81,14:24:00,4.58,544,Roger,Dyer,Boat
+81,14:40:00,4.57,544,Roger,Dyer,Boat
+81,12:28:00,4.14,544,Roger,Dyer,Boat
+81,13:00:00,4.09,544,Roger,Dyer,Boat
+81,12:42:00,4.07,544,Roger,Dyer,Boat
+81,12:03:00,3.93,544,Roger,Dyer,Boat
+81,13:12:00,1.14,544,Roger,Dyer,Boat
+81,13:24:00,0.62,544,Roger,Dyer,Boat
+83,16:01:00,15.98,544,David,Tuttlebee,Sailboard
+83,15:07:00,4.95,544,David,Tuttlebee,Sailboard
+83,14:34:00,4.78,544,David,Tuttlebee,Sailboard
+83,15:55:00,4.73,544,David,Tuttlebee,Sailboard
+83,14:21:00,4.69,544,David,Tuttlebee,Sailboard
+83,14:56:00,4.66,544,David,Tuttlebee,Sailboard
+83,15:36:00,4.52,544,David,Tuttlebee,Sailboard
+83,14:44:00,4.47,544,David,Tuttlebee,Sailboard
+83,14:02:00,4.46,544,David,Tuttlebee,Sailboard
+112,13:00:00,3.48,544,Emily,Wood,Sailboard
+112,13:18:00,0.77,544,Emily,Wood,Sailboard
+116,14:21:00,3.10,544,Michael,Barton,Boat
+116,13:50:00,2.84,544,Michael,Barton,Boat
+118,13:19:00,0.75,544,Rozy,Timson,Sailboard
+188,15:13:00,4.09,544,Rozy,Timson,Sailboard
+328,14:10:00,7.77,544,Adrian,Wallis,Sailboard
+328,13:48:00,7.49,544,Adrian,Wallis,Sailboard
+328,13:05:00,3.64,544,Adrian,Wallis,Sailboard
+328,13:21:00,0.84,544,Adrian,Wallis,Sailboard
+328,13:36:00,0.49,544,Adrian,Wallis,Sailboard
+602,14:07:00,12.55,544,Dave,White,Kite Board
+602,15:36:00,10.64,544,Dave,White,Kite Board
+602,13:13:00,10.04,544,Dave,White,Kite Board
+602,15:29:00,8.94,544,Dave,White,Kite Board
+602,12:47:00,5.72,544,Dave,White,Kite Board
+747,15:53:00,8.44,544,Simon,White,Sailboard
+747,15:13:00,6.07,544,Simon,White,Sailboard
+747,14:19:00,4.25,544,Simon,White,Sailboard
+747,15:40:00,4.24,544,Simon,White,Sailboard
+747,14:33:00,4.18,544,Simon,White,Sailboard
+747,13:09:00,3.81,544,Simon,White,Sailboard
+747,13:29:00,0.71,544,Simon,White,Sailboard
+917,12:24:00,3.40,544,Florian,Hildebrand,Sailboard
+917,12:43:00,3.31,544,Florian,Hildebrand,Sailboard
