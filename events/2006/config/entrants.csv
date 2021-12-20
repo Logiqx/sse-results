@@ -14,8 +14,8 @@ ID,First Name,Family Name,Country,Age Status,Craft Type,Description,Pro,Sponsors
 13,Rolf,Broch,Norway,Master,Boat,Boat name: Cat Attack Boat type: Catamaran Boat model: Reynolds 33,No,,www.25knop.no,284
 14,Eddie,Murrell,England,Master,Sailboard,,No,,,670
 15,Uwe,Dieckmann,Germany,Neither,Boat,"The boat is named EXE. She is a single handed skiff with rigid wings and a complete windsurfer rigg hold by a pair of shrouds and a forestay. Its a total new design by Uwe Dieckmann, Hamburg. The construction is based upyon a Standard Laser hull. The goal with this boat is to have a powerful sail, a clean sharp edged planing bottom and good control. Here are some basic data: Length of hull: 3.26 m Length over all: 4.46 m Breadth of hull: 1.37 m Breads over the wings: 2.12 m Sail areas: 12.5, 11.9, 8.5, 6.4 m Weight ready to sail with 12.5 m sail: 92 kg ",No,,,98
-16,Trevor,Funnell,U.K.,Master,Sailboard,F2 Boards Gaastra sails,No,,,K24
-17,Simon,Andrew,england,Neither,Sailboard,windsurf proof/sails,No,n\a,,561
+16,Trevor,Funnell,U.K.,Master,Sailboard,F2 Boards Gaastra sails,No,,,24
+17,Simon,Andrew,england,Neither,Sailboard,windsurf proof/sails,No,n\a,,61
 18,George,Warren,england,Master,Sailboard,,No,,,215
 19,Dion,Hunt,England,Neither,Sailboard,rs60 Maui Sails tr2,No,,,71
 20,Les,Paley,england,Master,Sailboard,JP134 slalom JP114 slalom NP sails,No,,,8
@@ -32,15 +32,15 @@ ID,First Name,Family Name,Country,Age Status,Craft Type,Description,Pro,Sponsors
 31,Zara,Davis,UK,Neither,Sailboard,Thommen,Yes,"Thommen, Gaastra, Kangaroo Poo, Walnut Grove Clinic ",www.zaradavis.co.uk,731
 32,Anton,Poll,uk,Neither,Sailboard,Angulo boards & Maui Sails,No,,,72
 33,Dave,Standing,Great britain,Neither,Sailboard,JP Excite ride 120 Tabou 3S 87,No,,,30
-34,Graeme,Fuller,U.K.,Master,Sailboard,"Sail & or Kite Board, wind dependant. ",No,,,K58
+34,Graeme,Fuller,U.K.,Master,Sailboard,"Sail & or Kite Board, wind dependant. ",No,,,58/624
 35,William,Oliver,scotland,Master,Sailboard,"Starboard windsurfing boards, Tushingham sails ",No,,,1
 36,Tim,Matthews,uk,Neither,Sailboard,thommen1 boards & naish sails,Yes,naish sails,,820
 37,Andrew,Freeman,UK,Neither,Sailboard,Most probabily a Thommen 295 with sails to be confirmed,No,,,3
 38,Alex,Smith,England,Junior,Sailboard,,No,None,,941
 39,Richard,Holgate,UK,Neither,Sailboard,,No,,,53
 40,Brian,Leake,England,Master,Sailboard,,No,,,26
-41,Stacey,Vass,uk,Neither,Kite Board,slingshot kites and boards,Yes,"surfsales, slingshot. ",www.surf-sales.com,47
-43,Liam,Round,England,Junior,Sailboard,EXOCET S3/S4 YES Formula/Slalom Sails,Yes,TotalOptions & KBay,,GBR948
+41,Stacey,Vass,uk,Neither,Kite Board,slingshot kites and boards,Yes,"surfsales, slingshot. ",www.surf-sales.com,47/609
+43,Liam,Round,England,Junior,Sailboard,EXOCET S3/S4 YES Formula/Slalom Sails,Yes,TotalOptions & KBay,,948
 44,Paul,Simmons,UK,Neither,Sailboard,Starboard Sonic Tushingham X-15,Yes,"Tushingham Sails Ltd, Starboard ",,131
 45,Nick,Beaney,England,Neither,Sailboard,Neilpryde sails,Yes,Ultra Sport,,381
 46,Brian,Warner,UK,Master,Sailboard,,No,,,349
@@ -66,7 +66,7 @@ ID,First Name,Family Name,Country,Age Status,Craft Type,Description,Pro,Sponsors
 68,David,Tuttlebee,UK,Master,Sailboard,"Windsurf boards, sails up to 11.6 etc. ",No,,,83
 69,Simon,Butler,England,Neither,Sailboard,"W/surf, BIC Techno 283 & Starboard S-Type 115. ",No,,,65
 70,Jonathan,Mobbs,England,Neither,Sailboard,"Fantic Slalom 133, Fanatic Slalom 90 Tushingham Lightning Sails 9.4, 7.8, 6.5 ",No,,,86
-71,Pete,McCall,UK,Neither,Sailboard,"ahd slalom 275, 6.5 sail i dont have it yet ",No,,,K187
+71,Pete,McCall,UK,Neither,Sailboard,"ahd slalom 275, 6.5 sail i dont have it yet ",No,,,187
 72,Claude,Van-Martyn,United Kingdom,Master,Sailboard,Windsurf equipment,Yes,Boardroom-shop.co.uk,www.boardroom-shop.co.uk,555
 73,Simon,Olley,UK,Neither,Sailboard,,No,,,953
 74,Steve,Mather,UK,Master,Sailboard,,No,,,134
@@ -81,14 +81,14 @@ ID,First Name,Family Name,Country,Age Status,Craft Type,Description,Pro,Sponsors
 83,Charles,Thompson,UK,Master,Boat,Hobie Trifoiler.,No,,,138
 84,Roger,Clark,United Kingdom,Master,Sailboard,Windsurfer,No,n/a,,88
 85,Sam,Gooch,England,Junior,Sailboard,Formula kit ?,No,,,945
-86,Kevin,Greenslade,England,Neither,Sailboard,Naish,Yes,Naish,,GBR82
+86,Kevin,Greenslade,England,Neither,Sailboard,Naish,Yes,Naish,,82
 87,Tristan,Drane,UK,Neither,Sailboard,"Fanatic Falcon, Tushingham X15 ",Yes,Jonti Sailboards,www.jonti.co.uk,7
 88,Andres,Avila Melo,Spain,Neither,Sailboard,thommen boards and North Sails,Yes,"Playas de Jandia, Canarias, Fuertwagen. No Work Team, ION ",,300
 89,Orlando,Lavandera,Spain,Neither,Sailboard,Thommen boards and north sails,Yes,"Playas de Jandia, Canarias, No work team, Fuertwagen, ION ",,651
 90,Ashley,Vernon,England,Neither,Sailboard,"this is a MONSTER whats that coming over the wave is it a monster YES big long double hard 30 foot kick arse 4 man beast, with 4 windsurfing sails and 4 silors come on av it ",No,,,41
 91,George,Dadd,England,Neither,Boat,Kite powered craft made from two windsurf boards strapped together.,No,,,600
 92,Tony,Morris,England,Neither,Sailboard,"F2, Fanatic, North sails, ",Yes,604 Distribution & Autogaspower,,604
-94,Sam,Latham,UK,Junior,Sailboard,Fanatic Falcon 91l Fanatic Falcon 105l Neilpryde RS4 5.8,No,,,GBR 9621
+94,Sam,Latham,UK,Junior,Sailboard,Fanatic Falcon 91l Fanatic Falcon 105l Neilpryde RS4 5.8,No,,,GBR 9621/621
 95,James,Paine,UK,Neither,Sailboard,,No,,,17
 96,Norman,Betts,England,Master,Sailboard,"Starboard Isonic 133, S type 115, Kombat 96, F2 261 Tushingham Lightnings 9.4, 8.5, 7.8, 7.0, X15 6.4, Tomohawk 6.0, 5.6. ",No,,,151
 97,Ed,Strange,UNITED KINGDOM,Junior,Sailboard,windsurfer,No,"Boadwise,Cannock ",,983
@@ -97,11 +97,11 @@ ID,First Name,Family Name,Country,Age Status,Craft Type,Description,Pro,Sponsors
 100,Jamie,Walker,UK,Master,Sailboard,"iSonic 115, Sonic 85, Tushingham Sails ",Yes,Royal Navy,,211
 101,Pete,Cunningham,England,Neither,Sailboard,,No,,,22
 102,Dave,Strudwick,UK,Master,Sailboard,Tushingham sails Starboard 104,No,,,44
-103,Richard,Jones,UK,Junior,Sailboard,"Windsurfing, staroard and tushingham ",Yes,"STARBOARD, TUSHINGHAM, SOLA, GUY CRIBB INTUITION, BOARDWISE, SURFKRAFT,SCOTT USA ",,GBR32
-104,Ian,Jones,UK,Master,Sailboard,windsurfing,Yes,Boardwise,,GBR183
+103,Richard,Jones,UK,Junior,Sailboard,"Windsurfing, staroard and tushingham ",Yes,"STARBOARD, TUSHINGHAM, SOLA, GUY CRIBB INTUITION, BOARDWISE, SURFKRAFT,SCOTT USA ",,32
+104,Ian,Jones,UK,Master,Sailboard,windsurfing,Yes,Boardwise,,183/321
 105,William,Rowles,england,Junior,Sailboard,windsurf board+sail,No,,,668
 106,Amy,Carter,ENGLAND,Neither,Sailboard,,Yes,"gaastra, tabou, kangaroo poo, dakine, funk sunglasses, sola wetsuits, surfers against sewage ",,85
-107,Thor,Gustafsson,England,Neither,Sailboard,Speed Sail (North and Neil Pryde) Speed Board Fanatic Hawk,No,Westcountry Watersports,,8888
+107,Thor,Gustafsson,England,Neither,Sailboard,Speed Sail (North and Neil Pryde) Speed Board Fanatic Hawk,No,Westcountry Watersports,,888
 108,Martin,Waldron,Ireland,Neither,Sailboard,F2 Missile S; F2 Missile XS; Severne SSR 5.6; Severne Code Red 5.1 & 6.6,No,,,190
 109,Paul,Morris,UK,Neither,Sailboard,,No,,,31
 110,James,Grant,UK,Neither,Boat,"Extreme 40. A 40ft Catarmaran. Carbon Nomex built, 1.2 tonnes all up in weight. We were the inshore racing boat for the Volvo Ocean Race, where we finished 2nd overall for the series winning Portsmouth and Rio Regattas. I am the skipper of the boat. ",Yes,Basilica,www.basilica.co.uk/sailing,440
@@ -113,5 +113,5 @@ ID,First Name,Family Name,Country,Age Status,Craft Type,Description,Pro,Sponsors
 116,Keith,Atkinson,UK,Neither,Sailboard,WINDSURFER - BRITISH WINDSURFING CHAMPION 2005,Yes,"STARBOARD, VW EUROVANS ",WWW.KEITHATKINSON.COM,56
 118,Rupert,Fisher,ENGLAND,Neither,Sailboard,Mistral Electron/F2 275 Naish/Gaastra sails,No,Royal Navy Team,,133
 119,Trevor,Whatford,England,Master,Sailboard,,No,,,27
-120,Richard,Trubger,UK,Master,Kite Board,Trudesigns custom,No,,,124
+120,Richard,Trubger,UK,Master,Kite Board,Trudesigns custom,No,,,124/611
 121,Kévin,Gobin,FRANCE,Neither,Boat,catamaran with tunnel under the hulls,Yes,HULL SPEED E 108,,277
