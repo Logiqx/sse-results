@@ -1,25 +1,5 @@
 {
-  "H1": {
-    "Start Time": "09:00",
-    "End Time": "18:00"
-  },
-  "H2": {
-    "Start Time": "09:00",
-    "End Time": "18:00"
-  },
-  "H3": {
-    "Start Time": "09:00",
-    "End Time": "18:00"
-  },
-  "S1": {
-    "Start Time": "09:00",
-    "End Time": "18:00"
-  },
-  "S2": {
-    "Start Time": "09:00",
-    "End Time": "18:00"
-  },
-  "S3": {
+  "Default": {
     "Start Time": "09:00",
     "End Time": "18:00"
   }
