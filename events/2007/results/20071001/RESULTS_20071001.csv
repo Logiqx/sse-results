@@ -57,7 +57,7 @@ Run Rank,Sail Number,Start Time,Finish Time,Elapsed Time,Speed,Length,Angle (ref
 56,181,15:19:14,15:19:59,45.2876,23.25,541,69,Mr,Pete,Martin,Sailboard,Neither,No,No
 57,68,15:48:34,15:49:20,45.4051,23.19,541,69,Mr,Allan,Cross,Sailboard,Neither,No,Yes
 58,55,14:37:58,14:38:44,45.4732,23.15,541,69,Mr,Nick,Scott,Sailboard,Neither,No,Yes
-59,203,15:32:11,15:32:57,45.5701,23.10,541,69,Mr,Dave - Vinnie -,Standing,Sailboard,Neither,No,Yes
+59,203,15:32:11,15:32:57,45.5701,23.10,541,69,Mr,Dave,Standing,Sailboard,Neither,No,Yes
 60,131,15:21:47,15:22:33,45.6321,23.07,541,69,Mr,Paul,Simmons,Sailboard,Neither,No,Yes
 61,55,15:07:14,15:07:59,45.641,23.07,541,69,Mr,Nick,Scott,Sailboard,Neither,No,Yes
 62,55,15:01:08,15:01:53,45.7726,23.00,541,69,Mr,Nick,Scott,Sailboard,Neither,No,Yes
@@ -99,7 +99,7 @@ Run Rank,Sail Number,Start Time,Finish Time,Elapsed Time,Speed,Length,Angle (ref
 98,55,15:55:09,15:55:57,47.9659,21.95,541,69,Mr,Nick,Scott,Sailboard,Neither,No,Yes
 99,313,14:44:55,14:45:43,48.0415,21.91,541,69,Mr,john,benamati,Sailboard,Neither,No,Yes
 100,55,14:43:46,14:44:34,48.1375,21.87,541,69,Mr,Nick,Scott,Sailboard,Neither,No,Yes
-101,203,15:09:29,15:10:17,48.1712,21.85,541,69,Mr,Dave - Vinnie -,Standing,Sailboard,Neither,No,Yes
+101,203,15:09:29,15:10:17,48.1712,21.85,541,69,Mr,Dave,Standing,Sailboard,Neither,No,Yes
 102,328,14:33:48,14:34:36,48.24,21.82,541,69,Mr,Adrian,Wallis,Sailboard,Master,No,No
 103,211,15:43:07,15:43:56,48.2757,21.81,541,69,Mr,Jamie,Walker,Sailboard,Neither,No,No
 104,604,14:49:25,14:50:13,48.3059,21.79,541,69,Mr,TONY,MORRIS,Sailboard,Neither,No,No
@@ -199,7 +199,7 @@ Run Rank,Sail Number,Start Time,Finish Time,Elapsed Time,Speed,Length,Angle (ref
 198,83,15:47:45,15:48:41,55.6034,18.93,541,69,Mr,David,Tuttlebee,Sailboard,Master,No,No
 199,55,14:08:20,14:09:16,55.6512,18.92,541,69,Mr,Nick,Scott,Sailboard,Neither,No,Yes
 200,83,15:22:25,15:23:20,55.7028,18.90,541,69,Mr,David,Tuttlebee,Sailboard,Master,No,No
-201,203,14:05:27,14:06:23,55.7155,18.90,541,69,Mr,Dave - Vinnie -,Standing,Sailboard,Neither,No,Yes
+201,203,14:05:27,14:06:23,55.7155,18.90,541,69,Mr,Dave,Standing,Sailboard,Neither,No,Yes
 202,206,14:41:39,14:42:35,55.8,18.87,541,69,Mr,Martin,Allman,Sailboard,Master,No,No
 203,811,14:54:45,14:55:41,55.9382,18.82,541,69,Mr,Henry,Luce,Sailboard,Neither,No,No
 204,811,14:34:49,14:35:45,55.9991,18.80,541,69,Mr,Henry,Luce,Sailboard,Neither,Yes,No
@@ -215,7 +215,7 @@ Run Rank,Sail Number,Start Time,Finish Time,Elapsed Time,Speed,Length,Angle (ref
 214,97,14:10:31,14:11:29,58.0106,18.15,541,69,Mr,mike,price,Sailboard,Neither,No,No
 215,863,14:52:21,14:53:19,58.113,18.12,541,69,Mr,Duncan,Adam,Sailboard,Neither,No,No
 216,276,14:47:06,14:48:04,58.1682,18.10,541,69,Mr,Ian,Grounds,Sailboard,Master,No,No
-217,203,13:48:17,13:49:15,58.2365,18.08,541,69,Mr,Dave - Vinnie -,Standing,Sailboard,Neither,No,Yes
+217,203,13:48:17,13:49:15,58.2365,18.08,541,69,Mr,Dave,Standing,Sailboard,Neither,No,Yes
 218,75,14:07:03,14:08:01,58.5549,17.98,541,69,Mr,Robin,Penna,Sailboard,Master,No,No
 219,676,13:59:12,14:00:11,58.5959,17.97,541,69,Mr,Richard,Box,Sailboard,Master,Yes,No
 220,999,14:34:08,14:35:07,58.6465,17.95,541,69,Mr,Richard,Peel,Sailboard,Master,Yes,No

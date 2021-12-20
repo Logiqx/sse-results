@@ -31,7 +31,7 @@ Position,Sail Number,Time,FirstName,LastName,CraftType,Title,Speed,Title,AgeStat
 30,56,13:18:53,Tim,Lawes,Sailboard,Result,27.09,Mr,Neither,No,Gold Fleet
 31,76,10:42:01,Simon,Perkins,Sailboard,Result,27.07,Mr,Neither,No,Neither
 32,983,10:50:44,HAMISH,GODDARD,Sailboard,Result,27.00,Mr,Master,Yes,Neither
-33,131,GPS,P J,Simmons,Sailboard,Result,26.95,Mr,Neither,No,Professional
+33,131,GPS,Paul,Simmons,Sailboard,Result,26.95,Mr,Neither,No,Professional
 34,681,10:43:13,Alan,Cross,Sailboard,Result,26.92,Mr,Master,No,Gold Fleet
 35,358,11:28:42,Gerard,Northwood,Sailboard,Result,26.78,Mr,Master,No,Gold Fleet
 36,568,13:09:17,alex,burges,Sailboard,Result,26.68,Mr,Neither,Yes,Neither
@@ -81,7 +81,7 @@ Position,Sail Number,Time,FirstName,LastName,CraftType,Title,Speed,Title,AgeStat
 80,773,14:53:41,Adrian,Nisbet,Sailboard,Result,23.27,Mr,Neither,Yes,Neither
 81,248,14:00:05,MArcus,Partridge,Sailboard,Result,23.01,Mr,Neither,No,Neither
 82,425,10:59:18,Sam,Jenkins,Sailboard,Result,23.01,Mr,Junior,No,Gold Fleet
-83,8,13:59:29,Raj,Kanasam,Sailboard,Result,22.80,Mr,Neither,No,Neither
+83,8,13:59:29,Raj,Kandasamy,Sailboard,Result,22.80,Mr,Neither,No,Neither
 84,66,11:28:51,Alex,Bennett- Baggs,Sailboard,Result,22.80,Mr,Neither,No,Neither
 85,206,14:03:30,martin,allman,Sailboard,Result,22.14,Mr,Master,No,Neither
 86,349,11:07:31,Bruno,Warner,Sailboard,Result,21.91,Mr,Master,No,Neither

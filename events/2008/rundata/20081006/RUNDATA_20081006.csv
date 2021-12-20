@@ -200,11 +200,11 @@ Sail Number,Finish Time,Speed (kts),Course Angle,Course Length,First Name,Last N
 411,13:50:00,17.03,100,544,Steve,Flanagan,Sailboard
 411,12:18:00,4.53,100,544,Steve,Flanagan,Sailboard
 555,15:09:00,20.71,100,544,claude,van-martyn,Sailboard
-598,14:01:00,22.76,100,544,Michael John,Roberts,Sailboard
-598,14:01:00,18.04,100,544,Michael John,Roberts,Sailboard
-598,13:52:00,17.88,100,544,Michael John,Roberts,Sailboard
-598,13:34:00,17.39,100,544,Michael John,Roberts,Sailboard
-598,13:42:00,17.36,100,544,Michael John,Roberts,Sailboard
+598,14:01:00,22.76,100,544,Michael,Roberts,Sailboard
+598,14:01:00,18.04,100,544,Michael,Roberts,Sailboard
+598,13:52:00,17.88,100,544,Michael,Roberts,Sailboard
+598,13:34:00,17.39,100,544,Michael,Roberts,Sailboard
+598,13:42:00,17.36,100,544,Michael,Roberts,Sailboard
 703,15:33:00,20.05,100,544,Darrell,Robins,Sailboard
 703,15:12:00,19.94,100,544,Darrell,Robins,Sailboard
 703,15:00:00,10.71,100,544,Darrell,Robins,Sailboard

@@ -57,7 +57,7 @@ Sail Number,Title,First Name,Last Name,Craft,Master or Junior,Novice,Professiona
 181,Mr,Pete,Martin,Sailboard,Neither,No,No,15:19:14,15:19:59,45.2876,23.25,541,69
 68,Mr,Allan,Cross,Sailboard,Neither,No,Yes,15:48:34,15:49:20,45.4051,23.19,541,69
 55,Mr,Nick,Scott,Sailboard,Neither,No,Yes,14:37:58,14:38:44,45.4732,23.15,541,69
-203,Mr,Dave - Vinnie -,Standing,Sailboard,Neither,No,Yes,15:32:11,15:32:57,45.5701,23.1,541,69
+203,Mr,Dave,Standing,Sailboard,Neither,No,Yes,15:32:11,15:32:57,45.5701,23.1,541,69
 131,Mr,Paul,Simmons,Sailboard,Neither,No,Yes,15:21:47,15:22:33,45.6321,23.07,541,69
 55,Mr,Nick,Scott,Sailboard,Neither,No,Yes,15:07:14,15:07:59,45.641,23.07,541,69
 55,Mr,Nick,Scott,Sailboard,Neither,No,Yes,15:01:08,15:01:53,45.7726,23,541,69
@@ -99,7 +99,7 @@ Sail Number,Title,First Name,Last Name,Craft,Master or Junior,Novice,Professiona
 55,Mr,Nick,Scott,Sailboard,Neither,No,Yes,15:55:09,15:55:57,47.9659,21.95,541,69
 313,Mr,john,benamati,Sailboard,Neither,No,Yes,14:44:55,14:45:43,48.0415,21.91,541,69
 55,Mr,Nick,Scott,Sailboard,Neither,No,Yes,14:43:46,14:44:34,48.1375,21.87,541,69
-203,Mr,Dave - Vinnie -,Standing,Sailboard,Neither,No,Yes,15:09:29,15:10:17,48.1712,21.85,541,69
+203,Mr,Dave,Standing,Sailboard,Neither,No,Yes,15:09:29,15:10:17,48.1712,21.85,541,69
 328,Mr,Adrian,Wallis,Sailboard,Master,No,No,14:33:48,14:34:36,48.24,21.82,541,69
 211,Mr,Jamie,Walker,Sailboard,Neither,No,No,15:43:07,15:43:56,48.2757,21.81,541,69
 604,Mr,TONY,MORRIS,Sailboard,Neither,No,No,14:49:25,14:50:13,48.3059,21.79,541,69
@@ -199,7 +199,7 @@ Sail Number,Title,First Name,Last Name,Craft,Master or Junior,Novice,Professiona
 83,Mr,David,Tuttlebee,Sailboard,Master,No,No,15:47:45,15:48:41,55.6034,18.93,541,69
 55,Mr,Nick,Scott,Sailboard,Neither,No,Yes,14:08:20,14:09:16,55.6512,18.92,541,69
 83,Mr,David,Tuttlebee,Sailboard,Master,No,No,15:22:25,15:23:20,55.7028,18.9,541,69
-203,Mr,Dave - Vinnie -,Standing,Sailboard,Neither,No,Yes,14:05:27,14:06:23,55.7155,18.9,541,69
+203,Mr,Dave,Standing,Sailboard,Neither,No,Yes,14:05:27,14:06:23,55.7155,18.9,541,69
 206,Mr,Martin,Allman,Sailboard,Master,No,No,14:41:39,14:42:35,55.8,18.87,541,69
 811,Mr,Henry,Luce,Sailboard,Neither,No,No,14:54:45,14:55:41,55.9382,18.82,541,69
 811,Mr,Henry,Luce,Sailboard,Neither,Yes,No,14:34:49,14:35:45,55.9991,18.8,541,69
@@ -215,7 +215,7 @@ Sail Number,Title,First Name,Last Name,Craft,Master or Junior,Novice,Professiona
 97,Mr,mike,price,Sailboard,Neither,No,No,14:10:31,14:11:29,58.0106,18.15,541,69
 863,Mr,Duncan,Adam,Sailboard,Neither,No,No,14:52:21,14:53:19,58.113,18.12,541,69
 276,Mr,Ian,Grounds,Sailboard,Master,No,No,14:47:06,14:48:04,58.1682,18.1,541,69
-203,Mr,Dave - Vinnie -,Standing,Sailboard,Neither,No,Yes,13:48:17,13:49:15,58.2365,18.08,541,69
+203,Mr,Dave,Standing,Sailboard,Neither,No,Yes,13:48:17,13:49:15,58.2365,18.08,541,69
 75,Mr,Robin,Penna,Sailboard,Master,No,No,14:07:03,14:08:01,58.5549,17.98,541,69
 676,Mr,Richard,Box,Sailboard,Master,Yes,No,13:59:12,14:00:11,58.5959,17.97,541,69
 999,Mr,Richard,Peel,Sailboard,Master,Yes,No,14:34:08,14:35:07,58.6465,17.95,541,69

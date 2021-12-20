@@ -73,7 +73,7 @@ Sail Number,Start Time,Finish Time,Elapsed Time,Speed,Course Length,Course Angle
 863,13:23:33,13:24:31,58.3107,18.05,541,69,Mr,Duncan,Adam,Sailboard,Neither,No,No
 559,11:20:11,11:21:07,56.2916,18.05,522,54,Mr,Tony,Attfield,Sailboard,Neither,No,No
 79,10:55:26,10:56:22,56.3076,18.04,522,54,Mr,ROB,KING,Sailboard,Neither,Yes,No
-598,14:28:50,14:29:48,58.483,18.00,541,69,Mr,Michael J.ohn,Roberts,Sailboard,Master,No,No
+598,14:28:50,14:29:48,58.483,18.00,541,69,Mr,Michael,Roberts,Sailboard,Master,No,No
 948,10:56:49,10:57:46,56.4924,17.98,522,54,Mr,liam,Round,Sailboard,Junior,No,Yes
 44,11:47:34,11:48:31,56.7433,17.90,522,54,Mr,Dave,Strudwick,Sailboard,Master,No,No
 44,14:08:26,14:09:25,58.8309,17.89,541,69,Mr,Dave,Strudwick,Sailboard,Master,No,No
@@ -83,7 +83,7 @@ Sail Number,Start Time,Finish Time,Elapsed Time,Speed,Course Length,Course Angle
 948,13:10:35,13:11:34,59.1915,17.79,541,69,Mr,liam,Round,Sailboard,Junior,No,Yes
 480,14:25:24,14:26:24,59.2354,17.77,541,69,Mr,Tony,Ireland,Sailboard,Neither,No,Yes
 609,10:40:27,10:41:24,57.5297,17.66,522,54,Mr,stacey,vass,Kite Board,Neither,No,Yes
-598,13:48:42,13:49:42,59.6658,17.64,541,69,Mr,Michael J.ohn,Roberts,Sailboard,Master,No,No
+598,13:48:42,13:49:42,59.6658,17.64,541,69,Mr,Michael,Roberts,Sailboard,Master,No,No
 131,10:50:32,10:51:31,57.6183,17.63,522,54,Mr,Paul,Simmons,Sailboard,Neither,No,Yes
 129,10:50:06,10:51:03,57.6579,17.62,522,54,Mr,Tim,Fricke,Sailboard,Neither,Yes,No
 10,13:14:06,13:15:06,60.1111,17.51,541,69,Mr,Ricky,Wooding,Sailboard,Neither,No,No
@@ -104,21 +104,21 @@ Sail Number,Start Time,Finish Time,Elapsed Time,Speed,Course Length,Course Angle
 561,10:48:39,10:49:39,60.0322,16.92,522,54,Mr,Sam,Sills,Sailboard,Junior,No,No
 507,11:18:02,11:19:02,60.0743,16.91,522,54,Mr,Sam,Sills,Sailboard,Junior,No,No
 948,11:55:22,11:56:23,60.1211,16.90,522,54,Mr,liam,Round,Sailboard,Junior,No,Yes
-598,11:20:23,11:21:23,60.163,16.88,522,54,Mr,Michael J.ohn,Roberts,Sailboard,Master,No,No
+598,11:20:23,11:21:23,60.163,16.88,522,54,Mr,Michael,Roberts,Sailboard,Master,No,No
 23,11:21:46,11:22:46,60.1953,16.87,522,54,Mr,BARRY,MASON,Sailboard,Master,No,No
 83,13:47:45,13:48:47,62.5376,16.83,541,69,Mr,David,Tuttlebee,Sailboard,Master,No,No
 948,13:19:11,13:20:14,62.5902,16.82,541,69,Mr,liam,Round,Sailboard,Junior,No,Yes
 480,13:54:09,13:55:12,62.8567,16.75,541,69,Mr,Tony,Ireland,Sailboard,Neither,No,Yes
 480,13:35:25,13:36:28,62.9069,16.74,541,69,Mr,Tony,Ireland,Sailboard,Neither,No,Yes
 151,14:09:52,14:10:56,63.1022,16.68,541,69,Mr,Sam,Latham,Sailboard,Junior,No,No
-598,11:56:02,11:57:04,61.0251,16.65,522,54,Mr,Michael J.ohn,Roberts,Sailboard,Master,No,No
+598,11:56:02,11:57:04,61.0251,16.65,522,54,Mr,Michael,Roberts,Sailboard,Master,No,No
 10,13:37:55,13:38:58,63.3546,16.62,541,69,Mr,Ricky,Wooding,Sailboard,Neither,No,No
-598,11:44:27,11:45:29,61.1819,16.60,522,54,Mr,Michael J.ohn,Roberts,Sailboard,Master,No,No
-598,13:40:02,13:41:06,63.4984,16.58,541,69,Mr,Michael J.ohn,Roberts,Sailboard,Master,No,No
-598,14:21:23,14:22:27,63.5162,16.57,541,69,Mr,Michael J.ohn,Roberts,Sailboard,Master,No,No
+598,11:44:27,11:45:29,61.1819,16.60,522,54,Mr,Michael,Roberts,Sailboard,Master,No,No
+598,13:40:02,13:41:06,63.4984,16.58,541,69,Mr,Michael,Roberts,Sailboard,Master,No,No
+598,14:21:23,14:22:27,63.5162,16.57,541,69,Mr,Michael,Roberts,Sailboard,Master,No,No
 10,14:10:58,14:12:02,63.542,16.57,541,69,Mr,Ricky,Wooding,Sailboard,Neither,No,No
 388,13:48:03,13:49:07,63.5612,16.56,541,69,Mr,George,Turpin,Sailboard,Junior,Yes,No
-598,13:22:55,13:23:59,63.6378,16.54,541,69,Mr,Michael J.ohn,Roberts,Sailboard,Master,No,No
+598,13:22:55,13:23:59,63.6378,16.54,541,69,Mr,Michael,Roberts,Sailboard,Master,No,No
 507,13:50:00,13:51:04,63.641,16.54,541,69,Mr,Sam,Sills,Sailboard,Junior,No,No
 10,13:53:42,13:54:46,63.6808,16.53,541,69,Mr,Ricky,Wooding,Sailboard,Neither,No,No
 23,11:11:35,11:12:36,61.6161,16.49,522,54,Mr,BARRY,MASON,Sailboard,Master,No,No
@@ -147,7 +147,7 @@ Sail Number,Start Time,Finish Time,Elapsed Time,Speed,Course Length,Course Angle
 58,13:46:34,13:47:41,66.897,15.74,541,69,Mr,Graeme,Fuller,Sailboard,Master,No,Yes
 58,14:16:41,14:17:49,67.2285,15.66,541,69,Mr,Graeme,Fuller,Sailboard,Master,No,Yes
 668,13:48:26,13:49:33,67.3046,15.64,541,69,Mr,william,rowles,Sailboard,Junior,No,No
-598,14:11:30,14:12:38,67.4133,15.62,541,69,Mr,Michael J.ohn,Roberts,Sailboard,Master,No,No
+598,14:11:30,14:12:38,67.4133,15.62,541,69,Mr,Michael,Roberts,Sailboard,Master,No,No
 10,14:02:17,14:03:24,67.8547,15.51,541,69,Mr,Ricky,Wooding,Sailboard,Neither,No,No
 10,14:20:52,14:22:00,67.8996,15.50,541,69,Mr,Ricky,Wooding,Sailboard,Neither,No,No
 948,11:05:33,11:06:39,65.8777,15.42,522,54,Mr,liam,Round,Sailboard,Junior,No,Yes

@@ -14,7 +14,7 @@ Sail Number,Title,First Name,Last Name,Craft,Master or Junior,Novice,Professiona
 44,Mr,Dave,Strudwick,Sailboard,Master,No,No,12:10:51,12:11:53,61.8803,17.01,541,69
 451,Mr,Xavier,Ferlet,Sailboard,Master,No,Yes,12:40:25,12:41:28,62.3027,16,541,69
 948,Mr,liam,Round,Sailboard,Junior,No,Yes,12:56:38,12:57:42,64.2552,16.38,541,69
-10,Mr,Ricky,Wood,Sailboard,Master,No,No,12:51:09,12:52:14,64.2953,16.37,541,69
+10,Mr,Ricky,Wooding,Sailboard,Master,No,No,12:51:09,12:52:14,64.2953,16.37,541,69
 451,Mr,Xavier,Ferlet,Sailboard,Master,No,Yes,12:26:52,12:27:56,64.4579,16.33,541,69
 948,Mr,liam,Round,Sailboard,Junior,No,Yes,12:36:47,12:37:52,65.382,16,541,69
 151,Mr,Sam,Latham,Sailboard,Junior,No,No,12:09:03,12:10:09,65.5256,16.07,541,69
@@ -25,7 +25,7 @@ Sail Number,Title,First Name,Last Name,Craft,Master or Junior,Novice,Professiona
 44,Mr,Dave,Strudwick,Sailboard,Master,No,No,12:40:05,12:41:16,70.7254,14.89,541,69
 609,Mr,stacey,vass,Kite Board,Neither,No,Yes,12:43:14,12:44:27,72.5013,14.52,541,69
 891,Mr,Sam,Sills,Sailboard,Junior,Yes,No,12:21:23,12:22:37,74.7108,14.09,541,69
-10,Mr,Ricky,Wood,Sailboard,Master,No,No,12:42:37,12:43:53,75.9887,13.85,541,69
+10,Mr,Ricky,Wooding,Sailboard,Master,No,No,12:42:37,12:43:53,75.9887,13.85,541,69
 891,Mr,Sam,Sills,Sailboard,Junior,Yes,No,12:29:57,12:31:13,76.0648,13.84,541,69
 388,Mr,George,Turpin,Sailboard,Junior,Yes,No,12:15:58,12:17:14,76.2062,13.81,541,69
 891,Mr,Sam,Sills,Sailboard,Junior,Yes,No,12:57:22,12:58:39,77.5011,13.58,541,69
@@ -45,7 +45,7 @@ Sail Number,Title,First Name,Last Name,Craft,Master or Junior,Novice,Professiona
 747,Mr,Simon,White,Sailboard,Master,Yes,No,12:21:58,12:25:00,181.347,5.81,541,69
 994,Miss,Amy,Barratt,Sailboard,Junior,No,No,12:13:00,12:16:30,209.722,5.02,541,69
 994,Miss,Amy,Barratt,Sailboard,Junior,No,No,12:00:47,12:04:21,214.361,4.91,541,69
-598,Mr,Michael J.ohn,Roberts,Sailboard,Master,No,No,12:51:00,12:54:46,226.566,4.65,541,69
+598,Mr,Michael,Roberts,Sailboard,Master,No,No,12:51:00,12:54:46,226.566,4.65,541,69
 23,Mr,BARRY,MASON,Sailboard,Master,No,No,12:55:37,12:59:51,253.546,4.15,541,69
 891,Mr,Sam,Sills,Sailboard,Junior,Yes,No,12:25:11,12:29:47,276.197,3.81,541,69
 901,Mr,Richard,Simpson,Sailboard,Junior,No,No,12:14:47,12:19:25,278.132,3.79,541,69
