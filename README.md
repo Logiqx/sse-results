@@ -14,7 +14,7 @@ This project has become rather more elaborate than originally planned and now ha
 
 - Generates Weymouth Speed Week (WSW) results for all years since 1998.
   - Daily and weekly reports.
-  - Overall results and competitor profiles across multiple years.
+  - Overall results (including craft types) and competitor profiles across multiple years.
   - Country flags will be shown where known for the competitors.
   - Prizes and records will be highlighted via emojis, where applicable.
   - Categories (e.g. Gold Fleet) have varied over the years and will be applied to historical results, where applicable.
