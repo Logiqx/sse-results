@@ -1,4 +1,4 @@
-Sail Number,Start Time,Finish Time,Elapsed Time,Speed,Course Length,Course Angle,Title,First Name,Last Name,Craft,Master or Junior,Novice,Professional
+Sail Number,Start Time,Finish Time,Elapsed Time,Speed (kts),Course Length,Course Angle,Title,First Name,Last Name,Craft Type,Master or Junior,Novice,Professional
 609,14:05:44,14:06:32,47.948,21.96,541,69,Mr,stacey,vass,Kite Board,Neither,No,Yes
 313,11:16:53,11:17:42,48.3357,21.78,541,69,Mr,john,benamati,Sailboard,Neither,No,Yes
 181,14:27:40,14:28:29,48.6905,21.62,541,69,Mr,Pete,Martin,Sailboard,,No,Yes

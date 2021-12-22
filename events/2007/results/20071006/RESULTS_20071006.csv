@@ -1,4 +1,4 @@
-Sail Number,Start Time,Finish Time,Elapsed Time,Speed,Course Length,Course Angle,Title,First Name,Last Name,Craft,Master or Junior,Novice,Professional
+Sail Number,Start Time,Finish Time,Elapsed Time,Speed (kts),Course Length,Course Angle,Title,First Name,Last Name,Craft Type,Master or Junior,Novice,Professional
 46,10:33:47,10:34:31,44.4583,22.85,522,54,Mr,denis,royet,Sailboard,Neither,No,No
 21,10:38:22,10:39:07,45.419,22.36,522,54,Mr,Dan,Simpson,Sailboard,Neither,No,Yes
 40,10:36:10,10:36:57,46.7464,21.73,522,54,Mr,simon,Hinkley,Sailboard,Neither,No,Yes
