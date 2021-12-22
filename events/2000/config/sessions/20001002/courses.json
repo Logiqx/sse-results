@@ -2,5 +2,14 @@
   "Default": {
     "Start Time": "09:00",
     "End Time": "18:00"
+  },
+  "S1": {
+    "Course Length": "318"
+  },
+  "S2": {
+    "Course Length": "700"
+  },
+  "S2": {
+    "Course Length": "513"
   }
 }
