@@ -1,4 +1,4 @@
-Sail Number,Title,FirstName,LastName,CraftType,AgeStatus,Novice,Professional,Time,Speed (kts)
+Sail Number,Title,First Name,Last Name,Craft Type,Age Status,Novice,Professional,Time,Speed (kts)
 52,Mr,Patrick,Van Hoof,Sailboard,Master,Yes,Gold Fleet,GPS,30.13
 521,Mr,dan,ellis,Sailboard,Neither,No,Professional,GPS,30.09
 10,Mr,Anders,Bringdal,Sailboard,Neither,No,Professional,GPS,29.66
