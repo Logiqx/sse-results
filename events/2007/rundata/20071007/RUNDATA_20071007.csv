@@ -1,4 +1,4 @@
-Sail Number,Title,First Name,Last Name,Craft,Master or Junior,Novice,Professional,Start Time,Finish Time,Elapsed Time,Speed (kts),Course Length,Course Angle
+Sail Number,Title,First Name,Last Name,Craft Type,Master or Junior,Novice,Professional,Start Time,Finish Time,Elapsed Time,Speed (kts),Course Length,Course Angle
 451,Mr,Xavier,Ferlet,Sailboard,Neither,No,Yes,12:20:44,12:21:39,54.3619,19.37,541,69
 451,Mr,Xavier,Ferlet,Sailboard,Neither,No,Yes,12:14:34,12:15:28,54.7295,19.24,541,69
 451,Mr,Xavier,Ferlet,Sailboard,Neither,No,Yes,12:00:58,12:01:54,55.6809,18.91,541,69
