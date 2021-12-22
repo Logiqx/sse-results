@@ -1,28 +1,28 @@
-Sail Number,Name,Time,Wind Start,Wind Finish,Speed
-945,Sam Gooch,16:10:35,9,12,22.71
-863,Duncan Adam,16:24:19,10,13,22.16
-183,Ian Jones,14:40:27,8,15,22.03
-14,Ian Hill,16:22:46,11,10,21.72
-23,Barry Mason,16:18:14,11,10,21.61
-604,Tony Morris,16:17:06,14,12,21.39
-71,Dion Hunt,16:23:06,14,11,21.35
-33,Mark Hayford,16:23:09,8,11,20.91
-44,David Strudwick,16:22:04,9,12,20.60
-440,James Grant,15:32:36,10,9,20.41
-701,Charles Thompson,16:11:34,12,11,20.38
-169,Austin Hind,16:16:39,14,14,20.17
-66,Nick Brumfitt,14:36:39,13,8,19.90
-215,George Warren,16:22:57,10,8,19.67
-151,Norman Betts,13:29:26,11,6,19.59
-413,Neil Hardwick,16:24:07,10,14,19.57
-211,Jamie Walker,14:00:12,9,75,18.66
-598,Michael Roberts,14:34:08,11,12,18.49
-53,Richard Holgate,15:25:35,12,11,18.41
-51,Clive Ellis,15:37:55,8,8,18.34
-349,Brian Warner,14:37:08,11,9,18.17
-12,Simon Burgess,15:32:02,12,13,18.05
-188,Roger Crab,16:15:34,7,11,16.81
-133,Rupert Fisher,14:39:45,11,12,15.64
-8,Les Paley,15:30:50,8,10,15.51
-277,Kévin Gobin,14:26:52,8,10,12.68
-999,John Montgomery (R/C Quad mast model),15:13:41,8,12,5.47
+Sail Number,Name,Time,Speed (kts),Wind Start,Wind Finish
+945,Sam Gooch,16:10:35,22.71,9,12
+863,Duncan Adam,16:24:19,22.16,10,13
+183,Ian Jones,14:40:27,22.03,8,15
+14,Ian Hill,16:22:46,21.72,11,10
+23,Barry Mason,16:18:14,21.61,11,10
+604,Tony Morris,16:17:06,21.39,14,12
+71,Dion Hunt,16:23:06,21.35,14,11
+33,Mark Hayford,16:23:09,20.91,8,11
+44,David Strudwick,16:22:04,20.6,9,12
+440,James Grant,15:32:36,20.41,10,9
+701,Charles Thompson,16:11:34,20.38,12,11
+169,Austin Hind,16:16:39,20.17,14,14
+66,Nick Brumfitt,14:36:39,19.9,13,8
+215,George Warren,16:22:57,19.67,10,8
+151,Norman Betts,13:29:26,19.59,11,6
+413,Neil Hardwick,16:24:07,19.57,10,14
+211,Jamie Walker,14:00:12,18.66,9,75
+598,Michael Roberts,14:34:08,18.49,11,12
+53,Richard Holgate,15:25:35,18.41,12,11
+51,Clive Ellis,15:37:55,18.34,8,8
+349,Brian Warner,14:37:08,18.17,11,9
+12,Simon Burgess,15:32:02,18.05,12,13
+188,Roger Crab,16:15:34,16.81,7,11
+133,Rupert Fisher,14:39:45,15.64,11,12
+8,Les Paley,15:30:50,15.51,8,10
+277,Kévin Gobin,14:26:52,12.68,8,10
+999,John Montgomery (R/C Quad mast model),15:13:41,5.47,8,12
