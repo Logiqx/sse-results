@@ -1,97 +1,97 @@
-Position,Sail Number,Time,FirstName,LastName,CraftType,Title,Speed,Title,AgeStatus,Novice,Professional
-1,625,14:00:20,Jason,McCaffrey,Kite Board,Result,31.56,Mr,Neither,No,Gold Fleet
-2,622,13:11:17,Richard,Fabbri,Kite Board,Result,30.40,Mr,Neither,Yes,Neither
-3,52,GPS,Patrick,Van Hoof,Sailboard,Result,30.13,Mr,Master,Yes,Gold Fleet
-4,521,GPS,dan,ellis,Sailboard,Result,30.09,Mr,Neither,No,Professional
-5,10,GPS,Anders,Bringdal,Sailboard,Result,29.66,Mr,Neither,No,Professional
-6,115,10:57:24,stephen,corps,Sailboard,Result,29.54,Mr,Neither,No,Gold Fleet
-7,175,10:43:35,Robin,Penna,Sailboard,Result,29.47,Mr,Master,No,Gold Fleet
-8,609,11:59:03,philip,ladbrook,Kite Board,Result,29.07,Mr,Master,Yes,Gold Fleet
-9,68,GPS,MARTYN,OGIER,Sailboard,Result,28.84,Mr,Neither,No,Professional
-10,873,10:59:01,Lance,Newbery,Sailboard,Result,28.55,Mr,Neither,No,Gold Fleet
-11,181,13:17:45,Peter,Martin,Sailboard,Result,28.49,Mr,Neither,No,Neither
-12,157,11:06:57,nigel,spriggs,Sailboard,Result,28.35,Mr,Neither,No,Gold Fleet
-13,14,11:27:01,Ian,Hill,Sailboard,Result,28.31,Mr,Neither,No,Gold Fleet
-14,77,GPS,Anthony,Baker,Sailboard,Result,28.27,Mr,Neither,No,Professional
-15,129,10:55:26,Tim,Fricke,Sailboard,Result,28.07,Mr,Neither,No,Neither
-16,328,13:20:51,Adrian,Wallis,Sailboard,Result,28.05,Mr,Master,No,Gold Fleet
-17,888,13:13:46,Michael,George,Sailboard,Result,27.99,Mr,Neither,No,Neither
-18,69,13:09:42,Gareth,Baker,Sailboard,Result,27.96,Mr,Neither,No,Gold Fleet
-19,63,GPS,Dave,White,Sailboard,Result,27.83,Mr,Neither,No,Professional
-20,203,10:44:22,Dave,Standing,Sailboard,Result,27.69,Mr,Master,No,Gold Fleet
-21,140,14:17:03,Steve,Jones,Sailboard,Result,27.62,Mr,Neither,No,Gold Fleet
-22,151,14:00:47,sam,latham,Sailboard,Result,27.61,Mr,Neither,No,Neither
-23,102,13:18:11,Norman,Petty,Sailboard,Result,27.41,Mr,Master,No,Neither
-24,626,10:45:43,martin,hayes,Kite Board,Result,27.34,Mr,Neither,No,Neither
-25,559,11:04:11,TONY,ATTFIELD,Sailboard,Result,27.31,Mr,Neither,No,Neither
-26,47,GPS,Zara,Davis,Sailboard,Result,27.30,Mrs,Neither,No,Gold Fleet
-27,951,GPS,Fred,Willis,Sailboard,Result,27.28,Mr,Neither,No,Professional
-28,29,10:53:21,Tony,Robinson,Sailboard,Result,27.16,Mr,Master,No,Neither
-29,99,10:57:16,steve,franklyn,Sailboard,Result,27.11,Mr,Neither,Yes,Gold Fleet
-30,56,13:18:53,Tim,Lawes,Sailboard,Result,27.09,Mr,Neither,No,Gold Fleet
-31,76,10:42:01,Simon,Perkins,Sailboard,Result,27.07,Mr,Neither,No,Neither
-32,983,10:50:44,HAMISH,GODDARD,Sailboard,Result,27.00,Mr,Master,Yes,Neither
-33,131,GPS,Paul,Simmons,Sailboard,Result,26.95,Mr,Neither,No,Professional
-34,681,10:43:13,Alan,Cross,Sailboard,Result,26.92,Mr,Master,No,Gold Fleet
-35,358,11:28:42,Gerard,Northwood,Sailboard,Result,26.78,Mr,Master,No,Gold Fleet
-36,568,13:09:17,alex,burges,Sailboard,Result,26.68,Mr,Neither,Yes,Neither
-37,73,GPS,Pete,Davis,Sailboard,Result,26.65,Mr,Neither,No,Professional
-38,50,13:16:26,BARRY,PEARCE,Sailboard,Result,26.55,Mr,Master,No,Neither
-39,79,10:52:24,Rob,King,Sailboard,Result,26.49,Mr,Master,Yes,Neither
-40,93,11:35:44,Richard,Hobson,Sailboard,Result,26.47,Mr,Neither,No,Neither
-41,44,14:23:24,Dave,Strudwick,Sailboard,Result,26.46,Mr,Master,No,Gold Fleet
-42,2,14:14:36,Will,Oscroft,Sailboard,Result,26.24,Mr,Neither,No,Neither
-43,55,11:56:06,James,Lawton,Sailboard,Result,26.23,Mr,Neither,Yes,Neither
-44,133,10:38:59,Mark,Briggs,Sailboard,Result,26.07,Mr,Neither,Yes,Neither
-45,292,13:08:01,Nic,Dodd,Sailboard,Result,25.93,Mr,Neither,No,Neither
-46,15,GPS,Thorsten,Niehaus,Sailboard,Result,25.87,Mr,Neither,No,Professional
-47,51,14:18:31,Clive,Ellis,Sailboard,Result,25.86,Mr,Master,No,Neither
-48,496,11:44:23,Tim,Tarrington,Sailboard,Result,25.68,Mr,Neither,No,Neither
-49,62,13:06:28,Dave,Crowhurst,Sailboard,Result,25.67,Mr,Master,Yes,Neither
-50,43,11:42:01,Simon,Thompson,Sailboard,Result,25.58,Mr,Neither,No,Gold Fleet
-51,3,14:23:55,John,McIntyre,Sailboard,Result,25.49,Mr,Master,No,Neither
-52,113,10:55:03,Rudiger,Lotz,Sailboard,Result,25.40,Mr,Master,No,Gold Fleet
-53,555,10:31:57,claude,Van-martyn,Sailboard,Result,25.36,Mr,Master,No,Neither
-54,143,10:48:54,Charles,Wilson,Sailboard,Result,25.31,Mr,Neither,No,Neither
-55,329,11:34:47,Mark,Collins,Sailboard,Result,25.30,Mr,Master,No,Neither
-56,97,14:34:36,Mike,Price,Sailboard,Result,25.24,Mr,Master,No,Neither
-57,210,14:38:50,Gavin,Nicholson,Sailboard,Result,25.24,Mr,Neither,Yes,Neither
-58,42,14:20:50,John,Langdown,Sailboard,Result,25.21,Mr,Neither,No,Neither
-59,670,10:45:40,Eddie,Murrell,Sailboard,Result,25.15,Mr,Master,No,Gold Fleet
-60,39,14:30:44,Simon,Todd,Sailboard,Result,25.07,Mr,Neither,Yes,Neither
-61,571,10:58:19,Ryan,Dunkling,Sailboard,Result,25.00,Mr,Junior,Yes,Neither
-62,863,10:22:37,Duncan,Adam,Sailboard,Result,24.75,Mr,Master,No,Neither
-63,656,10:54:52,william,robinson,Sailboard,Result,24.74,Mr,Master,No,Neither
-64,12,10:56:26,Jim,Brooks-Dowsett,Sailboard,Result,24.67,Mr,Neither,No,Gold Fleet
-65,760,13:59:51,Antony,Todd,Sailboard,Result,24.51,Mr,Neither,Yes,Neither
-66,49,11:04:35,Jeremy,Gardner,Sailboard,Result,24.46,Mr,Master,Yes,Neither
-67,420,13:05:18,Chris,Etchells,Sailboard,Result,24.43,Mr,Neither,Yes,Neither
-68,1966,13:15:24,Martin,Schramm,Sailboard,Result,24.34,Mr,Neither,Yes,Neither
-69,30,13:59:13,alan,bennett,Sailboard,Result,24.31,Mr,Neither,No,Neither
-70,146,13:11:08,Will,Giles,Sailboard,Result,24.23,Mr,Junior,No,Neither
-71,40,13:08:17,Ian,Hobbs,Sailboard,Result,24.09,Mr,Master,Yes,Neither
-72,353,10:51:39,paul,robinson,Sailboard,Result,24.05,Mr,Master,No,Neither
-73,624,14:54:30,Jenny,Cooper,Kite Board,Result,24.01,Mrs,Master,Yes,Gold Fleet
-74,2811,13:21:56,Henry,Luce,Sailboard,Result,24.00,Mr,Master,No,Neither
-75,88,13:33:17,Richard,Riddell,Sailboard,Result,23.85,Mr,Neither,No,Neither
-76,444,11:33:48,Richard,Haynes,Sailboard,Result,23.84,Mr,Master,No,Neither
-77,330,11:35:40,ALISTAIR,WILLIAMS,Sailboard,Result,23.71,Mr,Master,No,Neither
-78,95,14:03:12,Stephen,Cronshaw,Sailboard,Result,23.59,Mr,Neither,Yes,Neither
-79,24,11:36:29,Trevor,Funnell,Sailboard,Result,23.50,Mr,Master,No,Neither
-80,773,14:53:41,Adrian,Nisbet,Sailboard,Result,23.27,Mr,Neither,Yes,Neither
-81,248,14:00:05,MArcus,Partridge,Sailboard,Result,23.01,Mr,Neither,No,Neither
-82,425,10:59:18,Sam,Jenkins,Sailboard,Result,23.01,Mr,Junior,No,Gold Fleet
-83,8,13:59:29,Raj,Kandasamy,Sailboard,Result,22.80,Mr,Neither,No,Neither
-84,66,11:28:51,Alex,Bennett- Baggs,Sailboard,Result,22.80,Mr,Neither,No,Neither
-85,206,14:03:30,martin,allman,Sailboard,Result,22.14,Mr,Master,No,Neither
-86,349,11:07:31,Bruno,Warner,Sailboard,Result,21.91,Mr,Master,No,Neither
-87,104,11:05:13,Will,Houghton,Sailboard,Result,21.53,Mr,Junior,Yes,Neither
-88,23,11:51:45,barry,mason,Sailboard,Result,21.53,Mr,Master,No,Neither
-89,343,11:59:26,andrew,robinson,Sailboard,Result,21.49,Mr,Junior,No,Neither
-90,90,14:53:59,ian,blundell,Sailboard,Result,21.23,Mr,Neither,Yes,Neither
-91,852,13:57:08,Henry,Bloodworth,Sailboard,Result,19.39,Mr,Junior,No,Neither
-92,714,11:07:52,Emily,Hall,Sailboard,Result,16.72,Miss,Junior,Yes,Gold Fleet
-93,112,14:35:43,Emily,Wood,Sailboard,Result,15.03,Miss,Neither,No,Neither
-94,101,13:09:58,Torix,Bennett,Boat,Result,12.35,Mr,Master,No,Gold Fleet
-95,54,13:46:22,Alan,Blundell,Boat,Result,12.27,Mr,Master,No,Neither
-96,5,14:39:49,Jean,Hurtado,Boat,Result,5.29,Mr,Master,No,Neither
+Position,Sail Number,Time,Title,First Name,Last Name,Craft Type,Speed (kts),AgeStatus,Novice,Professional
+1,625,14:00:20,Mr,Jason,McCaffrey,Kite Board,31.56,Neither,No,Gold Fleet
+2,622,13:11:17,Mr,Richard,Fabbri,Kite Board,30.4,Neither,Yes,Neither
+3,52,GPS,Mr,Patrick,Van Hoof,Sailboard,30.13,Master,Yes,Gold Fleet
+4,521,GPS,Mr,dan,ellis,Sailboard,30.09,Neither,No,Professional
+5,10,GPS,Mr,Anders,Bringdal,Sailboard,29.66,Neither,No,Professional
+6,115,10:57:24,Mr,stephen,corps,Sailboard,29.54,Neither,No,Gold Fleet
+7,175,10:43:35,Mr,Robin,Penna,Sailboard,29.47,Master,No,Gold Fleet
+8,609,11:59:03,Mr,philip,ladbrook,Kite Board,29.07,Master,Yes,Gold Fleet
+9,68,GPS,Mr,MARTYN,OGIER,Sailboard,28.84,Neither,No,Professional
+10,873,10:59:01,Mr,Lance,Newbery,Sailboard,28.55,Neither,No,Gold Fleet
+11,181,13:17:45,Mr,Peter,Martin,Sailboard,28.49,Neither,No,Neither
+12,157,11:06:57,Mr,nigel,spriggs,Sailboard,28.35,Neither,No,Gold Fleet
+13,14,11:27:01,Mr,Ian,Hill,Sailboard,28.31,Neither,No,Gold Fleet
+14,77,GPS,Mr,Anthony,Baker,Sailboard,28.27,Neither,No,Professional
+15,129,10:55:26,Mr,Tim,Fricke,Sailboard,28.07,Neither,No,Neither
+16,328,13:20:51,Mr,Adrian,Wallis,Sailboard,28.05,Master,No,Gold Fleet
+17,888,13:13:46,Mr,Michael,George,Sailboard,27.99,Neither,No,Neither
+18,69,13:09:42,Mr,Gareth,Baker,Sailboard,27.96,Neither,No,Gold Fleet
+19,63,GPS,Mr,Dave,White,Sailboard,27.83,Neither,No,Professional
+20,203,10:44:22,Mr,Dave,Standing,Sailboard,27.69,Master,No,Gold Fleet
+21,140,14:17:03,Mr,Steve,Jones,Sailboard,27.62,Neither,No,Gold Fleet
+22,151,14:00:47,Mr,sam,latham,Sailboard,27.61,Neither,No,Neither
+23,102,13:18:11,Mr,Norman,Petty,Sailboard,27.41,Master,No,Neither
+24,626,10:45:43,Mr,martin,hayes,Kite Board,27.34,Neither,No,Neither
+25,559,11:04:11,Mr,TONY,ATTFIELD,Sailboard,27.31,Neither,No,Neither
+26,47,GPS,Mrs,Zara,Davis,Sailboard,27.3,Neither,No,Gold Fleet
+27,951,GPS,Mr,Fred,Willis,Sailboard,27.28,Neither,No,Professional
+28,29,10:53:21,Mr,Tony,Robinson,Sailboard,27.16,Master,No,Neither
+29,99,10:57:16,Mr,steve,franklyn,Sailboard,27.11,Neither,Yes,Gold Fleet
+30,56,13:18:53,Mr,Tim,Lawes,Sailboard,27.09,Neither,No,Gold Fleet
+31,76,10:42:01,Mr,Simon,Perkins,Sailboard,27.07,Neither,No,Neither
+32,983,10:50:44,Mr,HAMISH,GODDARD,Sailboard,27,Master,Yes,Neither
+33,131,GPS,Mr,Paul,Simmons,Sailboard,26.95,Neither,No,Professional
+34,681,10:43:13,Mr,Alan,Cross,Sailboard,26.92,Master,No,Gold Fleet
+35,358,11:28:42,Mr,Gerard,Northwood,Sailboard,26.78,Master,No,Gold Fleet
+36,568,13:09:17,Mr,alex,burges,Sailboard,26.68,Neither,Yes,Neither
+37,73,GPS,Mr,Pete,Davis,Sailboard,26.65,Neither,No,Professional
+38,50,13:16:26,Mr,BARRY,PEARCE,Sailboard,26.55,Master,No,Neither
+39,79,10:52:24,Mr,Rob,King,Sailboard,26.49,Master,Yes,Neither
+40,93,11:35:44,Mr,Richard,Hobson,Sailboard,26.47,Neither,No,Neither
+41,44,14:23:24,Mr,Dave,Strudwick,Sailboard,26.46,Master,No,Gold Fleet
+42,2,14:14:36,Mr,Will,Oscroft,Sailboard,26.24,Neither,No,Neither
+43,55,11:56:06,Mr,James,Lawton,Sailboard,26.23,Neither,Yes,Neither
+44,133,10:38:59,Mr,Mark,Briggs,Sailboard,26.07,Neither,Yes,Neither
+45,292,13:08:01,Mr,Nic,Dodd,Sailboard,25.93,Neither,No,Neither
+46,15,GPS,Mr,Thorsten,Niehaus,Sailboard,25.87,Neither,No,Professional
+47,51,14:18:31,Mr,Clive,Ellis,Sailboard,25.86,Master,No,Neither
+48,496,11:44:23,Mr,Tim,Tarrington,Sailboard,25.68,Neither,No,Neither
+49,62,13:06:28,Mr,Dave,Crowhurst,Sailboard,25.67,Master,Yes,Neither
+50,43,11:42:01,Mr,Simon,Thompson,Sailboard,25.58,Neither,No,Gold Fleet
+51,3,14:23:55,Mr,John,McIntyre,Sailboard,25.49,Master,No,Neither
+52,113,10:55:03,Mr,Rudiger,Lotz,Sailboard,25.4,Master,No,Gold Fleet
+53,555,10:31:57,Mr,claude,Van-martyn,Sailboard,25.36,Master,No,Neither
+54,143,10:48:54,Mr,Charles,Wilson,Sailboard,25.31,Neither,No,Neither
+55,329,11:34:47,Mr,Mark,Collins,Sailboard,25.3,Master,No,Neither
+56,97,14:34:36,Mr,Mike,Price,Sailboard,25.24,Master,No,Neither
+57,210,14:38:50,Mr,Gavin,Nicholson,Sailboard,25.24,Neither,Yes,Neither
+58,42,14:20:50,Mr,John,Langdown,Sailboard,25.21,Neither,No,Neither
+59,670,10:45:40,Mr,Eddie,Murrell,Sailboard,25.15,Master,No,Gold Fleet
+60,39,14:30:44,Mr,Simon,Todd,Sailboard,25.07,Neither,Yes,Neither
+61,571,10:58:19,Mr,Ryan,Dunkling,Sailboard,25,Junior,Yes,Neither
+62,863,10:22:37,Mr,Duncan,Adam,Sailboard,24.75,Master,No,Neither
+63,656,10:54:52,Mr,william,robinson,Sailboard,24.74,Master,No,Neither
+64,12,10:56:26,Mr,Jim,Brooks-Dowsett,Sailboard,24.67,Neither,No,Gold Fleet
+65,760,13:59:51,Mr,Antony,Todd,Sailboard,24.51,Neither,Yes,Neither
+66,49,11:04:35,Mr,Jeremy,Gardner,Sailboard,24.46,Master,Yes,Neither
+67,420,13:05:18,Mr,Chris,Etchells,Sailboard,24.43,Neither,Yes,Neither
+68,1966,13:15:24,Mr,Martin,Schramm,Sailboard,24.34,Neither,Yes,Neither
+69,30,13:59:13,Mr,alan,bennett,Sailboard,24.31,Neither,No,Neither
+70,146,13:11:08,Mr,Will,Giles,Sailboard,24.23,Junior,No,Neither
+71,40,13:08:17,Mr,Ian,Hobbs,Sailboard,24.09,Master,Yes,Neither
+72,353,10:51:39,Mr,paul,robinson,Sailboard,24.05,Master,No,Neither
+73,624,14:54:30,Mrs,Jenny,Cooper,Kite Board,24.01,Master,Yes,Gold Fleet
+74,2811,13:21:56,Mr,Henry,Luce,Sailboard,24,Master,No,Neither
+75,88,13:33:17,Mr,Richard,Riddell,Sailboard,23.85,Neither,No,Neither
+76,444,11:33:48,Mr,Richard,Haynes,Sailboard,23.84,Master,No,Neither
+77,330,11:35:40,Mr,ALISTAIR,WILLIAMS,Sailboard,23.71,Master,No,Neither
+78,95,14:03:12,Mr,Stephen,Cronshaw,Sailboard,23.59,Neither,Yes,Neither
+79,24,11:36:29,Mr,Trevor,Funnell,Sailboard,23.5,Master,No,Neither
+80,773,14:53:41,Mr,Adrian,Nisbet,Sailboard,23.27,Neither,Yes,Neither
+81,248,14:00:05,Mr,MArcus,Partridge,Sailboard,23.01,Neither,No,Neither
+82,425,10:59:18,Mr,Sam,Jenkins,Sailboard,23.01,Junior,No,Gold Fleet
+83,8,13:59:29,Mr,Raj,Kandasamy,Sailboard,22.8,Neither,No,Neither
+84,66,11:28:51,Mr,Alex,Bennett- Baggs,Sailboard,22.8,Neither,No,Neither
+85,206,14:03:30,Mr,martin,allman,Sailboard,22.14,Master,No,Neither
+86,349,11:07:31,Mr,Bruno,Warner,Sailboard,21.91,Master,No,Neither
+87,104,11:05:13,Mr,Will,Houghton,Sailboard,21.53,Junior,Yes,Neither
+88,23,11:51:45,Mr,barry,mason,Sailboard,21.53,Master,No,Neither
+89,343,11:59:26,Mr,andrew,robinson,Sailboard,21.49,Junior,No,Neither
+90,90,14:53:59,Mr,ian,blundell,Sailboard,21.23,Neither,Yes,Neither
+91,852,13:57:08,Mr,Henry,Bloodworth,Sailboard,19.39,Junior,No,Neither
+92,714,11:07:52,Miss,Emily,Hall,Sailboard,16.72,Junior,Yes,Gold Fleet
+93,112,14:35:43,Miss,Emily,Wood,Sailboard,15.03,Neither,No,Neither
+94,101,13:09:58,Mr,Torix,Bennett,Boat,12.35,Master,No,Gold Fleet
+95,54,13:46:22,Mr,Alan,Blundell,Boat,12.27,Master,No,Neither
+96,5,14:39:49,Mr,Jean,Hurtado,Boat,5.29,Master,No,Neither
