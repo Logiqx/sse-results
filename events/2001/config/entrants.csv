@@ -5,9 +5,10 @@ ID,First Name,Family Name,Sail Number,Craft Type,Boat Name
 4,John,Peperell,13,Boat,Catapult (Slewcat)
 5,Alan,Blundell,18,Boat,Triscaph (Vari Scari)
 6,Didier,Costes,29,Boat,Exoplane 5
-7,Chris,Evans,30/33,Boat,Foiler 21 (Boomerang)
+7,Chris,Evans,30,Boat,Foiler 21 (Boomerang)
+52,Chris,Evans,33,Boat,
 8,Patrick,Mayne,50,Boat,Foiler 21 (Speedbird)
-9,Philip,Middleton,99,Boat,Trimaran (Triton Chariot)
+9,Chris/Philip,Evans/Middleton,99,Boat,Trimaran (Triton Chariot)
 10,Torix,Bennett,101,Boat,Triscaph (Sea Spider)
 11,Andy,,114,Boat,
 12,Guy,Hawkins,222,Boat,Proa (Made in Dubai)
