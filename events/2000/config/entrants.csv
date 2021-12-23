@@ -3,7 +3,8 @@ ID,First Name,Family Name,Sail Number,Craft Type,Boat Name
 2,,,274,TBC,
 3,Bob,Hill,61,Boat,Catapult
 4,Alex,Montgomery,1,Boat,Catapult
-5,John,Peperell,13/501,Boat,Catapult (Slewcat)
+5,John,Peperell,13,Boat,Catapult (Slewcat)
+55,John,Peperell,501,Boat,Catapult
 6,Alan,Blundell,18,Boat,Triscaph (Vari Scari)
 7,Dick,Ogilvie,25,Boat,Catamaran (Concept 25)
 8,George,Chapman,28,Boat,
