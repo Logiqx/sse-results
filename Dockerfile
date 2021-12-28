@@ -18,7 +18,7 @@ RUN jupyter nbconvert --to python python/*.ipynb && \
 RUN chmod 755 python/*.py
 
 # Create final image from Python 3 + Beautiful Soup 4 on Alpine Linux
-FROM logiqx/python-lxml:${PYTHON_VERSION}-alpine${ALPINE_VERSION}
+FROM python:${PYTHON_VERSION}-alpine${ALPINE_VERSION}
 
 # Note: Jovian is a fictional native inhabitant of the planet Jupiter
 ARG PY_USER=jovyan
@@ -37,15 +37,14 @@ RUN apk add --no-cache tini=~0.19
 
 # Install Python libraries
 RUN pip install --no-cache-dir \
-    beautifulsoup4==4.9.* \
-    matplotlib==3.3.* \
-    numpy==1.20.* \
-    requests==2.25.* \
-    scipy==1.6.* \
+    beautifulsoup4==4.10.* \
+    Levenshtein==0.16.* \
+    lxml==4.7.* \
+    matplotlib==3.5.* \
+    numpy==1.21.* \
+    pyphonetics==0.5.* \
+    scipy==1.7.* \
     xlrd==1.2.*
-
-# Install Levenshtein and pyphonetics seperately to benefit from image layers
-RUN pip install --no-cache-dir Levenshtein==0.16.* pyphonetics==0.5.*
 
 # Copy project files from the builder
 USER ${PY_USER}
