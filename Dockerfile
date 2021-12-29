@@ -39,6 +39,7 @@ RUN apt-get update && apt-get install -y --no-install-recommends tini=0.19.* \
 # Install Python libraries
 RUN pip install --no-cache-dir \
     beautifulsoup4==4.10.* \
+    Jinja2==3.0.* \
     Levenshtein==0.16.* \
     lxml==4.7.* \
     matplotlib==3.5.* \
