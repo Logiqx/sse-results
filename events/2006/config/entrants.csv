@@ -56,7 +56,7 @@ ID,First Name,Family Name,Country,Age Status,Craft Type,Description,Pro,Sponsors
 57,Denis,Royet,UK,Neither,Sailboard,"Boards: Exocet S4II, Exocet TB62, Proto Sails: Gaastra 5.9, 6.3, 7, 8.5, 9.8 ",No,,,46
 58,Dan,Ellis,UK,Neither,Sailboard,Fanatic Boards Naish Sails,Yes,Fanatic Naish,Dan-Ellis.com,52
 59,Chris,Addison,UK,Neither,Sailboard,Starboard ST126 and tushingham lightning 7.8,No,,www.windsurf.co.uk,711
-60,John,Sanderson,UK,Neither,Sailboard,,No,,,180
+60,John,Sanderson,UK,Neither,Sailboard,,Yes,,,180
 61,Jane,Sanderson,UK,Neither,Sailboard,,No,,,780
 62,Daniel,Robinson,England,Neither,Sailboard,,No,,,161
 63,John,Keohane,UK,Neither,Sailboard,To be decided,Please Select,N/A,,60
@@ -71,7 +71,7 @@ ID,First Name,Family Name,Country,Age Status,Craft Type,Description,Pro,Sponsors
 73,Simon,Olley,UK,Neither,Sailboard,,No,,,953
 74,Steve,Mather,UK,Master,Sailboard,,No,,,134
 75,Peter,Watkinson,UK,Neither,Sailboard,,No,,,808
-76,Sam,Gooch,England,Junior,Sailboard,formula kit and f2xspeed Board f2 2005 formula board North sails 11.m 10.m 9.m tushingham 8.5m 7.5m 6.5m 5.5,No,,,GBR 945
+76,Sam,Gooch,England,Junior,Sailboard,formula kit and f2xspeed Board f2 2005 formula board North sails 11.m 10.m 9.m tushingham 8.5m 7.5m 6.5m 5.5,No,,,945
 77,Ian,Hill,UK,Neither,Sailboard,,No,,,14
 78,Nigel,Bowley,uk,Neither,Kite Board,"Speeeed kite board, 4 line kites ",Yes,north kites,north kites.com,625
 79,Chris,Edwards,UK,Master,Boat,"Daddy Long Legs Hydrofoil Catamaran Length 8m, beam 8m, draught 2m ",No,,,404
@@ -80,7 +80,6 @@ ID,First Name,Family Name,Country,Age Status,Craft Type,Description,Pro,Sponsors
 82,Charles,Thompson,UK,Master,Boat,Hobie TriFoiler,No,,,701
 83,Charles,Thompson,UK,Master,Boat,Hobie TriFoiler.,No,,,138
 84,Roger,Clark,United Kingdom,Master,Sailboard,Windsurfer,No,n/a,,88
-85,Sam,Gooch,England,Junior,Sailboard,Formula kit ?,No,,,945
 86,Kevin,Greenslade,England,Neither,Sailboard,Naish,Yes,Naish,,82
 87,Tristan,Drane,UK,Neither,Sailboard,"Fanatic Falcon, Tushingham X15 ",Yes,Jonti Sailboards,www.jonti.co.uk,7
 88,Andres,Avila Melo,Spain,Neither,Sailboard,thommen boards and North Sails,Yes,"Playas de Jandia, Canarias, Fuertwagen. No Work Team, ION ",,300
@@ -115,7 +114,7 @@ ID,First Name,Family Name,Country,Age Status,Craft Type,Description,Pro,Sponsors
 119,Trevor,Whatford,England,Master,Sailboard,,No,,,27
 120,Richard,Trubger,UK,Master,Kite Board,Trudesigns custom,No,,,124/611
 121,Kévin,Gobin,FRANCE,Neither,Boat,catamaran with tunnel under the hulls,Yes,HULL SPEED E 108,,277
-122,Dave,White,,,Sailboard,,,,,63
+122,Dave,White,,,Sailboard,,Yes,,,63
 123,Allan,Cross,,,Sailboard,,,,,68
 124,Torix,Bennett,,,Boat,,,,,101
 125,David,Ellerbeck,,,Sailboard,,,,,122
@@ -123,7 +122,7 @@ ID,First Name,Family Name,Country,Age Status,Craft Type,Description,Pro,Sponsors
 127,Roger,Crabb,,,Sailboard,,,,,188
 128,Tony,Ireland,,,Sailboard,,,,,480
 129,Will,Oscroft,,,Sailboard,,,,,4
-130,Bjorn,Dunkerbeck,,,Sailboard,,,,,11
+130,Bjorn,Dunkerbeck,,,Sailboard,,Yes,,,11
 131,Eugen,Dunkerbeck,,,Sailboard,,,,,112
 132,Steve,Thorp,,,Sailboard,,,,,777/434
 133,John,Montgomery,,,Boat,R/C Quad mast model,,,,999
