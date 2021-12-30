@@ -1,4 +1,4 @@
-ID,Sail Number,Title,First Name,Family Name,Craft,Age Status,Novice,Professional
+ID,Sail Number,Title,First Name,Family Name,Craft Type,Age Status,Novice,Professional
 1,10,Mr,Ricky,Wooding,Sailboard,Neither,No,No
 2,11,Mr,Bjorn,Dunkerbeck,Sailboard,Neither,No,Yes
 3,14,Mr,Ian,Hill,Sailboard,Neither,No,No
