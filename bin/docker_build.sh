@@ -13,6 +13,7 @@ run_py_script name.py
 run_py_script fuzzy.py
 run_py_script entrant.py
 run_py_script filter.py
+run_py_script reports.py
 run_py_script speedrun.py
 run_py_script period.py
 run_py_script course.py
