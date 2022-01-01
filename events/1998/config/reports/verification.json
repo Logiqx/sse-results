@@ -1,0 +1,11 @@
+{
+  "SupTitle": "Verification Reports",
+  "Fields": "Name,Country,Craft Type,Speed (kts)",
+  "ShowSpeeds": 10,
+  "Reports": [
+    {
+      "Title": "All Day",
+      "Period": "Session"
+    }
+  ]
+}
