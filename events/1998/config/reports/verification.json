@@ -1,6 +1,6 @@
 {
   "SupTitle": "Verification Reports",
-  "Fields": "Name,Country,Craft Type,Speed (kts)",
+  "Fields": "Name,Country,Sail Number,Craft Type,Speed (kts)",
   "ShowSpeeds": 10,
   "Reports": [
     {

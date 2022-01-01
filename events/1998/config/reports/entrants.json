@@ -1,26 +1,28 @@
 {
   "SupTitle": "Overall Rankings by Craft Type",
   "Period": "Event",
-  "Fields": "Name,Country",
   "Reports": [
     {
       "Title": "All Craft",
-      "Fields": "Name,Country,Craft Type"
+      "Fields": "Name,Country,Sail Number,Craft Type"
     },
     {
       "Title": "Known Boats",
       "Subtitle": "(partial list due to unclassified craft)",
-      "Filter": "Craft Type=Boat"
+      "Filter": "Craft Type=Boat",
+      "Fields": "Name,Country,Sail Number,Boat Name"
     },
     {
       "Title": "Known Sailboards",
       "Subtitle": "(partial list due to unclassified craft)",
-      "Filter": "Craft Type=Sailboard"
+      "Filter": "Craft Type=Sailboard",
+      "Fields": "Name,Country,Sail Number"
     },
     {
       "Title": "Unclassified Craft",
       "Subtitle": "(craft type TBC)",
-      "Filter": "Craft Type=TBC"
+      "Filter": "Craft Type=TBC",
+      "Fields": "Name,Country,Sail Number"
     }
   ]
 }

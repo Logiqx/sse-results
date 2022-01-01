@@ -6,7 +6,7 @@
   "Reports": [
     {
       "Title": "All Craft",
-      "Fields": "Name,Country,Craft Type,Course,Start Time,Speed (kts)"
+      "Fields": "Name,Country,Sail Number,Craft Type,Course,Start Time,Speed (kts)"
     }
   ]
 }
