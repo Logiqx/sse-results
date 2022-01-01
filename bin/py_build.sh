@@ -15,6 +15,7 @@ docker run --rm --entrypoint cat $IMAGE_NAME:$IMAGE_TAG $WORK_DIR/python/name.py
 docker run --rm --entrypoint cat $IMAGE_NAME:$IMAGE_TAG $WORK_DIR/python/fuzzy.py >$PROJ_DIR/python/fuzzy.py
 docker run --rm --entrypoint cat $IMAGE_NAME:$IMAGE_TAG $WORK_DIR/python/entrant.py >$PROJ_DIR/python/entrant.py
 docker run --rm --entrypoint cat $IMAGE_NAME:$IMAGE_TAG $WORK_DIR/python/filter.py >$PROJ_DIR/python/filter.py
+docker run --rm --entrypoint cat $IMAGE_NAME:$IMAGE_TAG $WORK_DIR/python/reports.py >$PROJ_DIR/python/reports.py
 docker run --rm --entrypoint cat $IMAGE_NAME:$IMAGE_TAG $WORK_DIR/python/speedrun.py >$PROJ_DIR/python/speedrun.py
 docker run --rm --entrypoint cat $IMAGE_NAME:$IMAGE_TAG $WORK_DIR/python/period.py >$PROJ_DIR/python/period.py
 docker run --rm --entrypoint cat $IMAGE_NAME:$IMAGE_TAG $WORK_DIR/python/course.py >$PROJ_DIR/python/course.py
