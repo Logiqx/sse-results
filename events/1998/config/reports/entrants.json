@@ -1,6 +1,7 @@
 {
-  "Suptitle": "Overall Rankings by Craft Type",
+  "Suptitle": "Entrants by Craft Type",
   "Period": "Event",
+  "Rank": false,
   "Sort": "Name=ASC,Sail Number=ASC",
   "Reports": [
     {
