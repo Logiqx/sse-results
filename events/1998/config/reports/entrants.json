@@ -1,6 +1,7 @@
 {
   "Suptitle": "Overall Rankings by Craft Type",
   "Period": "Event",
+  "Sort": "Name=ASC",
   "Reports": [
     {
       "Title": "All Craft",
