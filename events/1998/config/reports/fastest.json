@@ -2,11 +2,11 @@
   "Fields": "Name,Country,Sail Number,Course,Start Time,Speed (kts)",
   "Periods": [
     {
-      "SupTitle": "Fastest of the Day",
+      "Suptitle": "Fastest of the Day",
       "Period": "Session"
     },
     {
-      "SupTitle": "Fastest of the Week",
+      "Suptitle": "Fastest of the Week",
       "Period": "Event",
       "HideFields": "Course,Start Time"
     }
