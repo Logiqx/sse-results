@@ -2,11 +2,11 @@
   "Fields": "Name,Country,Sail Number,Course,Start Time,Speed (kts)",
   "Periods": [
     {
-      "SupTitle": "Day Rankings by Craft Type",
+      "Suptitle": "Day Rankings by Craft Type",
       "Period": "Session"
     },
     {
-      "SupTitle": "Overall Rankings by Craft Type",
+      "Suptitle": "Overall Rankings by Craft Type",
       "Period": "Event",
       "HideFields": "Course,Start Time"
     }
