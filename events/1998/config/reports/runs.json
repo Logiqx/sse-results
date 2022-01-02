@@ -2,11 +2,11 @@
   "Suptitle": "All Runs of the Day",
   "Period": "Session",
   "Rank": false,
-  "Sort": "Name=ASC,Start Time=ASC",
+  "Sort": "Name=ASC,Time=ASC",
   "Reports": [
     {
       "Title": "All Craft",
-      "Fields": "Name,Country,Sail Number,Craft Type,Course,Start Time,Speed (kts)"
+      "Fields": "Name,Country,Sail Number,Craft Type,Course,Time,Speed (kts)"
     }
   ]
 }

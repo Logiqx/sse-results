@@ -1,7 +1,7 @@
 {
   "Suptitle": "Overall Rankings by Craft Type",
   "Period": "Event",
-  "Sort": "Name=ASC",
+  "Sort": "Name=ASC,Sail Number=ASC",
   "Reports": [
     {
       "Title": "All Craft",
