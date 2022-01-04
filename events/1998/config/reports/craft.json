@@ -1,5 +1,5 @@
 {
-  "Fields": "Name,Country,Sail Number,Course,Time,Speed (kts)",
+  "Fields": "Name,Nationality,Sail Number,Course,Time,Speed (kts)",
   "Periods": [
     {
       "Suptitle": "Day Rankings by Craft Type",
@@ -15,14 +15,14 @@
   "Reports": [
     {
       "Title": "Fastest Overall",
-      "Fields": "Name,Country,Sail Number,Craft Type,Course,Time,Speed (kts)",
+      "Fields": "Name,Nationality,Sail Number,Craft Type,Course,Time,Speed (kts)",
       "Trophy": true
     },
     {
       "Title": "Fastest Boat",
       "Subtitle": "(partial list due to unclassified craft)",
       "Filter": "Craft Type=Boat",
-      "Fields": "Name,Country,Sail Number,Boat Name,Course,Time,Speed (kts)",
+      "Fields": "Name,Nationality,Sail Number,Boat Name,Course,Time,Speed (kts)",
       "Trophy": true
     },
     {
