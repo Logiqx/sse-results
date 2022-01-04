@@ -1,0 +1,41 @@
+{
+  "Fields": "Name,Nation,Sail Number,Course,Time,Speed (kts)",
+  "Periods": [
+    {
+      "Suptitle": "Day Rankings by Craft Type",
+      "Period": "Session"
+    },
+    {
+      "Suptitle": "Overall Rankings by Craft Type",
+      "Period": "Event",
+      "HideFields": "Course,Time"
+    }
+  ],
+  "Profile": true,
+  "Reports": [
+    {
+      "Title": "Fastest Overall",
+      "Fields": "Name,Nation,Sail Number,Craft Type,Course,Time,Speed (kts)",
+      "Trophy": true
+    },
+    {
+      "Title": "Fastest Boat",
+      "Subtitle": "(partial list due to unclassified craft)",
+      "Filter": "Craft Type=Boat",
+      "Fields": "Name,Nation,Sail Number,Boat Name,Course,Time,Speed (kts)",
+      "Trophy": true
+    },
+    {
+      "Title": "Fastest Sailboard",
+      "Subtitle": "(partial list due to unclassified craft)",
+      "Filter": "Craft Type=Sailboard",
+      "Trophy": true
+    },
+    {
+      "Title": "Fastest Unclassified Craft",
+      "Subtitle": "(craft type TBC)",
+      "Filter": "Craft Type=TBC",
+      "Warning": true
+    }
+  ]
+}
