@@ -6,25 +6,25 @@
   "Reports": [
     {
       "Title": "All Craft",
-      "Fields": "Name,Country,Sail Number,Craft Type"
+      "Fields": "Name,Nationality,Sail Number,Craft Type"
     },
     {
       "Title": "Known Boats",
       "Subtitle": "(partial list due to unclassified craft)",
       "Filter": "Craft Type=Boat",
-      "Fields": "Name,Country,Sail Number,Boat Name"
+      "Fields": "Name,Nationality,Sail Number,Boat Name"
     },
     {
       "Title": "Known Sailboards",
       "Subtitle": "(partial list due to unclassified craft)",
       "Filter": "Craft Type=Sailboard",
-      "Fields": "Name,Country,Sail Number"
+      "Fields": "Name,Nationality,Sail Number"
     },
     {
       "Title": "Unclassified Craft",
       "Subtitle": "(craft type TBC)",
       "Filter": "Craft Type=TBC",
-      "Fields": "Name,Country,Sail Number"
+      "Fields": "Name,Nationality,Sail Number"
     }
   ]
 }
