@@ -1,0 +1,30 @@
+{
+  "Suptitle": "Entrants by Craft Type",
+  "Period": "Event",
+  "Rank": false,
+  "Sort": "Name=ASC,Sail Number=ASC",
+  "Reports": [
+    {
+      "Title": "All Craft",
+      "Fields": "Name,Nation,Sail Number,Craft Type"
+    },
+    {
+      "Title": "Known Boats",
+      "Subtitle": "(partial list due to unclassified craft)",
+      "Filter": "Craft Type=Boat",
+      "Fields": "Name,Nation,Sail Number,Boat Name"
+    },
+    {
+      "Title": "Known Sailboards",
+      "Subtitle": "(partial list due to unclassified craft)",
+      "Filter": "Craft Type=Sailboard",
+      "Fields": "Name,Nation,Sail Number"
+    },
+    {
+      "Title": "Unclassified Craft",
+      "Subtitle": "(craft type TBC)",
+      "Filter": "Craft Type=TBC",
+      "Fields": "Name,Nation,Sail Number"
+    }
+  ]
+}
