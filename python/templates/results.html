@@ -2,6 +2,7 @@
 {% block content %}
       <h1>{{ title }}</h1>
       {% for report in reports %}
+	  {% if report.results|length > 0 %}
       <h2>{{ report.title }}</h2>
       {% if report.subtitle is not none %}
         <h3>{{ report.subtitle }}</h3>
@@ -20,5 +21,6 @@
         </tr>
         {% endfor %}
       </table>
+      {% endif %}
       {% endfor %}
 {% endblock %}
