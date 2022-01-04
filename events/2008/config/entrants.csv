@@ -38,7 +38,7 @@ ID,Sail Number,Title,First Name,Family Name,Nationality,Craft Type
 37,144,Mr,Steve,Giles,,Sailboard
 38,276,Mr,Ian,Grounds,,Sailboard
 39,98,Mr,Niels,Haarbosch,,Sailboard
-40,841,?,Par,Hakansson,,Sailboard
+40,841,Mr,Par,Hakansson,,Sailboard
 41,624,Mr,Martin,Hayes,,Kite Board
 42,917,Mr,Florian,Hildebrand,,Sailboard
 43,14,Mr,Ian,Hill,,Sailboard
@@ -57,7 +57,7 @@ ID,Sail Number,Title,First Name,Family Name,Nationality,Craft Type
 56,23,Mr,Barry,Mason,,Sailboard
 57,609,Mr,Jason,McCaffrey,,Kite Board
 58,100,Mr,Mark,Minter,,Sailboard
-59,171,?,Alex,Mitchell,,Sailboard
+59,171,,Alex,Mitchell,,Sailboard
 60,145,Mr,David,Mordecai,,Sailboard
 61,38,Mr,J.R.,Morris,,Sailboard
 62,17,Mr,Paul,Morris,,Sailboard
