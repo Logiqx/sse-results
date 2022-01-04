@@ -1,0 +1,24 @@
+{% extends "wsw.html" %}
+{% block content %}
+      <h1>{{ title }}</h1>
+      {% for report in reports %}
+      <h2>{{ report.title }}</h2>
+      {% if report.subtitle is not none %}
+        <h3>{{ report.subtitle }}</h3>
+      {% endif %}
+      <table border="1">
+        <tr>
+        {% for field in report.fields %}
+          <th>{{ field }}</th>
+        {% endfor %}
+        </tr>
+        {% for result in report.results %}
+        <tr>
+          {% for value in result %}
+          <td>{{ value }}</td>
+          {% endfor %}
+        </tr>
+        {% endfor %}
+      </table>
+      {% endfor %}
+{% endblock %}
