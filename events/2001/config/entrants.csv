@@ -1,53 +1,53 @@
-ID,First Name,Family Name,Sail Number,Craft Type,Boat Name
-1,Jean,Hurtado,81,,
-2,Alex,Montgomery,1,Boat,Catapult
-3,Fred,Ball,10,Boat,CopyCat
-4,John,Peperell,13,Boat,Catapult (Slewcat)
-5,Alan,Blundell,18,Boat,Triscaph (Vari Scari)
-6,Didier,Costes,29,Boat,Exoplane 5
-7,Chris,Evans,30,Boat,Foiler 21 (Boomerang)
-52,Chris,Evans,33,Boat,
-8,Patrick,Mayne,50,Boat,Foiler 21 (Speedbird)
-9,Chris/Philip,Evans/Middleton,99,Boat,Trimaran (Triton Chariot)
-10,Torix,Bennett,101,Boat,Triscaph (Sea Spider)
-11,Andy,,114,Boat,Hurricane Catamaran
-12,Guy,Hawkins,222,Boat,Proa (Made in Dubai)
-13,Slade,Penoyre,503,Boat,Catapult + Hapa
-14,Niels,Haarbosch,576,Boat,Flaxcat
-51,Niels,Haarbosch,444,Boat,Kiteboat
-15,John,Perry,555,Boat,2-foil Trimaran
-16,Robin,Ball,2,Sailboard,
-17,Matthew,Brown,3,Sailboard,
-18,Robbie,Brotherwood,4,Sailboard,
-19,Graham,Holbert,5,Sailboard,
-20,Rob,Gough,6,Sailboard,
-21,Angus,Hitchin,7,Sailboard,
-22,Les,Paley,8,Sailboard,
-23,Mike,Pearce,9,Sailboard,
-24,Tony,Morris,11,Sailboard,
-25,Steven,Summerfield,12,Sailboard,
-26,Ian,Hill,14,Sailboard,
-27,James,Paine,17,Sailboard,
-28,Richard,Ashenden,19,Sailboard,
-29,Jeremy,Walwin,20,Sailboard,
-30,Vanessa,Miles,22,Sailboard,
-31,Trevor,Whatford,27,Sailboard,
-32,John,May,37,Sailboard,
-33,Pierre,Saville,38,Sailboard,
-34,Ed,Gollop,41,Sailboard,
-35,Dale,Clarke,44,Sailboard,
-36,Stacey,Vass,47,Sailboard,
-37,Kim,Newman,68,Sailboard,
-38,Roger,Crabb,88,Sailboard,
-39,Nick,Povey,111,Sailboard,
-40,Richard,Trubger,124,Sailboard,
-41,Sean,Carroll,171,Sailboard,
-42,Peter,Martin,181,Sailboard,
-43,David,Goodrich,197,Sailboard,
-44,Richard,Jones,213,Sailboard,
-45,Nick,Beaney,386,Sailboard,
-46,Bob,Spagnoletti,639,Sailboard,
-47,Paul,Sleightholm,671,Sailboard,
-48,Peter,Watkinson,808,Sailboard,
-49,Andrew,Macdonald,39,Kite Board,
-50,Chris,Calthrop,48,Kite Board,
+ID,First Name,Family Name,Nationality,Sail Number,Craft Type,Boat Name
+1,Jean,Hurtado,,81,,
+2,Alex,Montgomery,,1,Boat,Catapult
+3,Fred,Ball,,10,Boat,CopyCat
+4,John,Peperell,,13,Boat,Catapult (Slewcat)
+5,Alan,Blundell,,18,Boat,Triscaph (Vari Scari)
+6,Didier,Costes,,29,Boat,Exoplane 5
+7,Chris,Evans,,30,Boat,Foiler 21 (Boomerang)
+52,Chris,Evans,,33,Boat,
+8,Patrick,Mayne,,50,Boat,Foiler 21 (Speedbird)
+9,Chris/Philip,Evans/Middleton,,99,Boat,Trimaran (Triton Chariot)
+10,Torix,Bennett,,101,Boat,Triscaph (Sea Spider)
+11,Andy,,,114,Boat,Hurricane Catamaran
+12,Guy,Hawkins,,222,Boat,Proa (Made in Dubai)
+13,Slade,Penoyre,,503,Boat,Catapult + Hapa
+14,Niels,Haarbosch,,576,Boat,Flaxcat
+51,Niels,Haarbosch,,444,Boat,Kiteboat
+15,John,Perry,,555,Boat,2-foil Trimaran
+16,Robin,Ball,,2,Sailboard,
+17,Matthew,Brown,,3,Sailboard,
+18,Robbie,Brotherwood,,4,Sailboard,
+19,Graham,Holbert,,5,Sailboard,
+20,Rob,Gough,,6,Sailboard,
+21,Angus,Hitchin,,7,Sailboard,
+22,Les,Paley,,8,Sailboard,
+23,Mike,Pearce,,9,Sailboard,
+24,Tony,Morris,,11,Sailboard,
+25,Steven,Summerfield,,12,Sailboard,
+26,Ian,Hill,,14,Sailboard,
+27,James,Paine,,17,Sailboard,
+28,Richard,Ashenden,,19,Sailboard,
+29,Jeremy,Walwin,,20,Sailboard,
+30,Vanessa,Miles,,22,Sailboard,
+31,Trevor,Whatford,,27,Sailboard,
+32,John,May,,37,Sailboard,
+33,Pierre,Saville,,38,Sailboard,
+34,Ed,Gollop,,41,Sailboard,
+35,Dale,Clarke,,44,Sailboard,
+36,Stacey,Vass,,47,Sailboard,
+37,Kim,Newman,,68,Sailboard,
+38,Roger,Crabb,,88,Sailboard,
+39,Nick,Povey,,111,Sailboard,
+40,Richard,Trubger,,124,Sailboard,
+41,Sean,Carroll,,171,Sailboard,
+42,Peter,Martin,,181,Sailboard,
+43,David,Goodrich,,197,Sailboard,
+44,Richard,Jones,,213,Sailboard,
+45,Nick,Beaney,,386,Sailboard,
+46,Bob,Spagnoletti,,639,Sailboard,
+47,Paul,Sleightholm,,671,Sailboard,
+48,Peter,Watkinson,,808,Sailboard,
+49,Andrew,Macdonald,,39,Kite Board,
+50,Chris,Calthrop,,48,Kite Board,
