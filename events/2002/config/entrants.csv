@@ -1,20 +1,20 @@
-ID,First Name,Family Name,Nationality,Sail Number,Craft Type,Boat Name
-1,Fred,Ball,,10,Boat,
-2,Slade,Penoyre,,66,Boat,Catapult with Naish Kite Sail
-3,,,,75,Boat,14 Foot Skiff
-4,Philip,Middleton,,99,Boat,Trimaran
-5,Joddy,Chapman,,141,Boat,CERES Hydrofoil Catamaran
-6,Bob,Date,,458,Boat,Flash Back - Dart Catamaran with Hydrofoils
-7,John,Peperell,,508,Boat,Twin Rigged Trimaran version of a Catapult
-8,Richard,Pemberton,,777,Boat,
-9,Les,Paley,,8,Sailboard,"JP 160 - 130, 106 Neil Pryde V8 9.4 - 5.2"
-10,Mike,Pearce,,9,Sailboard,
-11,Trevor,Whatford,,27,Sailboard,
-12,Richard,Holgate,,53,Sailboard,
-13,Roger,Crabb,,88,Sailboard,
-14,Andrew,Ramshaw,,90,Sailboard,"269 F2 Slalom, 290 Kinetic, Gaastra Sails, Northshore Fins"
-15,Richard,Jones,,96,Sailboard,"Thommen 270, Haleaka 278, Gaastra Sails, Northshore Fins"
-16,Nick,Povey,,111,Sailboard,
-17,Richard,Trubger,,124,Sailboard,Gaastra F1 6.6m2 - Trubger Special 36cm Fin
-18,Sean,Carroll,,171,Sailboard,
-19,Peter,Martin,,181,Sailboard,
+ID,First Name,Family Name,Nationality,Sail Number,Craft Type,Boat Name,Craft Description
+1,Fred,Ball,,10,Boat,,
+2,Slade,Penoyre,,66,Boat,Kite-powered Catapult,Catapult with Naish Kite Sail
+3,,,,75,Boat,14 Foot Skiff,14 Foot Skiff
+4,Philip,Middleton,,99,Boat,Trimaran,Trimaran
+5,Joddy,Chapman,,141,Boat,Hydrofoil Catamaran (CERES),CERES Hydrofoil Catamaran
+6,Bob,Date,,458,Boat,Hydrofoil Dart Catamaran (Flashback),Flash Back - Dart Catamaran with Hydrofoils
+7,John,Peperell,,508,Boat,Twin Rigged Trimaran Catapult,Twin Rigged Trimaran version of a Catapult
+8,Richard,Pemberton,,777,Boat,,
+9,Les,Paley,,8,Sailboard,,"JP 160 - 130, 106 Neil Pryde V8 9.4 - 5.2"
+10,Mike,Pearce,,9,Sailboard,,
+11,Trevor,Whatford,,27,Sailboard,,
+12,Richard,Holgate,,53,Sailboard,,
+13,Roger,Crabb,,88,Sailboard,,
+14,Andrew,Ramshaw,,90,Sailboard,,"269 F2 Slalom, 290 Kinetic, Gaastra Sails, Northshore Fins"
+15,Richard,Jones,,96,Sailboard,,"Thommen 270, Haleaka 278, Gaastra Sails, Northshore Fins"
+16,Nick,Povey,,111,Sailboard,,
+17,Richard,Trubger,,124,Sailboard,,Gaastra F1 6.6m2 - Trubger Special 36cm Fin
+18,Sean,Carroll,,171,Sailboard,,
+19,Peter,Martin,,181,Sailboard,,

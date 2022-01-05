@@ -1,12 +1,12 @@
-ID,Title,First Name,Family Name,Nationality,Sail Number,Grouping,Craft Type,Description,Entry Type
+ID,Title,First Name,Family Name,Nationality,Sail Number,Grouping,Craft Type,Boat Name,Entry Type
 1,,Alan,Blundell,,18,,Boat,Triscaph (Vari Scari),
 2,,Stephen,Walker,,84,,Boat,Catri 24,
 3,,Torix,Bennett,,101,,Boat,10m Catamaran,
-4,,Emile,Burnaby Lautier,,108,,Boat,Sandrak (from the Netherlands),
-5,,Calle,Hennix,,123,,Boat,SeaCart 30 (from Sweden),
+4,,Emile,Burnaby Lautier,Netherlands,108,,Boat,Sandrak,
+5,,Calle,Hennix,,123,Sweden,Boat,SeaCart 30,
 6,,Charles,Thompson,,138,,Boat,Hobie TriFoiler,
 7,,Joddy,Chapman,,141,,Boat,Demeter,
-8,Ms,Kay,Melaun,,148,,Boat,Kahuna 1 (from Austria),
+8,Ms,Kay,Melaun,,148,Austria,Boat,Kahuna 1,
 9,,Arthur,Lister,,325,,Boat,Foiled Catapult,
 10,,Simon,Maguire,,86,,Boat,M4,
 11,,Alex,Adams,,406,,Boat,Foiled Moth,
