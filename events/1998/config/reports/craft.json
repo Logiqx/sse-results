@@ -40,8 +40,7 @@
     {
       "Title": "All Unknowns",
       "Comment": "(craft type TBC)",
-      "Filter": "Craft Type=TBC",
-      "Warning": true
+      "Filter": "Craft Type=TBC"
     }
   ]
 }
