@@ -38,8 +38,7 @@
       "Trophy": true
     },
     {
-      "Title": "All Unknowns",
-      "Comment": "(craft type TBC)",
+      "Title": "All TBCs",
       "Filter": "Craft Type=TBC"
     }
   ]
