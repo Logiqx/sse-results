@@ -1,4 +1,26 @@
 {
-  "Start Date": "1999-10-02",
-  "End Date": "1999-10-08"
+  "Event": {
+    "Name": "Weymouth Speed Week 1998",
+    "Start Date": "1999-10-02",
+    "End Date": "1999-10-08",
+    "Banner": "wswlogo_print.png"
+  },
+  "Decimals": 3,
+  "Courses": {
+    "H": "Harbour",
+    "S": "Shore",
+    "?": "TBC"
+  },
+  "Entrants": {
+    "Craft Type": [
+      "Boat",
+      "Sailboard",
+      "TBC"
+    ],
+    "Gender": [
+      "M",
+      "F",
+      "?"
+    ]
+  }
 }

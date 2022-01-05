@@ -5,6 +5,7 @@
     "End Date": "1998-10-09",
     "Banner": "wswlogo_print.png"
   },
+  "Decimals": 3,
   "Courses": {
     "H": "Harbour",
     "S": "Shore",
