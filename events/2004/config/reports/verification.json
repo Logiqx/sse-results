@@ -1,10 +1,10 @@
 {
-  "Suptitle": "Verification Reports",
+  "Suptitle": "Verification Report - {Date}",
   "Fields": "Name,Nation,Sail Number,Craft Type,Speed (kts),Other Run Speeds (kts)",
   "ShowSpeeds": 10,
   "Reports": [
     {
-      "Title": "All Day",
+      "Title": "All Craft",
       "Period": "Session"
     }
   ]

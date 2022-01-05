@@ -1,5 +1,5 @@
 {
-  "Suptitle": "All Runs of the Day",
+  "Suptitle": "All Runs - {Date}",
   "Period": "Session",
   "Rank": false,
   "Sort": "Name=ASC,Time=ASC",
