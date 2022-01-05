@@ -21,20 +21,20 @@
     },
     {
       "Title": "Fastest Boat",
-      "Subtitle": "(partial list due to unclassified craft)",
+      "Comment": "(partial list due to unclassified craft)",
       "Filter": "Craft Type=Boat",
       "Fields": "Name,Nation,Sail Number,Boat Name,Course,Time,Speed (kts)",
       "Trophy": true
     },
     {
       "Title": "Fastest Sailboard",
-      "Subtitle": "(partial list due to unclassified craft)",
+      "Comment": "(partial list due to unclassified craft)",
       "Filter": "Craft Type=Sailboard",
       "Trophy": true
     },
     {
       "Title": "Fastest Unclassified Craft",
-      "Subtitle": "(craft type TBC)",
+      "Comment": "(craft type TBC)",
       "Filter": "Craft Type=TBC",
       "Warning": true
     }
