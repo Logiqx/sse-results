@@ -1,11 +1,12 @@
 {% extends "wsw.html" %}
 {% block content %}
-      <h1>{{ title }}</h1>
+      <h1>{{ eventName }}</h1>
+      <h2>{{ pageTitle }}</h2>
       {% for report in reports %}
 	  {% if report.results|length > 0 %}
-      <h2>{{ report.title }}</h2>
-      {% if report.subtitle is not none %}
-        <h3>{{ report.subtitle }}</h3>
+      <h3>{{ report.title }}</h3>
+      {% if report.comment is not none %}
+      <p>{{ report.comment }}</p>
       {% endif %}
       <table border="1">
         <tr>
