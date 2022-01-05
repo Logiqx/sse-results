@@ -1,4 +1,26 @@
 {
-  "Start Date": "2002-09-28",
-  "End Date": "2002-10-04"
+  "Event": {
+    "Name": "Weymouth Speed Week 2002",
+    "Start Date": "2002-09-28",
+    "End Date": "2002-10-04",
+    "Banner": "wswlogo_print.png"
+  },
+  "Courses": {
+    "H": "Harbour",
+    "S": "Shore",
+    "?": "TBC"
+  },
+  "Entrants": {
+    "Craft Type": [
+      "Boat",
+      "Kiteboard",
+      "Sailboard",
+      "TBC"
+    ],
+    "Gender": [
+      "M",
+      "F",
+      "?"
+    ]
+  }
 }
