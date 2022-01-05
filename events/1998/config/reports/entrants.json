@@ -1,7 +1,7 @@
 {
   "Suptitle": "Entrants",
   "Period": "Event",
-  "Rank": false,
+  "Runs": false,
   "Sort": "Name=ASC,Sail Number=ASC",
   "Reports": [
     {
