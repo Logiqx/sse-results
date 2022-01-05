@@ -30,7 +30,8 @@
       "Title": "All Unknowns",
       "Comment": "(craft type TBC)",
       "Filter": "Craft Type=TBC",
-      "Fields": "Name,Nation,Sail Number"
+      "Fields": "Name,Nation,Sail Number",
+      "Warning": true
     }
   ]
 }
