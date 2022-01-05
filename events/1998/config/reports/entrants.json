@@ -27,8 +27,7 @@
       "Fields": "Name,Nation,Sail Number"
     },
     {
-      "Title": "All Unknowns",
-      "Comment": "(craft type TBC)",
+      "Title": "All TBCs",
       "Filter": "Craft Type=TBC",
       "Fields": "Name,Nation,Sail Number"
     }

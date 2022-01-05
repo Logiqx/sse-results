@@ -20,27 +20,26 @@
       "Trophy": true
     },
     {
-      "Title": "Top 3 Known Boats",
+      "Title": "Fastest Known Boats",
       "Comment": "Note: Potentially inaccurate due to unknown craft (see below).",
       "Filter": "Craft Type=Boat",
       "Fields": "Name,Nation,Sail Number,Boat Name,Time,Speed (kts)",
       "Trophy": true
     },
     {
-      "Title": "Top 3 Known Kiteboards",
+      "Title": "Fastest Known Kiteboards",
       "Comment": "Note: Potentially inaccurate due to unknown craft (see below).",
       "Filter": "Craft Type=Kiteboard",
       "Trophy": true
     },
     {
-      "Title": "Top 3 Known Sailboards",
+      "Title": "Fastest Known Sailboards",
       "Comment": "Note: Potentially inaccurate due to unknown craft (see below).",
       "Filter": "Craft Type=Sailboard",
       "Trophy": true
     },
     {
-      "Title": "Top 3 Unknowns",
-      "Comment": "(craft type TBC)",
+      "Title": "Fastest TBCs",
       "Filter": "Craft Type=TBC"
     }
   ]
