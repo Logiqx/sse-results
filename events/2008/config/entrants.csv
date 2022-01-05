@@ -11,7 +11,7 @@ ID,Sail Number,Title,First Name,Family Name,Nationality,Craft Type
 10,528,Mr,Alex,Bennett-Baggs,,Sailboard
 11,852,Mr,Henry,Bloodworth,,Sailboard
 12,622,Mr,Nigel,Bowley,,Kite Board
-13,10,Mr,Anders,Bringdal,,Sailboard
+13,10,Mr,Anders,Bringdal,Sweden,Sailboard
 14,36,Mr,John,Bull,,Sailboard
 15,666,Mr,Matthew,Burridge,,Sailboard
 16,127,Mr,David,Connor,,Sailboard
@@ -33,7 +33,7 @@ ID,Sail Number,Title,First Name,Family Name,Nationality,Craft Type
 32,129,Mr,Tim,Fricke,,Sailboard
 33,58,Mr,Graeme,Fuller,,Sailboard
 34,241,Mr,Trevor,Funnell,,Sailboard
-35,909,Mr,Thomas,Gaudiot,,Sailboard
+35,909,Mr,Thomas,Gaudiot,France,Sailboard
 36,888,Mr,Michael,George,,Sailboard
 37,144,Mr,Steve,Giles,,Sailboard
 38,276,Mr,Ian,Grounds,,Sailboard
