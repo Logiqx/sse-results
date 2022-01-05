@@ -2,11 +2,11 @@
   "Fields": "Name,Nation,Sail Number,Course,Time,Speed (kts)",
   "Periods": [
     {
-      "Suptitle": "Day Rankings by Craft Type",
+      "Suptitle": "Day Rankings - {Date}",
       "Period": "Session"
     },
     {
-      "Suptitle": "Overall Rankings by Craft Type",
+      "Suptitle": "Overall Rankings",
       "Period": "Event",
       "HideFields": "Course,Time"
     }
@@ -14,25 +14,28 @@
   "Profile": true,
   "Reports": [
     {
-      "Title": "Fastest Overall",
+      "Title": "All Craft",
       "Fields": "Name,Nation,Sail Number,Craft Type,Course,Time,Speed (kts)",
       "Trophy": true
     },
     {
-      "Title": "Fastest Boat",
-      "Comment": "(partial list due to unclassified craft)",
+      "Title": "All Boats",
       "Filter": "Craft Type=Boat",
       "Fields": "Name,Nation,Sail Number,Boat Name,Course,Time,Speed (kts)",
       "Trophy": true
     },
     {
-      "Title": "Fastest Sailboard",
-      "Comment": "(partial list due to unclassified craft)",
+      "Title": "All Kiteboards",
+      "Filter": "Craft Type=Kiteboard",
+      "Trophy": true
+    },
+    {
+      "Title": "All Sailboards",
       "Filter": "Craft Type=Sailboard",
       "Trophy": true
     },
     {
-      "Title": "Fastest Unclassified Craft",
+      "Title": "All Unknowns",
       "Comment": "(craft type TBC)",
       "Filter": "Craft Type=TBC",
       "Warning": true
