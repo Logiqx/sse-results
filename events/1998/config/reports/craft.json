@@ -1,5 +1,5 @@
 {
-  "Fields": "Name,Nation,Sail Number,Course,Time,Speed (kts)",
+  "Fields": "Name,Nation,Sail Number,Time,Speed (kts)",
   "Periods": [
     {
       "Suptitle": "Day Rankings - {Date}",
@@ -8,21 +8,21 @@
     {
       "Suptitle": "Overall Rankings",
       "Period": "Event",
-      "HideFields": "Course,Time"
+      "HideFields": "Time"
     }
   ],
   "Profile": true,
   "Reports": [
     {
       "Title": "All Craft",
-      "Fields": "Name,Nation,Sail Number,Craft Type,Course,Time,Speed (kts)",
+      "Fields": "Name,Nation,Sail Number,Craft Type,Time,Speed (kts)",
       "Trophy": true
     },
     {
       "Title": "All Known Boats",
       "Comment": "Note: Potentially inaccurate due to unknown craft (see below).",
       "Filter": "Craft Type=Boat",
-      "Fields": "Name,Nation,Sail Number,Boat Name,Course,Time,Speed (kts)",
+      "Fields": "Name,Nation,Sail Number,Boat Name,Time,Speed (kts)",
       "Trophy": true
     },
     {

@@ -1,5 +1,5 @@
 {
-  "Fields": "Name,Nation,Sail Number,Course,Time,Speed (kts)",
+  "Fields": "Name,Nation,Sail Number,Time,Speed (kts)",
   "Periods": [
     {
       "Suptitle": "Fastest of the Day - {Date}",
@@ -8,14 +8,14 @@
     {
       "Suptitle": "Fastest of the Week",
       "Period": "Event",
-      "HideFields": "Course,Time"
+      "HideFields": "Time"
     }
   ],
   "Limit": 3,
   "Reports": [
     {
       "Title": "Top 10",
-      "Fields": "Name,Nation,Sail Number,Craft Type,Course,Time,Speed (kts)",
+      "Fields": "Name,Nation,Sail Number,Craft Type,Time,Speed (kts)",
       "Limit": 10,
       "Trophy": true
     },
@@ -23,7 +23,7 @@
       "Title": "Top 3 Known Boats",
       "Comment": "Note: Potentially inaccurate due to unknown craft (see below).",
       "Filter": "Craft Type=Boat",
-      "Fields": "Name,Nation,Sail Number,Boat Name,Course,Time,Speed (kts)",
+      "Fields": "Name,Nation,Sail Number,Boat Name,Time,Speed (kts)",
       "Trophy": true
     },
     {
