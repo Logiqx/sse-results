@@ -3,12 +3,12 @@
   <head>
     <meta http-equiv="content-type" content="text/html;charset=utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
-    <meta name="description" content="{{ pageDescription }}" />
+    <meta name="description" content="{{ pageDescription|replace('{Date}', periodDate) }}" />
     <meta name="keywords" content="Weymouth Speed Week, WSW, Speed Sailing, Speedsailing, GPS Speedsailing, GPSSS" />
     <meta name="author" content="Michael George" />
     <meta name="mobile-web-app-capable" content="yes" />
     <link rel="stylesheet" type="text/css" href="{{ cssPath }}/wsw.css" />
-    <title>{{ pageTitle }}</title>
+    <title>{{ pageTitle|replace('{Date}', periodDate) }}</title>
   </head>
   <body>
     <div id="content">
