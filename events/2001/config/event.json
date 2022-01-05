@@ -1,5 +1,27 @@
 {
-  "Start Date": "2001-09-29",
-  "End Date": "2001-10-05",
-  "Catalyst": "Catalyst_N06_Oct_2001.pdf"
+  "Event": {
+    "Name": "Weymouth Speed Week 2001",
+    "Start Date": "2001-09-29",
+    "End Date": "2001-10-05",
+    "Catalyst": "Catalyst_N06_Oct_2001.pdf",
+    "Banner": "wswlogo_print.png"
+  },
+  "Courses": {
+    "H": "Harbour",
+    "S": "Shore",
+    "?": "TBC"
+  },
+  "Entrants": {
+    "Craft Type": [
+      "Boat",
+      "Kiteboard",
+      "Sailboard",
+      "TBC"
+    ],
+    "Gender": [
+      "M",
+      "F",
+      "?"
+    ]
+  }
 }
