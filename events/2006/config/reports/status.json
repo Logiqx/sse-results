@@ -1,0 +1,36 @@
+{
+  "Fields": "Name,Nation,Sail Number,Craft Type,Course,Time,Speed (kts)",
+  "Periods": [
+    {
+      "Suptitle": "Day Rankings by Status - {Date}",
+      "Period": "Session"
+    },
+    {
+      "Suptitle": "Overall Rankings by Status",
+      "Period": "Event",
+      "HideFields": "Course,Time"
+    }
+  ],
+  "Profile": true,
+  "Reports": [
+    {
+      "Title": "All Ladies",
+      "Filter": "Gender=F"
+    },
+    {
+      "Title": "Winning Youths",
+      "Comment": "(only includes prize winners)",
+      "Filter": "Entry Type=Youth Weekend"
+    },
+    {
+      "Title": "Winning Masters",
+      "Comment": "(only includes prize winners)",
+      "Filter": "Master=Y"
+    },
+    {
+      "Title": "Winning Novices",
+      "Comment": "(only includes prize winners)",
+      "Filter": "Novice=Y"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "Fields": "Name,Nation,Sail Number,Course,Time,Speed (kts)",
+  "Periods": [
+    {
+      "Suptitle": "Fastest of the Day - {Date}",
+      "Period": "Session"
+    },
+    {
+      "Suptitle": "Fastest of the Week",
+      "Period": "Event",
+      "HideFields": "Course,Time"
+    }
+  ],
+  "Limit": 3,
+  "Reports": [
+    {
+      "Title": "Top 10",
+      "Fields": "Name,Nation,Sail Number,Craft Type,Course,Time,Speed (kts)",
+      "Limit": 10
+    },
+    {
+      "Title": "Fastest Boats",
+      "Filter": "Craft Type=Boat",
+      "Fields": "Name,Nation,Sail Number,Boat Name,Course,Time,Speed (kts)"
+    },
+    {
+      "Title": "Fastest Kiteboards",
+      "Filter": "Craft Type=Kiteboard"
+    },
+    {
+      "Title": "Fastest Sailboards",
+      "Filter": "Craft Type=Sailboard"
+    },
+    {
+      "Title": "Fastest TBCs",
+      "Filter": "Craft Type=TBC",
+      "Warning": true
+    }
+  ]
+}
