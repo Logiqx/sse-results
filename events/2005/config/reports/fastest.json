@@ -12,6 +12,7 @@
     }
   ],
   "Limit": 3,
+  "Profile": true,
   "Reports": [
     {
       "Title": "Top 10",
@@ -20,8 +21,8 @@
     },
     {
       "Title": "Fastest Boats",
-      "Filter": "Craft Type=Boat",
-      "Fields": "Name,Nation,Sail Number,Boat Name,Course,Time,Speed (kts)"
+      "Fields": "Name,Nation,Sail Number,Boat Name,Course,Time,Speed (kts)",
+      "Filter": "Craft Type=Boat"
     },
     {
       "Title": "Fastest Kiteboards",
@@ -38,20 +39,24 @@
     },
     {
       "Title": "Fastest Ladies",
+      "Fields": "Name,Nation,Sail Number,Craft Type,Course,Time,Speed (kts)",
       "Filter": "Gender=F"
     },
     {
       "Title": "Fastest Youths",
+      "Fields": "Name,Nation,Sail Number,Craft Type,Course,Time,Speed (kts)",
       "Filter": "Entry Type=Youth Weekend",
       "Period": "Event"
     },
     {
       "Title": "Fastest Masters",
+      "Fields": "Name,Nation,Sail Number,Craft Type,Course,Time,Speed (kts)",
       "Filter": "Master=Y",
       "Period": "Event"
     },
     {
       "Title": "Fastest Novices",
+      "Fields": "Name,Nation,Sail Number,Craft Type,Course,Time,Speed (kts)",
       "Filter": "Novice=Y",
       "Period": "Event"
     }
