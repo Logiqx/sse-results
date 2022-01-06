@@ -12,6 +12,7 @@
     }
   ],
   "Limit": 3,
+  "Profile": true,
   "Reports": [
     {
       "Title": "Top 10",
@@ -20,8 +21,8 @@
     },
     {
       "Title": "Fastest Boats",
-      "Filter": "Craft Type=Boat",
-      "Fields": "Name,Nation,Sail Number,Boat Name,Course,Time,Speed (kts)"
+      "Fields": "Name,Nation,Sail Number,Boat Name,Course,Time,Speed (kts)",
+      "Filter": "Craft Type=Boat"
     },
     {
       "Title": "Fastest Kiteboards",
@@ -32,25 +33,38 @@
       "Filter": "Craft Type=Sailboard"
     },
     {
-      "Title": "Fastest TBCs",
+      "Title": "Fastest Craft TBCs",
+      "Fields": "Name,Nation,Sail Number,Craft Type,Course,Time,Speed (kts)",
       "Filter": "Craft Type=TBC",
       "Warning": true
     },
     {
-      "Title": "Fastest Ladies",
-      "Filter": "Gender=F"
+      "Title": "Fastest Pro Sailboards",
+      "Filter": "Craft Type=Sailboard,Status=Pro Fleet"
+    },
+    {
+      "Title": "Fastest Amateur Sailboards",
+      "Filter": "Craft Type=Sailboard,Status=Amateur"
+    },
+    {
+      "Title": "Fastest Novice Sailboards",
+      "Filter": "Craft Type=Sailboard,Novice=Y",
+      "Period": "Event"
+    },
+    {
+      "Title": "Fastest Lady Sailboards",
+      "Filter": "Craft Type=Sailboard,Gender=F"
     },
     {
       "Title": "Fastest Youths",
+      "Comment": "(weekend only)",
+      "Fields": "Name,Nation,Sail Number,Craft Type,Course,Time,Speed (kts)",
       "Filter": "Entry Type=Youth Weekend"
     },
     {
-      "Title": "Fastest Masters",
-      "Filter": "Master=Y"
-    },
-    {
-      "Title": "Fastest Novices",
-      "Filter": "Novice=Y"
+      "Title": "Fastest Master Sailboards",
+      "Comment": "(age 45+)",
+      "Filter": "Craft Type=Sailboard,Master=Y"
     }
   ]
 }

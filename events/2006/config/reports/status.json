@@ -1,5 +1,5 @@
 {
-  "Fields": "Name,Nation,Sail Number,Craft Type,Course,Time,Speed (kts)",
+  "Fields": "Name,Nation,Sail Number,Course,Time,Speed (kts)",
   "Periods": [
     {
       "Suptitle": "Day Rankings by Status - {Date}",
@@ -14,23 +14,27 @@
   "Profile": true,
   "Reports": [
     {
-      "Title": "All Ladies",
-      "Filter": "Gender=F"
+      "Title": "All Pro Sailboards",
+      "Filter": "Craft Type=Sailboard,Status=Pro Fleet"
     },
     {
-      "Title": "Winning Youths",
-      "Comment": "(only includes prize winners)",
+      "Title": "All Amateur Sailboards",
+      "Filter": "Craft Type=Sailboard,Status=Amateur"
+    },
+    {
+      "Title": "All Lady Sailboards",
+      "Filter": "Craft Type=Sailboard,Gender=F"
+    },
+    {
+      "Title": "All Youths",
+      "Comment": "(weekend only)",
+      "Fields": "Name,Nation,Sail Number,Craft Type,Course,Time,Speed (kts)",
       "Filter": "Entry Type=Youth Weekend"
     },
     {
-      "Title": "Winning Masters",
-      "Comment": "(only includes prize winners)",
-      "Filter": "Master=Y"
-    },
-    {
-      "Title": "Winning Novices",
-      "Comment": "(only includes prize winners)",
-      "Filter": "Novice=Y"
+      "Title": "All Master Sailboards",
+      "Comment": "(age 45+)",
+      "Filter": "Craft Type=Sailboard,Master=Y"
     }
   ]
 }
