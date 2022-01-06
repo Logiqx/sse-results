@@ -35,6 +35,25 @@
       "Title": "Fastest TBCs",
       "Filter": "Craft Type=TBC",
       "Warning": true
+    },
+    {
+      "Title": "Fastest Ladies",
+      "Filter": "Gender=F"
+    },
+    {
+      "Title": "Fastest Youths",
+      "Filter": "Entry Type=Youth Weekend",
+      "Period": "Event"
+    },
+    {
+      "Title": "Fastest Masters",
+      "Filter": "Master=Y",
+      "Period": "Event"
+    },
+    {
+      "Title": "Fastest Novices",
+      "Filter": "Novice=Y",
+      "Period": "Event"
     }
   ]
 }
