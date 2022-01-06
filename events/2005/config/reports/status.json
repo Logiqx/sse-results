@@ -1,0 +1,21 @@
+{
+  "Fields": "Name,Nation,Sail Number,Craft Type,Course,Time,Speed (kts)",
+  "Periods": [
+    {
+      "Suptitle": "Day Rankings by Status - {Date}",
+      "Period": "Session"
+    },
+    {
+      "Suptitle": "Overall Rankings by Status",
+      "Period": "Event",
+      "HideFields": "Course,Time"
+    }
+  ],
+  "Profile": true,
+  "Reports": [
+    {
+      "Title": "All Ladies",
+      "Filter": "Gender=F"
+    }
+  ]
+}
