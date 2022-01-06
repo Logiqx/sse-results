@@ -40,18 +40,36 @@
     },
     {
       "Title": "Fastest Pro Sailboards",
+      "Comment": "Note: Potentially inaccurate due to unclassified sailboards (see below).",
       "Fields": "Name,Nation,Sail Number,Course,Time,Speed (kts)",
-      "Filter": "Craft Type=Sailboard,Status=Pro Fleet"
+      "Filter": "Craft Type=Sailboard,Status=Pro Fleet",
+      "Period": "Session"
+    },
+    {
+      "Title": "Fastest Pro Sailboards",
+      "Fields": "Name,Nation,Sail Number,Course,Time,Speed (kts)",
+      "Filter": "Craft Type=Sailboard,Status=Pro Fleet",
+      "Period": "Event"
+    },
+    {
+      "Title": "Fastest Amateur Sailboards",
+      "Comment": "Note: Potentially inaccurate due to unclassified sailboards (see below).",
+      "Fields": "Name,Nation,Sail Number,Course,Time,Speed (kts)",
+      "Filter": "Craft Type=Sailboard,Status=Amateur",
+      "Period": "Session"
     },
     {
       "Title": "Fastest Amateur Sailboards",
       "Fields": "Name,Nation,Sail Number,Course,Time,Speed (kts)",
-      "Filter": "Craft Type=Sailboard,Status=Amateur"
+      "Filter": "Craft Type=Sailboard,Status=Amateur",
+      "Period": "Event"
     },
     {
       "Title": "Fastest Unclassified Sailboards",
+      "Comment": "Note: These all belong in 'Pro Sailboards' or 'Amateur Sailboards' (see above).",
       "Fields": "Name,Nation,Sail Number,Status,Course,Time,Speed (kts)",
-      "Filter": "Craft Type=Sailboard,Status=TBC"
+      "Filter": "Craft Type=Sailboard,Status=TBC",
+      "Period": "Session"
     },
     {
       "Title": "Fastest Novice Sailboards",
