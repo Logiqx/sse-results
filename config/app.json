@@ -99,16 +99,12 @@
       "Sort": "Net Score=ASC,Best Speed=DESC,Results=ASC,Final Result=ASC"
     }
   },
-  "Prizes": {
-    "Session": [
-      {
-        "Filter": "Craft Type=Boat",
-        "Emojis": ["🍺"]
-      },
-      {
-        "Filter": "Craft Type=Sailboard",
-        "Emojis": ["🍺"]
-      }
+  "Tankards": {
+    "Emoji": "🍺",
+    "Filters": [
+      "Craft Type=Boat",
+      "Craft Type=Kiteboard",
+      "Craft Type=Sailboard"
     ]
   }
 }
