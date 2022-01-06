@@ -1,5 +1,4 @@
 {
-  "Fields": "Name,Nation,Sail Number,Course,Time,Speed (kts)",
   "Periods": [
     {
       "Suptitle": "Fastest of the Day - {Date}",
@@ -26,10 +25,12 @@
     },
     {
       "Title": "Fastest Kiteboards",
+      "Fields": "Name,Nation,Sail Number,Course,Time,Speed (kts)",
       "Filter": "Craft Type=Kiteboard"
     },
     {
       "Title": "Fastest Sailboards",
+      "Fields": "Name,Nation,Sail Number,Status,Course,Time,Speed (kts)",
       "Filter": "Craft Type=Sailboard"
     },
     {
@@ -40,19 +41,28 @@
     },
     {
       "Title": "Fastest Pro Sailboards",
+      "Fields": "Name,Nation,Sail Number,Course,Time,Speed (kts)",
       "Filter": "Craft Type=Sailboard,Status=Pro Fleet"
     },
     {
       "Title": "Fastest Amateur Sailboards",
+      "Fields": "Name,Nation,Sail Number,Course,Time,Speed (kts)",
       "Filter": "Craft Type=Sailboard,Status=Amateur"
     },
     {
+      "Title": "Fastest Unclassified Sailboards",
+      "Fields": "Name,Nation,Sail Number,Status,Course,Time,Speed (kts)",
+      "Filter": "Craft Type=Sailboard,Status=TBC"
+    },
+    {
       "Title": "Fastest Novice Sailboards",
+      "Fields": "Name,Nation,Sail Number,Status,Course,Time,Speed (kts)",
       "Filter": "Craft Type=Sailboard,Novice=Y",
       "Period": "Event"
     },
     {
       "Title": "Fastest Lady Sailboards",
+      "Fields": "Name,Nation,Sail Number,Status,Course,Time,Speed (kts)",
       "Filter": "Craft Type=Sailboard,Gender=F"
     },
     {
@@ -63,6 +73,7 @@
     },
     {
       "Title": "Fastest Master Sailboards",
+      "Fields": "Name,Nation,Sail Number,Status,Course,Time,Speed (kts)",
       "Comment": "(age 45+)",
       "Filter": "Craft Type=Sailboard,Master=Y"
     }
