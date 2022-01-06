@@ -26,7 +26,7 @@ ID,Title,First Name,Family Name,Nationality,Age Status,Craft Type,Boat Name,Craf
 25,,Martin,Allman,uk,Master,Sailboard,,Starboard 156 Starboard 131 F2 Axis,No,,,206,Y,,Amateur,
 26,,Simon,Burgess,England,Neither,Sailboard,,Production Windsurf equipment,No,,,12,,,Amateur,
 27,,David,Barnard,UK,Neither,Sailboard,,,No,,,333,,,Amateur,
-28,,Dan,Simpson,England,Junior,Sailboard,,Tiga Hyper X boards Neil Pryde RS5 Sails,Yes,"Ultra Sport, Offshore Sports, Surfkraft, Bloc,Oxford SC, Cherwell DC, ",www.dansimpson.net,323,Y,,,Youth Weekend
+28,,Dan,Simpson,England,Junior,Sailboard,,Tiga Hyper X boards Neil Pryde RS5 Sails,Yes,"Ultra Sport, Offshore Sports, Surfkraft, Bloc,Oxford SC, Cherwell DC, ",www.dansimpson.net,323,,,,Youth Weekend
 29,,Mike,Price,UK,Neither,Sailboard,,,No,,,97,,,Amateur,
 30,,Pete,Davis,UK,Master,Sailboard,,Thommen & Gaastra,Yes,"Thommen, Gasstra, Kangaroo Poo ",,73,Y,,,
 31,Mrs,Zara,Davis,UK,Neither,Sailboard,,Thommen,Yes,"Thommen, Gaastra, Kangaroo Poo, Walnut Grove Clinic ",www.zaradavis.co.uk,731,,,,
@@ -36,11 +36,11 @@ ID,Title,First Name,Family Name,Nationality,Age Status,Craft Type,Boat Name,Craf
 35,,William,Oliver,scotland,Master,Sailboard,,"Starboard windsurfing boards, Tushingham sails ",No,,,1,Y,,Amateur,
 36,,Tim,Matthews,uk,Neither,Sailboard,,thommen1 boards & naish sails,Yes,naish sails,,820,,,,
 37,,Andrew,Freeman,UK,Neither,Sailboard,,Most probabily a Thommen 295 with sails to be confirmed,No,,,3,,,Amateur,
-38,,Alex,Smith,England,Junior,Sailboard,,,No,None,,941,Y,,Amateur,Youth Weekend
+38,,Alex,Smith,England,Junior,Sailboard,,,No,None,,941,,,Amateur,Youth Weekend
 39,,Richard,Holgate,UK,Neither,Sailboard,,,No,,,53,,,Amateur,
 40,,Brian,Leake,England,Master,Sailboard,,,No,,,26,Y,,Amateur,
 41,,Stacey,Vass,uk,Neither,Kite Board,,slingshot kites and boards,Yes,"surfsales, slingshot. ",www.surf-sales.com,47/609,,,,
-43,,Liam,Round,England,Junior,Sailboard,,EXOCET S3/S4 YES Formula/Slalom Sails,Yes,TotalOptions & KBay,,948,Y,,,Youth Weekend
+43,,Liam,Round,England,Junior,Sailboard,,EXOCET S3/S4 YES Formula/Slalom Sails,Yes,TotalOptions & KBay,,948,,,,Youth Weekend
 44,,Paul,Simmons,UK,Neither,Sailboard,,Starboard Sonic Tushingham X-15,Yes,"Tushingham Sails Ltd, Starboard ",,131,,,,
 45,,Nick,Beaney,England,Neither,Sailboard,,Neilpryde sails,Yes,Ultra Sport,,381,,,,
 46,,Brian,Warner,UK,Master,Sailboard,,,No,,,349,Y,,Amateur,
@@ -50,7 +50,7 @@ ID,Title,First Name,Family Name,Nationality,Age Status,Craft Type,Boat Name,Craf
 50,,Nick,Brumfitt,uk,Neither,Sailboard,,,No,,,66,,,Amateur,
 51,,Michael,Roberts,England,Master,Sailboard,,Windsurfer,No,,,598,Y,,Amateur,
 52,,Geoff,Hautman,UK,Neither,Sailboard,,TBD,No,,,222,,,Amateur,
-53,,Jay,Gwynn,england,Junior,Sailboard,,windsurfing board and sails,No,,,3333,Y,,Amateur,Youth Weekend
+53,,Jay,Gwynn,england,Junior,Sailboard,,windsurfing board and sails,No,,,3333,,,Amateur,Youth Weekend
 55,,Robert,Munn,England,Neither,Sailboard,,Tabou Rocket 105. Mistal Syncro 115,No,,,13,,,Amateur,
 56,,Mark,Spreadbury,UK,Neither,Sailboard,,"Mistral radar 105 and 125, starboard acid 88 ",No,,,16,,,Amateur,
 57,,Denis,Royet,UK,Neither,Sailboard,,"Boards: Exocet S4II, Exocet TB62, Proto Sails: Gaastra 5.9, 6.3, 7, 8.5, 9.8 ",No,,,46,,,Amateur,
@@ -71,7 +71,7 @@ ID,Title,First Name,Family Name,Nationality,Age Status,Craft Type,Boat Name,Craf
 73,,Simon,Olley,UK,Neither,Sailboard,,,No,,,953,,,Amateur,
 74,,Steve,Mather,UK,Master,Sailboard,,,No,,,134,Y,,Amateur,
 75,,Peter,Watkinson,UK,Neither,Sailboard,,,No,,,808,,,Amateur,
-76,,Sam,Gooch,England,Junior,Sailboard,,formula kit and f2xspeed Board f2 2005 formula board North sails 11.m 10.m 9.m tushingham 8.5m 7.5m 6.5m 5.5,No,,,945,Y,,Amateur,Youth Weekend
+76,,Sam,Gooch,England,Junior,Sailboard,,formula kit and f2xspeed Board f2 2005 formula board North sails 11.m 10.m 9.m tushingham 8.5m 7.5m 6.5m 5.5,No,,,945,,,Amateur,Youth Weekend
 77,,Ian,Hill,UK,Neither,Sailboard,,,No,,,14,,,Amateur,
 78,,Nigel,Bowley,uk,Neither,Kite Board,,"Speeeed kite board, 4 line kites ",Yes,north kites,north kites.com,625,,,Pro Fleet,
 79,,Chris,Edwards,UK,Master,Boat,Hydrofoil Catamaran (Daddy Long Legs),"Daddy Long Legs Hydrofoil Catamaran Length 8m, beam 8m, draught 2m ",No,,,404,Y,,Amateur,
@@ -87,18 +87,18 @@ ID,Title,First Name,Family Name,Nationality,Age Status,Craft Type,Boat Name,Craf
 90,,Ashley,Vernon,England,Neither,Sailboard,,"this is a MONSTER whats that coming over the wave is it a monster YES big long double hard 30 foot kick arse 4 man beast, with 4 windsurfing sails and 4 silors come on av it ",No,,,41,,,Amateur,
 91,,George,Dadd,England,Neither,Boat,Kite-powered Catamaran,Kite powered craft made from two windsurf boards strapped together.,No,,,600,,,Amateur,
 92,,Tony,Morris,England,Neither,Sailboard,,"F2, Fanatic, North sails, ",Yes,604 Distribution & Autogaspower,,604,,,Pro Fleet,
-94,,Sam,Latham,UK,Junior,Sailboard,,Fanatic Falcon 91l Fanatic Falcon 105l Neilpryde RS4 5.8,No,,,GBR 9621/621,Y,,Amateur,Youth Weekend
+94,,Sam,Latham,UK,Junior,Sailboard,,Fanatic Falcon 91l Fanatic Falcon 105l Neilpryde RS4 5.8,No,,,GBR 9621/621,,,Amateur,Youth Weekend
 95,,James,Paine,UK,Neither,Sailboard,,,No,,,93/17,,,Amateur,
 96,,Norman,Betts,England,Master,Sailboard,,"Starboard Isonic 133, S type 115, Kombat 96, F2 261 Tushingham Lightnings 9.4, 8.5, 7.8, 7.0, X15 6.4, Tomohawk 6.0, 5.6. ",No,,,151,Y,,Amateur,
-97,,Ed,Strange,UNITED KINGDOM,Junior,Sailboard,,windsurfer,No,"Boadwise,Cannock ",,983,Y,,Amateur,Youth Weekend
+97,,Ed,Strange,UNITED KINGDOM,Junior,Sailboard,,windsurfer,No,"Boadwise,Cannock ",,983,,,Amateur,Youth Weekend
 98,,Robin,Penna,England,Master,Sailboard,,Windsurfer,No,none,,75,Y,,Amateur,
 99,,John,Smalley,UK,Neither,Sailboard,,Naish Sails (Stealth) F2 and A&B boards,No,,,K42,,,Amateur,
 100,,Jamie,Walker,UK,Master,Sailboard,,"iSonic 115, Sonic 85, Tushingham Sails ",Yes,Royal Navy,,211,Y,,Pro Fleet,
 101,,Pete,Cunningham,England,Neither,Sailboard,,,No,,,22,,,Amateur,
 102,,Dave,Strudwick,UK,Master,Sailboard,,Tushingham sails Starboard 104,No,,,44,Y,Y,Amateur,
-103,,Richard,Jones,UK,Junior,Sailboard,,"Windsurfing, staroard and tushingham ",Yes,"STARBOARD, TUSHINGHAM, SOLA, GUY CRIBB INTUITION, BOARDWISE, SURFKRAFT,SCOTT USA ",,32,Y,,Pro Fleet,Youth Weekend
+103,,Richard,Jones,UK,Junior,Sailboard,,"Windsurfing, staroard and tushingham ",Yes,"STARBOARD, TUSHINGHAM, SOLA, GUY CRIBB INTUITION, BOARDWISE, SURFKRAFT,SCOTT USA ",,32,,,Pro Fleet,Youth Weekend
 104,,Ian,Jones,UK,Master,Sailboard,,windsurfing,Yes,Boardwise,,183/321,Y,,Pro Fleet,
-105,,William,Rowles,england,Junior,Sailboard,,windsurf board+sail,No,,,668,Y,,Amateur,Youth Weekend
+105,,William,Rowles,england,Junior,Sailboard,,windsurf board+sail,No,,,668,,,Amateur,Youth Weekend
 106,Miss,Amy,Carter,ENGLAND,Neither,Sailboard,,,Yes,"gaastra, tabou, kangaroo poo, dakine, funk sunglasses, sola wetsuits, surfers against sewage ",,85,,,Pro Fleet,
 107,,Thor,Gustafsson,England,Neither,Sailboard,,Speed Sail (North and Neil Pryde) Speed Board Fanatic Hawk,No,Westcountry Watersports,,888,,,Amateur,
 108,,Martin,Waldron,Ireland,Neither,Sailboard,,F2 Missile S; F2 Missile XS; Severne SSR 5.6; Severne Code Red 5.1 & 6.6,No,,,190,,,Amateur,
