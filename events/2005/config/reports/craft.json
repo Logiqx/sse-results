@@ -19,8 +19,8 @@
     },
     {
       "Title": "All Boats",
-      "Filter": "Craft Type=Boat",
-      "Fields": "Name,Nation,Sail Number,Boat Name,Course,Time,Speed (kts)"
+      "Fields": "Name,Nation,Sail Number,Boat Name,Course,Time,Speed (kts)",
+      "Filter": "Craft Type=Boat"
     },
     {
       "Title": "All Kiteboards",
