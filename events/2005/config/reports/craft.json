@@ -1,0 +1,38 @@
+{
+  "Fields": "Name,Nation,Sail Number,Course,Time,Speed (kts)",
+  "Periods": [
+    {
+      "Suptitle": "Day Rankings - {Date}",
+      "Period": "Session"
+    },
+    {
+      "Suptitle": "Overall Rankings",
+      "Period": "Event",
+      "HideFields": "Course,Time"
+    }
+  ],
+  "Profile": true,
+  "Reports": [
+    {
+      "Title": "All Craft",
+      "Fields": "Name,Nation,Sail Number,Craft Type,Course,Time,Speed (kts)"
+    },
+    {
+      "Title": "All Boats",
+      "Filter": "Craft Type=Boat",
+      "Fields": "Name,Nation,Sail Number,Boat Name,Course,Time,Speed (kts)"
+    },
+    {
+      "Title": "All Kiteboards",
+      "Filter": "Craft Type=Kiteboard"
+    },
+    {
+      "Title": "All Sailboards",
+      "Filter": "Craft Type=Sailboard"
+    },
+    {
+      "Title": "All TBCs",
+      "Filter": "Craft Type=TBC"
+    }
+  ]
+}
