@@ -13,17 +13,20 @@
   "Profile": true,
   "Reports": [
     {
-      "Title": "All Pro Sailboards",
+      "Title": "All Known Pro Sailboards",
+      "Comment": "Note: Potentially inaccurate due to unclassified sailboards (see below).",
       "Fields": "Name,Nation,Sail Number,Course,Time,Speed (kts)",
       "Filter": "Craft Type=Sailboard,Status=Pro Fleet"
     },
     {
-      "Title": "All Amateur Sailboards",
+      "Title": "All Known Amateur Sailboards",
+      "Comment": "Note: Potentially inaccurate due to unclassified sailboards (see below).",
       "Fields": "Name,Nation,Sail Number,Course,Time,Speed (kts)",
       "Filter": "Craft Type=Sailboard,Status=Amateur"
     },
     {
       "Title": "All Unclassified Sailboards",
+      "Comment": "Note: These all belong in 'Pro Sailboards' or 'Amateur Sailboards' (see above).",
       "Fields": "Name,Nation,Sail Number,Status,Course,Time,Speed (kts)",
       "Filter": "Craft Type=Sailboard,Status=TBC"
     },
