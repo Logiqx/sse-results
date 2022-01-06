@@ -33,7 +33,8 @@
     },
     {
       "Title": "Fastest TBCs",
-      "Filter": "Craft Type=TBC"
+      "Filter": "Craft Type=TBC",
+      "Warning": true
     }
   ]
 }
