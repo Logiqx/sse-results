@@ -15,27 +15,23 @@
   "Reports": [
     {
       "Title": "All Craft",
-      "Fields": "Name,Nation,Sail Number,Craft Type,Time,Speed (kts)",
-      "Trophy": true
+      "Fields": "Name,Nation,Sail Number,Craft Type,Time,Speed (kts)"
     },
     {
       "Title": "All Known Boats",
       "Comment": "Note: Potentially inaccurate due to unknown craft (see below).",
       "Filter": "Craft Type=Boat",
-      "Fields": "Name,Nation,Sail Number,Boat Name,Time,Speed (kts)",
-      "Trophy": true
+      "Fields": "Name,Nation,Sail Number,Boat Name,Time,Speed (kts)"
     },
     {
       "Title": "All Known Kiteboards",
       "Comment": "Note: Potentially inaccurate due to unknown craft (see below).",
-      "Filter": "Craft Type=Kiteboard",
-      "Trophy": true
+      "Filter": "Craft Type=Kiteboard"
     },
     {
       "Title": "All Known Sailboards",
       "Comment": "Note: Potentially inaccurate due to unknown craft (see below).",
-      "Filter": "Craft Type=Sailboard",
-      "Trophy": true
+      "Filter": "Craft Type=Sailboard"
     },
     {
       "Title": "All TBCs",
