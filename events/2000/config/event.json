@@ -21,5 +21,12 @@
       "F",
       "?"
     ]
+  },
+  "Tankards": {
+    "Emoji": "🍺",
+    "Filters": [
+      "Craft Type=Boat",
+      "Craft Type=Sailboard"
+    ]
   }
 }
