@@ -2,6 +2,7 @@
   "Suptitle": "Entrants",
   "Period": "Event",
   "Runs": false,
+  "Fields": "Name,Nation,Sail Number",
   "Sort": "Name=ASC,Sail Number=ASC",
   "Reports": [
     {
@@ -17,19 +18,16 @@
     {
       "Title": "All Known Kiteboards",
       "Comment": "Note: Potentially incomplete due to unknown craft (see below).",
-      "Filter": "Craft Type=Kiteboard",
-      "Fields": "Name,Nation,Sail Number"
+      "Filter": "Craft Type=Kiteboard"
     },
     {
       "Title": "All Known Sailboards",
       "Comment": "Note: Potentially incomplete due to unknown craft (see below).",
-      "Filter": "Craft Type=Sailboard",
-      "Fields": "Name,Nation,Sail Number"
+      "Filter": "Craft Type=Sailboard"
     },
     {
       "Title": "All TBCs",
-      "Filter": "Craft Type=TBC",
-      "Fields": "Name,Nation,Sail Number"
+      "Filter": "Craft Type=TBC"
     }
   ]
 }
