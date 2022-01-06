@@ -44,12 +44,14 @@
     },
     {
       "Title": "Fastest Youths",
+      "Comment": "(weekend only)",
       "Fields": "Name,Nation,Sail Number,Craft Type,Course,Time,Speed (kts)",
       "Filter": "Entry Type=Youth Weekend",
       "Period": "Event"
     },
     {
       "Title": "Fastest Masters",
+      "Comment": "(age 45+)",
       "Fields": "Name,Nation,Sail Number,Craft Type,Course,Time,Speed (kts)",
       "Filter": "Master=Y",
       "Period": "Event"
