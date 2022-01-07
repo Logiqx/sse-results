@@ -44,7 +44,7 @@
     },
     {
       "Title": "Fastest Youths",
-      "Comment": "(weekend only)",
+      "Comment": "(age <17, weekend only)",
       "Fields": "Name,Nation,Sail Number,Craft Type,Course,Time,Speed (kts)",
       "Filter": "Entry Type=Youth Weekend",
       "Period": "Event"
