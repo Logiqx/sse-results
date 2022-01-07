@@ -1,4 +1,5 @@
 {
+  "Comment": "Times of GPS runs are not available. Only the best GPS runs were published.",
   "Default": {
     "Start Time": "09:00",
     "End Time": "18:00"
