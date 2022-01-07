@@ -88,11 +88,11 @@
       "Filters": [
         "",
         "Entry Type=Youth Weekend",
-        "Entry Type=Youth Weekend,Gender=F",
         "Gender=F",
         "Master=Y",
         "Novice=Y",
         "Status=Amateur",
+        "Status=Gold Fleet",
         "Status=Pro Fleet",
         "Craft Type=Boat",
         "Craft Type=Kiteboard"
@@ -107,6 +107,7 @@
         "Master=Y",
         "Novice=Y",
         "Status=Amateur",
+        "Status=Gold Fleet",
         "Status=Pro Fleet",
         "Craft Type=Boat",
         "Craft Type=Kiteboard"
@@ -121,6 +122,7 @@
         "Master=Y",
         "Novice=Y",
         "Status=Amateur",
+        "Status=Gold Fleet",
         "Status=Pro Fleet",
         "Craft Type=Boat",
         "Craft Type=Kiteboard"
