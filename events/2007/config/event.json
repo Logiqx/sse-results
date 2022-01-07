@@ -1,4 +1,123 @@
 {
-  "Start Date": "2007-10-01",
-  "End Date": "2007-10-07"
+  "Event": {
+    "Name": "Weymouth Speed Week 2007",
+    "Start Date": "2007-10-01",
+    "End Date": "2007-10-07",
+    "Banner": "wswlogo_print.png"
+  },
+  "Courses": {
+    "H": "Harbour",
+    "S": "Shore",
+    "?": "TBC"
+  },
+  "Entrants": {
+    "Craft Type": [
+      "Boat",
+      "Kiteboard",
+      "Sailboard",
+      "TBC"
+    ],
+    "Status": [
+      "Youth Fleet",
+      "Amateur",
+      "Pro Fleet",
+      "TBC"
+    ],
+    "Entry Type": [
+      "Youth Weekend",
+      "TBC"
+    ],
+    "Gender": [
+      "M",
+      "F",
+      "?"
+    ],
+    "Master": [
+      "Y",
+      "N",
+      "?"
+    ],
+    "Novice": [
+      "Y",
+      "N",
+      "?"
+    ]
+  },
+  "Tankards": {
+    "Emoji": "🍺",
+    "Filters": [
+      "Craft Type=Boat",
+      "Craft Type=Kiteboard",
+      "Craft Type=Sailboard"
+    ]
+  },
+  "Trophies": {
+    "Emoji": "🏆",
+    "Shields": [
+      {
+        "Name": "Thommen T1 Shield",
+        "Filter": ""
+      },
+      {
+        "Name": "Tushingham 'Fastest Youth' Shield",
+        "Filter": "Entry Type=Youth Weekend"
+      },
+      {
+        "Name": "Windtek 'Fastest Lady' shield",
+        "Filter": "Gender=F"
+      },
+      {
+        "Name": "Windtek 'Fastest Master' shield",
+        "Filter": "Master=Y"
+      }
+    ]
+  },
+  "Prizes": [
+    {
+      "Rank": 1,
+      "Emoji": "🥇",
+      "Filters": [
+        "",
+        "Entry Type=Youth Weekend",
+        "Entry Type=Youth Weekend,Gender=F",
+        "Gender=F",
+        "Master=Y",
+        "Novice=Y",
+        "Craft Type=Sailboard,Status=Amateur",
+        "Craft Type=Sailboard,Status=Pro Fleet",
+        "Craft Type=Boat",
+        "Craft Type=Kiteboard"
+      ]
+    },
+    {
+      "Rank": 2,
+      "Emoji": "🥈",
+      "Filters": [
+        "",
+        "Entry Type=Youth Weekend",
+        "Gender=F",
+        "Master=Y",
+        "Novice=Y",
+        "Craft Type=Sailboard,Status=Amateur",
+        "Craft Type=Sailboard,Status=Pro Fleet",
+        "Craft Type=Boat",
+        "Craft Type=Kiteboard"
+      ]
+    },
+    {
+      "Rank": 3,
+      "Emoji": "🥉",
+      "Filters": [
+        "",
+        "Entry Type=Youth Weekend",
+        "Gender=F",
+        "Master=Y",
+        "Novice=Y",
+        "Craft Type=Sailboard,Status=Amateur",
+        "Craft Type=Sailboard,Status=Pro Fleet",
+        "Craft Type=Boat",
+        "Craft Type=Kiteboard"
+      ]
+    }
+  ]
 }
