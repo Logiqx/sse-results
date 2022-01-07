@@ -53,7 +53,7 @@
     "Emoji": "🏆",
     "Shields": [
       {
-        "Name": "Thommen T1 Shield",
+        "Name": "Thommen T1 Shield (Fastest of the Week)",
         "Filter": ""
       },
       {
@@ -88,7 +88,6 @@
       "Rank": 2,
       "Emoji": "🥈",
       "Filters": [
-        "",
         "Entry Type=Youth Weekend",
         "Gender=F",
         "Master=Y",
@@ -101,7 +100,6 @@
       "Rank": 3,
       "Emoji": "🥉",
       "Filters": [
-        "",
         "Entry Type=Youth Weekend",
         "Gender=F",
         "Master=Y",
