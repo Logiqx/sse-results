@@ -1,4 +1,139 @@
 {
-  "Start Date": "2009-10-10",
-  "End Date": "2009-10-16"
+  "Event": {
+    "Name": "Weymouth Speed Week 2009",
+    "Start Date": "2009-10-10",
+    "End Date": "2009-10-16",
+    "Banner": "wswlogo_print.png"
+  },
+  "Courses": {
+    "H": "Harbour",
+    "S": "Shore",
+    "?": "TBC"
+  },
+  "Entrants": {
+    "Craft Type": [
+      "Boat",
+      "Kiteboard",
+      "Sailboard",
+      "TBC"
+    ],
+    "Status": [
+      "Youth Fleet",
+      "Amateur",
+      "Gold Fleet",
+      "Pro Fleet",
+      "TBC"
+    ],
+    "Entry Type": [
+      "Youth Weekend",
+      "TBC"
+    ],
+    "Gender": [
+      "M",
+      "F",
+      "?"
+    ],
+    "Master": [
+      "Y",
+      "N",
+      "?"
+    ],
+    "Novice": [
+      "Y",
+      "N",
+      "?"
+    ]
+  },
+  "Tankards": {
+    "Emoji": "🍺",
+    "Filters": [
+      "Craft Type=Boat",
+      "Craft Type=Kiteboard",
+      "Craft Type=Sailboard"
+    ]
+  },
+  "Trophies": {
+    "Emoji": "🏆",
+    "Shields": [
+      {
+        "Name": "Thommen T1 Shield (Fastest of the Week)",
+        "Filter": ""
+      },
+      {
+        "Name": "Gold Fleet 'Fastest Sailor' Shield",
+        "Filter": "Status=Gold Fleet"
+      },
+      {
+        "Name": "Tushingham 'Fastest Youth' Shield",
+        "Filter": "Entry Type=Youth Weekend"
+      },
+      {
+        "Name": "Windtek 'Fastest Lady' Shield",
+        "Filter": "Gender=F"
+      },
+      {
+        "Name": "Windtek 'Fastest Master' Shield",
+        "Filter": "Master=Y"
+      },
+      {
+        "Name": "AYRS Pot",
+        "Filter": "Craft Type=Boat"
+      },
+      {
+        "Name": "Dakine Kite Speed Trophy",
+        "Filter": "Craft Type=Kiteboard"
+      },
+      {
+        "Name": "Mistral Trophy (Fastest Sailboard)",
+        "Filter": "Craft Type=Sailboard"
+      }
+    ]
+  },
+  "Prizes": [
+    {
+      "Rank": 1,
+      "Emoji": "🥇",
+      "Filters": [
+        "Entry Type=Youth Weekend",
+        "Gender=F",
+        "Master=Y",
+        "Novice=Y",
+        "Craft Type=Sailboard,Status=Amateur",
+        "Status=Gold Fleet",
+        "Craft Type=Sailboard,Status=Pro Fleet",
+        "Craft Type=Boat",
+        "Craft Type=Kiteboard"
+      ]
+    },
+    {
+      "Rank": 2,
+      "Emoji": "🥈",
+      "Filters": [
+        "Entry Type=Youth Weekend",
+        "Gender=F",
+        "Master=Y",
+        "Novice=Y",
+        "Craft Type=Sailboard,Status=Amateur",
+        "Status=Gold Fleet",
+        "Craft Type=Sailboard,Status=Pro Fleet",
+        "Craft Type=Boat",
+        "Craft Type=Kiteboard"
+      ]
+    },
+    {
+      "Rank": 3,
+      "Emoji": "🥉",
+      "Filters": [
+        "Entry Type=Youth Weekend",
+        "Gender=F",
+        "Master=Y",
+        "Novice=Y",
+        "Craft Type=Sailboard,Status=Amateur",
+        "Status=Gold Fleet",
+        "Craft Type=Sailboard,Status=Pro Fleet",
+        "Craft Type=Boat",
+        "Craft Type=Kiteboard"
+      ]
+    }
+  ]
 }
