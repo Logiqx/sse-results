@@ -1,41 +1,41 @@
 Position,Sail Number,Time,Title,First Name,Last Name,Craft Type,Speed (kts),Age Status,Novice,Professional
 1,625,14:00:20,Mr,Jason,McCaffrey,Kite Board,31.56,Neither,No,Gold Fleet
 2,622,13:11:17,Mr,Richard,Fabbri,Kite Board,30.4,Neither,Yes,Neither
-3,52,GPS,Mr,Patrick,Van Hoof,Sailboard,30.13,Master,Yes,Gold Fleet
-4,521,GPS,Mr,dan,ellis,Sailboard,30.09,Neither,No,Professional
-5,10,GPS,Mr,Anders,Bringdal,Sailboard,29.66,Neither,No,Professional
+3,52,,Mr,Patrick,Van Hoof,Sailboard,30.13,Master,Yes,Gold Fleet
+4,521,,Mr,dan,ellis,Sailboard,30.09,Neither,No,Professional
+5,10,,Mr,Anders,Bringdal,Sailboard,29.66,Neither,No,Professional
 6,115,10:57:24,Mr,stephen,corps,Sailboard,29.54,Neither,No,Gold Fleet
 7,175,10:43:35,Mr,Robin,Penna,Sailboard,29.47,Master,No,Gold Fleet
 8,609,11:59:03,Mr,philip,ladbrook,Kite Board,29.07,Master,Yes,Gold Fleet
-9,68,GPS,Mr,MARTYN,OGIER,Sailboard,28.84,Neither,No,Professional
+9,68,,Mr,MARTYN,OGIER,Sailboard,28.84,Neither,No,Professional
 10,873,10:59:01,Mr,Lance,Newbery,Sailboard,28.55,Neither,No,Gold Fleet
 11,181,13:17:45,Mr,Peter,Martin,Sailboard,28.49,Neither,No,Neither
 12,157,11:06:57,Mr,nigel,spriggs,Sailboard,28.35,Neither,No,Gold Fleet
 13,14,11:27:01,Mr,Ian,Hill,Sailboard,28.31,Neither,No,Gold Fleet
-14,77,GPS,Mr,Anthony,Baker,Sailboard,28.27,Neither,No,Professional
+14,77,,Mr,Anthony,Baker,Sailboard,28.27,Neither,No,Professional
 15,129,10:55:26,Mr,Tim,Fricke,Sailboard,28.07,Neither,No,Neither
 16,328,13:20:51,Mr,Adrian,Wallis,Sailboard,28.05,Master,No,Gold Fleet
 17,888,13:13:46,Mr,Michael,George,Sailboard,27.99,Neither,No,Neither
 18,69,13:09:42,Mr,Gareth,Baker,Sailboard,27.96,Neither,No,Gold Fleet
-19,63,GPS,Mr,Dave,White,Sailboard,27.83,Neither,No,Professional
+19,63,,Mr,Dave,White,Sailboard,27.83,Neither,No,Professional
 20,203,10:44:22,Mr,Dave,Standing,Sailboard,27.69,Master,No,Gold Fleet
 21,140,14:17:03,Mr,Steve,Jones,Sailboard,27.62,Neither,No,Gold Fleet
 22,151,14:00:47,Mr,sam,latham,Sailboard,27.61,Neither,No,Neither
 23,102,13:18:11,Mr,Norman,Petty,Sailboard,27.41,Master,No,Neither
 24,626,10:45:43,Mr,martin,hayes,Kite Board,27.34,Neither,No,Neither
 25,559,11:04:11,Mr,TONY,ATTFIELD,Sailboard,27.31,Neither,No,Neither
-26,47,GPS,Mrs,Zara,Davis,Sailboard,27.3,Neither,No,Gold Fleet
-27,951,GPS,Mr,Fred,Willis,Sailboard,27.28,Neither,No,Professional
+26,47,,Mrs,Zara,Davis,Sailboard,27.3,Neither,No,Gold Fleet
+27,951,,Mr,Fred,Willis,Sailboard,27.28,Neither,No,Professional
 28,29,10:53:21,Mr,Tony,Robinson,Sailboard,27.16,Master,No,Neither
 29,99,10:57:16,Mr,steve,franklyn,Sailboard,27.11,Neither,Yes,Gold Fleet
 30,56,13:18:53,Mr,Tim,Lawes,Sailboard,27.09,Neither,No,Gold Fleet
 31,76,10:42:01,Mr,Simon,Perkins,Sailboard,27.07,Neither,No,Neither
 32,983,10:50:44,Mr,HAMISH,GODDARD,Sailboard,27,Master,Yes,Neither
-33,131,GPS,Mr,Paul,Simmons,Sailboard,26.95,Neither,No,Professional
+33,131,,Mr,Paul,Simmons,Sailboard,26.95,Neither,No,Professional
 34,681,10:43:13,Mr,Alan,Cross,Sailboard,26.92,Master,No,Gold Fleet
 35,358,11:28:42,Mr,Gerard,Northwood,Sailboard,26.78,Master,No,Gold Fleet
 36,568,13:09:17,Mr,alex,burges,Sailboard,26.68,Neither,Yes,Neither
-37,73,GPS,Mr,Pete,Davis,Sailboard,26.65,Neither,No,Professional
+37,73,,Mr,Pete,Davis,Sailboard,26.65,Neither,No,Professional
 38,50,13:16:26,Mr,BARRY,PEARCE,Sailboard,26.55,Master,No,Neither
 39,79,10:52:24,Mr,Rob,King,Sailboard,26.49,Master,Yes,Neither
 40,93,11:35:44,Mr,Richard,Hobson,Sailboard,26.47,Neither,No,Neither
@@ -44,7 +44,7 @@ Position,Sail Number,Time,Title,First Name,Last Name,Craft Type,Speed (kts),Age 
 43,55,11:56:06,Mr,James,Lawton,Sailboard,26.23,Neither,Yes,Neither
 44,133,10:38:59,Mr,Mark,Briggs,Sailboard,26.07,Neither,Yes,Neither
 45,292,13:08:01,Mr,Nic,Dodd,Sailboard,25.93,Neither,No,Neither
-46,15,GPS,Mr,Thorsten,Niehaus,Sailboard,25.87,Neither,No,Professional
+46,15,,Mr,Thorsten,Niehaus,Sailboard,25.87,Neither,No,Professional
 47,51,14:18:31,Mr,Clive,Ellis,Sailboard,25.86,Master,No,Neither
 48,496,11:44:23,Mr,Tim,Tarrington,Sailboard,25.68,Neither,No,Neither
 49,62,13:06:28,Mr,Dave,Crowhurst,Sailboard,25.67,Master,Yes,Neither

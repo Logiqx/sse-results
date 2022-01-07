@@ -1,15 +1,15 @@
 Sail Number,Title,First Name,Last Name,Craft Type,Age Status,Novice,Professional,Time,Speed (kts)
-52,Mr,Patrick,Van Hoof,Sailboard,Master,Yes,Gold Fleet,GPS,30.13
-521,Mr,dan,ellis,Sailboard,Neither,No,Professional,GPS,30.09
-10,Mr,Anders,Bringdal,Sailboard,Neither,No,Professional,GPS,29.66
-68,Mr,MARTYN,OGIER,Sailboard,Neither,No,Professional,GPS,28.84
-77,Mr,Anthony,Baker,Sailboard,Neither,No,Professional,GPS,28.27
-63,Mr,Dave,White,Sailboard,Neither,No,Professional,GPS,27.83
-47,Mrs,Zara,Davis,Sailboard,Neither,No,Gold Fleet,GPS,27.3
-951,Mr,Fred,Willis,Sailboard,Neither,No,Professional,GPS,27.28
-131,Mr,Paul,Simmons,Sailboard,Neither,No,Professional,GPS,26.95
-73,Mr,Pete,Davis,Sailboard,Neither,No,Professional,GPS,26.65
-15,Mr,Thorsten,Niehaus,Sailboard,Neither,No,Professional,GPS,25.87
+52,Mr,Patrick,Van Hoof,Sailboard,Master,Yes,Gold Fleet,,30.13
+521,Mr,dan,ellis,Sailboard,Neither,No,Professional,,30.09
+10,Mr,Anders,Bringdal,Sailboard,Neither,No,Professional,,29.66
+68,Mr,MARTYN,OGIER,Sailboard,Neither,No,Professional,,28.84
+77,Mr,Anthony,Baker,Sailboard,Neither,No,Professional,,28.27
+63,Mr,Dave,White,Sailboard,Neither,No,Professional,,27.83
+47,Mrs,Zara,Davis,Sailboard,Neither,No,Gold Fleet,,27.3
+951,Mr,Fred,Willis,Sailboard,Neither,No,Professional,,27.28
+131,Mr,Paul,Simmons,Sailboard,Neither,No,Professional,,26.95
+73,Mr,Pete,Davis,Sailboard,Neither,No,Professional,,26.65
+15,Mr,Thorsten,Niehaus,Sailboard,Neither,No,Professional,,25.87
 2,Mr,Will,Oscroft,Sailboard,Neither,No,Neither,14:14:00,26.24
 2,Mr,Will,Oscroft,Sailboard,Neither,No,Neither,10:50:00,25.66
 2,Mr,Will,Oscroft,Sailboard,Neither,No,Neither,14:23:00,25.46
