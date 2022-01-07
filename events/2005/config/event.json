@@ -61,11 +61,11 @@
         "Filter": "Entry Type=Youth Weekend"
       },
       {
-        "Name": "Windtek 'Fastest Lady' shield",
+        "Name": "Windtek 'Fastest Lady' Shield",
         "Filter": "Gender=F"
       },
       {
-        "Name": "Windtek 'Fastest Master' shield",
+        "Name": "Windtek 'Fastest Master' Shield",
         "Filter": "Master=Y"
       }
     ]

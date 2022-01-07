@@ -3,7 +3,7 @@
     "Name": "Weymouth Speed Week 2007",
     "Start Date": "2007-10-01",
     "End Date": "2007-10-07",
-    "Banner": "wswlogo_print.png"
+    "Banner": "wswhdr_2007.png"
   },
   "Courses": {
     "H": "Harbour",
@@ -63,11 +63,11 @@
         "Filter": "Entry Type=Youth Weekend"
       },
       {
-        "Name": "Windtek 'Fastest Lady' shield",
+        "Name": "Windtek 'Fastest Lady' Shield",
         "Filter": "Gender=F"
       },
       {
-        "Name": "Windtek 'Fastest Master' shield",
+        "Name": "Windtek 'Fastest Master' Shield",
         "Filter": "Master=Y"
       }
     ]
