@@ -56,8 +56,8 @@
     "Emoji": "🏆",
     "Shields": [
       {
-        "Name": "Thommen T1 Shield",
-        "Filter": "Status=Pro Fleet"
+        "Name": "Thommen T1 Shield (Fastest of the Week)",
+        "Filter": ""
       },
       {
         "Name": "Gold Fleet 'Fastest Sailor' Shield",
@@ -78,6 +78,10 @@
       {
         "Name": "AYRS Pot",
         "Filter": "Craft Type=Boat"
+      },
+      {
+        "Name": "Dakine Kite Speed Trophy",
+        "Filter": "Craft Type=Kiteboard"
       }
     ]
   },
@@ -86,7 +90,6 @@
       "Rank": 1,
       "Emoji": "🥇",
       "Filters": [
-        "",
         "Entry Type=Youth Weekend",
         "Gender=F",
         "Master=Y",
