@@ -28,6 +28,11 @@
       "Filter": "Craft Type=Sailboard,Status=TBC"
     },
     {
+      "Title": "All Novices",
+      "Fields": "Name,Nation,Sail Number,Craft Type,Course,Time,Speed (kts)",
+      "Filter": "Novice=Y"
+    },
+    {
       "Title": "All Ladies",
       "Fields": "Name,Nation,Sail Number,Craft Type,Course,Time,Speed (kts)",
       "Filter": "Gender=F"
