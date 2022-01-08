@@ -15,17 +15,17 @@
     },
     {
       "Title": "All Kiteboards",
-      "Fields": "Name,Nation,Sail Number,Status",
+      "Fields": "Name,Nation,Sail Number",
       "Filter": "Craft Type=Kiteboard"
     },
     {
       "Title": "All Sailboards",
-      "Fields": "Name,Nation,Sail Number,Status",
+      "Fields": "Name,Nation,Sail Number",
       "Filter": "Craft Type=Sailboard"
     },
     {
       "Title": "All Craft TBCs",
-      "Fields": "Name,Nation,Sail Number,Craft Type,Status",
+      "Fields": "Name,Nation,Sail Number,Craft Type",
       "Filter": "Craft Type=TBC"
     }
   ]
