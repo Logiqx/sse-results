@@ -70,44 +70,44 @@
   ],
   "Prizes": [
     {
-      "Rank": 1,
-      "Filters": [
-        "",
-        "Entry Type=Youth Weekend",
-        "Craft Type=Sailboard,Gender=F",
-        "Craft Type=Sailboard,Master=Y",
-        "Craft Type=Sailboard,Novice=Y",
-        "Craft Type=Sailboard,Status=Amateur",
-        "Craft Type=Sailboard,Status=Pro Fleet",
-        "Craft Type=Boat",
-        "Craft Type=Kiteboard"
-      ]
+      "Name": "Youths",
+      "Filter": "Entry Type=Youth Weekend",
+      "Places": 3
     },
     {
-      "Rank": 2,
-      "Filters": [
-        "Entry Type=Youth Weekend",
-        "Craft Type=Sailboard,Gender=F",
-        "Craft Type=Sailboard,Master=Y",
-        "Craft Type=Sailboard,Novice=Y",
-        "Craft Type=Sailboard,Status=Amateur",
-        "Craft Type=Sailboard,Status=Pro Fleet",
-        "Craft Type=Boat",
-        "Craft Type=Kiteboard"
-      ]
+      "Name": "Lady Sailboards",
+      "Filter": "Craft Type=Sailboard,Gender=F",
+      "Places": 3
     },
     {
-      "Rank": 3,
-      "Filters": [
-        "Entry Type=Youth Weekend",
-        "Craft Type=Sailboard,Gender=F",
-        "Craft Type=Sailboard,Master=Y",
-        "Craft Type=Sailboard,Novice=Y",
-        "Craft Type=Sailboard,Status=Amateur",
-        "Craft Type=Sailboard,Status=Pro Fleet",
-        "Craft Type=Boat",
-        "Craft Type=Kiteboard"
-      ]
+      "Name": "Master Sailboards",
+      "Filter": "Craft Type=Sailboard,Master=Y",
+      "Places": 3
+    },
+    {
+      "Name": "Novice Sailboards",
+      "Filter": "Craft Type=Sailboard,Novice=Y",
+      "Places": 3
+    },
+    {
+      "Name": "Amateur Sailboards",
+      "Filter": "Craft Type=Sailboard,Status=Amateur",
+      "Places": 3
+    },
+    {
+      "Name": "Pro Sailboards",
+      "Filter": "Craft Type=Sailboard,Status=Pro Fleet",
+      "Places": 3
+    },
+    {
+      "Name": "Boats",
+      "Filter": "Craft Type=Boat",
+      "Places": 3
+    },
+    {
+      "Name": "Kiteboards",
+      "Filter": "Craft Type=Kiteboard",
+      "Places": 3
     }
   ]
 }

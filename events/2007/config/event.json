@@ -70,44 +70,49 @@
   ],
   "Prizes": [
     {
-      "Rank": 1,
-      "Filters": [
-        "Entry Type=Youth Weekend",
-        "Entry Type=Youth Weekend,Gender=F",
-        "Gender=F",
-        "Master=Y",
-        "Novice=Y",
-        "Craft Type=Sailboard,Status=Amateur",
-        "Craft Type=Sailboard,Status=Pro Fleet",
-        "Craft Type=Boat",
-        "Craft Type=Kiteboard"
-      ]
+      "Name": "Youths",
+      "Filter": "Entry Type=Youth Weekend",
+      "Places": 3
     },
     {
-      "Rank": 2,
-      "Filters": [
-        "Entry Type=Youth Weekend",
-        "Gender=F",
-        "Master=Y",
-        "Novice=Y",
-        "Craft Type=Sailboard,Status=Amateur",
-        "Craft Type=Sailboard,Status=Pro Fleet",
-        "Craft Type=Boat",
-        "Craft Type=Kiteboard"
-      ]
+      "Name": "Youth Girls",
+      "Filter": "Entry Type=Youth Weekend,Gender=F",
+      "Places": 1
     },
     {
-      "Rank": 3,
-      "Filters": [
-        "Entry Type=Youth Weekend",
-        "Gender=F",
-        "Master=Y",
-        "Novice=Y",
-        "Craft Type=Sailboard,Status=Amateur",
-        "Craft Type=Sailboard,Status=Pro Fleet",
-        "Craft Type=Boat",
-        "Craft Type=Kiteboard"
-      ]
+      "Name": "Ladies",
+      "Filter": "Gender=F",
+      "Places": 3
+    },
+    {
+      "Name": "Masters",
+      "Filter": "Master=Y",
+      "Places": 3
+    },
+    {
+      "Name": "Novices",
+      "Filter": "Novice=Y",
+      "Places": 3
+    },
+    {
+      "Name": "Amateur Sailboards",
+      "Filter": "Craft Type=Sailboard,Status=Amateur",
+      "Places": 3
+    },
+    {
+      "Name": "Pro Sailboards",
+      "Filter": "Craft Type=Sailboard,Status=Pro Fleet",
+      "Places": 3
+    },
+    {
+      "Name": "Boats",
+      "Filter": "Craft Type=Boat",
+      "Places": 3
+    },
+    {
+      "Name": "Kiteboards",
+      "Filter": "Craft Type=Kiteboard",
+      "Places": 3
     }
   ]
 }
