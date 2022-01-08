@@ -48,7 +48,7 @@
       "Filter": "Status=Youth Fleet"
     },
     {
-      "Title": "All Master Sailboards",
+      "Title": "All Known Master Sailboards",
       "Fields": "Name,Nation,Sail Number,Status,Course,Time,Speed (kts)",
       "Comment": "(age 45+)",
       "Filter": "Craft Type=Sailboard,Master=Y"
