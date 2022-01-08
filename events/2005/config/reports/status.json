@@ -16,6 +16,23 @@
     {
       "Title": "All Ladies",
       "Filter": "Gender=F"
+    },
+    {
+      "Title": "Top Youths",
+      "Comment": "(age <17, weekend only)",
+      "Filter": "Status=Youth Fleet",
+      "Period": "Event"
+    },
+    {
+      "Title": "Top Masters",
+      "Comment": "(age 45+)",
+      "Filter": "Master=Y",
+      "Period": "Event"
+    },
+    {
+      "Title": "Top Novices",
+      "Filter": "Novice=Y",
+      "Period": "Event"
     }
   ]
 }
