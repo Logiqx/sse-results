@@ -6,26 +6,26 @@
   "Reports": [
     {
       "Title": "All Craft",
-      "Fields": "Name,Nation,Sail Number,Craft Type,Status,Novice"
+      "Fields": "Name,Nation,Sail Number,Craft Type,Novice,Master"
     },
     {
       "Title": "All Boats",
-      "Fields": "Name,Nation,Sail Number,Boat Name,Status,Novice",
+      "Fields": "Name,Nation,Sail Number,Boat Name,Novice,Master",
       "Filter": "Craft Type=Boat"
     },
     {
       "Title": "All Kiteboards",
-      "Fields": "Name,Nation,Sail Number,Status,Novice",
+      "Fields": "Name,Nation,Sail Number,Novice,Master",
       "Filter": "Craft Type=Kiteboard"
     },
     {
       "Title": "All Sailboards",
-      "Fields": "Name,Nation,Sail Number,Status,Novice",
+      "Fields": "Name,Nation,Sail Number,Status,Novice,Master",
       "Filter": "Craft Type=Sailboard"
     },
     {
       "Title": "All Craft TBCs",
-      "Fields": "Name,Nation,Sail Number,Craft Type,Status,Novice",
+      "Fields": "Name,Nation,Sail Number,Craft Type,Novice,Master",
       "Filter": "Craft Type=TBC"
     }
   ]
