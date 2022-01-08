@@ -70,47 +70,47 @@
   ],
   "Prizes": [
     {
-      "Name": "Youths",
+      "Category": "Youths",
       "Filter": "Entry Type=Youth Weekend",
       "Places": 3
     },
     {
-      "Name": "Youth Girls",
+      "Category": "Youth Girls",
       "Filter": "Entry Type=Youth Weekend,Gender=F",
       "Places": 1
     },
     {
-      "Name": "Ladies",
+      "Category": "Ladies",
       "Filter": "Gender=F",
       "Places": 3
     },
     {
-      "Name": "Masters",
+      "Category": "Masters",
       "Filter": "Master=Y",
       "Places": 3
     },
     {
-      "Name": "Novices",
+      "Category": "Novices",
       "Filter": "Novice=Y",
       "Places": 3
     },
     {
-      "Name": "Amateur Sailboards",
+      "Category": "Amateur Sailboards",
       "Filter": "Craft Type=Sailboard,Status=Amateur",
       "Places": 3
     },
     {
-      "Name": "Pro Sailboards",
+      "Category": "Pro Sailboards",
       "Filter": "Craft Type=Sailboard,Status=Pro Fleet",
       "Places": 3
     },
     {
-      "Name": "Boats",
+      "Category": "Boats",
       "Filter": "Craft Type=Boat",
       "Places": 3
     },
     {
-      "Name": "Kiteboards",
+      "Category": "Kiteboards",
       "Filter": "Craft Type=Kiteboard",
       "Places": 3
     }

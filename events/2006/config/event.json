@@ -70,42 +70,42 @@
   ],
   "Prizes": [
     {
-      "Name": "Youths",
+      "Category": "Youths",
       "Filter": "Entry Type=Youth Weekend",
       "Places": 3
     },
     {
-      "Name": "Lady Sailboards",
+      "Category": "Lady Sailboards",
       "Filter": "Craft Type=Sailboard,Gender=F",
       "Places": 3
     },
     {
-      "Name": "Master Sailboards",
+      "Category": "Master Sailboards",
       "Filter": "Craft Type=Sailboard,Master=Y",
       "Places": 3
     },
     {
-      "Name": "Novice Sailboards",
+      "Category": "Novice Sailboards",
       "Filter": "Craft Type=Sailboard,Novice=Y",
       "Places": 3
     },
     {
-      "Name": "Amateur Sailboards",
+      "Category": "Amateur Sailboards",
       "Filter": "Craft Type=Sailboard,Status=Amateur",
       "Places": 3
     },
     {
-      "Name": "Pro Sailboards",
+      "Category": "Pro Sailboards",
       "Filter": "Craft Type=Sailboard,Status=Pro Fleet",
       "Places": 3
     },
     {
-      "Name": "Boats",
+      "Category": "Boats",
       "Filter": "Craft Type=Boat",
       "Places": 3
     },
     {
-      "Name": "Kiteboards",
+      "Category": "Kiteboards",
       "Filter": "Craft Type=Kiteboard",
       "Places": 3
     }
