@@ -50,26 +50,24 @@
       "Craft Type=Sailboard"
     ]
   },
-  "Trophies": {
-    "Shields": [
-      {
-        "Name": "Thommen T1 Shield (Fastest of the Week)",
-        "Filter": ""
-      },
-      {
-        "Name": "Tushingham 'Fastest Youth' Shield",
-        "Filter": "Entry Type=Youth Weekend"
-      },
-      {
-        "Name": "Windtek 'Fastest Lady' Shield",
-        "Filter": "Craft Type=Sailboard,Gender=F"
-      },
-      {
-        "Name": "Windtek 'Fastest Master' Shield",
-        "Filter": "Craft Type=Sailboard,Master=Y"
-      }
-    ]
-  },
+  "Trophies": [
+    {
+      "Name": "Thommen T1 Shield (Fastest of the Week)",
+      "Filter": ""
+    },
+    {
+      "Name": "Tushingham 'Fastest Youth' Shield",
+      "Filter": "Entry Type=Youth Weekend"
+    },
+    {
+      "Name": "Windtek 'Fastest Lady' Shield",
+      "Filter": "Craft Type=Sailboard,Gender=F"
+    },
+    {
+      "Name": "Windtek 'Fastest Master' Shield",
+      "Filter": "Craft Type=Sailboard,Master=Y"
+    }
+  ],
   "Prizes": [
     {
       "Rank": 1,

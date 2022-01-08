@@ -51,42 +51,40 @@
       "Craft Type=Sailboard"
     ]
   },
-  "Trophies": {
-    "Shields": [
-      {
-        "Name": "Thommen T1 Shield (Fastest of the Week)",
-        "Filter": ""
-      },
-      {
-        "Name": "Gold Fleet 'Fastest Sailor' Shield",
-        "Filter": "Status=Gold Fleet"
-      },
-      {
-        "Name": "Tushingham 'Fastest Youth' Shield",
-        "Filter": "Entry Type=Youth Weekend"
-      },
-      {
-        "Name": "Windtek 'Fastest Lady' Shield",
-        "Filter": "Gender=F"
-      },
-      {
-        "Name": "Windtek 'Fastest Master' Shield",
-        "Filter": "Master=Y"
-      },
-      {
-        "Name": "AYRS Pot",
-        "Filter": "Craft Type=Boat"
-      },
-      {
-        "Name": "Dakine Kite Speed Trophy",
-        "Filter": "Craft Type=Kiteboard"
-      },
-      {
-        "Name": "Mistral Trophy (Fastest Sailboard)",
-        "Filter": "Craft Type=Sailboard"
-      }
-    ]
-  },
+  "Trophies": [
+    {
+      "Name": "Thommen T1 Shield (Fastest of the Week)",
+      "Filter": ""
+    },
+    {
+      "Name": "Gold Fleet 'Fastest Sailor' Shield",
+      "Filter": "Status=Gold Fleet"
+    },
+    {
+      "Name": "Tushingham 'Fastest Youth' Shield",
+      "Filter": "Entry Type=Youth Weekend"
+    },
+    {
+      "Name": "Windtek 'Fastest Lady' Shield",
+      "Filter": "Gender=F"
+    },
+    {
+      "Name": "Windtek 'Fastest Master' Shield",
+      "Filter": "Master=Y"
+    },
+    {
+      "Name": "AYRS Pot",
+      "Filter": "Craft Type=Boat"
+    },
+    {
+      "Name": "Dakine Kite Speed Trophy",
+      "Filter": "Craft Type=Kiteboard"
+    },
+    {
+      "Name": "Mistral Trophy (Fastest Sailboard)",
+      "Filter": "Craft Type=Sailboard"
+    }
+  ],
   "Prizes": [
     {
       "Rank": 1,
