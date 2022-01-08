@@ -83,47 +83,47 @@
   ],
   "Prizes": [
     {
-      "Name": "Youths",
+      "Category": "Youths",
       "Filter": "Entry Type=Youth Weekend",
       "Places": 3
     },
     {
-      "Name": "Ladies",
+      "Category": "Ladies",
       "Filter": "Gender=F",
       "Places": 3
     },
     {
-      "Name": "Masters",
+      "Category": "Masters",
       "Filter": "Master=Y",
       "Places": 3
     },
     {
-      "Name": "Novices",
+      "Category": "Novices",
       "Filter": "Novice=Y",
       "Places": 3
     },
     {
-      "Name": "Amateurs",
+      "Category": "Amateurs",
       "Filter": "Status=Amateur",
       "Places": 3
     },
     {
-      "Name": "Gold Fleet",
+      "Category": "Gold Fleet",
       "Filter": "Status=Gold Fleet",
       "Places": 3
     },
     {
-      "Name": "Pros",
+      "Category": "Pros",
       "Filter": "Status=Pro Fleet",
       "Places": 3
     },
     {
-      "Name": "Boats",
+      "Category": "Boats",
       "Filter": "Craft Type=Boat",
       "Places": 3
     },
     {
-      "Name": "Kiteboards",
+      "Category": "Kiteboards",
       "Filter": "Craft Type=Kiteboard",
       "Places": 3
     }
