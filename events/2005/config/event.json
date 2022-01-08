@@ -55,7 +55,7 @@
     },
     {
       "Name": "Tushingham 'Fastest Youth' Shield",
-      "Filter": "Entry Type=Youth Weekend"
+      "Filter": "Status=Youth Fleet"
     },
     {
       "Name": "Windtek 'Fastest Lady' Shield",
@@ -74,7 +74,7 @@
     },
     {
       "Category": "Youths",
-      "Filter": "Entry Type=Youth Weekend",
+      "Filter": "Status=Youth Fleet",
       "Places": 3
     },
     {

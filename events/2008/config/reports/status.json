@@ -45,7 +45,7 @@
       "Title": "Top Youths",
       "Comment": "(age <17, weekend only)",
       "Fields": "Name,Nation,Sail Number,Craft Type,Course,Finish Time,Speed (kts)",
-      "Filter": "Entry Type=Youth Weekend",
+      "Filter": "Status=Youth Fleet",
       "Period": "Event"
     },
     {
