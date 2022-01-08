@@ -24,7 +24,6 @@
     ]
   },
   "Tankards": {
-    "Emoji": "🍺",
     "Filters": [
       "Craft Type=Boat",
       "Craft Type=Kiteboard",
