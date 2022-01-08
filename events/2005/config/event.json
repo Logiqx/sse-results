@@ -42,7 +42,6 @@
     ]
   },
   "Tankards": {
-    "Emoji": "🍺",
     "Filters": [
       "Craft Type=Boat",
       "Craft Type=Kiteboard",
@@ -50,7 +49,6 @@
     ]
   },
   "Trophies": {
-    "Emoji": "🏆",
     "Shields": [
       {
         "Name": "Thommen T1 Shield (Fastest of the Week)",
@@ -73,7 +71,6 @@
   "Prizes": [
     {
       "Rank": 1,
-      "Emoji": "🥇",
       "Filters": [
         "",
         "Entry Type=Youth Weekend",
@@ -86,7 +83,6 @@
     },
     {
       "Rank": 2,
-      "Emoji": "🥈",
       "Filters": [
         "Entry Type=Youth Weekend",
         "Gender=F",
@@ -98,7 +94,6 @@
     },
     {
       "Rank": 3,
-      "Emoji": "🥉",
       "Filters": [
         "Entry Type=Youth Weekend",
         "Gender=F",
