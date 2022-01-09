@@ -53,81 +53,89 @@
   },
   "Trophies": [
     {
-      "Name": "Thommen T1 Shield (Fastest of the Week)",
+      "Name": "Thommen T1 Shield",
+      "Category": "Craft",
       "Filter": ""
     },
     {
       "Name": "Gold Fleet 'Fastest Sailor' Shield",
+      "Category": "Gold Fleet Entrant",
       "Filter": "Status=Gold Fleet"
     },
     {
       "Name": "Tushingham 'Fastest Youth' Shield",
+      "Category": "Youth",
       "Filter": "Status=Youth Fleet"
     },
     {
       "Name": "Windtek 'Fastest Lady' Shield",
+      "Category": "Lady",
       "Filter": "Gender=F"
     },
     {
       "Name": "Windtek 'Fastest Master' Shield",
+      "Category": "Master",
       "Filter": "Master=Y"
     },
     {
       "Name": "AYRS Pot",
+      "Category": "Boat",
       "Filter": "Craft Type=Boat"
     },
     {
       "Name": "Dakine Kite Speed Trophy",
+      "Category": "Kiteboard",
       "Filter": "Craft Type=Kiteboard"
     },
     {
-      "Name": "Mistral Trophy (Fastest Sailboard)",
+      "Name": "Mistral Trophy",
+      "Category": "Sailboard",
       "Filter": "Craft Type=Sailboard"
     }
   ],
   "Prizes": [
     {
-      "Name": "Youths",
+      "Category": "Youths",
       "Filter": "Status=Youth Fleet",
       "Places": 3
     },
     {
-      "Name": "Ladies",
+      "Category": "Ladies",
       "Filter": "Gender=F",
       "Places": 3
     },
     {
-      "Name": "Masters",
+      "Category": "Masters",
       "Filter": "Master=Y",
       "Places": 3
     },
     {
-      "Name": "Novices",
+      "Category": "Novices",
       "Filter": "Novice=Y",
       "Places": 3
     },
     {
-      "Name": "Amateur Sailboards",
+      "Category": "Amateur Sailboards",
       "Filter": "Craft Type=Sailboard,Status=Amateur",
       "Places": 3
     },
     {
-      "Name": "Gold Fleet Sailboards",
+      "Category": "Gold Fleet Sailboards",
       "Filter": "Status=Gold Fleet",
       "Places": 3
     },
     {
-      "Name": "Pro Sailboards",
+      "Category": "Pro Sailboards",
       "Filter": "Craft Type=Sailboard,Status=Pro Fleet",
       "Places": 3
     },
     {
-      "Name": "Boats",
+      "Category": "Boats",
       "Filter": "Craft Type=Boat",
       "Places": 3
     },
     {
-      "Name": "Kiteboards",
+      "Category": "Kiteboards",
       "Filter": "Craft Type=Kiteboard",
       "Places": 3
     }

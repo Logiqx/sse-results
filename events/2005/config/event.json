@@ -50,25 +50,29 @@
   },
   "Trophies": [
     {
-      "Name": "Thommen T1 Shield (Fastest of the Week)",
+      "Name": "Thommen T1 Shield",
+      "Category": "Craft",
       "Filter": ""
     },
     {
       "Name": "Tushingham 'Fastest Youth' Shield",
+      "Category": "Youth",
       "Filter": "Status=Youth Fleet"
     },
     {
       "Name": "Windtek 'Fastest Lady' Shield",
+      "Category": "Lady",
       "Filter": "Gender=F"
     },
     {
       "Name": "Windtek 'Fastest Master' Shield",
+      "Category": "Master",
       "Filter": "Master=Y"
     }
   ],
   "Prizes": [
     {
-      "Category": "Fastest",
+      "Category": "Craft",
       "Filter": "",
       "Places": 1
     },
@@ -78,14 +82,9 @@
       "Places": 3
     },
     {
-      "Category": "Ladies",
+      "Category": "Lady",
       "Filter": "Gender=F",
-      "Places": 3
-    },
-    {
-      "Category": "Masters",
-      "Filter": "Master=Y",
-      "Places": 3
+      "Places": 1
     },
     {
       "Category": "Novices",
@@ -93,14 +92,9 @@
       "Places": 3
     },
     {
-      "Category": "Boats",
+      "Category": "Boat",
       "Filter": "Craft Type=Boat",
-      "Places": 3
-    },
-    {
-      "Category": "Kiteboards",
-      "Filter": "Craft Type=Kiteboard",
-      "Places": 3
+      "Places": 1
     }
   ]
 }
