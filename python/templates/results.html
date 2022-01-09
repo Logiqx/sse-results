@@ -8,6 +8,9 @@
       {% if report.comment is not none %}
       <p>{{ report.comment }}</p>
       {% endif %}
+      {% for comment in report.prizes[className] %}
+      <p>{{ comment }}</p>
+      {% endfor %}
       <table border="1">
         <tr>
         {% for field in report.fields %}
