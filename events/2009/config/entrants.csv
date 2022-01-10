@@ -1,104 +1,104 @@
-ID,Sail Number,Title,First Name,Family Name,Nationality,Craft Type,Age Status,Novice,Professional,Entry Type,Status,Master
-1,863,Mr,Duncan,Adam,,Sailboard,Master,No,Neither,,Amateur,Y
-2,206,Mr,Martin,Allman,,Sailboard,Master,No,Neither,,Amateur,Y
-3,559,Mr,Tony,Attfield,,Sailboard,Neither,No,Neither,,Amateur,N
-4,77,Mr,Antony,Baker,,Sailboard,Neither,No,Professional,,Pro Fleet,N
-5,69,Mr,Gareth,Baker,,Sailboard,Neither,No,Gold Fleet,,Gold Fleet,N
-6,116,Mr,Michael,Barton,,Boat,Master,No,Neither,,Amateur,Y
-7,30,Mr,Alan,Bennett,,Sailboard,Neither,No,Neither,,Amateur,N
-8,101,Mr,Torix,Bennett,,Boat,Master,No,Gold Fleet,,Gold Fleet,Y
-9,66,Mr,Alex,Bennett-Baggs,,Sailboard,Neither,No,Neither,,Amateur,N
-10,852,Mr,Henry,Bloodworth,,Sailboard,Junior,No,Neither,Youth Weekend,Amateur,N
-11,54,Mr,Alan,Blundell,,Boat,Master,No,Neither,,Amateur,Y
-12,90,Mr,Ian,Blundell,,Sailboard,Neither,Yes,Neither,,Amateur,N
-13,133,Mr,Mark,Briggs,,Sailboard,Neither,Yes,Neither,,Amateur,N
-14,10,Mr,Anders,Bringdal,Sweden,Sailboard,Neither,No,Professional,,Pro Fleet,N
-15,12,Mr,Jim,Brooks-Dowsett,,Sailboard,Neither,No,Gold Fleet,,Gold Fleet,N
-16,568,Mr,Alex,Burges,,Sailboard,Neither,Yes,Neither,,Amateur,N
-17,329,Mr,Mark,Collins,,Sailboard,Master,No,Neither,,Amateur,Y
-18,624,Mrs,Jenny,Cooper,,Kite Board,Master,Yes,Gold Fleet,,Gold Fleet,Y
-19,115,Mr,Stephen,Corps,,Sailboard,Neither,No,Gold Fleet,,Gold Fleet,N
-20,95,Mr,Stephen,Cronshaw,,Sailboard,Neither,Yes,Neither,,Amateur,N
-21,681,Mr,Allan,Cross,,Sailboard,Master,No,Gold Fleet,,Gold Fleet,Y
-22,62,Mr,Dave,Crowhurst,,Sailboard,Master,Yes,Neither,,Amateur,Y
-23,73,Mr,Pete,Davis,,Sailboard,Neither,No,Professional,,Pro Fleet,N
-24,47,Mrs,Zara,Davis,,Sailboard,Neither,No,Gold Fleet,,Gold Fleet,N
-25,292,Mr,Nic,Dodd,,Sailboard,Neither,No,Neither,,Amateur,N
-26,571,Mr,Ryan,Dunkling,,Sailboard,Junior,Yes,Neither,Youth Weekend,Amateur,N
-27,51,Mr,Clive,Ellis,,Sailboard,Master,No,Neither,,Amateur,Y
-28,521,Mr,Dan,Ellis,,Sailboard,Neither,No,Professional,,Pro Fleet,N
-29,420,Mr,Chris,Etchells,,Sailboard,Neither,Yes,Neither,,Amateur,N
-30,622,Mr,Richard,Fabbri,,Kite Board,Neither,Yes,Neither,,Amateur,N
-31,99,Mr,Steve,Franklyn,,Sailboard,Neither,Yes,Neither,,Amateur,N
-32,129,Mr,Tim,Fricke,,Sailboard,Neither,No,Gold Fleet,,Gold Fleet,N
-33,24,Mr,Trevor,Funnell,,Sailboard,Master,No,Neither,,Amateur,Y
-34,49,Mr,Jeremy,Gardner,,Sailboard,Master,Yes,Neither,,Amateur,Y
-35,888,Mr,Michael,George,,Sailboard,Neither,No,Neither,,Amateur,N
-36,146,Mr,Will,Giles,,Sailboard,Junior,No,Neither,Youth Weekend,Amateur,N
-37,983,Mr,Hamish,Goddard,,Sailboard,Master,Yes,Neither,,Amateur,Y
-38,714,Miss,Emily,Hall,,Sailboard,Junior,Yes,Gold Fleet,Youth Weekend,Gold Fleet,N
-39,626,Mr,Martin,Hayes,,Kite Board,Neither,No,Neither,,Amateur,N
-40,444,Mr,Richard,Haynes,,Sailboard,Master,No,Neither,,Amateur,Y
-41,14,Mr,Ian,Hill,,Sailboard,Neither,No,Gold Fleet,,Gold Fleet,N
-42,40,Mr,Ian,Hobbs,,Sailboard,Master,Yes,Neither,,Amateur,Y
-43,93,Mr,Richard,Hobson,,Sailboard,Neither,No,Neither,,Amateur,N
-44,104,Mr,Will,Houghton,,Sailboard,Junior,Yes,Neither,Youth Weekend,Amateur,N
-45,5,Mr,Jean,Hurtado,,Boat,Master,No,Neither,,Amateur,Y
-46,425,Mr,Sam,Jenkins,,Sailboard,Junior,No,Gold Fleet,Youth Weekend,Gold Fleet,N
-47,140,Mr,Steve,Jones,,Sailboard,Neither,No,Gold Fleet,,Gold Fleet,N
-48,8,Mr,Raj,Kandasamy,,Sailboard,Neither,No,Neither,,Amateur,N
-49,79,Mr,Rob,King,,Sailboard,Master,Yes,Neither,,Amateur,Y
-50,3021,Miss,Katherine,Knight,,Boat,Neither,Yes,Neither,,Amateur,N
-51,609,Mr,Philip,Ladbrook,,Kite Board,Master,Yes,Gold Fleet,,Gold Fleet,Y
-52,42,Mr,John,Langdown,,Sailboard,Neither,No,Neither,,Amateur,N
-53,151,Mr,Sam,Latham,,Sailboard,Neither,No,Neither,,Amateur,N
-54,56,Mr,Tim,Lawes,,Sailboard,Neither,No,Gold Fleet,,Gold Fleet,N
-55,55,Mr,James,Lawton,,Sailboard,Neither,Yes,Neither,,Amateur,N
-56,113,Mr,Rudiger,Lotz,,Sailboard,Master,No,Gold Fleet,,Gold Fleet,Y
-57,2811,Mr,Henry,Luce,,Sailboard,Master,No,Neither,,Amateur,Y
-58,181,Mr,Peter,Martin,,Sailboard,Neither,No,Neither,,Amateur,N
-59,23,Mr,Barry,Mason,,Sailboard,Master,No,Neither,,Amateur,Y
-60,625,Mr,Jason,McCaffrey,,Kite Board,Neither,No,Neither,,Amateur,N
-61,3,Mr,John,McIntyre,,Sailboard,Master,No,Neither,,Amateur,Y
-62,670,Mr,Eddie,Murrell,,Sailboard,Master,No,Gold Fleet,,Gold Fleet,Y
-63,873,Mr,Lance,Newbery,,Sailboard,Neither,No,Neither,,Amateur,N
-64,210,Mr,Gavin,Nicholson,,Sailboard,Neither,Yes,Neither,,Amateur,N
-65,15,Mr,Thorsten,Niehaus,,Sailboard,Neither,No,Professional,,Pro Fleet,N
-66,773,Mr,Adrian,Nisbet,,Sailboard,Neither,Yes,Neither,,Amateur,N
-67,358,Mr,Gerry,Northwood,,Sailboard,Master,No,Gold Fleet,,Gold Fleet,Y
-68,68,Mr,Martyn,Ogier,,Sailboard,Neither,No,Professional,,Pro Fleet,N
-69,2,Mr,Will,Oscroft,,Sailboard,Neither,No,Neither,,Amateur,N
-70,248,Mr,Marcus,Partridge,,Sailboard,Neither,No,Neither,,Amateur,N
-71,50,Mr,Barry,Pearce,,Sailboard,Master,No,Neither,,Amateur,Y
-72,175,Mr,Robin,Penna,,Sailboard,Master,No,Gold Fleet,,Gold Fleet,Y
-73,76,Mr,Simon,Perkins,,Sailboard,Neither,No,Neither,,Amateur,N
-74,102,Mr,Norman,Petty,,Sailboard,Master,No,Neither,,Amateur,Y
-75,97,Mr,Mike,Price,,Sailboard,Master,No,Neither,,Amateur,Y
-76,88,Mr,Richard,Riddell,,Sailboard,Neither,No,Neither,,Amateur,N
-77,598,Mr,Michael,Roberts,,Sailboard,Master,No,Neither,,Amateur,Y
-78,343,Mr,Andrew,Robinson,,Sailboard,Junior,No,Neither,Youth Weekend,Amateur,N
-79,353,Mr,Paul,Robinson,,Sailboard,Master,No,Neither,,Amateur,Y
-80,29,Mr,Tony,Robinson,,Sailboard,Master,No,Neither,,Amateur,Y
-81,656,Mr,Bill,Robinson,,Sailboard,Master,No,Neither,,Amateur,Y
-82,1966,Mr,Martin,Schramm,,Sailboard,Neither,Yes,Neither,,Amateur,N
-83,131,Mr,Paul,Simmons,,Sailboard,Neither,No,Professional,,Pro Fleet,N
-84,157,Mr,Nigel,Spriggs,,Sailboard,Neither,No,Gold Fleet,,Gold Fleet,N
-85,203,Mr,Dave,Standing,,Sailboard,Master,No,Gold Fleet,,Gold Fleet,Y
-86,44,Mr,Dave,Strudwick,,Sailboard,Master,No,Gold Fleet,,Gold Fleet,Y
-87,496,Mr,Tim,Tarrington,,Sailboard,Neither,No,Neither,,Amateur,N
-88,43,Mr,Simon,Thompson,,Sailboard,Neither,No,Gold Fleet,,Gold Fleet,N
-89,760,Mr,Antony,Todd,,Sailboard,Neither,Yes,Neither,,Amateur,N
-90,39,Mr,Simon,Todd,,Sailboard,Neither,Yes,Neither,,Amateur,N
-91,52,Mr,Patrick,Van Hoof,,Sailboard,Neither,Yes,Professional,,Pro Fleet,N
-92,555,Mr,Claude,Van-Martyn,,Sailboard,Master,No,Neither,,Amateur,Y
-93,328,Mr,Adrian,Wallis,,Sailboard,Master,No,Gold Fleet,,Gold Fleet,Y
-94,349,Mr,Bruno,Warner,,Sailboard,Master,No,Neither,,Amateur,Y
-95,63,Mr,Dave,White,,Sailboard,Neither,No,Professional,,Pro Fleet,N
-96,330,Mr,Alistair,Williams,,Sailboard,Master,No,Neither,,Amateur,Y
-97,951,Mr,Fred,Willis,,Sailboard,Neither,No,Professional,,Pro Fleet,N
-98,143,Mr,Charlie,Wilson,,Sailboard,Neither,No,Neither,,Amateur,N
-99,112,Miss,Emily,Wood,,Sailboard,Neither,No,Neither,,Amateur,N
-100,161,Miss,Martina,Zuhlke,,Sailboard,Neither,Yes,Neither,,Amateur,N
-101,17,Mr,Fred,Ball,,Boat,Master,No,Neither,,Amateur,Y
-102,630,,,Gifford,,Sailboard,,,Neither,,Amateur,
-103,138,Mr,Nigel,Leeming,,Boat,,,,,,
+ID,Sail Number,Title,First Name,Family Name,Nationality,Craft Type,Age Status,Novice,Professional,Status,Master
+1,863,Mr,Duncan,Adam,,Sailboard,Master,No,Neither,Amateur,Yes
+2,206,Mr,Martin,Allman,,Sailboard,Master,No,Neither,Amateur,Yes
+3,559,Mr,Tony,Attfield,,Sailboard,Neither,No,Neither,Amateur,No
+4,77,Mr,Antony,Baker,,Sailboard,Neither,No,Professional,Pro Fleet,No
+5,69,Mr,Gareth,Baker,,Sailboard,Neither,No,Gold Fleet,Gold Fleet,No
+6,116,Mr,Michael,Barton,,Boat,Master,No,Neither,Amateur,Yes
+7,30,Mr,Alan,Bennett,,Sailboard,Neither,No,Neither,Amateur,No
+8,101,Mr,Torix,Bennett,,Boat,Master,No,Gold Fleet,Gold Fleet,Yes
+9,66,Mr,Alex,Bennett-Baggs,,Sailboard,Neither,No,Neither,Amateur,No
+10,852,Mr,Henry,Bloodworth,,Sailboard,Junior,No,Neither,Youth Fleet,No
+11,54,Mr,Alan,Blundell,,Boat,Master,No,Neither,Amateur,Yes
+12,90,Mr,Ian,Blundell,,Sailboard,Neither,Yes,Neither,Amateur,No
+13,133,Mr,Mark,Briggs,,Sailboard,Neither,Yes,Neither,Amateur,No
+14,10,Mr,Anders,Bringdal,Sweden,Sailboard,Neither,No,Professional,Pro Fleet,No
+15,12,Mr,Jim,Brooks-Dowsett,,Sailboard,Neither,No,Gold Fleet,Gold Fleet,No
+16,568,Mr,Alex,Burges,,Sailboard,Neither,Yes,Neither,Amateur,No
+17,329,Mr,Mark,Collins,,Sailboard,Master,No,Neither,Amateur,Yes
+18,624,Mrs,Jenny,Cooper,,Kite Board,Master,Yes,Gold Fleet,Gold Fleet,Yes
+19,115,Mr,Stephen,Corps,,Sailboard,Neither,No,Gold Fleet,Gold Fleet,No
+20,95,Mr,Stephen,Cronshaw,,Sailboard,Neither,Yes,Neither,Amateur,No
+21,681,Mr,Allan,Cross,,Sailboard,Master,No,Gold Fleet,Gold Fleet,Yes
+22,62,Mr,Dave,Crowhurst,,Sailboard,Master,Yes,Neither,Amateur,Yes
+23,73,Mr,Pete,Davis,,Sailboard,Neither,No,Professional,Pro Fleet,No
+24,47,Mrs,Zara,Davis,,Sailboard,Neither,No,Gold Fleet,Gold Fleet,No
+25,292,Mr,Nic,Dodd,,Sailboard,Neither,No,Neither,Amateur,No
+26,571,Mr,Ryan,Dunkling,,Sailboard,Junior,Yes,Neither,Youth Fleet,No
+27,51,Mr,Clive,Ellis,,Sailboard,Master,No,Neither,Amateur,Yes
+28,521,Mr,Dan,Ellis,,Sailboard,Neither,No,Professional,Pro Fleet,No
+29,420,Mr,Chris,Etchells,,Sailboard,Neither,Yes,Neither,Amateur,No
+30,622,Mr,Richard,Fabbri,,Kite Board,Neither,Yes,Neither,Amateur,No
+31,99,Mr,Steve,Franklyn,,Sailboard,Neither,Yes,Neither,Amateur,No
+32,129,Mr,Tim,Fricke,,Sailboard,Neither,No,Gold Fleet,Gold Fleet,No
+33,24,Mr,Trevor,Funnell,,Sailboard,Master,No,Neither,Amateur,Yes
+34,49,Mr,Jeremy,Gardner,,Sailboard,Master,Yes,Neither,Amateur,Yes
+35,888,Mr,Michael,George,,Sailboard,Neither,No,Neither,Amateur,No
+36,146,Mr,Will,Giles,,Sailboard,Junior,No,Neither,Youth Fleet,No
+37,983,Mr,Hamish,Goddard,,Sailboard,Master,Yes,Neither,Amateur,Yes
+38,714,Miss,Emily,Hall,,Sailboard,Junior,No,Gold Fleet,Youth Fleet,No
+39,626,Mr,Martin,Hayes,,Kite Board,Neither,No,Neither,Amateur,No
+40,444,Mr,Richard,Haynes,,Sailboard,Master,No,Neither,Amateur,Yes
+41,14,Mr,Ian,Hill,,Sailboard,Neither,No,Gold Fleet,Gold Fleet,No
+42,40,Mr,Ian,Hobbs,,Sailboard,Master,Yes,Neither,Amateur,Yes
+43,93,Mr,Richard,Hobson,,Sailboard,Neither,No,Neither,Amateur,No
+44,104,Mr,Will,Houghton,,Sailboard,Junior,Yes,Neither,Youth Fleet,No
+45,5,Mr,Jean,Hurtado,,Boat,Master,No,Neither,Amateur,Yes
+46,425,Mr,Sam,Jenkins,,Sailboard,Junior,No,Gold Fleet,Youth Fleet,No
+47,140,Mr,Steve,Jones,,Sailboard,Neither,No,Gold Fleet,Gold Fleet,No
+48,8,Mr,Raj,Kandasamy,,Sailboard,Neither,No,Neither,Amateur,No
+49,79,Mr,Rob,King,,Sailboard,Master,Yes,Neither,Amateur,Yes
+50,3021,Miss,Katherine,Knight,,Boat,Neither,Yes,Neither,Amateur,No
+51,609,Mr,Philip,Ladbrook,,Kite Board,Master,Yes,Gold Fleet,Gold Fleet,Yes
+52,42,Mr,John,Langdown,,Sailboard,Neither,No,Neither,Amateur,No
+53,151,Mr,Sam,Latham,,Sailboard,Neither,No,Neither,Amateur,No
+54,56,Mr,Tim,Lawes,,Sailboard,Neither,No,Gold Fleet,Gold Fleet,No
+55,55,Mr,James,Lawton,,Sailboard,Neither,Yes,Neither,Amateur,No
+56,113,Mr,Rudiger,Lotz,,Sailboard,Master,No,Gold Fleet,Gold Fleet,Yes
+57,2811,Mr,Henry,Luce,,Sailboard,Master,No,Neither,Amateur,Yes
+58,181,Mr,Peter,Martin,,Sailboard,Neither,No,Neither,Amateur,No
+59,23,Mr,Barry,Mason,,Sailboard,Master,No,Neither,Amateur,Yes
+60,625,Mr,Jason,McCaffrey,,Kite Board,Neither,No,Neither,Amateur,No
+61,3,Mr,John,McIntyre,,Sailboard,Master,No,Neither,Amateur,Yes
+62,670,Mr,Eddie,Murrell,,Sailboard,Master,No,Gold Fleet,Gold Fleet,Yes
+63,873,Mr,Lance,Newbery,,Sailboard,Neither,No,Neither,Amateur,No
+64,210,Mr,Gavin,Nicholson,,Sailboard,Neither,Yes,Neither,Amateur,No
+65,15,Mr,Thorsten,Niehaus,,Sailboard,Neither,No,Professional,Pro Fleet,No
+66,773,Mr,Adrian,Nisbet,,Sailboard,Neither,Yes,Neither,Amateur,No
+67,358,Mr,Gerry,Northwood,,Sailboard,Master,No,Gold Fleet,Gold Fleet,Yes
+68,68,Mr,Martyn,Ogier,,Sailboard,Neither,No,Professional,Pro Fleet,No
+69,2,Mr,Will,Oscroft,,Sailboard,Neither,No,Neither,Amateur,No
+70,248,Mr,Marcus,Partridge,,Sailboard,Neither,No,Neither,Amateur,No
+71,50,Mr,Barry,Pearce,,Sailboard,Master,No,Neither,Amateur,Yes
+72,175,Mr,Robin,Penna,,Sailboard,Master,No,Gold Fleet,Gold Fleet,Yes
+73,76,Mr,Simon,Perkins,,Sailboard,Neither,No,Neither,Amateur,No
+74,102,Mr,Norman,Petty,,Sailboard,Master,No,Neither,Amateur,Yes
+75,97,Mr,Mike,Price,,Sailboard,Master,No,Neither,Amateur,Yes
+76,88,Mr,Richard,Riddell,,Sailboard,Neither,No,Neither,Amateur,No
+77,598,Mr,Michael,Roberts,,Sailboard,Master,No,Neither,Amateur,Yes
+78,343,Mr,Andrew,Robinson,,Sailboard,Junior,No,Neither,Youth Fleet,No
+79,353,Mr,Paul,Robinson,,Sailboard,Master,No,Neither,Amateur,Yes
+80,29,Mr,Tony,Robinson,,Sailboard,Master,No,Neither,Amateur,Yes
+81,656,Mr,Bill,Robinson,,Sailboard,Master,No,Neither,Amateur,Yes
+82,1966,Mr,Martin,Schramm,,Sailboard,Neither,Yes,Neither,Amateur,No
+83,131,Mr,Paul,Simmons,,Sailboard,Neither,No,Professional,Pro Fleet,No
+84,157,Mr,Nigel,Spriggs,,Sailboard,Neither,No,Gold Fleet,Gold Fleet,No
+85,203,Mr,Dave,Standing,,Sailboard,Master,No,Gold Fleet,Gold Fleet,Yes
+86,44,Mr,Dave,Strudwick,,Sailboard,Master,No,Gold Fleet,Gold Fleet,Yes
+87,496,Mr,Tim,Tarrington,,Sailboard,Neither,No,Neither,Amateur,No
+88,43,Mr,Simon,Thompson,,Sailboard,Neither,No,Gold Fleet,Gold Fleet,No
+89,760,Mr,Antony,Todd,,Sailboard,Neither,Yes,Neither,Amateur,No
+90,39,Mr,Simon,Todd,,Sailboard,Neither,Yes,Neither,Amateur,No
+91,52,Mr,Patrick,Van Hoof,,Sailboard,Neither,Yes,Professional,Pro Fleet,No
+92,555,Mr,Claude,Van-Martyn,,Sailboard,Master,No,Neither,Amateur,Yes
+93,328,Mr,Adrian,Wallis,,Sailboard,Master,No,Gold Fleet,Gold Fleet,Yes
+94,349,Mr,Bruno,Warner,,Sailboard,Master,No,Neither,Amateur,Yes
+95,63,Mr,Dave,White,,Sailboard,Neither,No,Professional,Pro Fleet,No
+96,330,Mr,Alistair,Williams,,Sailboard,Master,No,Neither,Amateur,Yes
+97,951,Mr,Fred,Willis,,Sailboard,Neither,No,Professional,Pro Fleet,No
+98,143,Mr,Charlie,Wilson,,Sailboard,Neither,No,Neither,Amateur,No
+99,112,Miss,Emily,Wood,,Sailboard,Neither,No,Neither,Amateur,No
+100,161,Miss,Martina,Zuhlke,,Sailboard,Neither,Yes,Neither,Amateur,No
+101,17,Mr,Fred,Ball,,Boat,Master,No,Neither,Amateur,Yes
+102,630,,,Gifford,,Sailboard,,,Neither,Amateur,
+103,138,Mr,Nigel,Leeming,,Boat,,,,,
