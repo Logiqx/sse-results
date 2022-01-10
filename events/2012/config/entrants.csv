@@ -11,7 +11,7 @@ ID,Male/Female,Entry Date,Title,First Name,Family Name,Country,First Timer,Statu
 13,M,24/08/2012 21:08,Mr,Tristan,Haskins,England,N,Gold-Fleet,Sailboard,Y,TRISTAN HASKI,,,,,No,All Week,No,,,,
 14,M,24/08/2012 21:47,Mr,Gordon,Roach,England,N,Amateur,Sailboard,Y,693 G ROACH,932000218,,,,No,All Week,Yes,,V1.4(B0803T),05/10/2012 17:29,
 15,M,25/08/2012 06:06,Mr,Daniel,Borgelind,Sweden,N,Gold-Fleet,Sailboard,Y,SWE38 Daniel,832002188,,,,No,All Week,No,,V1.4(D0428T),06/10/2012 09:43,Yes
-16,M,31/08/2012 06:56,Mr,Matthew,York,England,N,Gold-Fleet,Sailboard,Y,MATTY549,103200725,,pitsford,,No,All Week,Yes,,V1.4(B0315C),08/10/2012 10:17,
+16,M,31/08/2012 06:56,Mr,Matthew,York,England,N,Gold-Fleet,Sailboard,Y,MATTY549,103200725,,Pitsford,,No,All Week,Yes,,V1.4(B0315C),08/10/2012 10:17,
 17,M,25/08/2012 06:51,Mr,Bill,Robinson,England,N,Amateur,Sailboard,Y,ROBIN17BILL,103200559,,,,No,All Week,No,,V1.4(B0315C),06/10/2012 09:57,
 18,M,25/08/2012 07:14,Mr,Terry,Lewis,England,Y,Amateur,Sailboard,Y,TERRY LEWIS,113200477,,,,No,All Week,No,,V1.4(B0315C),06/10/2012 10:48,
 19,M,25/08/2012 07:41,Mr,Ian,Hill,England,N,Gold-Fleet,Sailboard,Y,WSW 11,932000572,,,,Yes,All Week,No,,V1.4(B0803T),27/09/2012 13:21,
@@ -76,7 +76,7 @@ ID,Male/Female,Entry Date,Title,First Name,Family Name,Country,First Timer,Statu
 88,M,03/09/2012 07:49,Mr,Henry,Bloodworth,England,N,Amateur,Sailboard,Y,GBR852HB,932000947,,,,No,Youth Weekend,Yes,,V1.4(D0428T),06/10/2012 10:42,
 89,M,03/09/2012 14:17,Mr,Jean-Marc,De Bruyne,Belgium,Y,Amateur,Sailboard,Y,JEANMARC DEBR,932000971,,,,No,All Week,No,,V1.4(D0428T),06/10/2012 11:08,
 90,M,03/09/2012 16:45,Mr,Ben,Marshall,Wales,Y,Amateur,Sailboard,Y,WARWICK,103201213,,,,No,Youth Weekend,Yes,,V1.4(B0315C),06/10/2012 10:29,
-91,M,03/09/2012 17:02,Mr,James,Peck,England,N,Amateur,Sailboard,Y,JPECK,113200468,,pitsford,,No,All Week,No,,,,
+91,M,03/09/2012 17:02,Mr,James,Peck,England,N,Amateur,Sailboard,Y,JPECK,113200468,,Pitsford,,No,All Week,No,,,,
 92,M,04/09/2012 09:42,Mr,Robert,Campbell,England,Y,Kite-Fleet,Kite Board,Y,CAMPB92ROBER,123201133,,,,No,All Week,No,,V1.4(B0315C),07/10/2012 09:19,
 94,M,07/09/2012 08:57,Mr,Martin,Allman,England,N,Amateur,Sailboard,Y,206MALLMAN,113200495,,,,No,All Week,Yes,,V1.4(B0315C),06/10/2012 11:25,
 95,F,09/09/2012 06:43,Miss,Emily,Hall,England,N,Gold-Fleet,Sailboard,Y,HALL 714,832004479,,,,No,Youth Weekend,Yes,,V1.4(B0803T),06/10/2012 10:41,
