@@ -128,7 +128,7 @@
       "Places": 1
     },
     {
-      "Category": "Boat",
+      "Category": "Experienced Boat",
       "Filter": "Craft Type=Boat,First Timer<>Y",
       "Places": 1
     },
@@ -138,7 +138,7 @@
       "Places": 1
     },
     {
-      "Category": "Kiteboard",
+      "Category": "Experienced Kiteboard",
       "Filter": "Craft Type=Kiteboard,First Timer<>Y",
       "Places": 1
     }
