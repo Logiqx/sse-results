@@ -1,4 +1,61 @@
 {
   "Start Date": "2018-10-13",
-  "End Date": "2018-10-19"
+  "End Date": "2018-10-19",
+  "Entrants": {
+    "Craft Type": [
+      "Sailboard",
+      "Kiteboard",
+      "Wingboard",
+      "Boat",
+      "TBC"
+    ],
+    "Status": [
+      "Novice",
+      "Youth Fleet",
+      "Amateur",
+      "Gold Fleet",
+      "Pro Fleet",
+      "Kite Fleet",
+      "Wing Fleet",
+      "Boat Fleet",
+      "TBC"
+    ],
+    "Entry Type": [
+      "All Week",
+      "Youth Weekend",
+      "2-Day",
+      "1-Day",
+      "TBC"
+    ],
+    "Gender": [
+      "M",
+      "F",
+      "?"
+    ],
+    "Master": [
+      "Y",
+      "N",
+      "?"
+    ],
+    "Novice": [
+      "Y",
+      "N",
+      "?"
+    ],
+    "First Timer": [
+      "Y",
+      "N",
+      "?"
+    ],
+    "ISWC Member": [
+      "Y",
+      "N",
+      "?"
+    ],
+    "UKWA Member": [
+      "Y",
+      "N",
+      "?"
+    ]
+  }
 }
