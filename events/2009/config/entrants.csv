@@ -16,7 +16,7 @@ ID,Sail Number,Title,First Name,Family Name,Nationality,Craft Type,Age Status,No
 15,12,Mr,Jim,Brooks-Dowsett,,Sailboard,Neither,No,Gold Fleet,Gold Fleet,No
 16,568,Mr,Alex,Burges,,Sailboard,Neither,Yes,Neither,Amateur,No
 17,329,Mr,Mark,Collins,,Sailboard,Master,No,Neither,Amateur,Yes
-18,624,Mrs,Jenny,Cooper,,Kite Board,Master,Yes,Gold Fleet,Gold Fleet,Yes
+18,624,Mrs,Jenny,Cooper,,Kite Board,Master,No,Gold Fleet,Gold Fleet,Yes
 19,115,Mr,Stephen,Corps,,Sailboard,Neither,No,Gold Fleet,Gold Fleet,No
 20,95,Mr,Stephen,Cronshaw,,Sailboard,Neither,Yes,Neither,Amateur,No
 21,681,Mr,Allan,Cross,,Sailboard,Master,No,Gold Fleet,Gold Fleet,Yes
@@ -49,7 +49,7 @@ ID,Sail Number,Title,First Name,Family Name,Nationality,Craft Type,Age Status,No
 48,8,Mr,Raj,Kandasamy,,Sailboard,Neither,No,Neither,Amateur,No
 49,79,Mr,Rob,King,,Sailboard,Master,Yes,Neither,Amateur,Yes
 50,3021,Miss,Katherine,Knight,,Boat,Neither,Yes,Neither,Amateur,No
-51,609,Mr,Philip,Ladbrook,,Kite Board,Master,Yes,Gold Fleet,Gold Fleet,Yes
+51,609,Mr,Philip,Ladbrook,,Kite Board,Master,No,Gold Fleet,Gold Fleet,Yes
 52,42,Mr,John,Langdown,,Sailboard,Neither,No,Neither,Amateur,No
 53,151,Mr,Sam,Latham,,Sailboard,Neither,No,Neither,Amateur,No
 54,56,Mr,Tim,Lawes,,Sailboard,Neither,No,Gold Fleet,Gold Fleet,No
@@ -89,7 +89,7 @@ ID,Sail Number,Title,First Name,Family Name,Nationality,Craft Type,Age Status,No
 88,43,Mr,Simon,Thompson,,Sailboard,Neither,No,Gold Fleet,Gold Fleet,No
 89,760,Mr,Antony,Todd,,Sailboard,Neither,Yes,Neither,Amateur,No
 90,39,Mr,Simon,Todd,,Sailboard,Neither,Yes,Neither,Amateur,No
-91,52,Mr,Patrick,Van Hoof,,Sailboard,Neither,Yes,Professional,Pro Fleet,No
+91,52,Mr,Patrick,Van Hoof,,Sailboard,Neither,No,Professional,Pro Fleet,No
 92,555,Mr,Claude,Van-Martyn,,Sailboard,Master,No,Neither,Amateur,Yes
 93,328,Mr,Adrian,Wallis,,Sailboard,Master,No,Gold Fleet,Gold Fleet,Yes
 94,349,Mr,Bruno,Warner,,Sailboard,Master,No,Neither,Amateur,Yes
