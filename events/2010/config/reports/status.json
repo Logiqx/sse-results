@@ -1,76 +1,50 @@
 {
   "Periods": [
     {
-      "Suptitle": "Fastest of the Day - {Date}",
+      "Suptitle": "Day Rankings by Status - {Date}",
       "Period": "Session"
     },
     {
-      "Suptitle": "Fastest of the Week",
+      "Suptitle": "Overall Rankings by Status",
       "Period": "Event",
       "HideFields": "Course,Start Time"
     }
   ],
-  "Limit": 3,
   "Profile": true,
   "Reports": [
     {
-      "Title": "Top 10",
-      "Fields": "Name,Nation,Sail Number,Craft Type,Status,Course,Start Time,Speed (kts)",
-      "Limit": 10
-    },
-    {
-      "Title": "Fastest Boats",
-      "Fields": "Name,Nation,Sail Number,Boat Name,Course,Start Time,Speed (kts)",
-      "Filter": "Craft Type=Boat"
-    },
-    {
-      "Title": "Fastest Kiteboards",
-      "Fields": "Name,Nation,Sail Number,Status,Course,Start Time,Speed (kts)",
-      "Filter": "Craft Type=Kiteboard"
-    },
-    {
-      "Title": "Fastest Sailboards",
-      "Fields": "Name,Nation,Sail Number,Status,Course,Start Time,Speed (kts)",
-      "Filter": "Craft Type=Sailboard"
-    },
-    {
-      "Title": "Fastest Craft TBCs",
-      "Fields": "Name,Nation,Sail Number,Craft Type,Status,Course,Start Time,Speed (kts)",
-      "Filter": "Craft Type=TBC"
-    },
-    {
-      "Title": "Fastest Pros",
+      "Title": "All Pros",
       "Fields": "Name,Nation,Sail Number,Craft Type,Course,Start Time,Speed (kts)",
       "Filter": "Status=Pro Fleet"
     },
     {
-      "Title": "Fastest Gold Fleet Entrants",
+      "Title": "All Gold Fleet Entrants",
       "Fields": "Name,Nation,Sail Number,Craft Type,Course,Start Time,Speed (kts)",
       "Filter": "Status=Gold Fleet"
     },
     {
-      "Title": "Fastest Amateur Sailboards",
+      "Title": "All Amateur Sailboards",
       "Fields": "Name,Nation,Sail Number,Craft Type,Course,Start Time,Speed (kts)",
       "Filter": "Craft Type=Sailboard,Status=Amateur"
     },
     {
-      "Title": "Fastest Novices",
+      "Title": "All Novices",
       "Fields": "Name,Nation,Sail Number,Craft Type,Course,Start Time,Speed (kts)",
       "Filter": "Novice=Y"
     },
     {
-      "Title": "Fastest Ladies",
+      "Title": "All Ladies",
       "Fields": "Name,Nation,Sail Number,Craft Type,Status,Course,Start Time,Speed (kts)",
       "Filter": "Gender=F"
     },
     {
-      "Title": "Fastest Youths",
+      "Title": "All Youths",
       "Comment": "(age <17, weekend only)",
       "Fields": "Name,Nation,Sail Number,Craft Type,Course,Start Time,Speed (kts)",
       "Filter": "Status=Youth Fleet"
     },
     {
-      "Title": "Fastest Masters",
+      "Title": "All Masters",
       "Fields": "Name,Nation,Sail Number,Craft Type,Status,Course,Start Time,Speed (kts)",
       "Comment": "(age 45+)",
       "Filter": "Master=Y"
