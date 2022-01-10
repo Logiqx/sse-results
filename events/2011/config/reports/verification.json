@@ -1,6 +1,6 @@
 {
   "Suptitle": "Verification Report - {Date}",
-  "Fields": "Name,Nation,Sail Number,Craft Type,Speed (kts),Other Run Speeds (kts)",
+  "Fields": "Name,Nation,Craft Type,Speed (kts),Other Run Speeds (kts)",
   "ShowSpeeds": 10,
   "Reports": [
     {
