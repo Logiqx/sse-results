@@ -19,39 +19,39 @@
     },
     {
       "Title": "All Pro Sailboards",
-      "Fields": "Name,Nation,Craft Type,Course,Start Time,Speed (kts)",
+      "Fields": "Name,Nation,Course,Start Time,Speed (kts)",
       "Filter": "Craft Type=Sailboard,Status=Pro Fleet"
     },
     {
       "Title": "All Gold Fleet Sailboards",
-      "Fields": "Name,Nation,Craft Type,Course,Start Time,Speed (kts)",
+      "Fields": "Name,Nation,Course,Start Time,Speed (kts)",
       "Filter": "Craft Type=Sailboard,Status=Gold Fleet"
     },
     {
       "Title": "All Amateur Sailboards - Masters",
-      "Fields": "Name,Nation,Craft Type,Course,Start Time,Speed (kts)",
+      "Fields": "Name,Nation,Course,Start Time,Speed (kts)",
       "Filter": "Craft Type=Sailboard,Status=Amateur,Novice<>Y,Master=Y"
     },
     {
       "Title": "All Amateur Sailboards - Non-Masters",
-      "Fields": "Name,Nation,Craft Type,Course,Start Time,Speed (kts)",
+      "Fields": "Name,Nation,Course,Start Time,Speed (kts)",
       "Filter": "Craft Type=Sailboard,Status=Amateur,Novice<>Y,Master<>Y"
     },
     {
       "Title": "All Novice Sailboards",
-      "Fields": "Name,Nation,Craft Type,Course,Start Time,Speed (kts)",
+      "Fields": "Name,Nation,Course,Start Time,Speed (kts)",
       "Filter": "Craft Type=Sailboard,Novice=Y"
     },
     {
       "Title": "All Lady Sailboards",
       "Comment": "(excluding professionals)",
-      "Fields": "Name,Nation,Craft Type,Status,Course,Start Time,Speed (kts)",
+      "Fields": "Name,Nation,Status,Course,Start Time,Speed (kts)",
       "Filter": "Craft Type=Sailboard,Status<>Pro Fleet,Gender=F"
     },
     {
       "Title": "All Youth Sailboards",
       "Comment": "(age <17, weekend only)",
-      "Fields": "Name,Nation,Craft Type,Course,Start Time,Speed (kts)",
+      "Fields": "Name,Nation,Course,Start Time,Speed (kts)",
       "Filter": "Craft Type=Sailboard,Status=Youth Fleet"
     }
   ]

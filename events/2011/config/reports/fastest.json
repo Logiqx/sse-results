@@ -45,39 +45,39 @@
     },
     {
       "Title": "Fastest Pro Sailboards",
-      "Fields": "Name,Nation,Craft Type,Course,Start Time,Speed (kts)",
+      "Fields": "Name,Nation,Course,Start Time,Speed (kts)",
       "Filter": "Craft Type=Sailboard,Status=Pro Fleet"
     },
     {
       "Title": "Fastest Gold Fleet Sailboards",
-      "Fields": "Name,Nation,Craft Type,Course,Start Time,Speed (kts)",
+      "Fields": "Name,Nation,Course,Start Time,Speed (kts)",
       "Filter": "Craft Type=Sailboard,Status=Gold Fleet"
     },
     {
       "Title": "Fastest Amateur Sailboards - Masters",
-      "Fields": "Name,Nation,Craft Type,Course,Start Time,Speed (kts)",
+      "Fields": "Name,Nation,Course,Start Time,Speed (kts)",
       "Filter": "Craft Type=Sailboard,Status=Amateur,Novice<>Y,Master=Y"
     },
     {
       "Title": "Fastest Amateur Sailboards - Non-Masters",
-      "Fields": "Name,Nation,Craft Type,Course,Start Time,Speed (kts)",
+      "Fields": "Name,Nation,Course,Start Time,Speed (kts)",
       "Filter": "Craft Type=Sailboard,Status=Amateur,Novice<>Y,Master<>Y"
     },
     {
       "Title": "Fastest Novice Sailboards",
-      "Fields": "Name,Nation,Craft Type,Course,Start Time,Speed (kts)",
+      "Fields": "Name,Nation,Course,Start Time,Speed (kts)",
       "Filter": "Craft Type=Sailboard,Novice=Y"
     },
     {
       "Title": "Fastest Lady Sailboards",
       "Comment": "(excluding professionals)",
-      "Fields": "Name,Nation,Craft Type,Status,Course,Start Time,Speed (kts)",
+      "Fields": "Name,Nation,Status,Course,Start Time,Speed (kts)",
       "Filter": "Craft Type=Sailboard,Status<>Pro Fleet,Gender=F"
     },
     {
       "Title": "Fastest Youth Sailboards",
       "Comment": "(age <17, weekend only)",
-      "Fields": "Name,Nation,Craft Type,Course,Start Time,Speed (kts)",
+      "Fields": "Name,Nation,Course,Start Time,Speed (kts)",
       "Filter": "Craft Type=Sailboard,Status=Youth Fleet"
     }
   ]
