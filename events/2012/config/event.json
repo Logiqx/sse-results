@@ -28,12 +28,20 @@
       "TBC"
     ],
     "Entry Type": [
+      "All Week",
       "Youth Weekend",
+      "2-Day",
+      "1-Day",
       "TBC"
     ],
     "Gender": [
       "M",
       "F",
+      "?"
+    ],
+    "Novice": [
+      "Y",
+      "N",
       "?"
     ],
     "First Timer": [
