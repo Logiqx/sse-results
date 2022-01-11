@@ -24,7 +24,7 @@
     },
     {
       "Title": "All Experienced Boats",
-      "Comment": "(excluding first timers)",
+      "Comment": "(excludes first time boats)",
       "Fields": "Name,Nation,Course,Start Time,Speed (kts)",
       "Filter": "Craft Type=Boat,First Timer<>Y"
     },
@@ -35,7 +35,7 @@
     },
     {
       "Title": "All Experienced Kiteboards",
-      "Comment": "(excluding first timers)",
+      "Comment": "(excludes first time kiteboards)",
       "Fields": "Name,Nation,Course,Start Time,Speed (kts)",
       "Filter": "Craft Type=Kiteboard,First Timer<>Y"
     },
@@ -56,7 +56,7 @@
     },
     {
       "Title": "All Amateur Sailboards",
-      "Comment": "(excluding first timers)",
+      "Comment": "(excludes first time amateur sailboards)",
       "Fields": "Name,Nation,Course,Start Time,Speed (kts)",
       "Filter": "Craft Type=Sailboard,Status=Amateur,First Timer<>Y"
     },

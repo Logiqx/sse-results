@@ -20,37 +20,37 @@
     },
     {
       "Title": "Fastest Boats",
-      "Fields": "Name,Nation,First Timer,Boat Name,Course,Start Time,Speed (kts)",
+      "Fields": "Name,Nation,Boat Name,Course,Start Time,Speed (kts)",
       "Filter": "Craft Type=Boat"
     },
     {
       "Title": "Fastest Kiteboards",
-      "Fields": "Name,Nation,First Timer,Course,Start Time,Speed (kts)",
+      "Fields": "Name,Nation,Course,Start Time,Speed (kts)",
       "Filter": "Craft Type=Kiteboard"
     },
     {
       "Title": "Fastest Sailboards",
-      "Fields": "Name,Nation,Status,First Timer,Course,Start Time,Speed (kts)",
+      "Fields": "Name,Nation,Status,Course,Start Time,Speed (kts)",
       "Filter": "Craft Type=Sailboard"
     },
     {
       "Title": "Fastest Craft TBCs",
-      "Fields": "Name,Nation,Craft Type,Status,First Timer,Course,Start Time,Speed (kts)",
+      "Fields": "Name,Nation,Craft Type,Status,Course,Start Time,Speed (kts)",
       "Filter": "Craft Type=TBC"
     },
     {
       "Title": "Fastest Men",
-      "Fields": "Name,Nation,Craft Type,Status,First Timer,Course,Start Time,Speed (kts)",
+      "Fields": "Name,Nation,Craft Type,Status,Course,Start Time,Speed (kts)",
       "Filter": "Gender=M"
     },
     {
       "Title": "Fastest Women",
-      "Fields": "Name,Nation,Craft Type,Status,First Timer,Course,Start Time,Speed (kts)",
+      "Fields": "Name,Nation,Craft Type,Status,Course,Start Time,Speed (kts)",
       "Filter": "Gender=F"
     },
     {
       "Title": "Fastest Experienced Boats",
-      "Comment": "(excluding first timers)",
+      "Comment": "(excludes first time boats)",
       "Fields": "Name,Nation,Course,Start Time,Speed (kts)",
       "Filter": "Craft Type=Boat,First Timer<>Y"
     },
@@ -61,7 +61,7 @@
     },
     {
       "Title": "Fastest Experienced Kiteboards",
-      "Comment": "(excluding first timers)",
+      "Comment": "(excludes first time kiteboards)",
       "Fields": "Name,Nation,Course,Start Time,Speed (kts)",
       "Filter": "Craft Type=Kiteboard,First Timer<>Y"
     },
@@ -82,7 +82,7 @@
     },
     {
       "Title": "Fastest Amateur Sailboards",
-      "Comment": "(excluding first timers)",
+      "Comment": "(excludes first time amateur sailboards)",
       "Fields": "Name,Nation,Course,Start Time,Speed (kts)",
       "Filter": "Craft Type=Sailboard,Status=Amateur,First Timer<>Y"
     },
