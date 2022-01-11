@@ -1,104 +1,78 @@
 {
   "Periods": [
     {
-      "Suptitle": "Fastest of the Day - {Date}",
+      "Suptitle": "Day Rankings by Status - {Date}",
       "Period": "Session"
     },
     {
-      "Suptitle": "Fastest of the Week",
+      "Suptitle": "Overall Rankings by Status",
       "Period": "Event",
       "HideFields": "Course,Start Time"
     }
   ],
-  "Limit": 3,
   "Profile": true,
   "Reports": [
     {
-      "Title": "Top 10",
-      "Fields": "Name,Nation,Craft Type,Status,Course,Start Time,Speed (kts)",
-      "Limit": 10
-    },
-    {
-      "Title": "Fastest Boats",
-      "Fields": "Name,Nation,Boat Name,Course,Start Time,Speed (kts)",
-      "Filter": "Craft Type=Boat"
-    },
-    {
-      "Title": "Fastest Kiteboards",
-      "Fields": "Name,Nation,Course,Start Time,Speed (kts)",
-      "Filter": "Craft Type=Kiteboard"
-    },
-    {
-      "Title": "Fastest Sailboards",
-      "Fields": "Name,Nation,Status,Course,Start Time,Speed (kts)",
-      "Filter": "Craft Type=Sailboard"
-    },
-    {
-      "Title": "Fastest Craft TBCs",
-      "Fields": "Name,Nation,Craft Type,Status,Course,Start Time,Speed (kts)",
-      "Filter": "Craft Type=TBC"
-    },
-    {
-      "Title": "Fastest Men",
-      "Fields": "Name,Nation,Craft Type,Status,Course,Start Time,Speed (kts)",
+      "Title": "All Men",
+      "Fields": "Name,Nation,Craft Type,Status,First Timer,Course,Start Time,Speed (kts)",
       "Filter": "Gender=M"
     },
     {
-      "Title": "Fastest Women",
-      "Fields": "Name,Nation,Craft Type,Status,Course,Start Time,Speed (kts)",
+      "Title": "All Women",
+      "Fields": "Name,Nation,Craft Type,Status,First Timer,Course,Start Time,Speed (kts)",
       "Filter": "Gender=F"
     },
     {
-      "Title": "Fastest Experienced Boats",
+      "Title": "All Experienced Boats",
       "Comment": "(excludes first time boats)",
       "Fields": "Name,Nation,Course,Start Time,Speed (kts)",
       "Filter": "Craft Type=Boat,First Timer<>Y"
     },
     {
-      "Title": "Fastest First Time Boats",
+      "Title": "All First Time Boats",
       "Fields": "Name,Nation,Course,Start Time,Speed (kts)",
       "Filter": "Craft Type=Boat,First Timer=Y"
     },
     {
-      "Title": "Fastest Experienced Kiteboards",
+      "Title": "All Experienced Kiteboards",
       "Comment": "(excludes first time kiteboards)",
       "Fields": "Name,Nation,Course,Start Time,Speed (kts)",
       "Filter": "Craft Type=Kiteboard,First Timer<>Y"
     },
     {
-      "Title": "Fastest First Time Kiteboards",
+      "Title": "All First Time Kiteboards",
       "Fields": "Name,Nation,Course,Start Time,Speed (kts)",
       "Filter": "Craft Type=Kiteboard,First Timer=Y"
     },
     {
-      "Title": "Fastest Pro Sailboards",
+      "Title": "All Pro Sailboards",
       "Fields": "Name,Nation,Course,Start Time,Speed (kts)",
       "Filter": "Craft Type=Sailboard,Status=Pro Fleet"
     },
     {
-      "Title": "Fastest Gold Fleet Sailboards",
+      "Title": "All Gold Fleet Sailboards",
       "Fields": "Name,Nation,Course,Start Time,Speed (kts)",
       "Filter": "Craft Type=Sailboard,Status=Gold Fleet"
     },
     {
-      "Title": "Fastest Amateur Sailboards",
+      "Title": "All Amateur Sailboards",
       "Comment": "(excludes first time amateur sailboards)",
       "Fields": "Name,Nation,Course,Start Time,Speed (kts)",
       "Filter": "Craft Type=Sailboard,Status=Amateur,First Timer<>Y"
     },
     {
-      "Title": "Fastest First Time Amateur Sailboards",
+      "Title": "All First Time Amateur Sailboards",
       "Fields": "Name,Nation,Course,Start Time,Speed (kts)",
       "Filter": "Craft Type=Sailboard,Status=Amateur,First Timer=Y"
     },
     {
-      "Title": "Fastest Women Sailboards",
+      "Title": "All Women Sailboards",
       "Comment": "(excluding professionals and youths)",
       "Fields": "Name,Nation,Status,First Timer,Course,Start Time,Speed (kts)",
       "Filter": "Craft Type=Sailboard,Gender=F,Status<>Pro Fleet,Status<>Youth Fleet"
     },
     {
-      "Title": "Fastest Youth Sailboards",
+      "Title": "All Youth Sailboards",
       "Comment": "(age <17, weekend only)",
       "Fields": "Name,Nation,First Timer,Course,Start Time,Speed (kts)",
       "Filter": "Craft Type=Sailboard,Status=Youth Fleet"
