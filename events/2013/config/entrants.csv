@@ -53,7 +53,7 @@ ID,Male/Female,Entry Date,Title,First Name,Family Name,Country,Novice,Status,Cra
 18,M,17/10/2013,Mr,Marti,Jerrard,England,N,Gold-Fleet,Sailboard,N,WSWQ7,932000538,,Forces - The Army,,,2-Day,No,No,
 182,M,03/10/2013 16:12,Mr,John,Kennedy,England,,Amateur,Sailboard,Y,KENNE182JOHN,123300069,,,,No,All Week,Yes,No,
 86,M,28/09/2013 08:13,Mr,Tim,Lawes,England,,Amateur,Sailboard,Y,,,,,,No,2-Day,No,No,
-186,M,31/08/2013 12:52,Mr,Phil,Lewin,England,,Amateur,Sailboard,Y,CURLY06,113200232,,pitsford,,No,2-Day,No,No,
+186,M,31/08/2013 12:52,Mr,Phil,Lewin,England,,Amateur,Sailboard,Y,CURLY06,113200232,,Pitsford,,No,2-Day,No,No,
 120,M,02/09/2013 11:18,Mr,James,Longmuir,England,,Kite-Fleet,Kite Board,Y,CARR177ANDRE,113200508,,,,No,All Week,No,No,
 153,M,01/09/2013 16:47,Mr,Henry,Luce,England,,Amateur,Sailboard,Y,,,,,,No,2-Day,No,No,
 187,M,10/10/2013 22:25,Mr,George,Main,England,,Gold-Fleet,Sailboard,Y,,,,Forces - The Army,,Yes,2-Day,No,Yes,
@@ -64,7 +64,7 @@ ID,Male/Female,Entry Date,Title,First Name,Family Name,Country,Novice,Status,Cra
 11,M,01/09/2013 13:12,Mr,Eddie,Murrell,England,,Gold-Fleet,Sailboard,Y,,,,,,No,All Week,No,Yes,
 166,F,06/09/2013 16:46,Miss,Alexandra,Muzika,England,,Amateur,Sailboard,Y,MUZIKA A,133200688,,,,No,Youth Weekend,Yes,Yes,
 66,M,31/08/2013 12:39,Mr,John,Oliver,England,,Gold-Fleet,Sailboard,Y,BONZO499,133200495,,,,No,All Week,No,No,
-91,M,01/09/2013 19:15,Mr,James,Peck,England,,Amateur,Sailboard,Y,WHITE6SIMON,113200468,,pitsford,,No,All Week,No,No,
+91,M,01/09/2013 19:15,Mr,James,Peck,England,,Amateur,Sailboard,Y,WHITE6SIMON,113200468,,Pitsford,,No,All Week,No,No,
 113,M,02/10/2013 06:30,Mr,Robin,Penna,England,,Gold-Fleet,Sailboard,Y,175 RP,113200494;123200901,,,,No,All Week,No,No,
 47,M,26/09/2013 22:41,Mr,Simon,Pettifer,England,,Gold-Fleet,Sailboard,Y,,,,,,No,All Week,No,Yes,Mistral
 151,M,01/09/2013 10:01,Mr,Gary,Platt,England,,Amateur,Sailboard,Y,GARY PLATT 01,933000012,,,,No,All Week,No,No,
@@ -94,4 +94,4 @@ ID,Male/Female,Entry Date,Title,First Name,Family Name,Country,Novice,Status,Cra
 6,M,10/12/2013,Mr,Simon,White,England,N,Gold-Fleet,Sailboard,N,WSW 9,932000560,,Forces - The Army,,,All Week,No,No,
 161,M,03/09/2013 12:32,Mr,Simon,Wilks,England,,Amateur,Sailboard,Y,WSWA15,932000588,,,,Yes,2-Day,Yes,No,Wilmerism
 15,M,16/10/2013,Mr,Tom,Wolf,England,N,Boat-Fleet,Boat,N,101TORIX,103200482,Torix Bennett,,,,2-Day,No,No,
-16,M,02/09/2013 17:22,Mr,Matthew,York,England,,Gold-Fleet,Sailboard,Y,MATTY61,103200725,,pitsford,,No,All Week,No,Yes,
+16,M,02/09/2013 17:22,Mr,Matthew,York,England,,Gold-Fleet,Sailboard,Y,MATTY61,103200725,,Pitsford,,No,All Week,No,Yes,

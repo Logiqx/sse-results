@@ -2,30 +2,31 @@
   "Suptitle": "Entrants by Craft Type",
   "Period": "Event",
   "Runs": false,
-  "Fields": "Name,Nation,Sail Number",
-  "Sort": "Name=ASC,Sail Number=ASC",
+  "Sort": "Name=ASC=ASC",
   "Reports": [
     {
       "Title": "All Craft",
-      "Fields": "Name,Nation,Sail Number,Craft Type"
+      "Fields": "Name,Nation,Craft Type,Status,First Timer"
     },
     {
       "Title": "All Boats",
-      "Filter": "Craft Type=Boat",
-      "Fields": "Name,Nation,Sail Number,Boat Name"
+      "Fields": "Name,Nation,Boat Name,Status,First Timer",
+      "Filter": "Craft Type=Boat"
     },
     {
       "Title": "All Kiteboards",
+      "Fields": "Name,Nation,Status,First Timer",
       "Filter": "Craft Type=Kiteboard"
     },
     {
       "Title": "All Sailboards",
+      "Fields": "Name,Nation,Status,First Timer",
       "Filter": "Craft Type=Sailboard"
     },
     {
-      "Title": "All TBCs",
-      "Filter": "Craft Type=TBC",
-      "Warning": true
+      "Title": "All Craft TBCs",
+      "Fields": "Name,Nation,Craft Type,Status,First Timer",
+      "Filter": "Craft Type=TBC"
     }
   ]
 }
