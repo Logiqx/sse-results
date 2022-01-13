@@ -136,8 +136,18 @@
       "Places": 1
     },
     {
+      "Category": "Boat",
+      "Filter": "Craft Type=Boat",
+      "Places": 1
+    },
+    {
       "Category": "First Time Kiteboard",
       "Filter": "Craft Type=Kiteboard,First Timer=Y",
+      "Places": 1
+    },
+    {
+      "Category": "Kiteboard",
+      "Filter": "Craft Type=Kiteboard",
       "Places": 1
     }
   ]
