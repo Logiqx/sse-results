@@ -128,7 +128,7 @@
     {
       "Category": "Pro Sailboard",
       "Filter": "Craft Type=Sailboard,Status=Pro Fleet",
-      "Places": 1
+      "Places": 3
     },
     {
       "Category": "First Time Boat",
@@ -136,18 +136,8 @@
       "Places": 1
     },
     {
-      "Category": "Experienced Boat",
-      "Filter": "Craft Type=Boat,First Timer<>Y",
-      "Places": 1
-    },
-    {
       "Category": "First Time Kiteboard",
       "Filter": "Craft Type=Kiteboard,First Timer=Y",
-      "Places": 1
-    },
-    {
-      "Category": "Experienced Kiteboard",
-      "Filter": "Craft Type=Kiteboard,First Timer<>Y",
       "Places": 1
     }
   ]
