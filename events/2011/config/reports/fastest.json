@@ -39,19 +39,19 @@
       "Filter": "Craft Type=TBC"
     },
     {
-      "Title": "Fastest Pros",
+      "Title": "Fastest Ladies",
+      "Fields": "Name,Nation,Craft Type,Status,Course,Start Time,Speed (kts)",
+      "Filter": "Gender=F"
+    },
+    {
+      "Title": "Fastest Pro Sailboards / Kiteboards",
       "Fields": "Name,Nation,Craft Type,Course,Start Time,Speed (kts)",
       "Filter": "Craft Type<>Boat,Status=Pro Fleet"
     },
     {
-      "Title": "Fastest Gold Fleet Entrants",
+      "Title": "Fastest Gold Fleet Sailboards / Kiteboards",
       "Fields": "Name,Nation,Craft Type,Course,Start Time,Speed (kts)",
       "Filter": "Craft Type<>Boat,Status=Gold Fleet"
-    },
-    {
-      "Title": "Fastest Ladies",
-      "Fields": "Name,Nation,Craft Type,Status,Course,Start Time,Speed (kts)",
-      "Filter": "Gender=F"
     },
     {
       "Title": "Fastest Gold Fleet Sailboards",
@@ -69,7 +69,7 @@
       "Filter": "Craft Type=Sailboard,Status=Amateur,Novice<>Y,Master<>Y"
     },
     {
-      "Title": "Fastest Novices",
+      "Title": "Fastest Novice Sailboards / Kiteboards",
       "Fields": "Name,Nation,Craft Type,Course,Start Time,Speed (kts)",
       "Filter": "Craft Type<>Boat,Novice=Y"
     },
