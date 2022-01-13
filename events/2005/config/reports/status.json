@@ -19,7 +19,7 @@
     },
     {
       "Title": "Top Youths",
-      "Comment": "(age <17, weekend only)",
+      "Comment": "(age <18 on 31st Oct, weekend only)",
       "Filter": "Status=Youth Fleet",
       "Period": "Event"
     },

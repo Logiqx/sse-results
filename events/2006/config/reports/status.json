@@ -43,7 +43,7 @@
     },
     {
       "Title": "All Youths",
-      "Comment": "(age <17, weekend only)",
+      "Comment": "(age <18 on 31st Oct, weekend only)",
       "Fields": "Name,Nation,Sail Number,Craft Type,Course,Time,Speed (kts)",
       "Filter": "Status=Youth Fleet"
     },
