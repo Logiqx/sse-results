@@ -18,7 +18,7 @@
       "Filter": "Gender=M"
     },
     {
-      "Title": "All Women",
+      "Title": "All Ladies",
       "Fields": "Name,Nation,Craft Type,Status,First Timer,Course,Start Time,Speed (kts)",
       "Filter": "Gender=F"
     },
