@@ -99,7 +99,7 @@
     },
     {
       "Title": "Fastest Youth Sailboards",
-      "Comment": "(age <17, weekend only)",
+      "Comment": "(age <18 on 31st Oct, weekend only)",
       "Fields": "Name,Nation,Entry Type,First Timer,Course,Start Time,Speed (kts)",
       "Filter": "Craft Type=Sailboard,Status=Youth Fleet"
     }
