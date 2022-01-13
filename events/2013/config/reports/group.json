@@ -18,6 +18,11 @@
       "Fields": "Name,Grouping,Craft Type,Status,First Timer,Course,Start Time,Speed (kts)"
     },
     {
+      "Title": "Portland Pirates",
+      "Filter": "Grouping=Portland Pirates",
+      "Fields": "Name,Craft Type,Status,First Timer,Course,Start Time,Speed (kts)"
+    },
+    {
       "Title": "Team QSW",
       "Filter": "Grouping=QSW",
       "Fields": "Name,Craft Type,Status,First Timer,Course,Start Time,Speed (kts)"
@@ -25,11 +30,6 @@
     {
       "Title": "Pitsford",
       "Filter": "Grouping=Pitsford",
-      "Fields": "Name,Craft Type,Status,First Timer,Course,Start Time,Speed (kts)"
-    },
-    {
-      "Title": "Portland Pirates",
-      "Filter": "Grouping=Portland Pirates",
       "Fields": "Name,Craft Type,Status,First Timer,Course,Start Time,Speed (kts)"
     }
   ]
