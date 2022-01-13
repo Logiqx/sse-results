@@ -109,8 +109,8 @@
       "Places": 3
     },
     {
-      "Category": "Novice Sailboards",
-      "Filter": "Craft Type=Sailboard,Novice=Y",
+      "Category": "Novice Sailboards / Kiteboards",
+      "Filter": "Craft Type<>Boat,Novice=Y",
       "Places": 3
     },
     {
@@ -124,13 +124,13 @@
       "Places": 3
     },
     {
-      "Category": "Gold Fleet Sailboards",
-      "Filter": "Craft Type=Sailboard,Status=Gold Fleet",
+      "Category": "Gold Fleet Sailboards / Kiteboards",
+      "Filter": "Craft Type<>Boat,Status=Gold Fleet",
       "Places": 3
     },
     {
-      "Category": "Pro Sailboards",
-      "Filter": "Craft Type=Sailboard,Status=Pro Fleet",
+      "Category": "Pro Sailboards / Kiteboards",
+      "Filter": "Craft Type<>Boat,Status=Pro Fleet",
       "Places": 3
     },
     {

@@ -13,14 +13,19 @@
   "Profile": true,
   "Reports": [
     {
+      "Title": "All Pros",
+      "Fields": "Name,Nation,Craft Type,Course,Start Time,Speed (kts)",
+      "Filter": "Craft Type<>Boat,Status=Pro Fleet"
+    },
+    {
+      "Title": "All Gold Fleet Entrants",
+      "Fields": "Name,Nation,Craft Type,Course,Start Time,Speed (kts)",
+      "Filter": "Craft Type<>Boat,Status=Gold Fleet"
+    },
+    {
       "Title": "All Ladies",
       "Fields": "Name,Nation,Craft Type,Status,Course,Start Time,Speed (kts)",
       "Filter": "Gender=F"
-    },
-    {
-      "Title": "All Pro Sailboards",
-      "Fields": "Name,Nation,Course,Start Time,Speed (kts)",
-      "Filter": "Craft Type=Sailboard,Status=Pro Fleet"
     },
     {
       "Title": "All Gold Fleet Sailboards",
@@ -38,9 +43,9 @@
       "Filter": "Craft Type=Sailboard,Status=Amateur,Novice<>Y,Master<>Y"
     },
     {
-      "Title": "All Novice Sailboards",
-      "Fields": "Name,Nation,Course,Start Time,Speed (kts)",
-      "Filter": "Craft Type=Sailboard,Novice=Y"
+      "Title": "All Novices",
+      "Fields": "Name,Nation,Craft Type,Course,Start Time,Speed (kts)",
+      "Filter": "Craft Type<>Boat,Novice=Y"
     },
     {
       "Title": "All Lady Sailboards",
