@@ -23,28 +23,6 @@
       "Filter": "Gender=F"
     },
     {
-      "Title": "All Experienced Boats",
-      "Comment": "(excludes first time boats)",
-      "Fields": "Name,Nation,Course,Start Time,Speed (kts)",
-      "Filter": "Craft Type=Boat,First Timer<>Y"
-    },
-    {
-      "Title": "All First Time Boats",
-      "Fields": "Name,Nation,Course,Start Time,Speed (kts)",
-      "Filter": "Craft Type=Boat,First Timer=Y"
-    },
-    {
-      "Title": "All Experienced Kiteboards",
-      "Comment": "(excludes first time kiteboards)",
-      "Fields": "Name,Nation,Course,Start Time,Speed (kts)",
-      "Filter": "Craft Type=Kiteboard,First Timer<>Y"
-    },
-    {
-      "Title": "All First Time Kiteboards",
-      "Fields": "Name,Nation,Course,Start Time,Speed (kts)",
-      "Filter": "Craft Type=Kiteboard,First Timer=Y"
-    },
-    {
       "Title": "All Pro Sailboards",
       "Fields": "Name,Nation,Course,Start Time,Speed (kts)",
       "Filter": "Craft Type=Sailboard,Status=Pro Fleet"
@@ -64,6 +42,16 @@
       "Title": "All First Time Amateur Sailboards",
       "Fields": "Name,Nation,Course,Start Time,Speed (kts)",
       "Filter": "Craft Type=Sailboard,Status=Amateur,First Timer=Y"
+    },
+    {
+      "Title": "All First Time Boats",
+      "Fields": "Name,Nation,Course,Start Time,Speed (kts)",
+      "Filter": "Craft Type=Boat,First Timer=Y"
+    },
+    {
+      "Title": "All First Time Kiteboards",
+      "Fields": "Name,Nation,Course,Start Time,Speed (kts)",
+      "Filter": "Craft Type=Kiteboard,First Timer=Y"
     },
     {
       "Title": "All Women Sailboards",
