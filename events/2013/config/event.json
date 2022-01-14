@@ -135,8 +135,8 @@
       "Places": 1
     },
     {
-      "Category": "Boat",
-      "Filter": "Craft Type=Boat",
+      "Category": "Non-Rookie Boat",
+      "Filter": "Craft Type=Boat,First Timer<>Y",
       "Places": 1
     },
     {
@@ -145,8 +145,8 @@
       "Places": 1
     },
     {
-      "Category": "Kiteboard",
-      "Filter": "Craft Type=Kiteboard",
+      "Category": "Non-Rookie Kiteboard",
+      "Filter": "Craft Type=Kiteboard,First Timer<>Y",
       "Places": 1
     }
   ]
