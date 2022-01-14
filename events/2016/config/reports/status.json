@@ -44,9 +44,23 @@
       "Filter": "Craft Type=Boat,First Timer=Y"
     },
     {
+      "Title": "All Non-Rookie Boats",
+      "Comment": "(excludes first time boats)",
+      "Fields": "Name,Nation,Boat Name,Course,Start Time,Speed (kts)",
+      "Filter": "Craft Type=Boat,First Timer<>Y",
+      "Period": "Event"
+    },
+    {
       "Title": "All First Time Kiteboards",
       "Fields": "Name,Nation,Course,Start Time,Speed (kts)",
       "Filter": "Craft Type=Kiteboard,First Timer=Y"
+    },
+    {
+      "Title": "All Non-Rookie Kiteboards",
+      "Comment": "(excludes first time kiteboards)",
+      "Fields": "Name,Nation,Course,Start Time,Speed (kts)",
+      "Filter": "Craft Type=Kiteboard,First Timer<>Y",
+      "Period": "Event"
     },
     {
       "Title": "All Lady Sailboards",
