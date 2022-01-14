@@ -2,7 +2,7 @@
   "Suptitle": "Entrants by Craft Type",
   "Period": "Event",
   "Runs": false,
-  "Sort": "Name=ASC=ASC",
+  "Sort": "Name=ASC",
   "Reports": [
     {
       "Title": "All Craft",
