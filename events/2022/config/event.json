@@ -1,4 +1,140 @@
 {
-  "Start Date": "2022-10-15",
-  "End Date": "2022-10-21"
+  "Event": {
+    "Name": "Weymouth Speed Week 2022",
+    "Start Date": "2022-10-15",
+    "End Date": "2022-10-21",
+    "Banner": "wswhdr_print.png"
+  },
+  "Decimals": 3,
+  "Courses": {
+    "H": "Harbour",
+    "S": "Shore",
+    "?": "TBC"
+  },
+  "Entrants": {
+    "Craft Type": [
+      "Boat",
+      "Kiteboard",
+      "Sailboard",
+      "Wingboard",
+      "TBC"
+    ],
+    "Status": [
+      "Youth Fleet",
+      "Amateur",
+      "Gold Fleet",
+      "Pro Fleet",
+      "Kite Fleet",
+      "Boat Fleet",
+      "Wing Fleet",
+      "TBC"
+    ],
+    "Entry Type": [
+      "All Week",
+      "Youth Weekend",
+      "2-Day",
+      "TBC"
+    ],
+    "Gender": [
+      "M",
+      "F",
+      "?"
+    ],
+    "First Timer": [
+      "Y",
+      "N",
+      "?"
+    ]
+  },
+  "Tankards": {
+    "Filters": [
+      "Craft Type=Boat",
+      "Craft Type=Kiteboard",
+      "Craft Type=Sailboard"
+    ]
+  },
+  "Trophies": [
+    {
+      "Name": "Gold Fleet 'Fastest Sailor' Shield",
+      "Category": "Gold Fleet Sailboard",
+      "Filter": "Craft Type=Sailboard,Status=Gold Fleet"
+    },
+    {
+      "Name": "Tushingham 'Fastest Youth' Shield",
+      "Category": "Youth Sailboard",
+      "Filter": "Craft Type=Sailboard,Status=Youth Fleet"
+    },
+    {
+      "Name": "'Fastest Lady' Shield",
+      "Category": "Lady",
+      "Filter": "Gender=F"
+    },
+    {
+      "Name": "Fastest Boat Shield",
+      "Category": "Boat",
+      "Filter": "Craft Type=Boat"
+    },
+    {
+      "Name": "Fastest Kiteboard Silver Cup",
+      "Category": "Kiteboard",
+      "Filter": "Craft Type=Kiteboard"
+    },
+    {
+      "Name": "Fastest Sailboard Shield",
+      "Category": "Sailboard",
+      "Filter": "Craft Type=Sailboard"
+    },
+    {
+      "Name": "BKSA Speed Champion Trophy",
+      "Category": "Kiteboard",
+      "Filter": "Craft Type=Kiteboard"
+    }
+  ],
+  "Prizes": [
+    {
+      "Category": "Youth Sailboards",
+      "Filter": "Craft Type=Sailboard,Status=Youth Fleet",
+      "Places": 3
+    },
+    {
+      "Category": "Lady Sailboard",
+      "Filter": "Craft Type=Sailboard,Gender=F,Status<>Pro Fleet,Status<>Youth Fleet",
+      "Places": 1
+    },
+    {
+      "Category": "First Time Amateur Sailboard",
+      "Filter": "Craft Type=Sailboard,Status=Amateur,First Timer=Y",
+      "Places": 1
+    },
+    {
+      "Category": "Amateur Sailboards",
+      "Filter": "Craft Type=Sailboard,Status=Amateur,First Timer<>Y",
+      "Places": 3
+    },
+    {
+      "Category": "Gold Fleet Sailboards",
+      "Filter": "Craft Type=Sailboard,Status=Gold Fleet",
+      "Places": 3
+    },
+    {
+      "Category": "Pro Sailboard",
+      "Filter": "Craft Type=Sailboard,Status=Pro Fleet",
+      "Places": 1
+    },
+    {
+      "Category": "Boat",
+      "Filter": "Craft Type=Boat",
+      "Places": 1
+    },
+    {
+      "Category": "Kiteboards",
+      "Filter": "Craft Type=Kiteboard",
+      "Places": 3
+    },
+    {
+      "Category": "Wingboard",
+      "Filter": "Craft Type=Wingboard",
+      "Places": 1
+    }
+  ]
 }
