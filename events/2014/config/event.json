@@ -1,6 +1,7 @@
 {
   "Event": {
     "Name": "Weymouth Speed Week 2014",
+    "Comment": "Sponsor's prizes were awarded to entrants attending all week",
     "Start Date": "2014-10-18",
     "End Date": "2014-10-24",
     "Banner": "wswhdr_print.png"
@@ -36,11 +37,6 @@
     "Gender": [
       "M",
       "F",
-      "?"
-    ],
-    "Novice": [
-      "Y",
-      "N",
       "?"
     ],
     "First Timer": [
