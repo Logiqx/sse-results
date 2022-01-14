@@ -20,27 +20,27 @@
     },
     {
       "Title": "Fastest Boats",
-      "Fields": "Name,Nation,Entry Type,Boat Name,Course,Start Time,Speed (kts)",
+      "Fields": "Name,Nation,Entry Type,First Timer,Boat Name,Course,Start Time,Speed (kts)",
       "Filter": "Craft Type=Boat"
     },
     {
       "Title": "Fastest Kiteboards",
-      "Fields": "Name,Nation,Entry Type,Course,Start Time,Speed (kts)",
+      "Fields": "Name,Nation,Entry Type,First Timer,Course,Start Time,Speed (kts)",
       "Filter": "Craft Type=Kiteboard"
     },
     {
       "Title": "Fastest Sailboards",
-      "Fields": "Name,Nation,Status,Entry Type,Course,Start Time,Speed (kts)",
+      "Fields": "Name,Nation,Status,Entry Type,First Timer,Course,Start Time,Speed (kts)",
       "Filter": "Craft Type=Sailboard"
     },
     {
       "Title": "Fastest Craft TBCs",
-      "Fields": "Name,Nation,Craft Type,Status,Entry Type,Course,Start Time,Speed (kts)",
+      "Fields": "Name,Nation,Craft Type,Status,Entry Type,First Timer,Course,Start Time,Speed (kts)",
       "Filter": "Craft Type=TBC"
     },
     {
       "Title": "Fastest Ladies",
-      "Fields": "Name,Nation,Craft Type,Status,Entry Type,Course,Start Time,Speed (kts)",
+      "Fields": "Name,Nation,Craft Type,Status,Entry Type,First Timer,Course,Start Time,Speed (kts)",
       "Filter": "Gender=F"
     },
     {
