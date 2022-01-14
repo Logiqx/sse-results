@@ -28,14 +28,14 @@ ID,Male/Female,Entry Date,Title,First Name,Family Name,Country,First Timer,Statu
 113,M,10/09/2015 06:24,,Robin,Penna,England,No,Gold-Fleet,Sailboard,Y,Penna52Robin,113200494,,,,No,All Week,No,
 266,M,10/09/2015 06:45,,Ben,Easton,England,No,Gold-Fleet,Sailboard,Y,Easto34Ben,932000583,,Forces - Royal Navy,,Yes,2-Day,Yes,
 65,M,10/09/2015 09:44,,Alan,Blundell,England,No,Boat-Fleet,Boat,Y,Blund22Alan,932000557,,,,Yes,All Week,No,Vari Swifti
-16,M,10/09/2015 11:51,,Matthew,York,England,No,Gold-Fleet,Sailboard,Y,York61Matth,103200725,,pitsford,,No,All Week,Yes,
+16,M,10/09/2015 11:51,,Matthew,York,England,No,Gold-Fleet,Sailboard,Y,York61Matth,103200725,,Pitsford,,No,All Week,Yes,
 209,M,12/09/2015 16:21,,Allan,Cross,England,No,Pro-Fleet,Sailboard,Y,Cross6Allan,133200846,,,,No,All Week,Yes,
 12,M,13/09/2015 12:07,,Trevor,Whatford,England,No,Amateur,Sailboard,Y,Whatf43Trevo,832004534,,,,No,All Week,Yes,
 236,M,13/09/2015 15:04,,Scotty,Stallman,England,No,Amateur,Sailboard,Y,Stall5Scott,832001487,,Portland Pirates,,No,Youth Weekend,Yes,
 267,M,13/09/2015 20:34,,Ashley,Dawson,England,Yes,Amateur,Sailboard,Y,,,,,,No,2-Day,Yes,
 240,F,13/09/2015 21:26,,Tania,Mertens,Belgium,No,Amateur,Sailboard,Y,Merte28Tania,133201596,,,,No,All Week,No,
 163,M,14/09/2015 17:40,,Tommy,Walters,England,No,Amateur,Sailboard,Y,,,,,,Yes,Youth Weekend,Yes,
-268,M,15/09/2015 14:28,,James,Battye,England,No,Gold-Fleet,Sailboard,Y,Batty64James,123200079,,,,No,All Week,Yes,
+268,M,15/09/2015 14:28,,James,Battye,England,Yes,Amateur,Sailboard,Y,Batty64James,123200079,,,,No,All Week,Yes,
 224,M,16/09/2015 09:08,,Stephen,Sugden,England,No,Gold-Fleet,Sailboard,Y,Sugde70Steph,932000569,,,,Yes,2-Day,Yes,
 269,M,16/09/2015 10:37,,Grant,Cottrell ,England,No,Gold-Fleet,Sailboard,Y,Cottr14Grant,932000559,,,,Yes,All Week,No,
 270,M,19/09/2015 12:27,,Murray,Smith,England,No,Kite-Fleet,Kite Board,Y,,,,,,Yes,2-Day,No,
@@ -56,7 +56,7 @@ ID,Male/Female,Entry Date,Title,First Name,Family Name,Country,First Timer,Statu
 151,M,28/09/2015 07:37,,Gary,Platt,England,No,Amateur,Sailboard,Y,Platt8Gary,933000012,,Surf Hogs,,No,All Week,No,
 10,M,28/09/2015 11:32,,Jamie,Walker,England,No,Gold-Fleet,Sailboard,Y,Walke33Jamie,103201565,,Forces - Royal Navy,,No,All Week,Yes,
 26,M,28/09/2015 12:55,,Simon,Thompson,England,No,Gold-Fleet,Sailboard,Y,Thomp60Simon,833001620,,,,No,2-Day,No,
-91,M,28/09/2015 19:57,,James,Peck,England,No,Amateur,Sailboard,Y,,,,pitsford,,No,2-Day,No,
+91,M,28/09/2015 19:57,,James,Peck,England,No,Amateur,Sailboard,Y,,,,Pitsford,,No,2-Day,No,
 272,M,28/09/2015 21:27,,Pete,Young,England,No,Pro-Fleet,Sailboard,Y,Young39Pete,133200844,,Portland Pirates,,No,2-Day,No,
 273,M,28/09/2015 21:56,,Denis,Royet,England,No,Pro-Fleet,Sailboard,Y,Royet37Denis,932001290,,,,No,2-Day,Yes,
 274,M,28/09/2015 23:25,,Malcolm,Barnsley,England,No,Boat-Fleet,Boat,Y,Barns19Malco,932000560,,,,Yes,All Week,No,Nimbus
@@ -78,7 +78,7 @@ ID,Male/Female,Entry Date,Title,First Name,Family Name,Country,First Timer,Statu
 290,M,10/03/2015,,Kevin,Greenslade,England,No,Pro-Fleet,Sailboard,Yes,Green38Kevin,113200285,,,,,All Week,Yes,
 291,M,10/03/2015,,Emile ,Burnaby Lautier,Netherlands,No,Kite-Fleet,Kite Board,Yes,Burna42Emile,123200963,,,,,All Week,No,
 292,M,10/04/2015,,Tyler,Baker,England,No,Amateur,Sailboard,Yes,Baker57Tyler,932000569,,,,,Youth Weekend,No,
-293,M,10/05/2015,,Phil,Lewin,England,No,Amateur,Sailboard,Yes,Lewin65Phil,113200232,,pitsford,,,2-Day,No,
+293,M,10/05/2015,,Phil,Lewin,England,No,Amateur,Sailboard,Yes,Lewin65Phil,113200232,,Pitsford,,,2-Day,No,
 294,M,10/05/2015,,John,Kennedy,England,No,Gold-Fleet,Sailboard,Yes,Kenne62John,123300069,,,,,2-Day,No,
 295,M,10/05/2015,,Michael,Barton,England,No,Boat-Fleet,Boat,Yes,,,,,,,All Week,No,
 296,M,10/05/2015,,Martin,Allman,England,No,Gold-Fleet,Sailboard,Yes,Allma66Marti,113200495,,,,,All Week,No,
@@ -89,8 +89,8 @@ ID,Male/Female,Entry Date,Title,First Name,Family Name,Country,First Timer,Statu
 301,M,10/06/2015,,Steve,Davison,England,No,Kite-Fleet,Kite Board,Yes,David73Steve,832000842,,,,,2-Day,No,
 302,M,10/06/2015,,Paul,Larsen,Australia,No,Boat-Fleet,Boat,Yes,Larse77Paul,832002132,,,,,2-Day,No,
 303,M,10/06/2015,,Dave,White,England,No,Pro-Fleet,Sailboard,Yes,White74Dave,932000570,,,,,2-Day,No,
-304,M,10/06/2015,,Russell,Clark,England,No,Boat-Fleet,Boat,Yes,Clark75Russe,832000612,,,,,All Week,No,
+304,M,10/06/2015,,Russell,Clark,England,No,Boat-Fleet,Boat,Yes,Clark75Russe,832000612,,,,,All Week,No,Moth
 305,M,10/06/2015,,Fraser,Brown,Sweden,Yes,Kite-Fleet,Kite Board,Yes,Brown76Frase,932000564,,,New Zealand,,2-Day,No,
 306,M,10/07/2015,,Will,Trossell,England,No,Gold-Fleet,Sailboard,Yes,Truss79Will,113300064,,,,,2-Day,Yes,
-307,M,10/07/2015,,David ,Tugwell,England,No,Boat-Fleet,Boat,Yes,Tugwe80David,932000571,,,,,2-Day,No,
-308,M,10/07/2015,,Alex,Adams,England,Yes,Boat-Fleet,Boat,Yes,ADAMS81ALEX,,,,,,2-Day,No,
+307,M,10/07/2015,,David ,Tugwell,England,No,Boat-Fleet,Boat,Yes,Tugwe80David,932000571,,,,,2-Day,No,Hobie Cat TriFoiler
+308,M,10/07/2015,,Alex,Adams,England,Yes,Boat-Fleet,Boat,Yes,ADAMS81ALEX,,,,,,2-Day,No,Moth
