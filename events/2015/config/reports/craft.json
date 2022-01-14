@@ -1,5 +1,4 @@
 {
-  "Fields": "Name,Nation,Sail Number,Course,Time,Speed (kts)",
   "Periods": [
     {
       "Suptitle": "Day Rankings by Craft Type - {Date}",
@@ -8,30 +7,45 @@
     {
       "Suptitle": "Overall Rankings by Craft Type",
       "Period": "Event",
-      "HideFields": "Course,Time"
+      "HideFields": "Course,Start Time"
     }
   ],
   "Profile": true,
   "Reports": [
     {
       "Title": "All Craft",
-      "Fields": "Name,Nation,Sail Number,Craft Type,Course,Time,Speed (kts)"
+      "Fields": "Name,Nation,Craft Type,Status,Entry Type,First Timer,Course,Start Time,Speed (kts)"
     },
     {
       "Title": "All Boats",
-      "Filter": "Craft Type=Boat",
-      "Fields": "Name,Nation,Sail Number,Boat Name,Course,Time,Speed (kts)"
+      "Fields": "Name,Nation,Entry Type,First Timer,Boat Name,Course,Start Time,Speed (kts)",
+      "Filter": "Craft Type=Boat"
+    },
+    {
+      "Title": "All Boats - Prize Eligible",
+      "Comment": "(excludes first time boats)",
+      "Fields": "Name,Nation,Entry Type,First Timer,Boat Name,Course,Start Time,Speed (kts)",
+      "Filter": "Craft Type=Boat,First Timer<>Y,Entry Type=All Week"
     },
     {
       "Title": "All Kiteboards",
+      "Fields": "Name,Nation,Entry Type,First Timer,Course,Start Time,Speed (kts)",
       "Filter": "Craft Type=Kiteboard"
     },
     {
+      "Title": "All Kiteboards - Prize Eligible",
+      "Comment": "(excludes first time kiteboards)",
+      "Fields": "Name,Nation,Entry Type,First Timer,Course,Start Time,Speed (kts)",
+      "Filter": "Craft Type=Kiteboard,First Timer<>Y,Entry Type=All Week"
+    },
+    {
       "Title": "All Sailboards",
+      "Fields": "Name,Nation,Status,Entry Type,First Timer,Course,Start Time,Speed (kts)",
       "Filter": "Craft Type=Sailboard"
     },
     {
-      "Title": "All TBCs",
+      "Title": "All Craft TBCs",
+      "Fields": "Name,Nation,Craft Type,Status,Entry Type,First Timer,Course,Start Time,Speed (kts)",
       "Filter": "Craft Type=TBC"
     }
   ]
