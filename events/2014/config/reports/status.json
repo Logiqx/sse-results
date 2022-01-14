@@ -42,7 +42,8 @@
       "Title": "All Amateur Sailboards - Prize Eligible",
       "Comment": "(excludes first time amateur sailboards)",
       "Fields": "Name,Nation,Entry Type,Course,Start Time,Speed (kts)",
-      "Filter": "Craft Type=Sailboard,Status=Amateur,First Timer<>Y,Entry Type=All Week"
+      "Filter": "Craft Type=Sailboard,Status=Amateur,First Timer<>Y,Entry Type=All Week",
+      "Period": "Event"
     },
     {
       "Title": "All First Time Amateur Sailboards",
@@ -58,7 +59,8 @@
       "Title": "All Kiteboards - Prize Eligible",
       "Comment": "(excludes first time kiteboards)",
       "Fields": "Name,Nation,Entry Type,Course,Start Time,Speed (kts)",
-      "Filter": "Craft Type=Kiteboard,First Timer<>Y,Entry Type=All Week"
+      "Filter": "Craft Type=Kiteboard,First Timer<>Y,Entry Type=All Week",
+      "Period": "Event"
     },
     {
       "Title": "All First Time Kiteboards",
