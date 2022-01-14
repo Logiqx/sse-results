@@ -75,6 +75,19 @@
       "Period": "Event"
     },
     {
+      "Title": "All Non-Rookie Boats",
+      "Comment": "(excludes first time boats)",
+      "Fields": "Name,Nation,Entry Type,Boat Name,Course,Start Time,Speed (kts)",
+      "Filter": "Craft Type=Boat,First Timer<>Y"
+    },
+    {
+      "Title": "All Non-Rookie Boats - Prize Eligible",
+      "Comment": "(excludes first time boats)",
+      "Fields": "Name,Nation,Entry Type,Boat Name,Course,Start Time,Speed (kts)",
+      "Filter": "Craft Type=Boat,First Timer<>Y,Entry Type=All Week",
+      "Period": "Event"
+    },
+    {
       "Title": "All First Time Kiteboards",
       "Fields": "Name,Nation,Entry Type,Course,Start Time,Speed (kts)",
       "Filter": "Craft Type=Kiteboard,First Timer=Y"
@@ -83,6 +96,19 @@
       "Title": "All First Time Kiteboards - Prize Eligible",
       "Fields": "Name,Nation,Entry Type,Course,Start Time,Speed (kts)",
       "Filter": "Craft Type=Kiteboard,First Timer=Y,Entry Type=All Week",
+      "Period": "Event"
+    },
+    {
+      "Title": "All Non-Rookie Kiteboards",
+      "Comment": "(excludes first time kiteboards)",
+      "Fields": "Name,Nation,Entry Type,Course,Start Time,Speed (kts)",
+      "Filter": "Craft Type=Kiteboard,First Timer<>Y"
+    },
+    {
+      "Title": "All Non-Rookie Kiteboards - Prize Eligible",
+      "Comment": "(excludes first time kiteboards)",
+      "Fields": "Name,Nation,Entry Type,Course,Start Time,Speed (kts)",
+      "Filter": "Craft Type=Kiteboard,First Timer<>Y,Entry Type=All Week",
       "Period": "Event"
     },
     {
