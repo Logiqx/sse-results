@@ -27,7 +27,8 @@
       "Title": "Fastest Boats - Prize Eligible",
       "Comment": "(excludes first time boats)",
       "Fields": "Name,Nation,Entry Type,Boat Name,Course,Start Time,Speed (kts)",
-      "Filter": "Craft Type=Boat,First Timer<>Y,Entry Type=All Week"
+      "Filter": "Craft Type=Boat,First Timer<>Y,Entry Type=All Week",
+      "Period": "Event"
     },
     {
       "Title": "Fastest Kiteboards",
@@ -38,7 +39,8 @@
       "Title": "Fastest Kiteboards - Prize Eligible",
       "Comment": "(excludes first time kiteboards)",
       "Fields": "Name,Nation,Entry Type,Course,Start Time,Speed (kts)",
-      "Filter": "Craft Type=Kiteboard,First Timer<>Y,Entry Type=All Week"
+      "Filter": "Craft Type=Kiteboard,First Timer<>Y,Entry Type=All Week",
+      "Period": "Event"
     },
     {
       "Title": "Fastest Sailboards",
@@ -63,7 +65,8 @@
     {
       "Title": "Fastest Pro Sailboards - Prize Eligible",
       "Fields": "Name,Nation,Entry Type,Course,Start Time,Speed (kts)",
-      "Filter": "Craft Type=Sailboard,Status=Pro Fleet,Entry Type=All Week"
+      "Filter": "Craft Type=Sailboard,Status=Pro Fleet,Entry Type=All Week",
+      "Period": "Event"
     },
     {
       "Title": "Fastest Gold Fleet Sailboards",
@@ -73,7 +76,8 @@
     {
       "Title": "Fastest Gold Fleet Sailboards - Prize Eligible",
       "Fields": "Name,Nation,Entry Type,Course,Start Time,Speed (kts)",
-      "Filter": "Craft Type=Sailboard,Status=Gold Fleet,Entry Type=All Week"
+      "Filter": "Craft Type=Sailboard,Status=Gold Fleet,Entry Type=All Week",
+      "Period": "Event"
     },
     {
       "Title": "Fastest Amateur Sailboards",
@@ -85,7 +89,8 @@
       "Title": "Fastest Amateur Sailboards - Prize Eligible",
       "Comment": "(excludes first time amateur sailboards)",
       "Fields": "Name,Nation,Entry Type,Course,Start Time,Speed (kts)",
-      "Filter": "Craft Type=Sailboard,Status=Amateur,First Timer<>Y,Entry Type=All Week"
+      "Filter": "Craft Type=Sailboard,Status=Amateur,First Timer<>Y,Entry Type=All Week",
+      "Period": "Event"
     },
     {
       "Title": "Fastest First Time Amateur Sailboards",
@@ -95,7 +100,8 @@
     {
       "Title": "Fastest First Time Amateur Sailboards - Prize Eligible",
       "Fields": "Name,Nation,Entry Type,Course,Start Time,Speed (kts)",
-      "Filter": "Craft Type=Sailboard,Status=Amateur,First Timer=Y,Entry Type=All Week"
+      "Filter": "Craft Type=Sailboard,Status=Amateur,First Timer=Y,Entry Type=All Week",
+      "Period": "Event"
     },
     {
       "Title": "Fastest First Time Boats",
@@ -105,7 +111,8 @@
     {
       "Title": "Fastest First Time Boats - Prize Eligible",
       "Fields": "Name,Nation,Entry Type,Boat Name,Course,Start Time,Speed (kts)",
-      "Filter": "Craft Type=Boat,First Timer=Y,Entry Type=All Week"
+      "Filter": "Craft Type=Boat,First Timer=Y,Entry Type=All Week",
+      "Period": "Event"
     },
     {
       "Title": "Fastest First Time Kiteboards",
@@ -115,7 +122,8 @@
     {
       "Title": "Fastest First Time Kiteboards - Prize Eligible",
       "Fields": "Name,Nation,Entry Type,Course,Start Time,Speed (kts)",
-      "Filter": "Craft Type=Kiteboard,First Timer=Y,Entry Type=All Week"
+      "Filter": "Craft Type=Kiteboard,First Timer=Y,Entry Type=All Week",
+      "Period": "Event"
     },
     {
       "Title": "Fastest Lady Sailboards",
@@ -127,7 +135,8 @@
       "Title": "Fastest Lady Sailboards - Prize Eligible",
       "Comment": "(excluding professionals and youths)",
       "Fields": "Name,Nation,Status,Entry Type,First Timer,Course,Start Time,Speed (kts)",
-      "Filter": "Craft Type=Sailboard,Gender=F,Status<>Pro Fleet,Status<>Youth Fleet,Entry Type=All Week"
+      "Filter": "Craft Type=Sailboard,Gender=F,Status<>Pro Fleet,Status<>Youth Fleet,Entry Type=All Week",
+      "Period": "Event"
     },
     {
       "Title": "Fastest Youth Sailboards",
