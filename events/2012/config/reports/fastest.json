@@ -20,12 +20,12 @@
     },
     {
       "Title": "Fastest Boats",
-      "Fields": "Name,Nation,Boat Name,Course,Start Time,Speed (kts)",
+      "Fields": "Name,Nation,First Timer,Boat Name,Course,Start Time,Speed (kts)",
       "Filter": "Craft Type=Boat"
     },
     {
       "Title": "Fastest Kiteboards",
-      "Fields": "Name,Nation,Course,Start Time,Speed (kts)",
+      "Fields": "Name,Nation,First Timer,Course,Start Time,Speed (kts)",
       "Filter": "Craft Type=Kiteboard"
     },
     {
@@ -71,13 +71,27 @@
     },
     {
       "Title": "Fastest First Time Boats",
-      "Fields": "Name,Nation,Course,Start Time,Speed (kts)",
+      "Fields": "Name,Nation,Boat Name,Course,Start Time,Speed (kts)",
       "Filter": "Craft Type=Boat,First Timer=Y"
+    },
+    {
+      "Title": "Fastest Non-Rookie Boats",
+      "Comment": "(excludes first time boats)",
+      "Fields": "Name,Nation,Boat Name,Course,Start Time,Speed (kts)",
+      "Filter": "Craft Type=Boat,First Timer<>Y",
+      "Period": "Event"
     },
     {
       "Title": "Fastest First Time Kiteboards",
       "Fields": "Name,Nation,Course,Start Time,Speed (kts)",
       "Filter": "Craft Type=Kiteboard,First Timer=Y"
+    },
+    {
+      "Title": "Fastest Non-Rookie Kiteboards",
+      "Comment": "(excludes first time kiteboards)",
+      "Fields": "Name,Nation,Course,Start Time,Speed (kts)",
+      "Filter": "Craft Type=Kiteboard,First Timer<>Y",
+      "Period": "Event"
     },
     {
       "Title": "Fastest Lady Sailboards",
