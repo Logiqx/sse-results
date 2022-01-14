@@ -1,0 +1,41 @@
+{
+  "Periods": [
+    {
+      "Suptitle": "Day Rankings within Groups",
+      "Period": "Session"
+    },
+    {
+      "Suptitle": "Overall Rankings within Groups",
+      "Period": "Event",
+      "HideFields": "Course,Start Time"
+    }
+  ],
+  "Profile": true,
+  "Reports": [
+    {
+      "Title": "HM Forces",
+      "Filter": "Grouping=Forces - %",
+      "Fields": "Name,Grouping,Craft Type,Status,First Timer,Course,Start Time,Speed (kts)"
+    },
+    {
+      "Title": "Portland Pirates",
+      "Filter": "Grouping=Portland Pirates",
+      "Fields": "Name,Craft Type,Status,First Timer,Course,Start Time,Speed (kts)"
+    },
+    {
+      "Title": "Surf Hogs",
+      "Filter": "Grouping=Surf Hogs",
+      "Fields": "Name,Craft Type,Status,First Timer,Course,Start Time,Speed (kts)"
+    },
+    {
+      "Title": "Stan's 50th",
+      "Filter": "Grouping=Stan's 50Th",
+      "Fields": "Name,Craft Type,Status,First Timer,Course,Start Time,Speed (kts)"
+    },
+    {
+      "Title": "Boards & Beards",
+      "Filter": "Grouping=Boards & Beards",
+      "Fields": "Name,Craft Type,Status,First Timer,Course,Start Time,Speed (kts)"
+    }
+  ]
+}
