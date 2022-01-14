@@ -13,7 +13,7 @@ ID,Male/Female,EnteredDateTime,Title,First Name,Family Name,Country,First Timer,
 59,M,28/09/2021,Mr,Steve,Watson,England,N,Amateur,Sailboard,Y,WATSO17STEVE,932000576,V1.4(B0803T),Surf Hogs,England,Y,All Week,N,,no,10/08/2021 17:16
 60,M,28/09/2021,Mr,Emile,Burnaby Lautier,Netherlands,N,Kite-Fleet,Kite Board,Y,BURNA31EMILE,123200910,V1.4(B0803T),,Netherlands,N,All Week,N,,no,10/10/2021 09:08
 61,M,28/09/2021,Mr,Robin,Russell,England,N,Gold-Fleet,Sailboard,Y,,,,Surf Hogs,,N,All Week,N,,,
-62,M,28/09/2021,Mr,Simon,Chippington,England,N,Amateur,Sailboard,Y,,,,,,N,2-Day,Y,,Fluidlines/ rrduk ,
+62,M,28/09/2021,Mr,Simon,Chippington,England,N,Gold-Fleet,Sailboard,Y,,,,,,N,2-Day,Y,,Fluidlines/ rrduk ,
 63,M,28/09/2021,Mr,Andrew,Twinn,England,N,Amateur,Sailboard,Y,TWINN16ANDRE,932000557,V1.4(B0803T),,England,Y,All Week,Y,,,10/08/2021 17:09
 64,M,28/09/2021,Mr,Thomas,Harrison,England,Y,Amateur,Sailboard,Y,,,,,,N,2-Day,Y,,No,
 65,M,28/09/2021,Mr,John,Oliver,England,N,Gold-Fleet,Sailboard,Y,OLIVE11JOHN,932000562,V1.4(B0803T),Surf Hogs,England,Y,All Week,N,,No,10/08/2021 16:31
@@ -26,14 +26,14 @@ ID,Male/Female,EnteredDateTime,Title,First Name,Family Name,Country,First Timer,
 74,M,28/09/2021,Mr,Daniel,Johnston,England,Y,Amateur,Sailboard,Y,,,,,,N,All Week,Y,,,
 76,M,28/09/2021,Mr,Emile Jan,Burnaby Lautier,Netherlands,N,Kite-Fleet,Kite Board,Y,BURNA32EMILE,123200963,V1.4(B0803T),,Netherlands,N,All Week,N,,,10/10/2021 09:10
 78,M,28/09/2021,Mr,Russ,Thompson,England,Y,Amateur,Sailboard,Y,THOMP15RUSS,932000712,V1.4(B0803T),Forces - Royal Navy,England,Y,All Week,N,,,10/08/2021 17:08
-80,M,28/09/2021,Mr,Mark,Salvage,England,N,Amateur,Sailboard,Y,SALVA12MARK,133200846,V1.4(B0315C),,England,N,2-Day,Y,,,10/08/2021 16:35
+80,M,28/09/2021,Mr,Mark,Salvage,England,Y,Wing-Fleet,Wing Board,Y,SALVA12MARK,133200846,V1.4(B0315C),,England,N,2-Day,Y,,,10/08/2021 16:35
 81,M,28/09/2021,Mr,Michael,George,England,N,Gold-Fleet,Sailboard,Y,GEORG8MICHA,123201112;932000175,V1.4(B0803T),Portland Pirates,England,N,All Week,Y,,JP + Neil Pryde,10/08/2021 16:14
 82,M,28/09/2021,Mr,James,Brake,England,Y,Amateur,Sailboard,Y,,,,Portland Pirates,,N,2-Day,Y,,,
 85,M,28/09/2021,Mr,Trevor,Whatford,England,N,Gold-Fleet,Sailboard,Y,WHATF20TREVO,832004534,V1.4(D0428T),,England,N,All Week,Y,,,10/09/2021 09:24
 86,M,28/09/2021,Mr,James,Longmuir,England,N,Kite-Fleet,Kite Board,Y,LONGM24JAMES,113200508,V1.4(B0315C),,England,N,All Week,N,,,10/09/2021 09:51
 87,M,28/09/2021,Mr,Anders,Bjorkqvist,Sweden,N,Gold-Fleet,Sailboard,Y,BJORK21ANDER,123201724,V1.4(B0803T),,Sweden,N,All Week,N,,Loft Sails; Carbon Art; Unifiber,10/09/2021 09:30
 88,M,02/10/2021,Mr,John,Perry,England,Y,Boat-Fleet,Boat,Y,,,,,,N,All Week,N,None,,
-89,M,02/10/2021,Mr,Erik,Larsson,Sweden,Y,Amateur,Sailboard,Y,LARSS10ERIK,932000560,V1.4(B0803T),,Sweden,Y,All Week,N,,Surfspot Surf.se,10/08/2021 16:25
+89,M,02/10/2021,Mr,Erik,Larsson,Sweden,N,Gold-Fleet,Sailboard,N,LARSS10ERIK,932000560,V1.4(B0803T),,Sweden,Y,All Week,N,,Surfspot Surf.se,10/08/2021 16:25
 90,M,02/10/2021,Mr,Joshua,Pinder,England,Y,Amateur,Sailboard,Y,PINDE14JOSHU,932000570,V1.4(B0803T),Forces - Royal Navy,England,Y,All Week,N,,,10/08/2021 17:00
 91,M,04/10/2021,Mr,Jim,Crossley,England,N,Pro-Fleet,Sailboard,Y,,,,,,N,2-Day,Y,,RRD Loftsails Unifiber ,
 92,M,04/10/2021,Mr,Will,Trossell,England,N,Gold-Fleet,Sailboard,Y,,,,,,N,2-Day,Y,,JP/Neilpryde,
@@ -43,9 +43,9 @@ ID,Male/Female,EnteredDateTime,Title,First Name,Family Name,Country,First Timer,
 96,M,06/10/2021,Mr,Jonny,Kirton,England,Y,Amateur,Sailboard,Y,KIRTO7JONNY,932000538,V1.4(B0803T),Forces - Royal Navy,England,Y,All Week,Y,,,10/08/2021 16:10
 97,M,06/10/2021,Mr,Nic,Dodd,England,N,Amateur,Sailboard,Y,DODD37NIC,133201127,V1.4(B0315C),Forces - Royal Navy,England,N,2-Day,Y,,,10/11/2021 08:05
 98,M,07/10/2021,Mr,Phil,Horder,England,N,Kite-Fleet,Kite Board,Y,HORDE33PHIL,103200708,V1.4(B0315C),,England,N,2-Day,N,,No; and I am a First Timer.,10/10/2021 09:15
-1099,M,10/09/2021,Mr,David ,Ashmore,England,N,Amateur,Sailboard,Y,ASHMO27DAVID,932000588,V1.4(B0803T),Royal Air Force,England,Y,All Week,N,,,10/09/2021 10:05
-1100,M,10/09/2021 17:35,Mr,Michael,George,England,N,Kite-Fleet,Kite Board,Y,GEORG30MICHA,932000175,V1.4(B0803T),,England,N,All Week,Y,,,10/09/2021 17:35
-1101,F,10/10/2021,Mrs,Zara,Davis,England,N,Kite-Fleet,Kite Board,Y,DAVIS34ZARA,932001424,V1.4(D0428T),,England,N,All Week,N,,,10/10/2021 11:14
+1099,M,10/09/2021,Mr,David ,Ashmore,England,N,Amateur,Sailboard,Y,ASHMO27DAVID,932000588,V1.4(B0803T),Forces - Royal Air Force,England,Y,All Week,N,,,10/09/2021 10:05
+1100,M,10/09/2021 17:35,Mr,Michael,George,England,Y,Wing-Fleet,Wing Board,Y,GEORG30MICHA,932000175,V1.4(B0803T),,England,N,2-Day,Y,,,10/09/2021 17:35
+1101,F,10/10/2021,Mrs,Zara,Davis,England,Y,Wing-Fleet,Wing Board,Y,DAVIS34ZARA,932001424,V1.4(D0428T),,England,N,2-Day,N,,,10/10/2021 11:14
 1102,M,10/10/2021,Mr,Hibby,Hibbysone,England,N,Amateur,Sailboard,Y,HIBBY35HIBBY,932000563,V1.4(B0803T),,England,Y,All Week,N,,,10/10/2021 11:39
 2000,F,10/10/2021,Mrs,Deborah,Williams,,Y,Kite-Fleet,Kite Board,Y,WILLI40DEBOR,932000582,V1.4(B0803T),,England,N,2-Day,N,,,
 2001,M,10/10/2021,Mrs,Jim,Crossley,,N,Pro-Fleet,Sailboard,Y,CROSS41JIM,133200501,V1.4(B0803T),,England,N,2-Day,N,,,
