@@ -22,23 +22,9 @@
       "Filter": "Craft Type=Boat"
     },
     {
-      "Title": "All Boats - Prize Eligible",
-      "Comment": "(excludes first time boats)",
-      "Fields": "Name,Nation,First Timer,Boat Name,Course,Start Time,Speed (kts)",
-      "Filter": "Craft Type=Boat,First Timer<>Y",
-      "Period": "Event"
-    },
-    {
       "Title": "All Kiteboards",
       "Fields": "Name,Nation,First Timer,Course,Start Time,Speed (kts)",
       "Filter": "Craft Type=Kiteboard"
-    },
-    {
-      "Title": "All Kiteboards - Prize Eligible",
-      "Comment": "(excludes first time kiteboards)",
-      "Fields": "Name,Nation,First Timer,Course,Start Time,Speed (kts)",
-      "Filter": "Craft Type=Kiteboard,First Timer<>Y",
-      "Period": "Event"
     },
     {
       "Title": "All Sailboards",
