@@ -1,5 +1,5 @@
 {
-  "Fields": "Name,Nation,Sail Number,Course,Time,Speed (kts)",
+  "Fields": "Name,Nation,Sail Number,Course,Time,Distance (m),Speed (kts)",
   "Periods": [
     {
       "Suptitle": "Fastest of the Day - {Date}",
@@ -15,13 +15,13 @@
   "Reports": [
     {
       "Title": "Top 10",
-      "Fields": "Name,Nation,Sail Number,Craft Type,Course,Time,Speed (kts)",
+      "Fields": "Name,Nation,Sail Number,Craft Type,Course,Time,Distance (m),Speed (kts)",
       "Limit": 10
     },
     {
       "Title": "Fastest Boats",
       "Filter": "Craft Type=Boat",
-      "Fields": "Name,Nation,Sail Number,Boat Name,Course,Time,Speed (kts)"
+      "Fields": "Name,Nation,Sail Number,Boat Name,Course,Time,Distance (m),Speed (kts)"
     },
     {
       "Title": "Fastest Kiteboards",

@@ -1,9 +1,10 @@
 {
+  "Comment": "A short 200m course was used during this session.",
   "Default": {
     "Start Time": "09:00",
     "End Time": "18:00"
   },
   "S1": {
-    "Course Length": "200"
+    "Distance (m)": "200"
   }
 }
