@@ -5,12 +5,12 @@
   "Reports": [
     {
       "Title": "Sorted by Name and Time",
-      "Fields": "Name,Nation,Sail Number,Craft Type,Course,Time,Speed (kts)",
+      "Fields": "Name,Nation,Sail Number,Craft Type,Course,Time,Distance (m),Speed (kts)",
       "Sort": "Name=ASC,Time=ASC"
     },
     {
       "Title": "Sorted by Course and Time",
-      "Fields": "Course,Time,Name,Nation,Sail Number,Craft Type,Speed (kts)",
+      "Fields": "Course,Time,Name,Nation,Sail Number,Craft Type,Distance (m),Speed (kts)",
       "Sort": "Course=ASC,Time=ASC"
     }
   ]

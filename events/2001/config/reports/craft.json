@@ -1,5 +1,5 @@
 {
-  "Fields": "Name,Nation,Sail Number,Course,Time,Speed (kts)",
+  "Fields": "Name,Nation,Sail Number,Course,Time,Distance (m),Speed (kts)",
   "Periods": [
     {
       "Suptitle": "Day Rankings by Craft Type - {Date}",
@@ -15,12 +15,12 @@
   "Reports": [
     {
       "Title": "All Craft",
-      "Fields": "Name,Nation,Sail Number,Craft Type,Course,Time,Speed (kts)"
+      "Fields": "Name,Nation,Sail Number,Craft Type,Course,Time,Distance (m),Speed (kts)"
     },
     {
       "Title": "All Boats",
       "Filter": "Craft Type=Boat",
-      "Fields": "Name,Nation,Sail Number,Boat Name,Course,Time,Speed (kts)"
+      "Fields": "Name,Nation,Sail Number,Boat Name,Course,Time,Distance (m),Speed (kts)"
     },
     {
       "Title": "All Kiteboards",
