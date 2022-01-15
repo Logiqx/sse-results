@@ -9,7 +9,7 @@
       <p>{{ report.comment }}</p>
       {% endif %}
       {% for comment in report.prizes[className] %}
-      <p>{{ comment }}</p>
+      <p>{{ comment|safe }}</p>
       {% endfor %}
       <table border="1">
         <tr>

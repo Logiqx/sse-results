@@ -2,12 +2,21 @@
   "Event": {
     "Name": "Weymouth Speed Week",
     "Venue": "Portland Harbour, Dorset, UK",
-    "Banner": "wswlogo.png",
-    "Website": "https://www.weymouthspeedweek.com"
+    "Banner": "wswlogo.png"
   },
-  "Catalyst": {
-    "Name": "Journal of the Amateur Yacht Research Society",
-    "Website": "https://www.ayrs.org/catalyst/"
+  "Links": {
+    "AYRS": {
+      "Name": "The Amateur Yacht Research Society",
+      "Website": "https://www.ayrs.org/"
+    },
+    "Catalyst": {
+      "Name": "Journal of the Amateur Yacht Research Society",
+      "Website": "https://www.ayrs.org/catalyst/"
+    },
+    "WSW": {
+      "Name": "Weymouth Speed Week",
+      "Website": "https://www.weymouthspeedweek.com"
+    }
   },
   "Courses": {
     "H": "Harbour",
