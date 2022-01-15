@@ -5,12 +5,12 @@
     "End Time": "18:00"
   },
   "S1": {
-    "Distance (m)": "300"
+    "Distance (m)": 300
   },
   "S2": {
-    "Distance (m)": "700"
+    "Distance (m)": 700
   },
-  "S2": {
-    "Distance (m)": "500"
+  "S3": {
+    "Distance (m)": 500
   }
 }
