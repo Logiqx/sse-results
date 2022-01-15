@@ -34,7 +34,7 @@
     },
     {
       "Title": "All Ladies",
-      "Fields": "Name,Nation,Sail Number,Craft Type,Course,Time,Speed (kts)",
+      "Fields": "Name,Nation,Sail Number,Craft Type,Status,Course,Time,Speed (kts)",
       "Filter": "Gender=F"
     },
     {
@@ -45,7 +45,7 @@
     },
     {
       "Title": "All Masters",
-      "Fields": "Name,Nation,Sail Number,Craft Type,Course,Time,Speed (kts)",
+      "Fields": "Name,Nation,Sail Number,Craft Type,Status,Course,Time,Speed (kts)",
       "Comment": "(age 45+)",
       "Filter": "Master=Y"
     }
