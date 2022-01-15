@@ -1,5 +1,5 @@
 {
-  "Fields": "Name,Nation,Sail Number,Course,Time,Distance (m),Speed (kts)",
+  "Fields": "Name,Nation,Sail Number,Course,Time,Speed (kts)",
   "Periods": [
     {
       "Suptitle": "Fastest of the Day - {Date}",
@@ -14,26 +14,61 @@
   "Limit": 3,
   "Reports": [
     {
-      "Title": "Top 10",
-      "Fields": "Name,Nation,Sail Number,Craft Type,Course,Time,Distance (m),Speed (kts)",
+      "Title": "Top 10 - 200m",
+      "Filter": "Distance (m)=200",
+      "Sort": "Speed (kts)=DSC,Time=ASC",
+      "Fields": "Name,Nation,Sail Number,Craft Type,Course,Time,Speed (kts)",
       "Limit": 10
     },
     {
-      "Title": "Fastest Boats",
-      "Filter": "Craft Type=Boat",
-      "Fields": "Name,Nation,Sail Number,Boat Name,Course,Time,Distance (m),Speed (kts)"
+      "Title": "Top 10 - 500m",
+      "Filter": "Distance (m)=500",
+      "Sort": "Speed (kts)=DSC,Time=ASC",
+      "Fields": "Name,Nation,Sail Number,Craft Type,Course,Time,Speed (kts)",
+      "Limit": 10
     },
     {
-      "Title": "Fastest Kiteboards",
-      "Filter": "Craft Type=Kiteboard"
+      "Title": "Fastest Boats - 200m",
+      "Filter": "Craft Type=Boat,Distance (m)=200",
+      "Sort": "Speed (kts)=DSC,Time=ASC",
+      "Fields": "Name,Nation,Sail Number,Boat Name,Course,Time,Speed (kts)"
     },
     {
-      "Title": "Fastest Sailboards",
-      "Filter": "Craft Type=Sailboard"
+      "Title": "Fastest Boats - 500m",
+      "Filter": "Craft Type=Boat,Distance (m)=500",
+      "Sort": "Speed (kts)=DSC,Time=ASC",
+      "Fields": "Name,Nation,Sail Number,Boat Name,Course,Time,Speed (kts)"
     },
     {
-      "Title": "Fastest TBCs",
-      "Filter": "Craft Type=TBC",
+      "Title": "Fastest Kiteboards - 200m",
+      "Filter": "Craft Type=Kiteboard,Distance (m)=200",
+      "Sort": "Speed (kts)=DSC,Time=ASC"
+    },
+    {
+      "Title": "Fastest Kiteboards - 500m",
+      "Filter": "Craft Type=Kiteboard,Distance (m)=500",
+      "Sort": "Speed (kts)=DSC,Time=ASC"
+    },
+    {
+      "Title": "Fastest Sailboards - 200m",
+      "Filter": "Craft Type=Sailboard,Distance (m)=200",
+      "Sort": "Speed (kts)=DSC,Time=ASC"
+    },
+    {
+      "Title": "Fastest Sailboards - 500m",
+      "Filter": "Craft Type=Sailboard,Distance (m)=500",
+      "Sort": "Speed (kts)=DSC,Time=ASC"
+    },
+    {
+      "Title": "Fastest TBCs - 200m",
+      "Filter": "Craft Type=TBC,Distance (m)=200",
+      "Sort": "Speed (kts)=DSC,Time=ASC",
+      "Warning": true
+    },
+    {
+      "Title": "Fastest TBCs - 500m",
+      "Filter": "Craft Type=TBC,Distance (m)=500",
+      "Sort": "Speed (kts)=DSC,Time=ASC",
       "Warning": true
     }
   ]
