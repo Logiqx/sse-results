@@ -4,7 +4,13 @@
   "ShowSpeeds": 10,
   "Reports": [
     {
-      "Title": "All Craft",
+      "Title": "All Craft - 200m",
+      "Filter": "Distance (m)=200",
+      "Period": "Session"
+    },
+    {
+      "Title": "All Craft - 500m",
+      "Filter": "Distance (m)=500",
       "Period": "Session"
     }
   ]

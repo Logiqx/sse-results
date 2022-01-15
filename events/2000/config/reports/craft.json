@@ -1,5 +1,5 @@
 {
-  "Fields": "Name,Nation,Sail Number,Course,Time,Distance (m),Speed (kts)",
+  "Fields": "Name,Nation,Sail Number,Course,Time,Speed (kts)",
   "Periods": [
     {
       "Suptitle": "Day Rankings by Craft Type - {Date}",
@@ -14,25 +14,85 @@
   "Profile": true,
   "Reports": [
     {
-      "Title": "All Craft",
-      "Fields": "Name,Nation,Sail Number,Craft Type,Course,Time,Distance (m),Speed (kts)"
+      "Title": "All Craft - 300m",
+      "Filter": "Distance (m)=300",
+      "Sort": "Speed (kts)=DSC,Time=ASC",
+      "Fields": "Name,Nation,Sail Number,Craft Type,Course,Time,Speed (kts)"
     },
     {
-      "Title": "All Boats",
-      "Filter": "Craft Type=Boat",
-      "Fields": "Name,Nation,Sail Number,Boat Name,Course,Time,Distance (m),Speed (kts)"
+      "Title": "All Craft - 500m",
+      "Filter": "Distance (m)=500",
+      "Sort": "Speed (kts)=DSC,Time=ASC",
+      "Fields": "Name,Nation,Sail Number,Craft Type,Course,Time,Speed (kts)"
     },
     {
-      "Title": "All Kiteboards",
-      "Filter": "Craft Type=Kiteboard"
+      "Title": "All Craft - 700m",
+      "Filter": "Distance (m)=700",
+      "Sort": "Speed (kts)=DSC,Time=ASC",
+      "Fields": "Name,Nation,Sail Number,Craft Type,Course,Time,Speed (kts)"
     },
     {
-      "Title": "All Sailboards",
-      "Filter": "Craft Type=Sailboard"
+      "Title": "All Boats - 300m",
+      "Filter": "Craft Type=Boat,Distance (m)=300",
+      "Sort": "Speed (kts)=DSC,Time=ASC",
+      "Fields": "Name,Nation,Sail Number,Boat Name,Course,Time,Speed (kts)"
     },
     {
-      "Title": "All TBCs",
-      "Filter": "Craft Type=TBC"
+      "Title": "All Boats - 500m",
+      "Filter": "Craft Type=Boat,Distance (m)=500",
+      "Sort": "Speed (kts)=DSC,Time=ASC",
+      "Fields": "Name,Nation,Sail Number,Boat Name,Course,Time,Speed (kts)"
+    },
+    {
+      "Title": "All Boats - 700m",
+      "Filter": "Craft Type=Boat,Distance (m)=700",
+      "Sort": "Speed (kts)=DSC,Time=ASC",
+      "Fields": "Name,Nation,Sail Number,Boat Name,Course,Time,Speed (kts)"
+    },
+    {
+      "Title": "All Kiteboards - 300m",
+      "Filter": "Craft Type=Kiteboard,Distance (m)=300",
+      "Sort": "Speed (kts)=DSC,Time=ASC"
+    },
+    {
+      "Title": "All Kiteboards - 500m",
+      "Filter": "Craft Type=Kiteboard,Distance (m)=500",
+      "Sort": "Speed (kts)=DSC,Time=ASC"
+    },
+    {
+      "Title": "All Kiteboards - 700m",
+      "Filter": "Craft Type=Kiteboard,Distance (m)=700",
+      "Sort": "Speed (kts)=DSC,Time=ASC"
+    },
+    {
+      "Title": "All Sailboards - 300m",
+      "Filter": "Craft Type=Sailboard,Distance (m)=300",
+      "Sort": "Speed (kts)=DSC,Time=ASC"
+    },
+    {
+      "Title": "All Sailboards - 500m",
+      "Filter": "Craft Type=Sailboard,Distance (m)=500",
+      "Sort": "Speed (kts)=DSC,Time=ASC"
+    },
+    {
+      "Title": "All Sailboards - 700m",
+      "Filter": "Craft Type=Sailboard,Distance (m)=700",
+      "Sort": "Speed (kts)=DSC,Time=ASC"
+    },
+    {
+      "Title": "All TBCs - 300m",
+      "Filter": "Craft Type=TBC,Distance (m)=300",
+      "Sort": "Speed (kts)=DSC,Time=ASC"
+    },
+    {
+      "Title": "All TBCs - 500m",
+      "Filter": "Craft Type=TBC,Distance (m)=500",
+      "Sort": "Speed (kts)=DSC,Time=ASC"
+    },
+    {
+      "Title": "All TBCs - 700m",
+      "Filter": "Craft Type=TBC,Distance (m)=700",
+      "Sort": "Speed (kts)=DSC,Time=ASC"
     }
   ]
 }
