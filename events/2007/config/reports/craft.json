@@ -14,7 +14,7 @@
   "Reports": [
     {
       "Title": "All Craft",
-      "Fields": "Name,Nation,Sail Number,Craft Type,Course,Time,Speed (kts)"
+      "Fields": "Name,Nation,Sail Number,Craft Type,Status,Course,Time,Speed (kts)"
     },
     {
       "Title": "All Boats",
@@ -23,7 +23,7 @@
     },
     {
       "Title": "All Kiteboards",
-      "Fields": "Name,Nation,Sail Number,Course,Time,Speed (kts)",
+      "Fields": "Name,Nation,Sail Number,Status,Course,Time,Speed (kts)",
       "Filter": "Craft Type=Kiteboard"
     },
     {
@@ -33,7 +33,7 @@
     },
     {
       "Title": "All Craft TBCs",
-      "Fields": "Name,Nation,Sail Number,Craft Type,Course,Time,Speed (kts)",
+      "Fields": "Name,Nation,Sail Number,Craft Type,Status,Course,Time,Speed (kts)",
       "Filter": "Craft Type=TBC"
     }
   ]
