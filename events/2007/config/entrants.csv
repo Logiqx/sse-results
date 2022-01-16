@@ -83,7 +83,7 @@ ID,Sail Number,Title,First Name,Family Name,Nationality,Craft Type,Boat Name,Age
 83,747,Mr,Simon,White,,Sailboard,,Master,No,Amateur,No,Yes
 84,811,Mr,Henry,Luce,,Sailboard,,Neither,No,Amateur,No,No
 85,863,Mr,Duncan,Adam,,Sailboard,,Neither,No,Amateur,No,No
-87,901,Mr,Richard,Simpson,,Sailboard,,Neither,No,Amateur,No,No
+87,901,Mr,Richard,Simpson,,Sailboard,,Junior,Yes,Youth Fleet,No,No
 88,909,Mr,Lee,Bradbury,,Sailboard,,Neither,No,Amateur,Yes,No
 89,948,Mr,Liam,Round,,Sailboard,,Junior,Yes,Youth Fleet,No,No
 90,974,Mr,David,Finch,,Sailboard,,Master,No,Amateur,Yes,Yes
