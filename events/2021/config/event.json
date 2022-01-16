@@ -93,7 +93,7 @@
   "Prizes": [
     {
       "Category": "Youth Sailboards",
-      "Filter": "Craft Type=Sailboard,Status=Youth Fleet",
+      "Filter": "Craft Type=Sailboard,Status=Youth Fleet,Weekend=Y",
       "Places": 3
     },
     {
