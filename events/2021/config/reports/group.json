@@ -1,7 +1,7 @@
 {
   "Periods": [
     {
-      "Suptitle": "Day Rankings within Groups",
+      "Suptitle": "Day Rankings within Groups - {Date}",
       "Period": "Session"
     },
     {
