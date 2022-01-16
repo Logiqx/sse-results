@@ -60,7 +60,7 @@
     {
       "Name": "Tushingham 'Fastest Youth' Shield",
       "Category": "Youth Sailboard",
-      "Filter": "Craft Type=Sailboard,Status=Youth Fleet"
+      "Filter": "Craft Type=Sailboard,Status=Youth Fleet,Weekend=Y"
     },
     {
       "Name": "'Fastest Lady' Shield",
@@ -91,7 +91,7 @@
   "Prizes": [
     {
       "Category": "Youth Sailboards",
-      "Filter": "Craft Type=Sailboard,Status=Youth Fleet",
+      "Filter": "Craft Type=Sailboard,Status=Youth Fleet,Weekend=Y",
       "Places": 3
     },
     {
