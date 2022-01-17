@@ -39,7 +39,7 @@ ID,Title,First Name,Family Name,Nationality,Age Status,Craft Type,Boat Name,Craf
 38,,Alex,Smith,England,Junior,Sailboard,,,No,,,941,Youth Fleet,,N
 39,,Richard,Holgate,UK,Neither,Sailboard,,,No,,,53,Amateur,,N
 40,,Brian,Leake,England,Master,Sailboard,,,No,,,26,Amateur,,Y
-41,,Stacey,Vass,uk,Neither,Kite Board,,slingshot kites and boards,Yes,"surfsales, slingshot. ",www.surf-sales.com,47/609,Pro Fleet,,N
+41,,Stacey,Vass,uk,Neither,Kite Board,,slingshot kites and boards,Yes,"surfsales, slingshot. ",www.surf-sales.com,609,Pro Fleet,,N
 43,,Liam,Round,England,Junior,Sailboard,,EXOCET S3/S4 YES Formula/Slalom Sails,Yes,TotalOptions & KBay,,948,Youth Fleet,,N
 44,,Paul,Simmons,UK,Neither,Sailboard,,Starboard Sonic Tushingham X-15,Yes,"Tushingham Sails Ltd, Starboard ",,131,Pro Fleet,,N
 45,,Nick,Beaney,England,Neither,Sailboard,,Neilpryde sails,Yes,Ultra Sport,,381,Pro Fleet,,N
@@ -140,3 +140,4 @@ ID,Title,First Name,Family Name,Nationality,Age Status,Craft Type,Boat Name,Craf
 146,,Marcus,Partridge,,,Sailboard,,,,,,48,,,
 147,,Ricky,Wooding,,,Sailboard,,,,,,103,,,
 148,,Cory,Percival,,,Sailboard,,,,,,997,,,
+149,,Stacey,Vass,uk,Neither,Sailboard,,,Yes,"surfsales, slingshot. ",www.surf-sales.com,47,Pro Fleet,,N
