@@ -111,7 +111,7 @@ ID,Title,First Name,Family Name,Nationality,Age Status,Craft Type,Boat Name,Craf
 116,,Keith,Atkinson,UK,Neither,Sailboard,,WINDSURFER - BRITISH WINDSURFING CHAMPION 2005,Yes,"STARBOARD, VW EUROVANS ",WWW.KEITHATKINSON.COM,56,Pro Fleet,,N
 118,,Rupert,Fisher,ENGLAND,Neither,Sailboard,,Mistral Electron/F2 275 Naish/Gaastra sails,No,Royal Navy Team,,133,Amateur,Y,N
 119,,Trevor,Whatford,England,Master,Sailboard,,,No,,,27,Amateur,,Y
-120,,Richard,Trubger,UK,Master,Kite Board,,Trudesigns custom,No,,,124/611,Amateur,,Y
+120,,Richard,Trubger,UK,Master,Kite Board,,Trudesigns custom,No,,,611,Amateur,,Y
 121,,Kévin,Gobin,FRANCE,Neither,Boat,EXOJET Catamaran,Catamaran with tunnel under the hulls,Yes,HULL SPEED E 108,exojet.free.fr,277,Pro Fleet,,N
 122,,Dave,White,,,Sailboard,,,Yes,,,63,Pro Fleet,,
 123,,Allan,Cross,,,Sailboard,,,,,,68,,,
@@ -141,3 +141,4 @@ ID,Title,First Name,Family Name,Nationality,Age Status,Craft Type,Boat Name,Craf
 147,,Ricky,Wooding,,,Sailboard,,,,,,103,,,
 148,,Cory,Percival,,,Sailboard,,,,,,997,,,
 149,,Stacey,Vass,uk,Neither,Sailboard,,,Yes,"surfsales, slingshot. ",www.surf-sales.com,47,Pro Fleet,,N
+150,,Richard,Trubger,UK,Master,Sailboard,,Trudesigns custom,No,,,124,Amateur,,Y
