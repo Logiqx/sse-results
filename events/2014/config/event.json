@@ -43,6 +43,14 @@
       "Y",
       "N",
       "?"
+    ],
+    "Grouping": [
+      "Forces - Royal Navy",
+      "Forces - The Army",
+      "Forces - Royal Air Force",
+      "Pitsford",
+      "Portland Pirates",
+      "TBC"
     ]
   },
   "Tankards": {

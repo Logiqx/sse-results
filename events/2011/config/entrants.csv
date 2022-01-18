@@ -69,7 +69,7 @@ ID,Entry Date,Title,Male/Female,First Name,Family Name,Country,Status,Craft Type
 73,30/08/2011 10:54,Mr,M,Steve,Giles,England,Gold Fleet,Sailboard,,Y,gilesey144,Portland Pirates,,2 Days,Y,,,No,,Y,N
 29,22/08/2011 11:28,Mr,M,Torsten,Mallon,Germany,Professional,Sailboard,"North Sails, Patrik Boards,select Fins, Kico-Logistics, Strength Food, CALM Wear, Open Ocean",Y,GER818 Mallon,,,All Week,,Y,,Yes,,Y,N
 36,23/08/2011 09:14,Mr,M,Manfred,Fuchs,Germany,Gold Fleet,Sailboard,"North Sails, Lessacher Fins, www.gps-speed.com",Y,GER119MFUCHS,,,All Week,,,,Yes,,Y,N
-62,25/08/2011 05:57,Mr,M,Guy,Cribb,England,Professional,Sailboard,"JP, Neil Pryde, INtuition, Holiday Extras, Adidas Eyewear, Animal www.guycribb.com",Y,gcribb,Guy Cribb INtuition,,2 Days,Y,,,No,,N,N
+62,25/08/2011 05:57,Mr,M,Guy,Cribb,England,Professional,Sailboard,"JP, Neil Pryde, INtuition, Holiday Extras, Adidas Eyewear, Animal www.guycribb.com",Y,gcribb,,,2 Days,Y,,,No,,N,N
 38,23/08/2011 23:57,Mr,M,Henry,Bloodworth,England,Amateur,Sailboard,,Y,GBR852hb,,,Youth Weekend,Y,,,,,N,N
 115,27/09/2011 08:43,Mr,M,Mark,Collins,England,Amateur,Sailboard,"Windsurf Formula, Slalom and Speed boards.  I will be sailing for the Army Windsurf Team.",Y,GBR329 Mark,Forces - The Army,,All Week,Y,,,Yes,,Y,N
 30,22/08/2011 12:06,Mr,M,Adrian,Wallis,England,Gold Fleet,Sailboard,,Y,gbr328wallis,Forces - Royal Navy,,All Week,Y,,,Yes,,Y,N
@@ -84,7 +84,7 @@ ID,Entry Date,Title,Male/Female,First Name,Family Name,Country,Status,Craft Type
 11,20/08/2011 13:45,Mr,M,Daniel,Winterbottom,England,Amateur,Sailboard,Starboard Futura 144 Tushingham Sails 5.5 - 8m,Y,dwinterbottom,,,2 Days,,,,Yes,,N,N
 102,20/09/2011 09:04,Mr,M,Paul,Dodson,England,Amateur,Sailboard,JP Supersport or Xcite Ride,Y,doddy666,Pitsford,,2 Days,,,,Yes,,Y,Y
 109,25/09/2011 11:09,Mr,M,David,Walker,Wales,Amateur,Sailboard,,Y,DAVID W7,,,2 Days,,,,Yes,,Y,N
-105,21/09/2011 04:06,Mr,M,David,Gollick,England,Gold Fleet,Sailboard,Starboard Isonic - Ka Koncept sails - Chinook Booms - Vector and Z-Fins- Representing WindsurfingFins Ltd - www.windsurfingfins.co.uk,Y,Dave Gollick,Windsurfing Fins Team Rider,,2 Days,Y,,,No,,Y,N
+105,21/09/2011 04:06,Mr,M,David,Gollick,England,Gold Fleet,Sailboard,Starboard Isonic - Ka Koncept sails - Chinook Booms - Vector and Z-Fins- Representing WindsurfingFins Ltd - www.windsurfingfins.co.uk,Y,Dave Gollick,,,2 Days,Y,,,No,,Y,N
 18,21/08/2011 09:36,Mr,M,Phil,Lewin,England,Amateur,Sailboard,,Y,curly06,,,2 Days,,,,Yes,,Y,Y
 142,10/10/2011,Mr,M,Charlie,Wilson,England,Amateur,Sailboard,F2-Neilpryde,Y,CHIDSWILSON,,,2 Days,Y,,,Yes,,N,N
 57,24/08/2011 08:00,Mr,M,Christian,Body,England,Gold Fleet,Sailboard,Windsurf Board & sail,Y,C BODY,,,All Week,Y,,,Yes,,N,N
@@ -92,9 +92,9 @@ ID,Entry Date,Title,Male/Female,First Name,Family Name,Country,Status,Craft Type
 112,26/09/2011 14:59,Mr,M,Bruno,Maebe,Belgium,Amateur,Sailboard,board rrd firerace sail loft sails ,Y,biouser,,,2 Days,,,,Yes,,N,N
 23,21/08/2011 16:55,Mr,M,Barry,Pearce,England,Amateur,Sailboard,,Y,BENSON 1,,,All Week,,,,No,,Y,N
 43,24/08/2011 04:13,Mr,M,Bart,Goemans,Netherlands,Gold Fleet,Sailboard,"Sailworks, Chinook, Black Project Fins, Windhouse.nl",Y,Bart Goemans,,,All Week,,,,No,,Y,N
-106,23/09/2011 12:03,Mr,M,Jeroen,Van Hoydonck,Belgium,Gold Fleet,Sailboard,RRD-BELGIE LOFT-BELGIE MCF-BELGIE TORMENTA WINDSURF TEAM BELGIUM,Y,B226 JEROEN,Belgium RRD-LOFTSAILS team,,All Week,,Y,,Yes,,N,N
-116,27/09/2011 08:58,Mr,M,Alain,De Gendt,Belgium,Gold Fleet,Sailboard, www.rrd-belgie.be www.loftsails.be www.mauifin.be surfgasm.org,Y,B 33 ALAIN DG,Belgian RRD Loftsails race team,,All Week,,Y,,No,,N,N
-117,27/09/2011 12:46,Mr,M,Alastair,Nichol,Ireland,Gold Fleet,Sailboard,Windsurfer:- Sails  - KA Koncept's Boards - Starboard iSonic Slalom and Speed Specials Mistral Slalom and Speed My Website - www.irl-250.blogspot.com Sponsored by:- KA Sails (www.kasails.com) Mistral (www.mistral.com) Chinook (www.chinooksailing.com) Pro Motion Wetsuits (www.wetsuit.com) Vector Maui Fins (www.vectorfins.com) Wind and Wave (www.windandwave.ie) Windsurfingfins (www.windsurfingfins.co.uk) Curve Surf Products (www.thainleisure.com) MCPM (www.modifiedclassicprojectmanagement.blogspot.com) ,Y,AlastairBGT31,Windsurfingfins.co.uk,,All Week,,,,No,,N,N
+106,23/09/2011 12:03,Mr,M,Jeroen,Van Hoydonck,Belgium,Gold Fleet,Sailboard,RRD-BELGIE LOFT-BELGIE MCF-BELGIE TORMENTA WINDSURF TEAM BELGIUM,Y,B226 JEROEN,Belgian RRD Loftsails Race Team,,All Week,,Y,,Yes,,N,N
+116,27/09/2011 08:58,Mr,M,Alain,De Gendt,Belgium,Gold Fleet,Sailboard, www.rrd-belgie.be www.loftsails.be www.mauifin.be surfgasm.org,Y,B 33 ALAIN DG,Belgian RRD Loftsails Race Team,,All Week,,Y,,No,,N,N
+117,27/09/2011 12:46,Mr,M,Alastair,Nichol,Ireland,Gold Fleet,Sailboard,Windsurfer:- Sails  - KA Koncept's Boards - Starboard iSonic Slalom and Speed Specials Mistral Slalom and Speed My Website - www.irl-250.blogspot.com Sponsored by:- KA Sails (www.kasails.com) Mistral (www.mistral.com) Chinook (www.chinooksailing.com) Pro Motion Wetsuits (www.wetsuit.com) Vector Maui Fins (www.vectorfins.com) Wind and Wave (www.windandwave.ie) Windsurfingfins (www.windsurfingfins.co.uk) Curve Surf Products (www.thainleisure.com) MCPM (www.modifiedclassicprojectmanagement.blogspot.com) ,Y,AlastairBGT31,,,All Week,,,,No,,N,N
 71,30/08/2011 08:13,Mr,M,Hamish,Goddard,England,Amateur,Sailboard,F2 / Tushingham,Y,983HAMISH,,,2 Days,,,,Yes,,Y,N
 127,30/09/2011 13:52,Mr,M,David,Mercer,England,Amateur,Sailboard,,Y,9408DMercer,,,All Week,,,,Yes,,N,N
 137,10/06/2011,Mr,M,Dan,Sweeney,England,Professional,Kite Board,RRD Kites ION Essentials Baker Academy Weedy I Phone Ap dansweeneyuk.co.uk,Y,sweeneykite,,,All Week,,,,No,,N,N
@@ -118,7 +118,7 @@ ID,Entry Date,Title,Male/Female,First Name,Family Name,Country,Status,Craft Type
 22,21/08/2011 16:37,Mr,M,Gavin,Nicholson,England,Gold Fleet,Sailboard,,Y,210 Nicholson,Forces - Royal Navy,,All Week,Y,,,No,,N,N
 163,16/10/2011,Ms,F,Katherine,Knight,England,Gold Fleet,Boat,Moth,Y,WSWA10,,,2 Days,,,,Yes,,N,N
 44,24/08/2011 05:35,Mr,M,Martin,Allman,England,Amateur,Sailboard,,Y,206mallman,,,All Week,Y,,,Yes,,Y,N
-138,10/07/2011,Mr,M,Peter,Martin,England,Gold Fleet,Sailboard,Starboard isonic boards and Neil Pryde RS Slalom sails,Y,181PETEMARTIN,Grafham Water,,All Week,,,,No,,Y,N
+138,10/07/2011,Mr,M,Peter,Martin,England,Gold Fleet,Sailboard,Starboard isonic boards and Neil Pryde RS Slalom sails,Y,181PETEMARTIN,,,All Week,,,,No,,Y,N
 122,29/09/2011 02:19,Mr,M,Robin,Penna,England,Gold Fleet,Sailboard,Windsurfing,Y,175 RP,,,All Week,,,,Yes,,Y,N
 160,17/10/2011,Mr,M,Alex,Tobutt,England,Professional,Kite Board,NAISH,Y,NAISH ALEX,,,1 Day,,,,,,N,N
 107,24/09/2011 15:28,Mr,M,Keith,Softly,England,Amateur,Sailboard,,Y,138wsw,,,2 Days,,,,Yes,,N,N

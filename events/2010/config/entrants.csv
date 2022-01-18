@@ -1,5 +1,5 @@
 ID,Entry Date,Title,Male/Female,First Name,Family Name,Country,Novice(Y/N),Status,Craft Type,Accept Terms(Y/N),GT31 ID,Sail Number,Grouping,Nationality,requiredEntryType,UKWA Member,NMA Member,Boat Name,Master
-6,14/08/2010 16:55,Mr,M,Stephen,Chatten,England,Y,Amateur,Sailboard,Y,139WSW,K274,Team QSW,,All Week,Y,Y,,Y
+6,14/08/2010 16:55,Mr,M,Stephen,Chatten,England,Y,Amateur,Sailboard,Y,139WSW,K274,QSW,,All Week,Y,Y,,Y
 7,14/08/2010 17:11,Mr,M,Gary,Powell,England,Y,Amateur,Kite Board,Y,147WSW,,,,All Week,N,,,Y
 8,14/08/2010 17:18,Mr,M,Bob,Cunningham,England,N,Professional,Sailboard,Y,89 cunningham,89,,,2 Days Only,N,,,Y
 9,14/08/2010 17:25,Mr,M,Gordon,Roach,England,N,Amateur,Sailboard,Y,693 G ROACH,693,,,All Week,Y,Y,,N
@@ -7,7 +7,7 @@ ID,Entry Date,Title,Male/Female,First Name,Family Name,Country,Novice(Y/N),Statu
 11,14/08/2010 23:33,Mr,M,Richard,Seymour,England,Y,Amateur,Boat,Y,128WSW,,,,All Week,N,,,Y
 13,15/08/2010 01:46,Mr,M,Jamie,Bambridge,England,Y,Amateur,Sailboard,Y,508Bam,508,,,2 Days Only,Y,Y,,N
 14,15/08/2010 02:19,Mr,M,Duncan,Adam,England,N,Amateur,Sailboard,Y,863DUNCAN,863,,,2 Days Only,N,,,Y
-16,15/08/2010 02:45,Mr,M,Neil,Greentree,England,Y,Amateur,Sailboard,Y,134WSW,K636,Team QSW,,All Week,Y,Y,,N
+16,15/08/2010 02:45,Mr,M,Neil,Greentree,England,Y,Amateur,Sailboard,Y,134WSW,K636,QSW,,All Week,Y,Y,,N
 17,15/08/2010 03:24,Mr,M,Richard,Haynes,England,N,Amateur,Sailboard,Y,RICHARDHAYNES,444,,,All Week,N,,,Y
 18,15/08/2010 04:09,Mr,M,Christian,Body,England,N,Amateur,Sailboard,Y,136WSW,GBR 709,,,Youth Weekend,Y,Y,,N
 19,15/08/2010 04:23,Mr,M,Manfred,Fuchs,Germany,N,Gold Fleet,Sailboard,Y,GER119 MFUCHS,119,,,All Week,,Y,,Y
@@ -25,13 +25,13 @@ ID,Entry Date,Title,Male/Female,First Name,Family Name,Country,Novice(Y/N),Statu
 32,15/08/2010 13:05,Mr,M,Nick,Dempsey,England,N,Professional,Sailboard,Y,gbr1nick,GBR1,,,2 Days Only,Y,Y,,N
 33,15/08/2010 15:47,Mr,M,Alastair,Nichol,Ireland,N,Gold Fleet,Sailboard,Y,250 ANICHOL,IRL-250,,,All Week,,Y,,N
 34,15/08/2010 16:58,Mr,M,Stephen,Corps,England,N,Gold Fleet,Sailboard,Y,STEPHEN CORPS,15,,,All Week,N,,,N
-35,15/08/2010 17:58,Mr,M,Andrew,Chandler,England,N,Gold Fleet,Sailboard,Y,626chandler,GBR262,Portland Pirates (Gps tc),,All Week,Y,Y,,N
+35,15/08/2010 17:58,Mr,M,Andrew,Chandler,England,N,Gold Fleet,Sailboard,Y,626chandler,GBR262,Portland Pirates,,All Week,Y,Y,,N
 36,15/08/2010 18:00,Mr,M,John,Oliver,England,N,Amateur,Sailboard,Y,141WSW,,,,All Week,N,,,Y
 37,16/08/2010 03:41,Miss,F,Katherine,Knight,England,N,Amateur,Boat,Y,130WSW,3021,,,2 Days Only,N,,,N
-38,16/08/2010 06:00,Mr,M,Tristan,Haskins,England,Y,Amateur,Sailboard,Y,TRIS GPSSPEED,,GPS SPEEE.co.uk,,All Week,N,,,N
+38,16/08/2010 06:00,Mr,M,Tristan,Haskins,England,Y,Amateur,Sailboard,Y,TRIS GPSSPEED,,,,All Week,N,,,N
 39,16/08/2010 06:16,Mr,M,Torix,Bennett,England,N,Amateur,Boat,Y,101TORIX,101,,,All Week,N,,,Y
 40,16/08/2010 06:36,Mr,M,Dave,Strudwick,England,N,Gold Fleet,Sailboard,Y,K44,44,Forces - Royal Navy,,All Week,Y,Y,,Y
-41,16/08/2010 06:57,Mr,M,Simon,Andrew,England,N,Amateur,Sailboard,Y,61 spa,61,weston beach front,,All Week,N,,,N
+41,16/08/2010 06:57,Mr,M,Simon,Andrew,England,N,Amateur,Sailboard,Y,61 spa,61,,,All Week,N,,,N
 42,16/08/2010 07:14,Mr,M,Pete,Cunningham,England,N,Gold Fleet,Sailboard,Y,22Pete C,22,,,2 Days Only,Y,Y,,N
 43,16/08/2010 07:41,Mr,M,Raj,Kandasamy,Wales,N,Gold Fleet,Sailboard,Y,116WSW,8,,,2 Days Only,N,,,N
 44,16/08/2010 08:58,Mr,M,Eddie,Murrell,England,N,Gold Fleet,Sailboard,Y,670EJMURRELL,670,,,All Week,Y,Y,,Y
@@ -43,7 +43,7 @@ ID,Entry Date,Title,Male/Female,First Name,Family Name,Country,Novice(Y/N),Statu
 51,17/08/2010 08:30,Mr,M,Ryan,Dunkling,England,N,Amateur,Sailboard,Y,571RDUNKLING,571,,,Youth Weekend,Y,Y,,N
 53,17/08/2010 14:56,Mr,M,Mark,Matthews,England,Y,Amateur,Sailboard,Y,GBR 262 Mark,GBR 262,,,All Week,N,,,N
 54,17/08/2010 15:58,Mr,M,Spenser,Arnold,England,Y,Amateur,Sailboard,Y,123SPENNY,,,,All Week,N,,,Y
-55,17/08/2010 19:41,Mr,M,Michael,Roberts,England,N,Amateur,Sailboard,Y,598 M J R,598,Seavets,,2 Days Only,Y,Y,,Y
+55,17/08/2010 19:41,Mr,M,Michael,Roberts,England,N,Amateur,Sailboard,Y,598 M J R,598,,,2 Days Only,Y,Y,,Y
 56,18/08/2010 05:14,Mr,M,Michael,George,England,N,Gold Fleet,Sailboard,Y,K888 MIKE G,K888,,,All Week,Y,Y,,N
 57,18/08/2010 05:46,Mr,M,Philip,Bent,England,N,Amateur,Sailboard,Y,118WSW,524,Forces - Royal Navy,,All Week,Y,Y,,N
 58,18/08/2010 14:35,Mr,M,Martin,Allman,England,N,Amateur,Sailboard,Y,206mallman,206,,,All Week,Y,Y,,Y
@@ -70,7 +70,7 @@ ID,Entry Date,Title,Male/Female,First Name,Family Name,Country,Novice(Y/N),Statu
 83,30/08/2010 14:13,Mr,M,Pete,Young,England,N,Gold Fleet,Sailboard,Y,708 PYOUNGA,708,,,All Week,Y,Y,,Y
 85,31/08/2010 12:31,Mr,M,Simon,Pettifer,England,N,Gold Fleet,Sailboard,Y,503 SIMP,503,,,2 Days Only,Y,Y,,N
 86,01/09/2010 07:57,Miss,F,Elizabeth,Bowen,Wales,N,Amateur,Sailboard,Y,125WSW,,,,All Week,N,,,N
-87,01/09/2010 16:33,Mr,M,Peter,Cutts,England,Y,Amateur,Sailboard,Y,pcutts,,Team East,,All Week,N,,,Y
+87,01/09/2010 16:33,Mr,M,Peter,Cutts,England,Y,Amateur,Sailboard,Y,pcutts,,,,All Week,N,,,Y
 88,02/09/2010 07:29,Mr,M,Neil,Hardwick,England,N,Gold Fleet,Sailboard,Y,Neil Hardwick,413,,,All Week,N,,,N
 89,02/09/2010 15:12,Mr,M,James,Winstaney,England,N,Amateur,Kite Board,Y,112WSW,,,,All Week,N,,,N
 90,02/09/2010 16:35,Mr,M,Kevin,Greenslade,England,N,Gold Fleet,Sailboard,Y,82KEV,82,,,All Week,Y,Y,,N
@@ -79,18 +79,18 @@ ID,Entry Date,Title,Male/Female,First Name,Family Name,Country,Novice(Y/N),Statu
 93,06/09/2010 09:20,Mr,M,Paul,Simmons,England,N,Professional,Sailboard,Y,PJSIMMONS131,131,,,All Week,Y,Y,,N
 94,06/09/2010 14:57,Mr,M,Orlando,Lavandera,Spain,N,Gold Fleet,Sailboard,Y,E-65 orlando,e-65,,,All Week,,Y,,N
 96,07/09/2010 06:27,Miss,F,Marie,Buchanan,England,N,Gold Fleet,Sailboard,Y,MABU123,123,,,All Week,Y,Y,,N
-97,08/09/2010 12:37,Mr,M,Roger,Dyer,England,N,Amateur,Boat,Y,Messenger77,77,AYRS,,All Week,N,,,Y
+97,08/09/2010 12:37,Mr,M,Roger,Dyer,England,N,Amateur,Boat,Y,Messenger77,77,,,All Week,N,,,Y
 99,10/09/2010 07:29,Mr,M,Tony,Morris,England,N,Amateur,Sailboard,Y,604TONY,604,,,All Week,N,,,N
 102,13/09/2010 06:14,Mr,M,Steve,Giles,England,N,Amateur,Sailboard,Y,Gilesey144,144,,,All Week,Y,Y,,Y
 104,14/09/2010 08:42,Mr,M,Matthew,Philpott,Wales,N,Amateur,Sailboard,Y,117WSW,,,,All Week,N,,,N
-107,16/09/2010 07:52,Mr,M,Peter,Martin,England,N,Gold Fleet,Sailboard,Y,181PETEMARTIN,181,Grafham Water,,All Week,N,,,Y
+107,16/09/2010 07:52,Mr,M,Peter,Martin,England,N,Gold Fleet,Sailboard,Y,181PETEMARTIN,181,,,All Week,N,,,Y
 108,16/09/2010 17:07,Mr,M,Alan,Blundell,England,N,Amateur,Boat,Y,115WSW,54,,,All Week,N,,,Y
 109,17/09/2010 13:35,Mr,M,Michael,Barton,England,N,Amateur,Boat,Y,101WSW,116,,,All Week,N,,,Y
 110,18/09/2010 12:38,Mr,M,Richard,Lloyd,England,N,Gold Fleet,Sailboard,Y,K573rlloyd,K573,,,All Week,Y,Y,,N
 113,19/09/2010 16:44,Mr,M,Dave,White,England,N,Professional,Sailboard,Y,whiteyk63,63,,,All Week,Y,Y,,Y
 114,19/09/2010 16:53,Mr,M,Jack,Bailey,England,Y,Amateur,Sailboard,Y,JBAILEY,,,,Youth Weekend,N,,,N
 115,20/09/2010 14:55,Mr,M,Lance,Newbery,England,N,Gold Fleet,Sailboard,Y,873Lance,K873,,,All Week,N,,,N
-118,22/09/2010 03:06,Mr,M,Tris,Best,England,N,Professional,Sailboard,Y,796tbest,K796,OTC,,All Week,Y,Y,,N
+118,22/09/2010 03:06,Mr,M,Tris,Best,England,N,Professional,Sailboard,Y,796tbest,K796,,,All Week,Y,Y,,N
 119,22/09/2010 07:30,Mr,M,David,Gollick,England,N,Amateur,Sailboard,Y,DAVE GOLLICK,415,,,All Week,Y,Y,,N
 120,22/09/2010 19:43,Mr,M,Jim,Brooks-Dowsett,Wales,N,Gold Fleet,Sailboard,Y,JIM BROOKS D,K817,,,All Week,Y,Y,,N
 121,23/09/2010 05:07,Mr,M,Claude,Van-Martyn,Guernsey,N,Amateur,Sailboard,Y,555 claude v,555,,,All Week,N,,,Y

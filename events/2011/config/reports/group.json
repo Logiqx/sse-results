@@ -16,6 +16,11 @@
       "Title": "HM Forces",
       "Filter": "Grouping=Forces - %",
       "Fields": "Name,Grouping,Craft Type,Status,Course,Start Time,Speed (kts)"
+    },
+    {
+      "Title": "Belgian RRD Loftsails Race Team",
+      "Filter": "Grouping=Belgian Rrd Loftsails Race Team",
+      "Fields": "Name,Craft Type,Status,Course,Start Time,Speed (kts)"
     }
   ]
 }
