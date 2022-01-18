@@ -24,7 +24,7 @@
     },
     {
       "Title": "Team QSW",
-      "Filter": "Grouping=QSW",
+      "Filter": "Grouping=Qsw",
       "Fields": "Name,Craft Type,Status,First Timer,Course,Start Time,Speed (kts)"
     },
     {

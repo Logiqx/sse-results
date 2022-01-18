@@ -16,6 +16,11 @@
       "Title": "HM Forces",
       "Filter": "Grouping=Forces - %",
       "Fields": "Name,Grouping,Craft Type,Status,Course,Start Time,Speed (kts)"
+    },
+    {
+      "Title": "Team QSW",
+      "Filter": "Grouping=Qsw",
+      "Fields": "Name,Craft Type,Status,Course,Start Time,Speed (kts)"
     }
   ]
 }

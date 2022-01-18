@@ -1,7 +1,7 @@
 ID,Male/Female,EnteredDateTime,Title,First Name,Family Name,Country,First Timer,Status,Craft Type,Accept Terms(Y/N),GT31 ID,GT31 SN,GT31 FW,Grouping,Nationality,requiredGT31,EntryType,UKWA Member,Boat Name,Sponsorship,RegDateTime
 1,M,28/08/2018,Mr,Stephen,Sugden,England,N,Amateur,Sailboard,Y,Sugde77Steph,932000560,V1.4(B0803T),,,Y,2-Day,Y,,,18/10/2018 08:14
 6,M,28/08/2018,Mr,Simon,Chippington,England,N,Gold-Fleet,Sailboard,Y,Chipp74Simon,123200225,V1.4(B0315C),,,N,2-Day,Y,GBR984 ,Team rider for Fluidlines using RRD Windsurfing kit ,16/10/2018 12:19
-7,M,07/09/2018,Mr,Robin,Hofman,Belgium,Y,Amateur,Sailboard,Y,,,,Boards & Beards,,Y,2-Day,N,BEL404,saturday and sunday,
+7,M,07/09/2018,Mr,Robin,Hofman,Belgium,Y,Amateur,Sailboard,Y,,,,,,Y,2-Day,N,BEL404,saturday and sunday,
 8,F,28/08/2018,Mrs,Trish,Kohn,England,N,Amateur,Sailboard,Y,Kohn55Trish,932000557,V1.4(B0803T),Forces - Royal Navy,,Y,All Week,N,,,13/10/2018 17:57
 9,M,28/08/2018,Mr,Rob,Dunn,England,N,Amateur,Sailboard,Y,Dunn56Rob,133200830,V1.4(B0315C),Forces - Royal Navy,,N,All Week,N,,No,13/10/2018 18:00
 10,M,29/08/2018,Mr,Adrian,Wallis,England,N,Gold-Fleet,Sailboard,Y,Walli26Adria,113200822,V1.4(B0315C),Forces - Royal Navy,,N,All Week,Y,,,13/10/2018 09:00
@@ -33,7 +33,7 @@ ID,Male/Female,EnteredDateTime,Title,First Name,Family Name,Country,First Timer,
 37,M,05/10/2018,Mr,Sam,Jones,England,Y,Amateur,Sailboard,Y,Jones2Sam,932000588,V1.4(B0803T),,,Y,Youth Weekend,Y,,No ,13/10/2018 17:56
 38,M,13/09/2018,Mr,Gavin,Nicholson,England,N,Gold-Fleet,Sailboard,Y,Nicho3Gavin,833001749,V1.4(B0803T),Forces - Royal Navy,,N,All Week,Y,,Royal Navy; RNSA; AHD; AFS foils; the surf Doctor; Kai water sports. ,10/12/2018 16:07
 39,M,14/09/2018,Mr,Andy,Stuart-William,England,Y,Amateur,Sailboard,Y,Stuar40Andy,932000540,V1.4(B0803T),,,Y,2-Day,Y,,No,13/10/2018 18:05
-40,M,15/09/2018,Mr,Garry,Connell,England,N,Gold-Fleet,Sailboard,Y,Conne17Garry,133200827,V1.4(B0803T),Hamworthy Heros,,N,All Week,Y,,,13/10/2018 08:43
+40,M,15/09/2018,Mr,Garry,Connell,England,N,Gold-Fleet,Sailboard,Y,Conne17Garry,133200827,V1.4(B0803T),Hamworthy Heroes,,N,All Week,Y,,,13/10/2018 08:43
 41,M,15/09/2018,Mr,Robin,Russell,England,N,Gold-Fleet,Sailboard,Y,Russe14Robin,113200238,V1.4(B0803T),Surf Hogs,,N,All Week,N,,,13/10/2018 08:39
 42,F,17/09/2018,Mrs,Christine,Daffe,Belgium,N,Amateur,Sailboard,Y,Daffe31Chris,932000562,V1.4(B0803T),,,Y,All Week,N,,,13/10/2018 09:14
 43,M,17/09/2018,Mr,Tom,Martin,England,N,Kite-Fleet,Kite Board,Y,Marti52Tom,832001510,V1.4(B0803T),,,N,2-Day,N,,,13/10/2018 17:48
