@@ -41,6 +41,16 @@
       "Y",
       "N",
       "?"
+    ],
+    "ISWC Member": [
+      "Y",
+      "N",
+      "?"
+    ],
+    "UKWA Member": [
+      "Y",
+      "N",
+      "?"
     ]
   },
   "Tankards": {
