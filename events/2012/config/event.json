@@ -78,7 +78,7 @@
       "Filter": "Craft Type=Sailboard,Status=Gold Fleet"
     },
     {
-      "Name": "Tushingham 'Fastest Youth' Shield",
+      "Name": "'Fastest Youth' Trophy",
       "Category": "Youth Sailboard",
       "Filter": "Craft Type=Sailboard,Status=Youth Fleet,Weekend=Y"
     },
