@@ -7,7 +7,7 @@
     {
       "Suptitle": "Fastest of the Week",
       "Period": "Event",
-      "HideFields": "Course,Time"
+      "HideFields": "Course,Finish Time"
     }
   ],
   "Limit": 3,
@@ -15,72 +15,72 @@
   "Reports": [
     {
       "Title": "Top 10",
-      "Fields": "Name,Nation,Sail Number,Craft Type,Status,Course,Time,Speed (kts)",
+      "Fields": "Name,Nation,Sail Number,Craft Type,Status,Course,Finish Time,Speed (kts)",
       "Limit": 10
     },
     {
       "Title": "Fastest Boats",
-      "Fields": "Name,Nation,Sail Number,Boat Name,Course,Time,Speed (kts)",
+      "Fields": "Name,Nation,Sail Number,Boat Name,Course,Finish Time,Speed (kts)",
       "Filter": "Craft Type=Boat"
     },
     {
       "Title": "Fastest Kiteboards",
-      "Fields": "Name,Nation,Sail Number,Status,Course,Time,Speed (kts)",
+      "Fields": "Name,Nation,Sail Number,Status,Course,Finish Time,Speed (kts)",
       "Filter": "Craft Type=Kiteboard"
     },
     {
       "Title": "Fastest Sailboards",
-      "Fields": "Name,Nation,Sail Number,Status,Course,Time,Speed (kts)",
+      "Fields": "Name,Nation,Sail Number,Status,Course,Finish Time,Speed (kts)",
       "Filter": "Craft Type=Sailboard"
     },
     {
       "Title": "Fastest Craft TBCs",
-      "Fields": "Name,Nation,Sail Number,Craft Type,Status,Course,Time,Speed (kts)",
+      "Fields": "Name,Nation,Sail Number,Craft Type,Status,Course,Finish Time,Speed (kts)",
       "Filter": "Craft Type=TBC"
     },
     {
       "Title": "Fastest Pro Sailboards",
-      "Fields": "Name,Nation,Sail Number,Course,Time,Speed (kts)",
+      "Fields": "Name,Nation,Sail Number,Course,Finish Time,Speed (kts)",
       "Filter": "Craft Type=Sailboard,Status=Pro Fleet"
     },
     {
       "Title": "Fastest Amateur Sailboards",
-      "Fields": "Name,Nation,Sail Number,Course,Time,Speed (kts)",
+      "Fields": "Name,Nation,Sail Number,Course,Finish Time,Speed (kts)",
       "Filter": "Craft Type=Sailboard,Status=Amateur"
     },
     {
       "Title": "Fastest Unclassified Sailboards",
-      "Fields": "Name,Nation,Sail Number,Status,Course,Time,Speed (kts)",
+      "Fields": "Name,Nation,Sail Number,Status,Course,Finish Time,Speed (kts)",
       "Filter": "Craft Type=Sailboard,Status=TBC"
     },
     {
       "Title": "Fastest Novices",
-      "Fields": "Name,Nation,Sail Number,Craft Type,Course,Time,Speed (kts)",
+      "Fields": "Name,Nation,Sail Number,Craft Type,Course,Finish Time,Speed (kts)",
       "Filter": "Novice=Y"
     },
     {
       "Title": "Fastest Ladies",
-      "Fields": "Name,Nation,Sail Number,Craft Type,Status,Course,Time,Speed (kts)",
+      "Fields": "Name,Nation,Sail Number,Craft Type,Status,Course,Finish Time,Speed (kts)",
       "Filter": "Gender=F"
     },
     {
       "Title": "Fastest Youths",
       "Comment": "(age <17 on the first day of speed week)",
-      "Fields": "Name,Nation,Sail Number,Craft Type,Course,Time,Speed (kts)",
+      "Fields": "Name,Nation,Sail Number,Craft Type,Course,Finish Time,Speed (kts)",
       "Filter": "Status=Youth Fleet",
       "Period": "Session"
     },
     {
       "Title": "Fastest Youths",
       "Comment": "(age <17 on the first day of speed week, weekend results only)",
-      "Fields": "Name,Nation,Sail Number,Craft Type,Course,Time,Speed (kts)",
+      "Fields": "Name,Nation,Sail Number,Craft Type,Course,Finish Time,Speed (kts)",
       "Filter": "Status=Youth Fleet,Weekend=Y",
       "Sort": "Speed (kts)=DSC",
       "Period": "Event"
     },
     {
       "Title": "Fastest Masters",
-      "Fields": "Name,Nation,Sail Number,Craft Type,Status,Course,Time,Speed (kts)",
+      "Fields": "Name,Nation,Sail Number,Craft Type,Status,Course,Finish Time,Speed (kts)",
       "Comment": "(age 45+)",
       "Filter": "Master=Y"
     }

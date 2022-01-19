@@ -7,33 +7,33 @@
     {
       "Suptitle": "Overall Rankings by Craft Type",
       "Period": "Event",
-      "HideFields": "Course,Time"
+      "HideFields": "Course,Finish Time"
     }
   ],
   "Profile": true,
   "Reports": [
     {
       "Title": "All Craft",
-      "Fields": "Name,Nation,Sail Number,Craft Type,Status,Course,Time,Speed (kts)"
+      "Fields": "Name,Nation,Sail Number,Craft Type,Status,Course,Finish Time,Speed (kts)"
     },
     {
       "Title": "All Boats",
-      "Fields": "Name,Nation,Sail Number,Boat Name,Course,Time,Speed (kts)",
+      "Fields": "Name,Nation,Sail Number,Boat Name,Course,Finish Time,Speed (kts)",
       "Filter": "Craft Type=Boat"
     },
     {
       "Title": "All Kiteboards",
-      "Fields": "Name,Nation,Sail Number,Status,Course,Time,Speed (kts)",
+      "Fields": "Name,Nation,Sail Number,Status,Course,Finish Time,Speed (kts)",
       "Filter": "Craft Type=Kiteboard"
     },
     {
       "Title": "All Sailboards",
-      "Fields": "Name,Nation,Sail Number,Status,Course,Time,Speed (kts)",
+      "Fields": "Name,Nation,Sail Number,Status,Course,Finish Time,Speed (kts)",
       "Filter": "Craft Type=Sailboard"
     },
     {
       "Title": "All Craft TBCs",
-      "Fields": "Name,Nation,Sail Number,Craft Type,Status,Course,Time,Speed (kts)",
+      "Fields": "Name,Nation,Sail Number,Craft Type,Status,Course,Finish Time,Speed (kts)",
       "Filter": "Craft Type=TBC"
     }
   ]
