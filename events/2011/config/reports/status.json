@@ -62,7 +62,7 @@
     },
     {
       "Title": "All Youth Sailboards",
-      "Comment": "(age <17 on the first day of speed week, weekend results only)",
+      "Comment": "(age <17 on the first day of speed week)",
       "Fields": "Name,Nation,Course,Start Time,Speed (kts)",
       "Filter": "Craft Type=Sailboard,Status=Youth Fleet,Weekend=Y",
       "Sort": "Speed (kts)=DSC",

@@ -72,7 +72,7 @@
     },
     {
       "Title": "Fastest Youths",
-      "Comment": "(age <17 on the first day of speed week, weekend results only)",
+      "Comment": "(age <17 on the first day of speed week)",
       "Fields": "Name,Nation,Sail Number,Craft Type,Course,Time,Speed (kts)",
       "Filter": "Status=Youth Fleet,Weekend=Y",
       "Sort": "Speed (kts)=DSC",

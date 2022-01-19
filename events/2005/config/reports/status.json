@@ -19,7 +19,7 @@
     },
     {
       "Title": "Top Youths",
-      "Comment": "(age <17 on the first day of speed week, weekend results only)",
+      "Comment": "(age <17 on the first day of speed week)",
       "Filter": "Status=Youth Fleet,Weekend=Y",
       "Sort": "Speed (kts)=DSC",
       "Period": "Event"
