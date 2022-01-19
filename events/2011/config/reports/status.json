@@ -49,9 +49,9 @@
     },
     {
       "Title": "All Lady Sailboards",
-      "Comment": "(excluding professionals)",
+      "Comment": "(excluding pros and youths)",
       "Fields": "Name,Nation,Status,Course,Start Time,Speed (kts)",
-      "Filter": "Craft Type=Sailboard,Gender=F,Status<>Pro Fleet"
+      "Filter": "Craft Type=Sailboard,Gender=F,Status<>Pro Fleet,Status<>Youth Fleet"
     },
     {
       "Title": "All Youth Sailboards",
