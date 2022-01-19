@@ -2,6 +2,5 @@
   "Default": {
     "Start Time": "09:00",
     "End Time": "18:00"
-  },
-  "Overlap": true
+  }
 }
