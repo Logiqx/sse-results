@@ -95,7 +95,7 @@
     },
     {
       "Title": "Fastest Lady Sailboards",
-      "Comment": "(excluding professionals and youths)",
+      "Comment": "(excluding pros and youths)",
       "Fields": "Name,Nation,Status,First Timer,Course,Start Time,Speed (kts)",
       "Filter": "Craft Type=Sailboard,Gender=F,Status<>Pro Fleet,Status<>Youth Fleet"
     },
