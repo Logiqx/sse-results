@@ -4,6 +4,14 @@
     "Venue": "Portland Harbour, Dorset, UK",
     "Banner": "wswlogo.png"
   },
+  "History": {
+    "Refresh": true,
+    "Verbosity": 1
+  },
+  "Latest": {
+    "Refresh": true,
+    "Verbosity": 1
+  },
   "Links": {
     "AYRS": {
       "Name": "The Amateur Yacht Research Society",
