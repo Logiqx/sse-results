@@ -28,6 +28,18 @@ table {
   margin-bottom: 40px;
 }
 
+table th, table td {
+  padding: 2px 4px;
+  border: 1px solid #dfe2e5;
+}
+
+/* Mobile phones in portrait */
+@media screen and (max-width: 428px) {
+  table th, table td {
+    padding: 1px 2px;
+  }
+}
+
 /* iPhone 12 Pro (390 x 844)
    Google Pixel 5 (393 x 851)
    Samsung Galaxy A51/71 (412 x 914)
@@ -76,61 +88,93 @@ table {
   }
 }
 
-
 table th {
   font-weight: 600;
-}
-
-table th, table td {
-  padding: 2px 4px;
-  border: 1px solid #dfe2e5;
 }
 
 table tr:nth-child(even) {
   background-color: #f6f8fa;
 }
 
+/* Name */
 table.entrants tr td:first-child {
   text-align: left;
 }
+/* Nation */
+table.entrants tr td:nth-child(2) {
+  white-space: nowrap;
+}
 
+/* Name */
 table.fastest tr td:nth-child(2),
 table.craft tr td:nth-child(2),
 table.status tr td:nth-child(2) {
   text-align: left;
 }
+/* Nation */
+table.fastest tr td:nth-child(3),
+table.craft tr td:nth-child(3),
+table.status tr td:nth-child(3) {
+  white-space: nowrap;
+}
 table.fastest tr td:last-child,
 table.craft tr td:last-child,
+/* Speed */
 table.status tr td:last-child {
   text-align: right;
 }
 
+/* Name */
 table.verification tr td:nth-child(2) {
   text-align: left;
 }
+/* Nation */
+table.verification tr td:nth-child(3) {
+  white-space: nowrap;
+}
+/* Speed */
 table.verification tr td:nth-last-child(2) {
   text-align: right;
 }
+/* Other Run Speeds */
 table.verification tr td:last-child {
   text-align: left;
 }
 
-table.runs:first-of-type tr td:first-child {
+/* Name (first table, sorted by name) */
+table.runs:first-of-type tr td:nth-child(1) {
   text-align: left;
 }
+/* Nation (first table, sorted by name) */
+table.runs:first-of-type tr td:nth-child(2) {
+  white-space: nowrap;
+}
+/* Name (second table, sorted by course) */
 table.runs:nth-of-type(2) tr td:nth-child(3) {
   text-align: left;
 }
+/* Nation (second table, sorted by course) */
+table.runs:nth-of-type(2) tr td:nth-child(4) {
+  white-space: nowrap;
+}
+/* Speed */
 table.runs tr td:last-child {
   text-align: right;
 }
 
+/* Name */
 table.group tr td:nth-child(2) {
   text-align: left;
 }
+/* Nation */
+table.group tr td:nth-child(3) {
+  white-space: nowrap;
+}
+/* Grouping */
 table.group:first-of-type tr td:nth-child(4) {
   text-align: left;
 }
+/* Speed */
 table.group tr td:last-child {
   text-align: right;
 }
