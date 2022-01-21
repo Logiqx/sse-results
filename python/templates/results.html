@@ -14,7 +14,7 @@
       {% for comment in report.prizes[className] %}
       <p>{{ comment|safe }}</p>
       {% endfor %}
-      <table>
+      <table class="{{ report.tableClass }}">
         <tr>
         {% for field in report.fields %}
           <th>{{ field }}</th>
