@@ -32,7 +32,7 @@
       "Filter": "Craft Type=Sailboard"
     },
     {
-      "Title": "Fastest TBCs",
+      "Title": "Fastest Craft TBCs",
       "Filter": "Craft Type=TBC",
       "Warning": true
     }
