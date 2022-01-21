@@ -49,13 +49,13 @@ table th, table td {
    iPhone 12 Pro Max (428 x 926) */
 @media screen and (max-width: 428px) {
   body {
-    font-size: 14px;
+    font-size: 13px;
   }
   p {
-    font-size: 12px;
+    font-size: 11px;
   }
   table {
-    font-size: 13px;
+    font-size: 12px;
   }
 }
 
