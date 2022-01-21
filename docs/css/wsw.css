@@ -1,6 +1,6 @@
 body {
   font-family: -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
-  font-size: 15px;
+  font-size: 14px;
   line-height: 1.5;
   text-align: center;
   word-wrap: break-word;
@@ -27,6 +27,31 @@ table {
   margin-right: auto;
   margin-bottom: 30px;
 }
+
+@media screen and (max-width: 414px) {
+  body {
+    font-size: 12px;
+  }
+  p {
+    font-size: 11px;
+  }
+  table {
+    font-size: 12px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  body {
+    font-size: 10px;
+  }
+  p {
+    font-size: 9px;
+  }
+  table {
+    font-size: 10px;
+  }
+}
+
 
 table th {
   font-weight: 600;
