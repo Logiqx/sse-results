@@ -1,5 +1,6 @@
 {% extends "wsw.html" %}
 {% block content %}
+      <img src="{{ banner['src'] }}" alt="{{ banner['alt'] }}" width="{{ banner['width'] }}" height="{{ banner['height'] }}" />
       <h1>{{ eventName }}</h1>
       <h2>{{ pageTitle|replace('{Date}', periodDate) }}</h2>
       {% if pageComment is not none %}
