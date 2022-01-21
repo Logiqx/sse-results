@@ -1,6 +1,6 @@
 body {
   font-family: -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
-  font-size: 14px;
+  font-size: 15px;
   line-height: 1.5;
   text-align: center;
   word-wrap: break-word;
@@ -28,21 +28,36 @@ table {
   margin-bottom: 40px;
 }
 
+/* iPhone XR (414 x 896) + Samsung Galaxy A51/71 + S20 Ultra (412 x 914) */
 @media screen and (max-width: 414px) {
+  body {
+    font-size: 14px;
+  }
+  p {
+    font-size: 12px;
+  }
+  table {
+    font-size: 13px;
+  }
+}
+
+/* iPhone SE (375 x 667) + Galaxy S8+ (360 x 740) + Pixel 5 (393 x 851)  */
+@media screen and (max-width: 400px) {
   body {
     font-size: 12px;
   }
   p {
-    font-size: 11px;
+    font-size: 10px;
   }
   table {
-    font-size: 12px;
+    font-size: 11px;
   }
 }
 
-@media screen and (max-width: 320px) {
+/* Galaxy Fold (280 x 653) + Samsung Galaxy S7 (360 x 240) */
+@media screen and (max-width: 360px) {
   body {
-    font-size: 10px;
+    font-size: 11px;
   }
   p {
     font-size: 9px;
