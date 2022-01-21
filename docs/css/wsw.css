@@ -2,6 +2,7 @@ body {
   font-family: -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
   font-size: 15px;
   line-height: 1.5;
+  text-align: center;
   word-wrap: break-word;
 }
 
@@ -9,9 +10,15 @@ h1, h2, h3, h4 {
   font-weight: 600;
 }
 
+p {
+  font-size: 13px;
+}
+
 table {
   font-size: 14px;
   border-collapse: collapse;
+  margin-left: auto;
+  margin-right: auto;
   margin-bottom: 30px;
 }
 
@@ -22,10 +29,48 @@ table th {
 table th, table td {
   padding: 2px 4px;
   border: 1px solid #dfe2e5;
+  white-space: nowrap;
 }
 
 table tr:nth-child(even) {
   background-color: #f6f8fa;
+}
+
+table.entrants tr td:first-child {
+  text-align: left;
+}
+
+table.verification tr td:nth-child(2) {
+  text-align: left;
+}
+table.verification tr td:nth-last-child(2) {
+  text-align: right;
+}
+table.verification tr td:last-child {
+  text-align: left;
+}
+
+table.runs tr td:first-child {
+  text-align: left;
+}
+table.runs tr td:nth-child(3) {
+  text-align: left;
+}
+table.runs tr td:last-child {
+  text-align: right;
+}
+
+table.fastest tr td:nth-child(2),
+table.craft tr td:nth-child(2),
+table.status tr td:nth-child(2),
+table.group tr td:nth-child(2) {
+  text-align: left;
+}
+table.fastest tr td:last-child,
+table.craft tr td:last-child,
+table.status tr td:last-child,
+table.group tr td:last-child {
+  text-align: right;
 }
 
 a:link {
