@@ -6,6 +6,12 @@ body {
   word-wrap: break-word;
 }
 
+img {
+  width: auto;
+  height: auto;
+  max-width: 100%;
+}
+
 h1, h2, h3, h4 {
   font-weight: 600;
 }
@@ -29,7 +35,6 @@ table th {
 table th, table td {
   padding: 2px 4px;
   border: 1px solid #dfe2e5;
-  white-space: nowrap;
 }
 
 table tr:nth-child(even) {
