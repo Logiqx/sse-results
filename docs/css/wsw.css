@@ -40,6 +40,17 @@ table.entrants tr td:first-child {
   text-align: left;
 }
 
+table.fastest tr td:nth-child(2),
+table.craft tr td:nth-child(2),
+table.status tr td:nth-child(2) {
+  text-align: left;
+}
+table.fastest tr td:last-child,
+table.craft tr td:last-child,
+table.status tr td:last-child {
+  text-align: right;
+}
+
 table.verification tr td:nth-child(2) {
   text-align: left;
 }
@@ -50,25 +61,22 @@ table.verification tr td:last-child {
   text-align: left;
 }
 
-table.runs tr td:first-child {
+table.runs:first-of-type tr td:first-child {
   text-align: left;
 }
-table.runs tr td:nth-child(3) {
+table.runs:nth-of-type(2) tr td:nth-child(3) {
   text-align: left;
 }
 table.runs tr td:last-child {
   text-align: right;
 }
 
-table.fastest tr td:nth-child(2),
-table.craft tr td:nth-child(2),
-table.status tr td:nth-child(2),
 table.group tr td:nth-child(2) {
   text-align: left;
 }
-table.fastest tr td:last-child,
-table.craft tr td:last-child,
-table.status tr td:last-child,
+table.group:first-of-type tr td:nth-child(4) {
+  text-align: left;
+}
 table.group tr td:last-child {
   text-align: right;
 }
