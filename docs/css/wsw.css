@@ -10,6 +10,7 @@ h1, h2, h3, h4 {
 }
 
 table {
+  font-size: 14px;
   border-collapse: collapse;
   margin-bottom: 30px;
 }
@@ -21,4 +22,17 @@ table th {
 table th, table td {
   padding: 2px 4px;
   border: 1px solid #dfe2e5;
+}
+
+table tr:nth-child(even) {
+  background-color: #f6f8fa;
+}
+
+a:link {
+  text-decoration: none;
+  color: #e64503;
+}
+
+a:visited {
+  color: #e64503;
 }
