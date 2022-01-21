@@ -15,37 +15,37 @@
     {
       "Title": "HM Forces",
       "Filter": "Grouping=Forces - %",
-      "Fields": "Name,Grouping,Craft Type,Status,First Timer,Course,Start Time,Speed (kts)"
+      "Fields": "Name,Nation,Grouping,Craft Type,Status,First Timer,Course,Start Time,Speed (kts)"
     },
     {
       "Title": "Portland Pirates",
       "Filter": "Grouping=Portland Pirates",
-      "Fields": "Name,Craft Type,Status,First Timer,Course,Start Time,Speed (kts)"
+      "Fields": "Name,Nation,Craft Type,Status,First Timer,Course,Start Time,Speed (kts)"
     },
     {
       "Title": "Surf Hogs",
       "Filter": "Grouping=Surf Hogs",
-      "Fields": "Name,Craft Type,Status,First Timer,Course,Start Time,Speed (kts)"
+      "Fields": "Name,Nation,Craft Type,Status,First Timer,Course,Start Time,Speed (kts)"
     },
     {
       "Title": "Hamworthy Heroes",
       "Filter": "Grouping=Hamworthy Heroes",
-      "Fields": "Name,Craft Type,Status,First Timer,Course,Start Time,Speed (kts)"
+      "Fields": "Name,Nation,Craft Type,Status,First Timer,Course,Start Time,Speed (kts)"
     },
     {
       "Title": "TWB",
       "Filter": "Grouping=Twb",
-      "Fields": "Name,Craft Type,Status,First Timer,Course,Start Time,Speed (kts)"
+      "Fields": "Name,Nation,Craft Type,Status,First Timer,Course,Start Time,Speed (kts)"
     },
     {
       "Title": "Team QSW",
       "Filter": "Grouping=Qsw",
-      "Fields": "Name,Craft Type,Status,First Timer,Course,Start Time,Speed (kts)"
+      "Fields": "Name,Nation,Craft Type,Status,First Timer,Course,Start Time,Speed (kts)"
     },
     {
       "Title": "Pitsford",
       "Filter": "Grouping=Pitsford",
-      "Fields": "Name,Craft Type,Status,First Timer,Course,Start Time,Speed (kts)"
+      "Fields": "Name,Nation,Craft Type,Status,First Timer,Course,Start Time,Speed (kts)"
     }
   ]
 }
