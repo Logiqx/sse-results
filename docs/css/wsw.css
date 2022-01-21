@@ -28,7 +28,7 @@ table {
   margin-bottom: 40px;
 }
 
-/* iPhone XR (414 x 896) + Samsung Galaxy A51/71 + S20 Ultra (412 x 914) */
+/* Samsung Galaxy A51/71 + S20 Ultra (412 x 914) + iPhone XR (414 x 896) */
 @media screen and (max-width: 414px) {
   body {
     font-size: 14px;
@@ -41,7 +41,7 @@ table {
   }
 }
 
-/* iPhone SE (375 x 667) + Galaxy S8+ (360 x 740) + Pixel 5 (393 x 851)  */
+/* Samsung Galaxy S7 (360 x 640) + Galaxy S8+ (360 x 740) + Pixel 5 (393 x 851) + iPhone SE (375 x 667) */
 @media screen and (max-width: 400px) {
   body {
     font-size: 12px;
@@ -54,8 +54,8 @@ table {
   }
 }
 
-/* Galaxy Fold (280 x 653) + Samsung Galaxy S7 (360 x 240) */
-@media screen and (max-width: 360px) {
+/* Galaxy Fold (280 x 653)  */
+@media screen and (max-width: 320px) {
   body {
     font-size: 11px;
   }
