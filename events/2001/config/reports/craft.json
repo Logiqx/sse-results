@@ -58,13 +58,13 @@
       "Sort": "Speed (kts)=DSC,Time=ASC"
     },
     {
-      "Title": "All TBCs - 200m",
+      "Title": "All Craft TBCs - 200m",
       "Filter": "Craft Type=TBC,Distance (m)=200",
       "Sort": "Speed (kts)=DSC,Time=ASC",
       "Warning": true
     },
     {
-      "Title": "All TBCs - 500m",
+      "Title": "All Craft TBCs - 500m",
       "Filter": "Craft Type=TBC,Distance (m)=500",
       "Sort": "Speed (kts)=DSC,Time=ASC",
       "Warning": true

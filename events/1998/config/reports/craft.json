@@ -34,7 +34,7 @@
       "Filter": "Craft Type=Sailboard"
     },
     {
-      "Title": "All TBCs",
+      "Title": "All Craft TBCs",
       "Filter": "Craft Type=TBC"
     }
   ]

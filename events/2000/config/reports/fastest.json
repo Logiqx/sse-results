@@ -83,17 +83,17 @@
       "Sort": "Speed (kts)=DSC,Time=ASC"
     },
     {
-      "Title": "Fastest TBCs - 300m",
+      "Title": "Fastest Craft TBCs - 300m",
       "Filter": "Craft Type=TBC,Distance (m)=300",
       "Sort": "Speed (kts)=DSC,Time=ASC"
     },
     {
-      "Title": "Fastest TBCs - 500m",
+      "Title": "Fastest Craft TBCs - 500m",
       "Filter": "Craft Type=TBC,Distance (m)=500",
       "Sort": "Speed (kts)=DSC,Time=ASC"
     },
     {
-      "Title": "Fastest TBCs - 700m",
+      "Title": "Fastest Craft TBCs - 700m",
       "Filter": "Craft Type=TBC,Distance (m)=700",
       "Sort": "Speed (kts)=DSC,Time=ASC"
     }
