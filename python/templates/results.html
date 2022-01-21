@@ -23,7 +23,7 @@
         {% for result in report.results %}
         <tr>
           {% for value in result %}
-          <td>{{ value }}</td>
+          <td>{{ value|safe }}</td>
           {% endfor %}
         </tr>
         {% endfor %}
