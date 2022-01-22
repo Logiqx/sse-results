@@ -9,5 +9,12 @@
       {% for file in files %}
       <h4><a href="{{ file.href }}">{{ file.text|replace(' - {Date}', '') }}</a></h4>
       {% endfor %}
-      <p></p>
+      {% if subDirs|length > 0 %}
+      <p><br/></p>
+      <h2>Session Reports</h2>
+      {% for subDir in subDirs %}
+      <h4><a href="{{ subDir.href }}">{{ subDir.text|replace(' - {Date}', '') }}</a></h4>
+      {% endfor %}
+      {% endif %}
+      <p><br/></p>
 {% endblock %}
