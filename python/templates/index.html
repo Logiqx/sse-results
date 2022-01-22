@@ -2,6 +2,7 @@
 {% block content %}
       <img src="{{ banner['src'] }}" alt="{{ banner['alt'] }}" width="{{ banner['width'] }}" height="{{ banner['height'] }}" />
       <h1>{{ eventName }}</h1>
+      {% if files|length > 0 %}
       <h2>{{ pageTitle|replace('{Date}', periodDate) }}</h2>
       {% if pageComment is not none %}
       <p>{{ pageComment|safe }}</p>
@@ -9,12 +10,13 @@
       {% for file in files %}
       <h4><a href="{{ file.href }}">{{ file.text|replace(' - {Date}', '') }}</a></h4>
       {% endfor %}
-      {% if subDirs|length > 0 %}
       <p><br/></p>
-      <h2>Session Reports</h2>
+      {% endif %}
+      {% if subDirs|length > 0 %}
+      <h2>{{ subDirTitle }}</h2>
       {% for subDir in subDirs %}
       <h4><a href="{{ subDir.href }}">{{ subDir.text|replace(' - {Date}', '') }}</a></h4>
       {% endfor %}
-      {% endif %}
       <p><br/></p>
+      {% endif %}
 {% endblock %}
