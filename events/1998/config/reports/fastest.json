@@ -20,23 +20,32 @@
     },
     {
       "Title": "Fastest Known Boats",
-      "Comment": "Note: Potentially inaccurate due to unknown craft (see below).",
       "Filter": "Craft Type=Boat",
-      "Fields": "Name,Nation,Sail Number,Boat Name,Time,Speed (kts)"
+      "Fields": "Name,Nation,Sail Number,Boat Name,Time,Speed (kts)",
+      "Period": "Event"
     },
     {
-      "Title": "Fastest Known Kiteboards",
-      "Comment": "Note: Potentially inaccurate due to unknown craft (see below).",
-      "Filter": "Craft Type=Kiteboard"
+      "Title": "Fastest Known Boats",
+      "Comment": "Note: Potentially inaccurate due to unknown craft.",
+      "Filter": "Craft Type=Boat",
+      "Fields": "Name,Nation,Sail Number,Boat Name,Time,Speed (kts)",
+      "Period": "Session"
+    },
+    {
+      "Title": "Fastest Sailboards",
+      "Filter": "Craft Type=Sailboard",
+      "Period": "Event"
     },
     {
       "Title": "Fastest Known Sailboards",
-      "Comment": "Note: Potentially inaccurate due to unknown craft (see below).",
-      "Filter": "Craft Type=Sailboard"
+      "Comment": "Note: Potentially inaccurate due to unknown craft.",
+      "Filter": "Craft Type=Sailboard",
+      "Period": "Session"
     },
     {
       "Title": "Fastest Craft TBCs",
-      "Filter": "Craft Type=TBC"
+      "Filter": "Craft Type=TBC",
+      "Period": "Session"
     }
   ]
 }
