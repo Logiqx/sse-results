@@ -15,7 +15,8 @@
       {% if subDirs|length > 0 %}
       <h2>{{ subDirTitle }}</h2>
       {% for subDir in subDirs %}
-      <h3><a href="{{ subDir.href }}">{{ subDir.label }}</a> - {{ subDir.fastest }}</h3>
+      <h3><a href="{{ subDir.href }}">{{ subDir.label }}</a></h3>
+      <p class="big">{{ subDir.fastest }}<br/>{{ subDir.speed }} knots</p>
       {% endfor %}
       <p><br/></p>
       {% endif %}
