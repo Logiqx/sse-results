@@ -20,6 +20,10 @@ p {
   font-size: 13px;
 }
 
+p.big {
+  font-size: 15px;
+}
+
 table {
   font-size: 14px;
   border-collapse: collapse;
