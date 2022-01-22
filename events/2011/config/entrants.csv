@@ -76,7 +76,7 @@ ID,Entry Date,Title,Male/Female,First Name,Family Name,Country,Status,Craft Type
 31,22/08/2011 15:10,Mr,M,Sebastian,Round,England,Amateur,Sailboard,,Y,GBR223SROUND,,,Youth Weekend,Y,,,Yes,,N,N
 128,10/01/2011,Mr,M,Mark,Matthews,England,Amateur,Sailboard,,Y,GBR 262,,,2 Days,,,,Yes,,N,N
 59,24/08/2011 16:10,Mr,M,David,Garrel,Luxembourg,Professional,Sailboard,FANATIC  NORTH   ION   QUAI34 NARBONNE,Y,GARREL,,,All Week,,Y,,No,,N,N
-111,25/09/2011 17:33,Mr,M,Alan,Blundell,England,Amateur,Boat,"Swifti. 2 hulls, forward steering, asymmetric outrigger port or starboard. Canted sail.",Y,wsw 11,,,All Week,,,,No,,Y,N
+111,25/09/2011 17:33,Mr,M,Alan,Blundell,England,Amateur,Boat,"Swifti. 2 hulls, forward steering, asymmetric outrigger port or starboard. Canted sail.",Y,wsw 11,,,All Week,,,Vari Swifti,No,,Y,N
 119,27/09/2011 14:02,Mr,M,Robert,Freeland,England,Amateur,Sailboard,Starboard iSonic 101 and / or RRD FSW ,Y,freeland,,,2 Days,,,,Yes,,N,Y
 99,17/09/2011 15:45,Mr,M,Emile,Burnaby Lautier,Netherlands,Amateur,Sailboard,25 th generation flexcat. this time an a-symetric catamaran.,Y,emile,,,All Week,,,,Yes,,N,N
 101,19/09/2011 08:26,Mr,M,Thorsten,Niehaus,Germany,Professional,Sailboard,"Windsurf.  Sponsors: Surf-Forum.com, Patrik, Sailloft Hamburg, Bocanegra Fins, Windcraft-Sports",Y,E15 T NIEHAUS,,,All Week,,,,Yes,,N,N
@@ -116,7 +116,7 @@ ID,Entry Date,Title,Male/Female,First Name,Family Name,Country,Status,Craft Type
 153,15/10/2011,Mr,M,Michael,Barton,England,Amateur,Boat,,Y,wsw 12,,,All Week,,,,Yes,,Y,N
 2,20/08/2011 11:52,Mr,M,Nicholas,Dodd,England,Gold Fleet,Sailboard,,Y,292NICDODD,Forces - Royal Navy,,All Week,Y,,,Yes,,N,N
 22,21/08/2011 16:37,Mr,M,Gavin,Nicholson,England,Gold Fleet,Sailboard,,Y,210 Nicholson,Forces - Royal Navy,,All Week,Y,,,No,,N,N
-163,16/10/2011,Ms,F,Katherine,Knight,England,Gold Fleet,Boat,Moth,Y,WSWA10,,,2 Days,,,,Yes,,N,N
+163,16/10/2011,Ms,F,Katherine,Knight,England,Gold Fleet,Boat,Moth,Y,WSWA10,,,2 Days,,,Moth,Yes,,N,N
 44,24/08/2011 05:35,Mr,M,Martin,Allman,England,Amateur,Sailboard,,Y,206mallman,,,All Week,Y,,,Yes,,Y,N
 138,10/07/2011,Mr,M,Peter,Martin,England,Gold Fleet,Sailboard,Starboard isonic boards and Neil Pryde RS Slalom sails,Y,181PETEMARTIN,,,All Week,,,,No,,Y,N
 122,29/09/2011 02:19,Mr,M,Robin,Penna,England,Gold Fleet,Sailboard,Windsurfing,Y,175 RP,,,All Week,,,,Yes,,Y,N
