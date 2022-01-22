@@ -36,7 +36,8 @@
     {
       "Title": "Fastest Craft TBCs",
       "Fields": "Name,Nation,Sail Number,Craft Type,Status,Course,Finish Time,Speed (kts)",
-      "Filter": "Craft Type=TBC"
+      "Filter": "Craft Type=TBC",
+      "Period": "Session"
     },
     {
       "Title": "Fastest Pros",

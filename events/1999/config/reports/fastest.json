@@ -33,7 +33,8 @@
     },
     {
       "Title": "Fastest Craft TBCs",
-      "Filter": "Craft Type=TBC"
+      "Filter": "Craft Type=TBC",
+      "Period": "Session"
     }
   ]
 }
