@@ -58,6 +58,11 @@ table th, table td {
     font-size: 12px;
   }
 }
+@media screen and (max-width: 926px) {
+  table.verification {
+    font-size: 13px;
+  }
+}
 
 /* Samsung Galaxy S7/S7 Edge (360 x 640)
    Samsung Galaxy S8/8+/9/9+ (360 x 740)
@@ -74,6 +79,11 @@ table th, table td {
     font-size: 11px;
   }
 }
+@media screen and (max-width: 812px) {
+  table.verification {
+    font-size: 12px;
+  }
+}
 
 /* Galaxy Fold (280 x 653)  */
 @media screen and (max-width: 320px) {
@@ -85,6 +95,11 @@ table th, table td {
   }
   table {
     font-size: 10px;
+  }
+}
+@media screen and (max-width: 653px) {
+  table.verification {
+    font-size: 11px;
   }
 }
 
@@ -102,6 +117,7 @@ table.entrants tr td:first-child {
 }
 /* Nation */
 table.entrants tr td:nth-child(2) {
+  text-align: left;
   white-space: nowrap;
 }
 
@@ -115,6 +131,7 @@ table.status tr td:nth-child(2) {
 table.fastest tr td:nth-child(3),
 table.craft tr td:nth-child(3),
 table.status tr td:nth-child(3) {
+  text-align: left;
   white-space: nowrap;
 }
 table.fastest tr td:last-child,
@@ -130,6 +147,7 @@ table.verification tr td:nth-child(2) {
 }
 /* Nation */
 table.verification tr td:nth-child(3) {
+  text-align: left;
   white-space: nowrap;
 }
 /* Speed */
@@ -147,6 +165,7 @@ table.runs:first-of-type tr td:nth-child(1) {
 }
 /* Nation (first table, sorted by name) */
 table.runs:first-of-type tr td:nth-child(2) {
+  text-align: left;
   white-space: nowrap;
 }
 /* Name (second table, sorted by course) */
@@ -155,6 +174,7 @@ table.runs:nth-of-type(2) tr td:nth-child(3) {
 }
 /* Nation (second table, sorted by course) */
 table.runs:nth-of-type(2) tr td:nth-child(4) {
+  text-align: left;
   white-space: nowrap;
 }
 /* Speed */
@@ -168,6 +188,7 @@ table.group tr td:nth-child(2) {
 }
 /* Nation */
 table.group tr td:nth-child(3) {
+  text-align: left;
   white-space: nowrap;
 }
 /* Grouping */
