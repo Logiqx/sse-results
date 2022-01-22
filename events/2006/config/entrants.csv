@@ -87,7 +87,7 @@ ID,Title,First Name,Family Name,Nationality,Age Status,Craft Type,Boat Name,Craf
 91,,George,Dadd,England,Neither,Boat,Kite-powered Catamaran,Kite powered craft made from two windsurf boards strapped together.,No,,,600,Amateur,,N
 92,,Tony,Morris,England,Neither,Sailboard,,"F2, Fanatic, North sails, ",Yes,604 Distribution & Autogaspower,,604,Pro Fleet,,N
 94,,Sam,Latham,UK,Junior,Sailboard,,Fanatic Falcon 91l Fanatic Falcon 105l Neilpryde RS4 5.8,No,,,GBR 9621/621,Youth Fleet,,N
-95,,James,Paine,UK,Neither,Sailboard,,,No,,,17,Amateur,,N
+95,,James,Paine,UK,Neither,Sailboard,,,No,,,17/93,Amateur,,N
 96,,Norman,Betts,England,Master,Sailboard,,"Starboard Isonic 133, S type 115, Kombat 96, F2 261 Tushingham Lightnings 9.4, 8.5, 7.8, 7.0, X15 6.4, Tomohawk 6.0, 5.6. ",No,,,151,Amateur,,Y
 97,,Ed,Strange,UNITED KINGDOM,Junior,Sailboard,,windsurfer,No,"Boadwise,Cannock ",,983,Youth Fleet,,N
 98,,Robin,Penna,England,Master,Sailboard,,Windsurfer,No,,,75,Amateur,,Y
@@ -143,4 +143,3 @@ ID,Title,First Name,Family Name,Nationality,Age Status,Craft Type,Boat Name,Craf
 149,,Stacey,Vass,uk,Neither,Sailboard,,,Yes,"surfsales, slingshot. ",www.surf-sales.com,47,Pro Fleet,,N
 150,,Richard,Trubger,UK,Master,Sailboard,,Trudesigns custom,No,,,124,Amateur,,Y
 151,,Graeme,Fuller,UK,Master,Sailboard,,"Sail & or Kite Board, wind dependant. ",No,,,58,Amateur,,Y
-152,,James,Paine,UK,,,,,,,,93,,,
