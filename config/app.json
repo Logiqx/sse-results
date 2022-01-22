@@ -93,9 +93,9 @@
     "craft": 2,
     "status": 3,
     "group": 4,
-    "runs": 5,
-    "verification": 6,
-    "entrants": 7
+    "bests": 5,
+    "runs": 20,
+    "entrants": 20
   },
   "Series": {
     "ISWC": {

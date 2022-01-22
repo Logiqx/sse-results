@@ -59,7 +59,7 @@ table th, table td {
   }
 }
 @media screen and (max-width: 926px) {
-  table.verification {
+  table.bests {
     font-size: 13px;
   }
 }
@@ -80,7 +80,7 @@ table th, table td {
   }
 }
 @media screen and (max-width: 812px) {
-  table.verification {
+  table.bests {
     font-size: 12px;
   }
 }
@@ -98,7 +98,7 @@ table th, table td {
   }
 }
 @media screen and (max-width: 653px) {
-  table.verification {
+  table.bests {
     font-size: 11px;
   }
 }
@@ -142,20 +142,20 @@ table.status tr td:last-child {
 }
 
 /* Name */
-table.verification tr td:nth-child(2) {
+table.bests tr td:nth-child(2) {
   text-align: left;
 }
 /* Nation */
-table.verification tr td:nth-child(3) {
+table.bests tr td:nth-child(3) {
   text-align: left;
   white-space: nowrap;
 }
 /* Speed */
-table.verification tr td:nth-last-child(2) {
+table.bests tr td:nth-last-child(2) {
   text-align: right;
 }
 /* Other Run Speeds */
-table.verification tr td:last-child {
+table.bests tr td:last-child {
   text-align: left;
 }
 

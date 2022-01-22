@@ -1,5 +1,5 @@
 {
-  "Suptitle": "Verification Report - {Date}",
+  "Suptitle": "Best Runs of the Day - {Date}",
   "Fields": "Name,Nation,Sail Number,Craft Type,Speed (kts),Other Run Speeds (kts)",
   "ShowSpeeds": 10,
   "Reports": [
