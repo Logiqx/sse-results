@@ -19,7 +19,7 @@
       "Limit": 10
     },
     {
-      "Title": "Fastest Known Boats",
+      "Title": "Fastest Boats",
       "Filter": "Craft Type=Boat",
       "Fields": "Name,Nation,Sail Number,Boat Name,Time,Speed (kts)",
       "Period": "Event"
