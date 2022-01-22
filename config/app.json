@@ -88,6 +88,15 @@
       "?"
     ]
   },
+  "Priorities": {
+    "fastest": 1,
+    "craft": 2,
+    "status": 3,
+    "group": 4,
+    "runs": 5,
+    "verification": 6,
+    "entrants": 7
+  },
   "Series": {
     "ISWC": {
       "Name": "ISWC Speed Championship",
