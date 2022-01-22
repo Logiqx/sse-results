@@ -8,14 +8,14 @@
       <p>{{ pageComment|safe }}</p>
       {% endif %}
       {% for file in files %}
-      <h4><a href="{{ file.href }}">{{ file.text|replace(' - {Date}', '') }}</a></h4>
+      <h3><a href="{{ file.href }}">{{ file.text|replace(' - {Date}', '') }}</a></h3>
       {% endfor %}
       <p><br/></p>
       {% endif %}
       {% if subDirs|length > 0 %}
       <h2>{{ subDirTitle }}</h2>
       {% for subDir in subDirs %}
-      <h4><a href="{{ subDir.href }}">{{ subDir.text|replace(' - {Date}', '') }}</a></h4>
+      <h3><a href="{{ subDir.href }}">{{ subDir.label }}</a> - {{ subDir.fastest }}</h3>
       {% endfor %}
       <p><br/></p>
       {% endif %}
