@@ -7,11 +7,6 @@
       "Title": "Sorted by Name and Time",
       "Fields": "Name,Nation,Craft Type,Course,Start Time,Speed (kts)",
       "Sort": "Name=ASC,Start Time=ASC"
-    },
-    {
-      "Title": "Sorted by Course and Time",
-      "Fields": "Course,Start Time,Name,Nation,Craft Type,Speed (kts)",
-      "Sort": "Course=ASC,Start Time=ASC"
     }
   ]
 }
