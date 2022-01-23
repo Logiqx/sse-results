@@ -15,7 +15,7 @@
   "Reports": [
     {
       "Title": "All Craft",
-      "Fields": "Name,Nation,Craft Type,Status,First Timer,Course,Start Time,Speed (kts)"
+      "Fields": "Name,Nation,Craft Type,Status,Course,Start Time,Speed (kts)"
     },
     {
       "Title": "All Boats",
