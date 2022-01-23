@@ -3,12 +3,12 @@
     {
       "Suptitle": "Day Rankings by Status - {Date}",
       "Period": "Session",
-      "HideFields": "Course"
+      "HideFields": "Sail Number,Course"
     },
     {
       "Suptitle": "Overall Rankings by Status",
       "Period": "Event",
-      "HideFields": "Course,Start Time"
+      "HideFields": "Sail Number,Course,Start Time"
     }
   ],
   "Profile": true,
