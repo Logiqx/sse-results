@@ -1,0 +1,21 @@
+{
+  "Periods": [
+    {
+      "Suptitle": "Day Rankings - {Date}",
+      "Period": "Session",
+      "HideFields": "Sail Number,Course"
+    },
+    {
+      "Suptitle": "Overall Rankings",
+      "Period": "Event",
+      "HideFields": "Sail Number,Course,Start Time"
+    }
+  ],
+  "Profile": true,
+  "Reports": [
+    {
+      "Title": "All Craft",
+      "Fields": "Name,Nation,Sail Number,Craft Type,Status,Course,Start Time,Speed (kts)"
+    }
+  ]
+}

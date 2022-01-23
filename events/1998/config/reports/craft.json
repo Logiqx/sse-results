@@ -14,10 +14,6 @@
   "Profile": true,
   "Reports": [
     {
-      "Title": "All Craft",
-      "Fields": "Name,Nation,Sail Number,Craft Type,Time,Speed (kts)"
-    },
-    {
       "Title": "All Known Boats",
       "Comment": "Note: Potentially inaccurate due to unknown craft (see below).",
       "Filter": "Craft Type=Boat",

@@ -14,10 +14,6 @@
   "Profile": true,
   "Reports": [
     {
-      "Title": "All Craft",
-      "Fields": "Name,Nation,Sail Number,Craft Type,Status,Course,Time,Speed (kts)"
-    },
-    {
       "Title": "All Boats",
       "Fields": "Name,Nation,Sail Number,Boat Name,Course,Time,Speed (kts)",
       "Filter": "Craft Type=Boat"
