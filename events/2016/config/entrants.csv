@@ -1,18 +1,18 @@
 ID,Male/Female,EnteredDateTime,Title,First Name,Family Name,Country,First Timer,Status,Craft Type,Accept Terms(Y/N),GT31 ID,GT31 SN,GT31 FW,Grouping,Nationality,requiredGT31,EntryType,UKWA Member,Boat Name,Sponsorship,RegDateTime
 302,M,30/08/2016,Mr,Nick,Povey,England,Y,Boat-Fleet,Boat,Y,Povey9Nick,932001288,V1.4(B0803T),,England,N,All Week,N,Cicley,,10/07/2016 17:28
-269,M,31/08/2016,Mr,Grant,Cottrell ,England,N,Gold-Fleet,Sailboard,Y,Cottr12Grant,932000563,V1.4(B0803T),,England,Y,All Week,N,,discount from 247 Boardsports,10/08/2016 08:44
+269,M,31/08/2016,Mr,Grant,Cottrell,England,N,Gold-Fleet,Sailboard,Y,Cottr12Grant,932000563,V1.4(B0803T),,England,Y,All Week,N,,discount from 247 Boardsports,10/08/2016 08:44
 17,M,31/08/2016,Mr,Bill,Robinson,England,N,Gold-Fleet,Sailboard,Y,Robin1Bill,103200559,V1.4(B0315C),,England,N,All Week,N,,,10/07/2016 15:05
 19,M,01/09/2016,Mr,Ian,Hill,England,N,Gold-Fleet,Sailboard,Y,Hill75Ian,932000576,V1.4(B0803T),,England,Y,All Week,N,,,10/12/2016 14:11
 89,M,02/09/2016,Mr,Jean-Marc,De Bruyne,Belgium,N,Pro-Fleet,Sailboard,Y,DeBr14Jean,932000971,V1.4(D0428T),,Belgium,N,All Week,N,F2,Gun sails - F2 - VW - optique Benoit - la tentation - Optigroup,10/07/2016 09:30
 34,M,02/09/2016,Mr,Duncan,Adam,England,N,Gold-Fleet,Sailboard,Y,,,,Portland Pirates,England,N,2-Day,Y,,,
 246,M,02/09/2016,Mr,Mark,Matthews,England,N,Gold-Fleet,Sailboard,Y,,,,Portland Pirates,England,N,All Week,Y,,,
 277,M,02/09/2016,Mr,Keith,Atkinson,England,N,Pro-Fleet,Sailboard,Y,,,,,England,N,All Week,Y,,Puravida North Windsurfing Fanatic ION F-Hot Fins Marlow Ropes Supagard,
-16,M,02/09/2016,Mr,Matthew,York,England,N,Gold-Fleet,Sailboard,Y,York55Matth,103200725,V1.4(B0315C),Pitsford,England,N,All Week,Y,,point-7 ; starboard ; rocker line clothing ;robinhood water-sports; black project fins ,10/10/2016 10:21
-3,M,02/09/2016,Mr,Anders,Bjorkqvist,Sweden,N,Pro-Fleet,Sailboard,Y,Bjork29Ander,123201482,V1.4(B0803T),,Sweden,N,All Week,N,877,Loft Sails Carbon Art Unifiber Hertz ,10/08/2016 09:44
+16,M,02/09/2016,Mr,Matthew,York,England,N,Gold-Fleet,Sailboard,Y,York55Matth,103200725,V1.4(B0315C),Pitsford,England,N,All Week,Y,,point-7 ; starboard ; rocker line clothing ;robinhood water-sports; black project fins,10/10/2016 10:21
+3,M,02/09/2016,Mr,Anders,Bjorkqvist,Sweden,N,Pro-Fleet,Sailboard,Y,Bjork29Ander,123201482,V1.4(B0803T),,Sweden,N,All Week,N,877,Loft Sails Carbon Art Unifiber Hertz,10/08/2016 09:44
 259,M,02/09/2016,Mr,John,Oliver,England,N,Gold-Fleet,Sailboard,Y,Olive19John,133200495,V1.4(B0803T),Surf Hogs,England,N,All Week,N,,,10/08/2016 09:10
 162,M,02/09/2016,Mr,Gavin,Furmenger,England,N,Gold-Fleet,Sailboard,Y,Furme34Gavin,123201109,V1.4(B0803T),Hamworthy Heroes,England,N,All Week,Y,,,10/08/2016 10:21
 304,M,03/09/2016,Mr,Russell,Clark,England,N,Boat-Fleet,Boat,Y,Clark35Russe,123201733,V1.4(B0803T),Forces - Royal Navy,England,N,All Week,Y,,,10/08/2016 10:21
-307,M,03/09/2016,Mr,Chris ,Cleland ,England,Y,Amateur,Sailboard,Y,Clela63Chris,932000538,V1.4(B0803T),,England,Y,2-Day,N,,,10/12/2016 08:59
+307,M,03/09/2016,Mr,Chris,Cleland,England,Y,Amateur,Sailboard,Y,Clela63Chris,932000538,V1.4(B0803T),,England,Y,2-Day,N,,,10/12/2016 08:59
 79,M,03/09/2016,Mr,Nick,Beaney,England,N,Pro-Fleet,Sailboard,Y,Beane64Nick,113200978,V1.4(B0315C),,England,N,2-Day,Y,,Seasprite ; K-Bay ; Chinook ;,10/12/2016 08:57
 303,M,05/09/2016,Mr,George,Fulton,England,Y,Amateur,Sailboard,Y,Fulto2Georg,143200187,V1.4(B0803T),,England,N,2-Day,Y,,,10/07/2016 16:01
 308,M,05/09/2016,Mr,Robin,Russell,England,N,Gold-Fleet,Sailboard,Y,Russe46Robin,113200238,V1.4(B0803T),Surf Hogs,England,N,All Week,N,,,10/08/2016 14:08
@@ -20,7 +20,7 @@ ID,Male/Female,EnteredDateTime,Title,First Name,Family Name,Country,First Timer,
 240,F,06/09/2016,Mrs,Tania,Mertens,Belgium,N,Amateur,Sailboard,Y,Merte7Tania,133201596,V1.4(B0803T),,Belgium,N,All Week,N,,Please enter your sponsorship details my husband,10/07/2016 17:05
 309,M,06/09/2016,Mr,Sam,Ross,England,N,Pro-Fleet,Sailboard,Y,Ross57Sam,932000584,V1.4(B0803T),,England,Y,2-Day,N,,Supported by Severne Sails UK; work as a coach and brand manager,10/11/2016 09:34
 82,M,08/09/2016,Mr,Emile,Burnaby Lautier,Netherlands,N,Kite-Fleet,Kite Board,Y,Burna42Emile,123200910,V1.4(B0803T),,Netherlands,N,All Week,N,,,10/08/2016 11:34
-310,M,10/09/2016,Mr,David,Williams,England,N,Kite-Fleet,Kite Board,Y,Willi15David,932000536,V1.4(B0803T),,England,N,All Week,N,,juice board sports Ozone kites ,10/08/2016 09:00
+310,M,10/09/2016,Mr,David,Williams,England,N,Kite-Fleet,Kite Board,Y,Willi15David,932000536,V1.4(B0803T),,England,N,All Week,N,,juice board sports Ozone kites,10/08/2016 09:00
 245,M,10/09/2016,Mr,Peter,Crosby,England,N,Amateur,Sailboard,Y,Crosb62Peter,932000540,V1.4(B0803T),Surf Hogs,England,Y,2-Day,N,,,10/12/2016 08:51
 65,M,10/09/2016,Mr,Alan,Blundell,England,N,Boat-Fleet,Boat,Y,Blund6Alan,932000571,V1.4(B0803T),,England,Y,All Week,N,Vari Swifti,,10/07/2016 16:53
 312,M,11/09/2016,Mr,Scotty,Stallman,England,N,Youth,Sailboard,Y,Stall10Scott,832001487,V1.4(B0803T),Portland Pirates,England,N,Youth Weekend,Y,,Teamrider - OTC; Severne; Starboard; F-Hot; Rockerline; 36 Knots; ION,10/08/2016 08:38
@@ -29,7 +29,7 @@ ID,Male/Female,EnteredDateTime,Title,First Name,Family Name,Country,First Timer,
 314,M,12/09/2016,Mr,Simon,Conway,England,N,Amateur,Sailboard,Y,,,,,England,Y,All Week,N,,,
 315,M,12/09/2016,Mr,James,Hardy,England,N,Amateur,Sailboard,Y,,,,,England,Y,All Week,N,,,
 156,M,13/09/2016,Mr,Matthew,Spooner,England,N,Gold-Fleet,Sailboard,Y,,,,,England,Y,All Week,Y,,,
-316,M,14/09/2016,Mr,Emile Jan ,Burnaby Lautier ,Netherlands,Y,Kite-Fleet,Kite Board,Y,Burna43Emile,123200963,V1.4(B0803T),,Netherlands,N,All Week,N,,,10/08/2016 11:35
+316,M,14/09/2016,Mr,Emile Jan,Burnaby Lautier,Netherlands,Y,Kite-Fleet,Kite Board,Y,Burna43Emile,123200963,V1.4(B0803T),,Netherlands,N,All Week,N,,,10/08/2016 11:35
 142,M,15/09/2016,Mr,Patrick,Van Hoof,Belgium,N,Pro-Fleet,Sailboard,Y,VanH8Patri,832001646,V1.4(B0803T),,Belgium,N,All Week,N,,Fanatic/North/Sonntag/Ion/Imvano,10/07/2016 17:05
 220,M,15/09/2016,Mr,Mark,Salvage,England,N,Amateur,Sailboard,Y,Salva61Mark,932000572,V1.4(B0803T),,England,Y,2-Day,Y,,,10/11/2016 14:03
 29,M,16/09/2016,Mr,Neil,Hardwick,England,N,Gold-Fleet,Sailboard,Y,Hardw4Neil,123200905,V1.4(B0803T),,England,N,All Week,N,,www.gps-speed.co.uk,10/07/2016 16:14
@@ -44,11 +44,11 @@ ID,Male/Female,EnteredDateTime,Title,First Name,Family Name,Country,First Timer,
 319,M,24/09/2016,Mr,Bob,Cartridge,England152 Lake Road,Y,Amateur,Sailboard,Y,Cartr13Bob,932000583,,,England,Y,All Week,N,,,10/08/2016 08:53
 139,M,24/09/2016,Mr,Tom,Martin,MK17 8DZ99,N,Youth,Kite Board,Y,Marti40Tom,932000576,V1.4(B0803T),,England,Y,Youth Weekend,Y,,,10/08/2016 11:27
 320,M,24/09/2016,Mr,Peter,Martin,England,N,Gold-Fleet,Sailboard,Y,Marti41Peter,932000588,V1.4(B0803T),,England,Y,All Week,Y,,,10/08/2016 11:31
-321,M,25/09/2016,Mr,Tyler ,Baker ,England,N,Youth,Sailboard,Y,Baker22Tyler,932000538,V1.4(B0803T),,England,Y,Youth Weekend,Y,,,10/08/2016 09:21
+321,M,25/09/2016,Mr,Tyler,Baker,England,N,Youth,Sailboard,Y,Baker22Tyler,932000538,V1.4(B0803T),,England,Y,Youth Weekend,Y,,,10/08/2016 09:21
 323,F,26/09/2016,Mrs,Sarah,Sibley,England,Y,Amateur,Sailboard,Y,Sible31Sarah,932000570,V1.4(B0803T),,England,Y,All Week,N,,No,10/08/2016 09:50
 276,M,26/09/2016,Mr,Sam,Anstey,England,N,Youth,Sailboard,Y,Anste18Sam,932000585,V1.4(B0803T),,England,Y,Youth Weekend,Y,,,10/08/2016 09:09
-324,M,26/09/2016,Mr,Simon,Chippington,England,N,Gold-Fleet,Sailboard,Y,Chipp71Simon,123200225,V1.4(B0315C),,England,N,2-Day,Y,,Rrd ,10/12/2016 09:52
-325,M,27/09/2016,Mr,Shaun,Cook,England,N,Pro-Fleet,Sailboard,Y,Cook70Shaun,103200815,V1.4(B0803T),Twb,England,N,2-Day,Y,,RRD; F-hot; TWB ,10/12/2016 09:49
+324,M,26/09/2016,Mr,Simon,Chippington,England,N,Gold-Fleet,Sailboard,Y,Chipp71Simon,123200225,V1.4(B0315C),,England,N,2-Day,Y,,Rrd,10/12/2016 09:52
+325,M,27/09/2016,Mr,Shaun,Cook,England,N,Pro-Fleet,Sailboard,Y,Cook70Shaun,103200815,V1.4(B0803T),Twb,England,N,2-Day,Y,,RRD; F-hot; TWB,10/12/2016 09:49
 326,M,27/09/2016,Mr,Dave,White,England,N,Pro-Fleet,Sailboard,Y,White72Dave,932000170,V1.4(D0428T),Twb,England,N,2-Day,Y,,Result Clothing; F-hot Fins; RRD,10/12/2016 09:55
 327,M,27/09/2016,Mr,Paul,Sibley,England,N,Gold-Fleet,Sailboard,Y,Sible47Paul,123200076,V1.4(B0315C),,England,N,All Week,Y,,Rrd sponsored rider,10/08/2016 14:11
 99,M,28/09/2016,Mr,Sam,Gooch,England,N,Amateur,Sailboard,Y,,,,,England,Y,2-Day,Y,,,
@@ -62,7 +62,7 @@ ID,Male/Female,EnteredDateTime,Title,First Name,Family Name,Country,First Timer,
 184,M,02/10/2016,Mr,Garry,Connell,England,N,Gold-Fleet,Sailboard,Y,Conne37Garry,133200827,V1.4(B0803T),Hamworthy Heroes,England,N,All Week,Y,,,10/08/2016 11:06
 78,M,02/10/2016,Mr,Gavin,Nicholson,England,N,Gold-Fleet,Sailboard,Y,Nicho27Gavin,833001749,V1.4(B0803T),Forces - Royal Navy,England,N,All Week,Y,,Royal Navy; RNSA,10/08/2016 09:40
 44,F,02/10/2016,Mrs,Zara,Davis,England,N,Pro-Fleet,Sailboard,Y,Davis17Zara,932000382,V1.4(D0428T),,England,N,All Week,Y,,Simmer; RRD; Sonntag Fins; AL360; Synergy Worldwide; Walnut Grove Clinic,10/08/2016 09:06
-333,F,02/10/2016,Miss,Sarah,Jackson,England,N,Gold-Fleet,Sailboard,Y,Jacks45Sarah,932000569,V1.4(B0803T),Twb,England,Y,All Week,Y,,UK Team Rider for Boardwise; RRD; Maui Ultra Fins; Dirty Dog Eyewear ,10/08/2016 13:59
+333,F,02/10/2016,Miss,Sarah,Jackson,England,N,Gold-Fleet,Sailboard,Y,Jacks45Sarah,932000569,V1.4(B0803T),Twb,England,Y,All Week,Y,,UK Team Rider for Boardwise; RRD; Maui Ultra Fins; Dirty Dog Eyewear,10/08/2016 13:59
 334,M,02/10/2016,Mr,Kevin,Greenslade,England,N,Pro-Fleet,Sailboard,Y,Green3Kevin,133201112,V1.4(B0803T),,England,N,All Week,Y,,Gaastra; tabou; OTC;  fhot fins; prolimit; dude shoes.,10/07/2016 16:03
 174,M,02/10/2016,Mr,Rob,Dunn,England,N,Amateur,Sailboard,Y,Dunn67Rob,133200830,V1.4(B0315C),Forces - Royal Navy,England,N,2-Day,N,,,10/12/2016 09:21
 335,M,03/10/2016,Mr,James,Peck,England,N,Amateur,Sailboard,Y,Peck69James,113200468,V1.4(B0315C),,England,N,All Week,N,,,10/12/2016 09:31
@@ -70,7 +70,7 @@ ID,Male/Female,EnteredDateTime,Title,First Name,Family Name,Country,First Timer,
 338,M,03/10/2016,Mr,Simon,Cofield,England54 High Street,N,Pro-Fleet,Sailboard,Y,Cofie16Simon,113200285,V1.4(B0315C),Twb,England,N,All Week,Y,,,10/08/2016 09:07
 339,M,03/10/2016,Mr,Nigel,Spriggs,England,N,Pro-Fleet,Sailboard,Y,Sprig32Nigel,123200901,V1.4(B0315C),Hamworthy Heroes,England,N,All Week,Y,,,10/08/2016 10:18
 340,M,04/10/2016,Mr,Kacper,Wozniak,England,N,Gold-Fleet,Sailboard,Y,Wozni53Kacpe,123200231,V1.4(B0315C),,England,N,All Week,Y,,Loftsails and Unifiber Teamrider,10/10/2016 09:17
-283,M,05/10/2016,Mr,James ,Faley,England,N,Youth,Sailboard,Y,Faley23James,932000584,V1.4(B0803T),,England,Y,Youth Weekend,Y,,N/A,10/08/2016 09:21
+283,M,05/10/2016,Mr,James,Faley,England,N,Youth,Sailboard,Y,Faley23James,932000584,V1.4(B0803T),,England,Y,Youth Weekend,Y,,N/A,10/08/2016 09:21
 341,M,06/10/2016,Mr,Spenser,Arnold,England,N,Amateur,Sailboard,Y,,,,,England,N,All Week,N,,,
 342,M,06/10/2016,Mr,Martin,Carter,England,N,Kite-Fleet,Kite Board,Y,Carte26Marti,932000560,V1.4(B0803T),,England,Y,All Week,N,,No,10/08/2016 09:32
 1343,F,10/08/2016,Mrs,Christine,Daffe,Belgium,N,Amateur,Sailboard,Y,Daffe20Chris,932000564,V1.4(B0803T),,Belgium,Y,All Week,N,,,10/08/2016 09:12
