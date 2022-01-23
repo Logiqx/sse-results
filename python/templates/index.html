@@ -5,7 +5,7 @@
       {% if files|length > 0 %}
       <h2>{{ pageTitle|replace('{Date}', periodDate) }}</h2>
       {% if pageComment is not none %}
-      <p>{{ pageComment|safe }}</p>
+      <p class="large">{{ pageComment|safe }}</p>
       {% endif %}
       {% for file in files %}
       <h3><a href="{{ file.href }}">{{ file.text|replace(' - {Date}', '') }}</a></h3>
@@ -16,7 +16,7 @@
       <h2>{{ subDirTitle }}</h2>
       {% for subDir in subDirs %}
       <h3><a href="{{ subDir.href }}">{{ subDir.label }}</a></h3>
-      <p class="big">{{ subDir.fastest }}<br/>{{ subDir.speed }} knots</p>
+      <p class="medium">{{ subDir.fastest }}<br/>{{ subDir.speed }} knots</p>
       {% endfor %}
       <p><br/></p>
       {% endif %}

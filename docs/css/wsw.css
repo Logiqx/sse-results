@@ -16,11 +16,15 @@ h1, h2, h3, h4 {
   font-weight: 600;
 }
 
-p {
+p.small {
   font-size: 13px;
 }
 
-p.big {
+p.medium {
+  font-size: 14px;
+}
+
+p.large {
   font-size: 15px;
 }
 
@@ -55,8 +59,14 @@ table th, table td {
   body {
     font-size: 13px;
   }
-  p {
+  p.small {
     font-size: 11px;
+  }
+  p.medium {
+    font-size: 12px;
+  }
+  p.large {
+    font-size: 13px;
   }
   table {
     font-size: 12px;
@@ -76,8 +86,14 @@ table th, table td {
   body {
     font-size: 12px;
   }
-  p {
+  p.small {
     font-size: 10px;
+  }
+  p.medium {
+    font-size: 11px;
+  }
+  p.large {
+    font-size: 12px;
   }
   table {
     font-size: 11px;
@@ -94,8 +110,14 @@ table th, table td {
   body {
     font-size: 11px;
   }
-  p {
+  p.small {
     font-size: 9px;
+  }
+  p.medium {
+    font-size: 10px;
+  }
+  p.large {
+    font-size: 11px;
   }
   table {
     font-size: 10px;

@@ -4,16 +4,16 @@
       <h1>{{ eventName }}</h1>
       <h2>{{ pageTitle|replace('{Date}', periodDate) }}</h2>
       {% if pageComment is not none %}
-      <p>{{ pageComment|safe }}</p>
+      <p class="large">{{ pageComment|safe }}</p>
       {% endif %}
       {% for report in reports %}
 	  {% if report.results|length > 0 %}
       <h3>{{ report.title|replace('{Date}', periodDate) }}</h3>
       {% if report.comment is not none %}
-      <p>{{ report.comment }}</p>
+      <p class="medium">{{ report.comment }}</p>
       {% endif %}
       {% for comment in report.prizes[className] %}
-      <p>{{ comment|safe }}</p>
+      <p class="small">{{ comment|safe }}</p>
       {% endfor %}
       <table class="{{ report.tableClass }}">
         <tr>
