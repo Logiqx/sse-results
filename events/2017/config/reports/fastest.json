@@ -2,7 +2,8 @@
   "Periods": [
     {
       "Suptitle": "Fastest of the Day - {Date}",
-      "Period": "Session"
+      "Period": "Session",
+      "HideFields": "Course"
     },
     {
       "Suptitle": "Fastest of the Week",
