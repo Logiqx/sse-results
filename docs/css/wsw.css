@@ -149,18 +149,21 @@ table.entrants tr td:nth-child(2) {
 
 /* Name */
 table.fastest tr td:nth-child(2),
+table.rankings tr td:nth-child(2),
 table.craft tr td:nth-child(2),
 table.status tr td:nth-child(2) {
   text-align: left;
 }
 /* Nation */
 table.fastest tr td:nth-child(3),
+table.rankings tr td:nth-child(3),
 table.craft tr td:nth-child(3),
 table.status tr td:nth-child(3) {
   text-align: left;
   white-space: nowrap;
 }
 table.fastest tr td:last-child,
+table.rankings tr td:last-child,
 table.craft tr td:last-child,
 /* Speed */
 table.status tr td:last-child {
@@ -209,20 +212,20 @@ table.runs tr td:last-child {
 }
 
 /* Name */
-table.group tr td:nth-child(2) {
+table.grouping tr td:nth-child(2) {
   text-align: left;
 }
 /* Nation */
-table.group tr td:nth-child(3) {
+table.grouping tr td:nth-child(3) {
   text-align: left;
   white-space: nowrap;
 }
 /* Grouping */
-table.group:first-of-type tr td:nth-child(4) {
+table.grouping:first-of-type tr td:nth-child(4) {
   text-align: left;
 }
 /* Speed */
-table.group tr td:last-child {
+table.grouping tr td:last-child {
   text-align: right;
 }
 
