@@ -15,17 +15,17 @@
     {
       "Title": "HM Forces",
       "Filter": "Grouping=Forces - %",
-      "Fields": "Name,Nation,Grouping,Craft Type,Status,First Timer,Course,Start Time,Speed (kts)"
+      "Fields": "Name,Nation,Grouping,First Timer,Course,Start Time,Speed (kts)"
     },
     {
       "Title": "Portland Pirates",
       "Filter": "Grouping=Portland Pirates",
-      "Fields": "Name,Nation,Craft Type,Status,First Timer,Course,Start Time,Speed (kts)"
+      "Fields": "Name,Nation,Status,First Timer,Course,Start Time,Speed (kts)"
     },
     {
       "Title": "Surf Hogs",
       "Filter": "Grouping=Surf Hogs",
-      "Fields": "Name,Nation,Craft Type,Status,First Timer,Course,Start Time,Speed (kts)"
+      "Fields": "Name,Nation,Status,First Timer,Course,Start Time,Speed (kts)"
     }
   ]
 }
