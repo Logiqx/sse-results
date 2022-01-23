@@ -5,6 +5,7 @@
       <h2>{{ pageTitle|replace('{Date}', periodDate) }}</h2>
       {% if pageComment is not none %}
       <p class="large">{{ pageComment|safe }}</p>
+      <p><br/></p>
       {% endif %}
       {% for report in reports %}
 	  {% if report.results|length > 0 %}
