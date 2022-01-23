@@ -6,10 +6,6 @@
   "Sort": "Name=ASC,Sail Number=ASC",
   "Reports": [
     {
-      "Title": "All Craft",
-      "Fields": "Name,Nation,Sail Number,Craft Type"
-    },
-    {
       "Title": "All Boats",
       "Filter": "Craft Type=Boat",
       "Fields": "Name,Nation,Sail Number,Boat Name"

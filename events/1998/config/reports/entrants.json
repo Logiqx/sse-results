@@ -6,10 +6,6 @@
   "Sort": "Name=ASC,Sail Number=ASC",
   "Reports": [
     {
-      "Title": "All Craft",
-      "Fields": "Name,Nation,Sail Number,Craft Type"
-    },
-    {
       "Title": "All Known Boats",
       "Comment": "Note: Potentially incomplete due to unknown craft (see below).",
       "Filter": "Craft Type=Boat",
