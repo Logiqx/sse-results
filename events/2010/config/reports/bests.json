@@ -1,6 +1,6 @@
 {
   "Suptitle": "Best Runs of the Day - {Date}",
-  "Fields": "Name,Nation,Sail Number,Craft Type,Status,Novice,Master,Speed (kts),Other Run Speeds (kts)",
+  "Fields": "Name,Nation,Craft Type,Status,Novice,Master,Speed (kts),Other Run Speeds (kts)",
   "ShowSpeeds": 10,
   "Reports": [
     {

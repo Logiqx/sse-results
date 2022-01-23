@@ -2,6 +2,7 @@
   "Suptitle": "Entrants by Craft Type",
   "Period": "Event",
   "Runs": false,
+  "HideFields": "Sail Number",
   "Sort": "Name=ASC,Sail Number=ASC",
   "Reports": [
     {
