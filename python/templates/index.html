@@ -9,17 +9,17 @@
       {% for file in files %}
       <h3><a href="{{ file.href }}">{{ file.text|replace(' - {Date}', '') }}</a></h3>
       {% endfor %}
-      {% if subDirs|length > 0 %}
       {% if files|length > 0 %}
       <p><br/></p>
       {% endif %}
-      {% if subDirTitle is not none %}
+      {% if subDirTitle is not none and subDirs|length > 0 %}
       <h2>{{ subDirTitle }}</h2>
       {% endif %}
       {% for subDir in subDirs %}
       <h3><a href="{{ subDir.href }}">{{ subDir.label }}</a></h3>
       <p class="medium">{{ subDir.fastest }}{% if subDir.speed is not none %}<br/>{{ subDir.speed }} knots{% endif %}</p>
       {% endfor %}
-      {% endif %}
+      {% if subDirs|length > 0 or pageComment is not none and files|length == 0 and subDirs|length == 0 %}
       <p><br/></p>
+      {% endif %}
 {% endblock %}
