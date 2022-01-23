@@ -7,11 +7,6 @@
       "Title": "Sorted by Name and Time",
       "Fields": "Name,Nation,Sail Number,Craft Type,Course,Finish Time,Speed (kts)",
       "Sort": "Name=ASC,Finish Time=ASC"
-    },
-    {
-      "Title": "Sorted by Course and Time",
-      "Fields": "Course,Finish Time,Name,Nation,Sail Number,Craft Type,Speed (kts)",
-      "Sort": "Course=ASC,Finish Time=ASC"
     }
   ]
 }
