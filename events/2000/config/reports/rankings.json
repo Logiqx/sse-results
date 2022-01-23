@@ -1,0 +1,36 @@
+{
+  "Fields": "Name,Nation,Sail Number,Course,Time,Speed (kts)",
+  "Periods": [
+    {
+      "Suptitle": "Day Rankings - {Date}",
+      "Period": "Session",
+      "HideFields": "Course"
+    },
+    {
+      "Suptitle": "Overall Rankings",
+      "Period": "Event",
+      "HideFields": "Course,Time"
+    }
+  ],
+  "Profile": true,
+  "Reports": [
+    {
+      "Title": "All Craft - 500m",
+      "Filter": "Distance (m)=500",
+      "Sort": "Speed (kts)=DSC,Time=ASC",
+      "Fields": "Name,Nation,Sail Number,Craft Type,Course,Time,Speed (kts)"
+    },
+    {
+      "Title": "All Craft - 300m",
+      "Filter": "Distance (m)=300",
+      "Sort": "Speed (kts)=DSC,Time=ASC",
+      "Fields": "Name,Nation,Sail Number,Craft Type,Course,Time,Speed (kts)"
+    },
+    {
+      "Title": "All Craft - 700m",
+      "Filter": "Distance (m)=700",
+      "Sort": "Speed (kts)=DSC,Time=ASC",
+      "Fields": "Name,Nation,Sail Number,Craft Type,Course,Time,Speed (kts)"
+    }
+  ]
+}

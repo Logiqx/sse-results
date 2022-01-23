@@ -90,12 +90,13 @@
   },
   "Priorities": {
     "fastest": 1,
-    "craft": 2,
-    "status": 3,
-    "group": 4,
-    "bests": 5,
-    "runs": 20,
-    "entrants": 20
+    "rankings": 2,
+    "craft": 3,
+    "status": 4,
+    "group": 15,
+    "bests": 20,
+    "runs": 21,
+    "entrants": 25
   },
   "Series": {
     "ISWC": {

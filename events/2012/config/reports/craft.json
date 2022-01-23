@@ -14,10 +14,6 @@
   "Profile": true,
   "Reports": [
     {
-      "Title": "All Craft",
-      "Fields": "Name,Nation,Craft Type,Status,First Timer,Course,Start Time,Speed (kts)"
-    },
-    {
       "Title": "All Boats",
       "Fields": "Name,Nation,First Timer,Boat Name,Course,Start Time,Speed (kts)",
       "Filter": "Craft Type=Boat"
