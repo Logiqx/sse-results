@@ -9,10 +9,10 @@
       {% for file in files %}
       <h3><a href="{{ file.href }}">{{ file.text|replace(' - {Date}', '') }}</a></h3>
       {% endfor %}
+      {% if subDirs|length > 0 %}
       {% if files|length > 0 %}
       <p><br/></p>
       {% endif %}
-      {% if subDirs|length > 0 %}
       {% if subDirTitle is not none %}
       <h2>{{ subDirTitle }}</h2>
       {% endif %}
@@ -20,6 +20,6 @@
       <h3><a href="{{ subDir.href }}">{{ subDir.label }}</a></h3>
       <p class="medium">{{ subDir.fastest }}{% if subDir.speed is not none %}<br/>{{ subDir.speed }} knots{% endif %}</p>
       {% endfor %}
-      <p><br/></p>
       {% endif %}
+      <p><br/></p>
 {% endblock %}
