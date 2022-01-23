@@ -2,7 +2,8 @@
   "Periods": [
     {
       "Suptitle": "Day Rankings by Status - {Date}",
-      "Period": "Session"
+      "Period": "Session",
+      "HideFields": "Course"
     },
     {
       "Suptitle": "Overall Rankings by Status",
