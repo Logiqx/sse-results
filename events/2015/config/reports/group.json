@@ -2,7 +2,8 @@
   "Periods": [
     {
       "Suptitle": "Day Rankings within Groups - {Date}",
-      "Period": "Session"
+      "Period": "Session",
+      "HideFields": "Course"
     },
     {
       "Suptitle": "Overall Rankings within Groups",
