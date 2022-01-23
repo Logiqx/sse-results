@@ -1,6 +1,6 @@
 ID,Male/Female,EnteredDateTime,Title,First Name,Family Name,Country,First Timer,Status,Craft Type,Accept Terms(Y/N),GT31 ID,GT31 SN,GT31 FW,Grouping,Nationality,requiredGT31,EntryType,UKWA Member,Boat Name,Sponsorship,RegDateTime
 1,M,28/08/2018,Mr,Stephen,Sugden,England,N,Amateur,Sailboard,Y,Sugde77Steph,932000560,V1.4(B0803T),,,Y,2-Day,Y,,,18/10/2018 08:14
-6,M,28/08/2018,Mr,Simon,Chippington,England,N,Gold-Fleet,Sailboard,Y,Chipp74Simon,123200225,V1.4(B0315C),,,N,2-Day,Y,GBR984 ,Team rider for Fluidlines using RRD Windsurfing kit ,16/10/2018 12:19
+6,M,28/08/2018,Mr,Simon,Chippington,England,N,Gold-Fleet,Sailboard,Y,Chipp74Simon,123200225,V1.4(B0315C),,,N,2-Day,Y,GBR984,Team rider for Fluidlines using RRD Windsurfing kit,16/10/2018 12:19
 7,M,07/09/2018,Mr,Robin,Hofman,Belgium,Y,Amateur,Sailboard,Y,,,,,,Y,2-Day,N,BEL404,saturday and sunday,
 8,F,28/08/2018,Mrs,Trish,Kohn,England,N,Amateur,Sailboard,Y,Kohn55Trish,932000557,V1.4(B0803T),Forces - Royal Navy,,Y,All Week,N,,,13/10/2018 17:57
 9,M,28/08/2018,Mr,Rob,Dunn,England,N,Amateur,Sailboard,Y,Dunn56Rob,133200830,V1.4(B0315C),Forces - Royal Navy,,N,All Week,N,,No,13/10/2018 18:00
@@ -22,16 +22,16 @@ ID,Male/Female,EnteredDateTime,Title,First Name,Family Name,Country,First Timer,
 25,M,05/09/2018,Mr,Tim,Whealy,England,N,Amateur,Sailboard,Y,Wheal21Tim,932000563,V1.4(B0803T),,,Y,2-Day,Y,,,13/10/2018 08:52
 26,M,05/09/2018,Mr,Torsten,Mallon,Germany,N,Pro-Fleet,Sailboard,Y,Mallo24Torst,832002149,V1.4(B0803T),,,N,All Week,N,,Sailloft Hamburg; Patrick Boards Hurricane Fins,13/10/2018 08:58
 27,M,06/09/2018,Mr,Neil,Thompson,England,N,Amateur,Sailboard,Y,Thomp51Neil,123200930,V1.4(B0315C),,England,N,All Week,N,,,13/10/2018 17:46
-28,M,04/10/2018,Mr,Chris ,Cleland ,England,N,Amateur,Sailboard,Y,Clela15Chris,932000583,V1.4(B0803T),,,N,2-Day,Y,,,13/10/2018 08:40
-29,M,06/09/2018,Mr,Allan,Cross,England,N,Pro-Fleet,Sailboard,Y,Cross68Allan,832000438,V1.4(B0803T),,,N,All Week,N,,Equipment sponsor through Tushingham ,15/10/2018 09:09
+28,M,04/10/2018,Mr,Chris,Cleland,England,N,Amateur,Sailboard,Y,Clela15Chris,932000583,V1.4(B0803T),,,N,2-Day,Y,,,13/10/2018 08:40
+29,M,06/09/2018,Mr,Allan,Cross,England,N,Pro-Fleet,Sailboard,Y,Cross68Allan,832000438,V1.4(B0803T),,,N,All Week,N,,Equipment sponsor through Tushingham,15/10/2018 09:09
 30,M,06/09/2018,Mr,Nick,Deakin,England,Y,Amateur,Sailboard,Y,Deaki49Nick,932000569,V1.4(B0803T),,,Y,2-Day,Y,,not sponsored,13/10/2018 17:36
 31,M,07/09/2018,Mr,Bill,Robinson,England,N,Gold-Fleet,Sailboard,Y,Robin7Bill,932000571;932000559,V1.4(B0803T),,,N,All Week,N,,,15/10/2018 11:27
 32,M,09/09/2018,Mr,Henry,Merewether,England,N,Kite-Fleet,Kite Board,Y,Merew58Henry,932001290,V1.4(B0803T),Forces - Royal Navy,,Y,All Week,N,,Service support,13/10/2018 18:13
 33,M,11/09/2018,Mr,Neven,Juretic,England,N,Gold-Fleet,Sailboard,Y,Juret38Neven,932000584,V1.4(B0803T),,,Y,2-Day,N,,,13/10/2018 09:40
 34,M,11/09/2018,Mr,Richard,Trubger,England,N,Kite-Fleet,Kite Board,Y,Trubg69Richa,932000564,V1.4(B0803T),,,Y,2-Day,N,,,15/10/2018 10:10
-35,M,05/10/2018,Mr,Uwe,Michelchen ,Germany,N,Pro-Fleet,Sailboard,Y,Miche27Uwe,113200825,V1.4(B0315C),,,N,All Week,N,,KA Sails; Patrik Boards;Windsports World,13/10/2018 09:03
-37,M,05/10/2018,Mr,Sam,Jones,England,Y,Amateur,Sailboard,Y,Jones2Sam,932000588,V1.4(B0803T),,,Y,Youth Weekend,Y,,No ,13/10/2018 17:56
-38,M,13/09/2018,Mr,Gavin,Nicholson,England,N,Gold-Fleet,Sailboard,Y,Nicho3Gavin,833001749,V1.4(B0803T),Forces - Royal Navy,,N,All Week,Y,,Royal Navy; RNSA; AHD; AFS foils; the surf Doctor; Kai water sports. ,10/12/2018 16:07
+35,M,05/10/2018,Mr,Uwe,Michelchen,Germany,N,Pro-Fleet,Sailboard,Y,Miche27Uwe,113200825,V1.4(B0315C),,,N,All Week,N,,KA Sails; Patrik Boards;Windsports World,13/10/2018 09:03
+37,M,05/10/2018,Mr,Sam,Jones,England,Y,Amateur,Sailboard,Y,Jones2Sam,932000588,V1.4(B0803T),,,Y,Youth Weekend,Y,,No,13/10/2018 17:56
+38,M,13/09/2018,Mr,Gavin,Nicholson,England,N,Gold-Fleet,Sailboard,Y,Nicho3Gavin,833001749,V1.4(B0803T),Forces - Royal Navy,,N,All Week,Y,,Royal Navy; RNSA; AHD; AFS foils; the surf Doctor; Kai water sports.,10/12/2018 16:07
 39,M,14/09/2018,Mr,Andy,Stuart-William,England,Y,Amateur,Sailboard,Y,Stuar40Andy,932000540,V1.4(B0803T),,,Y,2-Day,Y,,No,13/10/2018 18:05
 40,M,15/09/2018,Mr,Garry,Connell,England,N,Gold-Fleet,Sailboard,Y,Conne17Garry,133200827,V1.4(B0803T),Hamworthy Heroes,,N,All Week,Y,,,13/10/2018 08:43
 41,M,15/09/2018,Mr,Robin,Russell,England,N,Gold-Fleet,Sailboard,Y,Russe14Robin,113200238,V1.4(B0803T),Surf Hogs,,N,All Week,N,,,13/10/2018 08:39
@@ -47,9 +47,9 @@ ID,Male/Female,EnteredDateTime,Title,First Name,Family Name,Country,First Timer,
 51,M,24/09/2018,Mr,John,Oliver,England,N,Gold-Fleet,Sailboard,Y,Olive13John,133200495,V1.4(B0803T),Surf Hogs,,N,All Week,N,,No,13/10/2018 08:35
 52,M,02/10/2018,Mr,Peter,Crosby,England,N,Gold-Fleet,Sailboard,Y,Crosb37Peter,932000570,V1.4(B0803T),Surf Hogs,,Y,All Week,Y,,No,13/10/2018 09:37
 53,M,25/09/2018,Mr,Richard,Crosby,England,N,Amateur,Sailboard,Y,Crosb18Richa,932000538,V1.4(B0803T),Surf Hogs,,Y,2-Day,Y,,,13/10/2018 08:44
-54,M,25/09/2018,Mr,James,Battye,England,N,Gold-Fleet,Sailboard,Y,Batty23James,832004837,V1.4(B0315C),,,N,All Week,Y,,Simmer style ,13/10/2018 08:56
+54,M,25/09/2018,Mr,James,Battye,England,N,Gold-Fleet,Sailboard,Y,Batty23James,832004837,V1.4(B0315C),,,N,All Week,Y,,Simmer style,13/10/2018 08:56
 55,M,25/09/2018,Mr,Scotty,Stallman,England,N,Pro-Fleet,Sailboard,Y,Stall12Scott,832001487,V1.4(B0803T),Portland Pirates,,N,All Week,Y,,OTC/Severne/Starboard/F-Hot/ION/K66/Rockerline/Southeastsingage,13/10/2018 08:34
-56,M,30/09/2018,Mr,Tyler ,Baker ,England,N,Amateur,Sailboard,Y,Baker65Tyler,932000559,V1.4(B0803T),Portland Pirates,,N,Youth Weekend,Y,,No,14/10/2018 13:00
+56,M,30/09/2018,Mr,Tyler,Baker,England,N,Amateur,Sailboard,Y,Baker65Tyler,932000559,V1.4(B0803T),Portland Pirates,,N,Youth Weekend,Y,,No,14/10/2018 13:00
 57,M,26/09/2018,Mr,Bob,Cartridge,England,N,Amateur,Sailboard,Y,Cartr44Bob,932000576,V1.4(B0803T),,,Y,All Week,N,,,14/10/2018 12:24
 58,M,27/09/2018,Mr,Robin,Penna,England,N,Gold-Fleet,Sailboard,Y,Penna79Robin,113200494,V1.4(B0315C),,,N,2-Day,N,,,18/10/2018 09:12
 59,M,28/09/2018,Mr,Lewis,Limm,England,N,Amateur,Sailboard,Y,Limm42Lewis,168601510,,,,N,Youth Weekend,Y,,,13/10/2018 17:16
@@ -60,11 +60,11 @@ ID,Male/Female,EnteredDateTime,Title,First Name,Family Name,Country,First Timer,
 65,M,03/10/2018,Mr,Jim,Crossley,England,N,Pro-Fleet,Sailboard,Y,,,,,,N,2-Day,Y,,RRD Loftsails Unifiber 4Boards,
 66,M,03/10/2018,Mr,Bob,Spagnoletti,England,N,Gold-Fleet,Sailboard,Y,Spagn48Rober,113200986,V1.4(D0428T),,,N,All Week,N,,,15/10/2018 11:07
 68,M,04/10/2018,Mr,Anders,Bjorkqvist,Sweden,N,Pro-Fleet,Sailboard,Y,Bjork11Ander,932000574;932001502,V1.4(B0803T),,,N,All Week,N,,Loft Sails; Carbon Art; Unifiber; Hertz,13/10/2018 18:09
-69,M,04/10/2018,Mr,Paul,Sibley,England,N,Gold-Fleet,Sailboard,Y,Sible19Paul,123200076,V1.4(B0315C),,,N,All Week,Y,,Severne Sails; Starboard ,13/10/2018 08:54
+69,M,04/10/2018,Mr,Paul,Sibley,England,N,Gold-Fleet,Sailboard,Y,Sible19Paul,123200076,V1.4(B0315C),,,N,All Week,Y,,Severne Sails; Starboard,13/10/2018 08:54
 70,F,06/10/2018,Mrs,Tania,Mertens,Belgium,N,Amateur,Sailboard,Y,Merte5Tania,133201596,V1.4(B0803T),,,N,All Week,N,,,10/12/2018 16:38
 71,M,06/10/2018,Mr,Steve,Thompson,England,N,Amateur,Sailboard,Y,Thomp43Steve,123200071,V1.4(B0803T),,,N,2-Day,N,,,13/10/2018 18:30
 72,M,08/10/2018,Mr,James,Faley,England,N,Amateur,Sailboard,Y,Faley20James,932000564,V1.4(B0803T),Portland Pirates,,Y,Youth Weekend,Y,,,13/10/2018 08:50
-73,M,09/10/2018,Mr,David,Lovesey,England,N,Kite-Fleet,Kite Board,Y,Loves81David,932000564,V1.4(B0803T),,,Y,2-Day,N,,I am not sponsored and this is my first time entering; any event. ,18/10/2018 09:45
+73,M,09/10/2018,Mr,David,Lovesey,England,N,Kite-Fleet,Kite Board,Y,Loves81David,932000564,V1.4(B0803T),,,Y,2-Day,N,,I am not sponsored and this is my first time entering; any event.,18/10/2018 09:45
 74,M,09/10/2018,Mr,Mike,Price,England,N,Amateur,Sailboard,Y,Price63Mike,133200846,V1.4(B0315C),,,N,2-Day,N,,,14/10/2018 13:12
 76,F,10/10/2018,Miss,Jenna,Gibson,England,N,Pro-Fleet,Sailboard,Y,Gibso6Jenna,123200455,V1.4(B0803T),,,N,All Week,Y,,kit deals,10/12/2018 16:43
 77,M,10/10/2018,Mr,Patrick,Van Hoof,Belgium,N,Pro-Fleet,Sailboard,Y,VanH4Patri,133201534,V1.4(B0803T),,,N,All Week,N,,Duotone/Fanatic/Ion/Sonntag/Imvano,10/12/2018 16:30
@@ -76,7 +76,7 @@ ID,Male/Female,EnteredDateTime,Title,First Name,Family Name,Country,First Timer,
 1001,M,17/10/2018,Mr,Claude,Van-Martyn,England,N,Amateur,Sailboard,Y,VanM76Claud,103200577,V1.4(B0315C),,Guernsey,N,2-Day,N,,,17/10/2018 08:45
 1083,M,13/10/2018,Mr,Leigh,Kingaby,England,N,Pro-Fleet,Sailboard,Y,kinga25leigh,168602306;932000169,,,England,N,All Week,Y,,,13/10/2018 17:11
 1084,M,13/10/2018,Mr,Simon,Cofield,England,N,Pro-Fleet,Sailboard,Y,Cofie36Simon,932000572,V1.4(B0803T),,England,N,All Week,Y,,Fanatic ION,13/10/2018 09:36
-1087,M,14/10/2018,Mr,Emile ,Burnaby Lautier,Netherlands,N,Kite-Fleet,Kite Board,Y,Burna62Emile,123200963,V1.4(B0803T),,Netherlands,N,All Week,N,,,14/10/2018 11:36
+1087,M,14/10/2018,Mr,Emile,Burnaby Lautier,Netherlands,N,Kite-Fleet,Kite Board,Y,Burna62Emile,123200963,V1.4(B0803T),,Netherlands,N,All Week,N,,,14/10/2018 11:36
 1088,M,14/10/2018,Mr,Kevin,Greenslade,England,N,Pro-Fleet,Sailboard,Y,Green66kevn,932000191,V1.4(B0803T),,England,N,All Week,Y,,,14/10/2018 13:15
 1095,M,14/10/2018,Mr,Neil,Thompson,England,N,Kite-Fleet,Kite Board,Y,Thomp67Neil,168601505,,,England,N,All Week,N,,,14/10/2018 18:07
 1096,M,15/10/2018,Mr,Fred,Ball,England,N,Boat-Fleet,Boat,Y,Ball75Fred,932000196,,,England,N,2-Day,N,,,
