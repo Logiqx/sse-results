@@ -15,12 +15,12 @@
     {
       "Title": "HM Forces",
       "Filter": "Grouping=Forces - %",
-      "Fields": "Name,Nation,Grouping,Craft Type,Status,Course,Start Time,Speed (kts)"
+      "Fields": "Name,Nation,Grouping,Course,Start Time,Speed (kts)"
     },
     {
       "Title": "Belgian RRD Loftsails Race Team",
       "Filter": "Grouping=Belgian Rrd Loftsails Race Team",
-      "Fields": "Name,Nation,Craft Type,Status,Course,Start Time,Speed (kts)"
+      "Fields": "Name,Nation,Status,Course,Start Time,Speed (kts)"
     }
   ]
 }
