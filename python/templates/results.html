@@ -12,8 +12,8 @@
       {% if report.comment is not none %}
       <p class="medium">{{ report.comment }}</p>
       {% endif %}
-      {% for comment in report.prizes[className] %}
-      <p class="small">{{ comment|safe }}</p>
+      {% for prize in report.prizes[className] %}
+      <p class="small">{{ prize|safe }}</p>
       {% endfor %}
       <table class="{{ report.tableClass }}">
         <tr>
