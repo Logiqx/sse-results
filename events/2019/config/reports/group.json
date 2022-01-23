@@ -1,12 +1,12 @@
 {
   "Periods": [
     {
-      "Suptitle": "Day Rankings within Groups - {Date}",
+      "Suptitle": "Day Rankings by Grouping - {Date}",
       "Period": "Session",
       "HideFields": "Course"
     },
     {
-      "Suptitle": "Overall Rankings within Groups",
+      "Suptitle": "Overall Rankings by Grouping",
       "Period": "Event",
       "HideFields": "Course,Start Time"
     }
