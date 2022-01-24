@@ -45,7 +45,7 @@ Cayman Islands,KY,CYM,136,CAY,CAY,CAY,Y
 Central African Republic,CF,CAF,140,CAF,CAF,,Y
 Chad,TD,TCD,148,CHA,CHA,,Y
 Chile,CL,CHL,152,CHI,CHI,CHI,Y
-China,CN,CHN,156,CHN,CHN,,Y
+China,CN,CHN,156,CHN,CHN,CHN,Y
 Christmas Island,CX,CXR,162,CXR,,,Y
 Cocos (Keeling) Islands,CC,CCK,166,CCK,,,Y
 Colombia,CO,COL,170,COL,COL,COL,Y
@@ -55,7 +55,7 @@ Cook Islands,CK,COK,184,COK,COK,COK,Y
 Costa Rica,CR,CRI,188,CRC,CRC,,Y
 Croatia,HR,HRV,191,CRO,CRO,CRO,Y
 Cuba,CU,CUB,192,CUB,CUB,CUB,Y
-Curaçao,CW,CUW,531,CUW,,,Y
+Curaçao,CW,CUW,531,CUW,,AHO,Y
 Cyprus,CY,CYP,196,CYP,CYP,CYP,Y
 Czech Republic,CZ,CZE,203,CZE,CZE,CZE,Y
 Democratic People's Republic of Korea,KP,PRK,408,PRK,PRK,PRK,Y
@@ -118,6 +118,7 @@ Jordan,JO,JOR,400,JOR,JOR,JOR,Y
 Kazakhstan,KZ,KAZ,398,KAZ,KAZ,KAZ,Y
 Kenya,KE,KEN,404,KEN,KEN,KEN,Y
 Kiribati,KI,KIR,296,KIR,KIR,,Y
+Kosovo,,,,KOS,KOS,KOS,N
 Kuwait,KW,KWT,414,KUW,KUW,KUW,Y
 Kyrgyzstan,KG,KGZ,417,KGZ,KGZ,KGZ,Y
 Laos,LA,LAO,418,LAO,LAO,,Y
@@ -199,14 +200,14 @@ Serbia,RS,SRB,688,SRB,SRB,SRB,Y
 Seychelles,SC,SYC,690,SEY,SEY,SEY,Y
 Sierra Leone,SL,SLE,694,SLE,SLE,,Y
 Singapore,SG,SGP,702,SGP,SGP,SGP,Y
-Sint Maarten (Dutch part),SX,SXM,534,SXM,,,N
+Sint Maarten (Dutch part),SX,SXM,534,SXM,,AHO,N
 Slovakia,SK,SVK,703,SVK,SVK,SVK,Y
 Slovenia,SI,SVN,705,SLO,SLO,SLO,Y
 Solomon Islands,SB,SLB,90,SOL,SOL,,Y
 Somalia,SO,SOM,706,SOM,SOM,,Y
 South Africa,ZA,ZAF,710,RSA,RSA,RSA,Y
 South Georgia and the South Sandwich Islands,GS,SGS,239,SGS,,,Y
-South Sudan,SS,SSD,728,SSD,,,Y
+South Sudan,SS,SSD,728,SSD,SSD,,Y
 Spain,ES,ESP,724,ESP,ESP,ESP,Y
 Sri Lanka,LK,LKA,144,SRI,SRI,SRI,Y
 Sudan,SD,SDN,729,SUD,SUD,SUD,Y
@@ -215,7 +216,8 @@ Svalbard and Jan Mayen,SJ,SJM,744,SJM,,,N
 Sweden,SE,SWE,752,SWE,SWE,SWE,Y
 Switzerland,CH,CHE,756,SUI,SUI,SUI,Y
 Syria,SY,SYR,760,SYR,SYR,,Y
-Taiwan,TW,TWN,158,TPE,TPE,,Y
+Tahiti,,,,TAH,,TAH,N
+Chinese Taipei,TW,TWN,158,TPE,TPE,TPE,Y
 Tajikistan,TJ,TJK,762,TJK,TJK,,Y
 Tanzania,TZ,TZA,834,TAN,TAN,TAN,Y
 Thailand,TH,THA,764,THA,THA,THA,Y
