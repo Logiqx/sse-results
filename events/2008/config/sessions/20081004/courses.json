@@ -1,5 +1,5 @@
 {
-  "Comment": "These speeds are fractionally higher than those announced on the day.<br/><br/>This was due to the discovery of a 1 metre discrepancy in the course length used in the calculations.",
+  "Comment": "These speeds are fractionally higher than those announced on the day.<br/>This was due to the discovery of a 1 metre discrepancy in the course length used in the calculations.",
   "Default": {
     "Start Time": "09:00",
     "End Time": "18:00"
