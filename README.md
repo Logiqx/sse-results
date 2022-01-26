@@ -73,7 +73,7 @@ The project includes pretty extensive unit testing within all of the Python modu
   - Course results
   - Session results
   - Event results
-- Results for the categories since 2005 have been thoroughly checked and [reconciled](docs/tech/reconciliation.md) - e.g. Youths, Masters, Gold Fleet, etc.
+- Results for all of the categories since 2005 have been thoroughly checked and [reconciled](docs/tech/reconciliation.md) - e.g. Youths, Masters, Gold Fleet, etc.
 - n.b. The "fuzzy name matching" algorithm is utilised when comparing results of past years against what was originally published.
 
 Thorough unit testing ensures that the software can be trusted for all past results and will accurately generate results in the future.
