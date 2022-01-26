@@ -33,6 +33,7 @@ This project has become rather more elaborate than originally planned and now ha
     - Gold Fleet and Pro Fleet entrants will have the "first timer" flag set to "N" from the first timer.
     - Duplicate runs due to multiple GT-31s or multiple files (SBP and SBN) are automatically de-duplicated.
     - 2-day entrants exceeding their entry are highlighted to the event organisers.
+  - Reading the [diagnostics](docs/tech/diagnostics.md) document will provide insight into the results processing and the handling of data issues.
   - Extensive unit testing and thorough system testing has been undertaken and is described later in this document.
 
 Note: The years 2000 and 2001 had 200m, 300m and 700m courses which are reported separately and will not impact 500m records.
