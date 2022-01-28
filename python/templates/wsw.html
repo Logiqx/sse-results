@@ -23,6 +23,8 @@
   </head>
   <body>
     <div id="content">
+      <a href="{{ banner['href'] }}"><img src="{{ banner['src'] }}" alt="{{ banner['alt'] }}" width="{{ banner['width'] }}" height="{{ banner['height'] }}" /></a>
+      <h1>{{ eventName }}</h1>
       {% block content %}{% endblock %}
     </div>
     <div id="footer">
