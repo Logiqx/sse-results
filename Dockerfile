@@ -7,7 +7,7 @@ ARG DEBIAN_VERSION=bullseye
 FROM jupyter/base-notebook:${NOTEBOOK_VERSION} AS builder
 
 # Copy the required project files
-WORKDIR /home/jovyan/work/wsw-results
+WORKDIR /home/jovyan/work/sse-results
 COPY --chown=jovyan:users python/*.*py* ./python/
 COPY --chown=jovyan:users python/templates/*.html ./python/templates/
 
@@ -51,8 +51,8 @@ RUN pip install --no-cache-dir \
 
 # Copy project files from the builder
 USER ${PY_USER}
-WORKDIR /home/${PY_USER}/work/wsw-results
-COPY --from=builder --chown=jovyan:jovyan /home/jovyan/work/wsw-results/ ./
+WORKDIR /home/${PY_USER}/work/sse-results
+COPY --from=builder --chown=jovyan:jovyan /home/jovyan/work/sse-results/ ./
 RUN mkdir data docs
 
 # Wait for CMD to exit, reap zombies and perform signal forwarding
