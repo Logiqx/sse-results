@@ -25,18 +25,18 @@ run_py_script event.py
 run_py_script results.py
 
 # Apply release tag, removing earlier tag / image if required
-for IMAGE in $(docker image ls --format "{{.Repository}}:{{.Tag}}" $IMAGE_NAME:$FINAL_TAG)
-do
-    docker image rm $IMAGE >/dev/null
-done
+if [ -n "$(docker image ls -q $IMAGE_NAME:$FINAL_TAG)" ]
+then
+    docker image rm $IMAGE_NAME:$FINAL_TAG >/dev/null
+fi
 docker tag $IMAGE_NAME:$IMAGE_TAG $IMAGE_NAME:$FINAL_TAG
 
 # Apply "latest" tag, removing earlier tag / image if required
-for IMAGE in $(docker image ls --format "{{.Repository}}:{{.Tag}}" $IMAGE_NAME:latest)
-do
-    docker image rm $IMAGE >/dev/null
-done
+if [ -n "$(docker image ls -q $IMAGE_NAME:latest)" ]
+then
+    docker image rm $IMAGE_NAME:latest >/dev/null
+fi
 docker tag $IMAGE_NAME:$IMAGE_TAG $IMAGE_NAME:latest
 
 # Remove the temporary tag to avoid <None> <None> at a later date
-docker image rm $IMAGE_NAME:$IMAGE_TAG
+docker image rm $IMAGE_NAME:$IMAGE_TAG >/dev/null
