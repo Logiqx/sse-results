@@ -1,8 +1,8 @@
 # Project Env
 . $(dirname $0)/env.sh
 
-# Determine Tag
-IMAGE_NAME=$PROJ_NAME
+# Determine the temporary (build) tag from the git commit ID
+FINAL_TAG=$IMAGE_TAG
 IMAGE_TAG=$(git rev-parse --short=12 HEAD)
 
 # Docker Build
@@ -24,5 +24,19 @@ run_py_script event.py
 # Run daily reporting
 run_py_script results.py
 
-# Docker Tag
+# Apply release tag, removing earlier tag / image if required
+for IMAGE in $(docker image ls --format "{{.Repository}}:{{.Tag}}" $IMAGE_NAME:$FINAL_TAG)
+do
+    docker image rm $IMAGE >/dev/null
+done
+docker tag $IMAGE_NAME:$IMAGE_TAG $IMAGE_NAME:$FINAL_TAG
+
+# Apply "latest" tag, removing earlier tag / image if required
+for IMAGE in $(docker image ls --format "{{.Repository}}:{{.Tag}}" $IMAGE_NAME:latest)
+do
+    docker image rm $IMAGE >/dev/null
+done
 docker tag $IMAGE_NAME:$IMAGE_TAG $IMAGE_NAME:latest
+
+# Remove the temporary tag to avoid <None> <None> at a later date
+docker image rm $IMAGE_NAME:$IMAGE_TAG

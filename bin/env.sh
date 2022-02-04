@@ -1,5 +1,9 @@
 PROJ_DIR=$(realpath $(dirname $0)/..)
 PROJ_NAME=$(basename $PROJ_DIR)
+
+IMAGE_NAME=logiqx/$PROJ_NAME
+IMAGE_TAG=1.0.0
+
 WORK_DIR=/home/jovyan/work/$PROJ_NAME
 
 run_py_script()
@@ -8,7 +12,7 @@ run_py_script()
          --mount type=bind,src=$PROJ_DIR/events,dst=$WORK_DIR/events,readonly \
          --mount type=bind,src=$PROJ_DIR/config,dst=$WORK_DIR/config,readonly \
          --mount type=bind,src=$PROJ_DIR/docs,dst=$WORK_DIR/docs \
-         ${PROJ_NAME}:${IMAGE_TAG:-latest} python/$1
+         $IMAGE_NAME:${IMAGE_TAG:-latest} python/$1
 }
 
 # Explanation at https://www.peterbe.com/plog/set-ex
