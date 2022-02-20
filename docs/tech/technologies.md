@@ -38,7 +38,7 @@ The project will probably migrate over to Microsoft's [Visual Studio Code](https
 
 [Git](https://git-scm.com/) is the most popular version control system in use today, suitable for small and large projects alike.
 
-This [project](https://github.com/Logiqx/wsw-results) is entirely open source and the repository (source code, data and documentation) is stored on [GitHub](https://en.wikipedia.org/wiki/GitHub).
+This [project](https://github.com/Logiqx/sse-results) is entirely open source and the repository (source code, data and documentation) is stored on [GitHub](https://en.wikipedia.org/wiki/GitHub).
 
 The web pages for Weymouth Speed Week [results](https://logiqx.github.io/wsw-results/results/index.html) are hosted on [GitHub Pages](https://pages.github.com/) due to it's native integration with GitHub.
 

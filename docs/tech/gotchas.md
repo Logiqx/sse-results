@@ -1,4 +1,4 @@
-## Gotchas
+## Speed Sailing Event Gotchas
 
 This document describes some of the common pitfalls which may apply during a speed sailing competition.
 

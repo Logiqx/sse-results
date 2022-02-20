@@ -1,6 +1,6 @@
 ## Todo
 
-This document contains a list of ideas + plans left to implement for this project. Where applicable I have added links to items on GitHub.
+This document contains a list of ideas + plans left to implement for the SSE Results project.
 
 I've broken them into "additional features" (medium-sized pieces of development), "minor tweaks" (minor changes / enhancements) and "data quality" (data refinements / report definition changes).
 
@@ -59,16 +59,6 @@ The final set of ideas for new features is some charts / visualisations for sess
 - Histograms, showing distributions of times during a session / event.
 - Box and whisker charts, showing craft comparisons / session comparisons.
 
-#### Excel Sync
-
-Add an XLSX to CSV conversion to extract all of the entrant details for the event.
-
-- Create Python script to do the initial conversion of the SSERPANT XLSX into CSV, rather than doing it manually.
-- Create Python script to sync the latest XLSX to the CSV, rather than doing it manually.
-  - Additional entrants
-  - Additional GPS IDs / serials
-  - Changes to craft type, status, "first timer" flag, entry type, gender, etc.
-
 
 
 ### Minor Tweaks
@@ -93,13 +83,8 @@ There are some trivial data items to add to several pages:
 
 #### Aesthetics
 
-The pages are relatively clean looking but some minor improvements might be worthwhile.
+The web pages are relatively clean looking but some minor improvements might be worthwhile.
 
-- Better banners; need to speak to Nick:
-  - 2007, 2008, 2010, 2011 and 2012 are perfect
-  - 2009 may exist somewhere?
-  - 2013 is low resolution and there may be a better one somewhere?
-  - The font for generic banners can be improved. What is the TTF font name?
 - Page descriptions (browser tab names) should be improved for the main page and event pages.
   - "Weymouth Speed Week" or "Weymouth Speed Week 2021") would be better than "Events" or "Event".
 - Craft type icons, maybe even group all of the reports based on craft type?
@@ -121,14 +106,8 @@ These items are entirely internal changes but the project would benefit from the
 
 There are some further data quality checks that can be undertaken but they are not a high priority.
 
-- Some of the report filters might benefit from minor tweaks:
-  - BKSA trophy may require a "United Kingdom" filter? James Longmuir to confirm.
-  - Decide if "lady sailboard" category should exclude youths in the earlier years; 2005 to 2010?
-  - Decide if "fastest man" and "fastest lady" should also exclude youths?
-- Check youth fleet ages in XLSX files - 2010 onwards.
-  - This isn't critical because all of the the prize winners since 2005 are definitely correct.
 - Remove runs going back up the course?
-  - Suspect this only happened in 2010 when the first GPS event was run.
+  - Suspect this only happened in WSW 2010 when the first GPS event was run.
   - Originally identified by the presence of apparent "duplicate" runs based on times < 2 mins apart.
   - e.g. Neil Hardwick on 20 Oct 2010; 14:39:52 (90.0°) and 14:41:21 (278.4°).
     - This issue is also evident for Thomas Jundt on the same day in 2010

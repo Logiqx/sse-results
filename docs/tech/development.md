@@ -10,6 +10,19 @@ The installation and configuration of the Docker daemon is detailed for Windows 
 
 
 
+#### Docker Base Images
+
+Although Docker will automatically "pull" the required base images when building the application image it is preferable to pull them manually, prior to the build.
+
+```shell
+$ docker pull jupyter/base-notebook:notebook-6.4.6
+$ docker pull python:3.10-slim-bullseye
+```
+
+Note: These are the Docker base images on 20 Feb 2022 but the version tags can be confirmed in the project [Dockerfile](https://docs.docker.com/engine/reference/builder/).
+
+
+
 #### Docker Compose
 
 In addition to the Docker daemon you need [Docker Compose](https://docs.docker.com/compose/) to do any further development.
@@ -30,11 +43,11 @@ $ docker-compose --version
 
 #### Compose Project
 
-The WSW project makes use of a generic Docker Compose project which is available on GitHub.
+The SSE Results project makes use of a generic Docker Compose project which is available on GitHub.
 
 The Docker Compose project includes [Jupyter](https://jupyter.org/) and [MariaDB](https://mariadb.org/) but this project only requires the Jupyter service.
 
-Be sure to clone the generic compose project to the same directory that the wsw-results project was previously cloned:
+Be sure to clone the generic compose project to the same directory that the sse-results project was previously cloned:
 
 ```shell
 $ git clone git@github.com:Logiqx/dev-compose.git
@@ -105,7 +118,7 @@ Open the URL containing 127.0.0.1, either by clicking on it whilst holding down 
 
 Development is via the Jupyter interface, accessible via http://127.0.0.1:8888/
 
-The Jupyter container uses a bind mount to the parent of the project folder. Project code is accessible via `work/wsw-results/python`.
+The Jupyter container uses a bind mount to the parent of the project folder. Project code is accessible via `work/sse-results/python`.
 
 Individual Python modules can be loaded, modified and tested via the Jupyter interface.
 
@@ -113,7 +126,7 @@ Individual Python modules can be loaded, modified and tested via the Jupyter int
 
 #### Modules
 
-The WSW application is composed of a number of modules, most of which contain a single Python class.
+The SSE Results application is composed of a number of modules, most of which contain a single Python class.
 
 Each module also contains a number of unit tests so the class can be modified and tested in isolation, within the Jupyter frontend.
 
@@ -129,13 +142,17 @@ n.b. After modifications to an individual module, re-running this script will be
 
 #### Build
 
-The Docker build process will convert any Jupyter notebooks (.ipynb files) to regular Python (.py files), run all of the unit tests, system tests and finally, run the reporting itself. If all of these steps are successful then the newly built Docker image will be tagged "latest".
+The Docker image for the project is created by running a shell script from within the project root:
 
 ```shell
 $ bin/docker_build.sh
 ```
 
-n.b. After a successful build the reports can subsequently be run by running `bin/reports.sh`.
+The build script will convert the Jupyter Notebooks to regular Python scripts, build a Docker image, run all of the unit tests and run the actual reports. If all of these steps are successful then the Docker image will be tagged as the "latest" and will be available for re-use.
+
+Note: The very first build will take a lot longer to complete because it has to build image layers for Python; bundling up all of the required third party libraries, etc.
+
+After a successful build the reports can subsequently be run by running `bin/reports.sh`.
 
 
 

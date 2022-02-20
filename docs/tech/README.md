@@ -41,3 +41,4 @@ Several of the topics have yet to be completed and may have little more than a w
 ### Quality Assurances
 
 - [Testing](testing.md) (incomplete) - summary of unit testing, system testing and manual testing.
+- [Reconciliation](reconciliation.md) - summary of differences between these WSW results and the results originally published.

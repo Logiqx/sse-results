@@ -4,6 +4,8 @@ All of the configuration files for this project are either JSON or CSV.
 
 It is possible to search them efficiently from the command prompt using tools such as [jq](https://stedolan.github.io/jq/) and [csvkit](https://csvkit.readthedocs.io/en/latest/).
 
+The following examples all relate to the historical WSW data within the project.
+
 
 
 
