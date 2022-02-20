@@ -1,10 +1,10 @@
-# wsw-results
+# sse-results
 
 ## Overview
 
 This project was originallly created to produce the daily and weekly results for [Weymouth Speed Week](https://www.speedsailing.com/) 2022.
 
-It supersedes the Excel macros (SSERPANT) that were used to generate the WSW results between 2010 and 2021.
+Generic features have subsequently been separated out to create this project; Speed Sailing Event Results / sse-results.
 
 
 
@@ -12,16 +12,11 @@ It supersedes the Excel macros (SSERPANT) that were used to generate the WSW res
 
 This project has become rather more elaborate than originally planned and now has the following features:
 
-- Generates Weymouth Speed Week (WSW) results for all years since 1998.
+- Generates sped sailing event results.
   - Daily and weekly reports.
-  - Overall results (including craft types) and competitor profiles are planned across multiple years.
+  - Configurable categories; e.g. craft, fleet, age categories, etc.
   - Country flags are shown where known for the competitors.
   - Prizes and records are highlighted by emojis, where applicable.
-  - Categories (e.g. Gold Fleet) have varied over the years and have been applied to historical results accordingly.
-- PLANNED - Records will be highlighted in reports and competitor profiles;historically and during an event.
-  - Overall records
-  - Records by craft type; Boat, Windsurfer, Kiteboard, etc.
-  - Female records; overall, craft type, etc.
 - PLANNED - Events such as the UKWA Speed Championship and ISWC competitions will automatically be scored where applicable.
   - Qualifying criteria will be applied, dependent on course type.
   - Results will be calculated based on the average of each competitors best runs.
@@ -30,13 +25,11 @@ This project has become rather more elaborate than originally planned and now ha
 - Heaps of data validation
   - The main goal is to get results produced quickly and reliably, without crashing due to minor data issues.
   - Data issues are automatically fixed (where possible) or at the very least least, highlighted to the person running the reports.
-    - Gold Fleet and Pro Fleet entrants will have the "first timer" flag set to "N" from the first timer.
     - Duplicate runs due to multiple GT-31s or multiple files (SBP and SBN) are automatically de-duplicated.
-    - 2-day entrants exceeding their entry are highlighted to the event organisers.
   - Reading the [diagnostics](docs/tech/diagnostics.md) document will provide insight into the results processing and the handling of data issues.
   - Extensive unit testing and thorough system testing has been undertaken and is described later in this document.
 
-Note: The years 2000 and 2001 had 200m, 300m and 700m courses which are reported separately and will not impact 500m records.
+Note: Different course lengths can be reported separately and will not impact 500m records.
 
 
 
@@ -58,8 +51,8 @@ The algorithm itself will not be explained in this document but the code can be 
 
 There are 3 main reasons for building this "fuzzy matching" functionality as actual code:
 
-1. The initial process of getting competitor names consistent between 1998 to 2021 was a lot less tedious and less prone to error.
-2. The automated testing which compares newly generated results with past results can recognise the names in the original results.
+1. The initial process of getting competitor names consistent across all years is a lot less tedious and less prone to error.
+2. The automated testing which compares newly generated WSW results with past results can recognise names in the original results.
 3. All future competitors with "fuzzy matches" to names in previous years can be highlighted automatically by the reporting process.
 
 
@@ -69,11 +62,11 @@ There are 3 main reasons for building this "fuzzy matching" functionality as act
 The project includes pretty extensive unit testing within all of the Python modules:
 
 - Core functionality for all of the classes / modules is tested during the software build.
-- Results generated for past years (1998-2009) are automatically compared against what was originally published, where available:
+- Results generated for WSW (1998-2009) are automatically compared against what was originally published, where available:
   - Course results
   - Session results
   - Event results
-- Results for all of the categories since 2005 have been thoroughly checked and [reconciled](docs/tech/reconciliation.md) - e.g. Youths, Masters, Gold Fleet, etc.
+- Results for all of the WSW categories since 2005 have been thoroughly checked and reconciled - e.g. Youths, Masters, Gold Fleet, etc.
 - n.b. The "fuzzy name matching" algorithm is utilised when comparing results of past years against what was originally published.
 
 Thorough unit testing ensures that the software can be trusted for all past results and will accurately generate results in the future.
