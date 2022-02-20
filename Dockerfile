@@ -53,7 +53,7 @@ RUN pip install --no-cache-dir \
 USER ${PY_USER}
 WORKDIR /home/${PY_USER}/work/sse-results
 COPY --from=builder --chown=jovyan:jovyan /home/jovyan/work/sse-results/ ./
-RUN mkdir data docs
+RUN mkdir docs
 
 # Wait for CMD to exit, reap zombies and perform signal forwarding
 ENTRYPOINT ["/usr/bin/tini", "--"]
