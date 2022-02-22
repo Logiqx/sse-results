@@ -181,10 +181,10 @@ Sail Number,Finish Time,Speed (kts),Course Angle,Course Length,First Name,Last N
 328,13:56:00,16.67,100,544,Adrian,Wallis,Sailboard
 328,14:17:00,15.32,100,544,Adrian,Wallis,Sailboard
 328,15:47:00,2.22,100,544,Adrian,Wallis,Sailboard
-349,15:09:00,20.26,100,544,Brian,Warner,Sailboard
-349,14:55:00,19.84,100,544,Brian,Warner,Sailboard
-349,15:24:00,11.27,100,544,Brian,Warner,Sailboard
-349,15:59:00,8.70,100,544,Brian,Warner,Sailboard
+349,15:09:00,20.26,100,544,Brian "Bruno",Warner,Sailboard
+349,14:55:00,19.84,100,544,Brian "Bruno",Warner,Sailboard
+349,15:24:00,11.27,100,544,Brian "Bruno",Warner,Sailboard
+349,15:59:00,8.70,100,544,Brian "Bruno",Warner,Sailboard
 407,15:16:00,22.96,100,544,Simon,Hinkley,Sailboard
 407,15:32:00,22.58,100,544,Simon,Hinkley,Sailboard
 407,15:09:00,22.13,100,544,Simon,Hinkley,Sailboard
