@@ -1,8 +1,20 @@
 # sse-results
 
+Copyright 2022 Michael George (AKA Logiqx).
+
+This file is part of [sse-results](https://github.com/Logiqx/sse-results) and is distributed under the terms of the GNU General Public License.
+
+sse-results is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
+
+sse-results is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License along with sse-results. If not, see <https://www.gnu.org/licenses/>.
+
+
+
 ## Overview
 
-This project was originallly created to produce the daily and weekly results for [Weymouth Speed Week](https://www.speedsailing.com/) 2022.
+This project was originally created to produce the daily and weekly results for [Weymouth Speed Week](https://www.speedsailing.com/) 2022.
 
 Generic features have subsequently been separated out to create this project; Speed Sailing Event Results / sse-results.
 
