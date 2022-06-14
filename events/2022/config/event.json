@@ -152,5 +152,23 @@
       "Filter": "Craft Type=Wingboard",
       "Places": 1
     }
-  ]
+  ],
+  "Series": {
+    "UKWA": {
+      "Name": "UKWA Speed Championship 2022",
+      "Round": "Weymouth",
+      "Banner": "ukwa_logo.jpg",
+      "Website": "https://ukwindsurfing.com/",
+      "Average Runs": 2,
+      "Qualifying Filter": "Craft Type=Sailboard,UKWA Member=Y",
+      "Qualifying Runs": 2,
+      "Qualifying Round %": 20,
+      "Qualifying Speed": {
+        "Harbour": 28,
+        "Shore": 28
+      },
+      "Discards": "0,0,0,1,1,1,2,2,2,2,3,3,3,3,3,4",
+      "Sort": "Net Score=ASC,Best Speed=DESC,Results=ASC,Final Result=ASC"
+    }
+  }
 }
