@@ -171,13 +171,20 @@
       "Round": "Great Britain",
       "Banner": "iswc_logo.jpg",
       "Website": "https://internationalwindsurfing.com/rules/",
-      "Average Runs": 2,
-      "Qualifying Filter": "Craft Type=Sailboard,ISWC Member=Y,Gender=M,Status<>Youth Fleet",
-      "Qualifying Runs": 3,
-      "Qualifying Round %": 25,
-      "Qualifying Speed": {
-        "Harbour": 28,
-        "Shore": 30
+      "Average": 2,
+      "Filter": "Craft Type=Sailboard,ISWC Member=Y",
+      "Fleets": {
+        "Men": "Gender=M",
+        "Women": "Gender=F"
+      },
+      "Validity": {
+        "Filter": "Gender=M",
+        "Percentage": 25,
+        "Runs": 3,
+        "Speeds": {
+          "Harbour": 28,
+          "Shore": 30
+        }
       },
       "Discards": "0,0,0,1,1,1,2,2,2,2,3,3,3,3,3,4",
       "Sort": "Net Score=ASC,Best Speed=DESC,Results=ASC,Final Result=ASC"
@@ -187,13 +194,20 @@
       "Round": "Weymouth",
       "Banner": "ukwa_logo.jpg",
       "Website": "https://ukwindsurfing.com/",
-      "Average Runs": 2,
-      "Qualifying Filter": "Craft Type=Sailboard,UKWA Member=Y",
-      "Qualifying Runs": 2,
-      "Qualifying Round %": 20,
-      "Qualifying Speed": {
-        "Harbour": 28,
-        "Shore": 28
+      "Average": 2,
+      "Filter": "Craft Type=Sailboard,UKWA Member=Y",
+      "Fleets": {
+        "Men": "Gender=M",
+        "Women": "Gender=F"
+      },
+      "Validity": {
+        "Filter": "Gender=M",
+        "Percentage": 20,
+        "Runs": 2,
+        "Speeds": {
+          "Harbour": 28,
+          "Shore": 28
+        }
       },
       "Discards": "0,0,0,1,1,1,2,2,2,2,3,3,3,3,3,4",
       "Sort": "Net Score=ASC,Best Speed=DESC,Results=ASC,Final Result=ASC"
