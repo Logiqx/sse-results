@@ -96,7 +96,9 @@
     "grouping": 15,
     "bests": 20,
     "runs": 21,
-    "entrants": 25
+    "entrants": 25,
+    "ukwa": 30,
+    "iswc": 31
   },
   "Emojis": {
     "Tankard": "🍺",
