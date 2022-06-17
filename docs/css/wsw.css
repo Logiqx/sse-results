@@ -229,6 +229,27 @@ table.grouping tr td:last-child {
   text-align: right;
 }
 
+/* Name */
+table.ukwa tr td:nth-child(2),
+table.iswc tr td:nth-child(2) {
+  text-align: left;
+}
+/* Nation */
+table.ukwa tr td:nth-child(3),
+table.iswc tr td:nth-child(3) {
+  text-align: left;
+  white-space: nowrap;
+}
+/* Speeds */
+table.ukwa tr td:nth-last-child(1),
+table.ukwa tr td:nth-last-child(2),
+table.ukwa tr td:nth-last-child(3),
+table.iswc tr td:nth-last-child(1),
+table.iswc tr td:nth-last-child(2),
+table.iswc tr td:nth-last-child(3) {
+  text-align: right;
+}
+
 a:link {
   text-decoration: none;
   color: #e64503;
