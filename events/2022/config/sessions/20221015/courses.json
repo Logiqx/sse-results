@@ -1,7 +1,7 @@
 {
   "Comment": "This session has not started yet!",
   "Default": {
-    "Start Time": "09:00",
-    "End Time": "18:00"
+    "Start Time": "09:00:00",
+    "End Time": "18:00:00"
   }
 }

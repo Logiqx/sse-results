@@ -1,8 +1,8 @@
 {
   "Comment": "A variety of course lengths were used during this session;<br/>500m, 300m and 700m.",
   "Default": {
-    "Start Time": "09:00",
-    "End Time": "18:00"
+    "Start Time": "09:00:00",
+    "End Time": "18:00:00"
   },
   "S1": {
     "Distance (m)": 300

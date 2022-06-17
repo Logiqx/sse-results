@@ -1,7 +1,7 @@
 {
   "Comment": "The results recorded on the timing boats on the speed course during the morning were lost.<br/><br/>A small number of runs during that time were recorded in the club house, however they were not a complete record.<br/><br/>The fastest windsurfer to be witnessed was Peter Martin sail number 181 at 28.42 knots, unfortunately this time was not recorded although it appeared on the screens during the days sailing.<br/><br/>The fastest boat was Torix Bennett number 101 at 20.27 knots. There was no faster run witnessed during the day.<br/><br/>Therefore prizes were presented to the above named.<br/><br/>It was inappropriate to award any prize for highest wind speed to sailing speed ratio.",
   "Default": {
-    "Start Time": "09:00",
-    "End Time": "18:00"
+    "Start Time": "09:00:00",
+    "End Time": "18:00:00"
   }
 }

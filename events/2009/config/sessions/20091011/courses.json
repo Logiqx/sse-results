@@ -1,7 +1,7 @@
 {
   "Comment": "The full list of GPS runs during the session are not available.<br/>Only the best GPS runs were published during the event.",
   "Default": {
-    "Start Time": "09:00",
-    "End Time": "18:00"
+    "Start Time": "09:00:00",
+    "End Time": "18:00:00"
   }
 }

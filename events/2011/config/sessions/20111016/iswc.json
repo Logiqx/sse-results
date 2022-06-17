@@ -1,10 +1,10 @@
 {
   "Leg 1": {
-    "Start Time": "10:00",
-    "End Time": "12:00"
+    "Start Time": "10:00:00",
+    "End Time": "12:00:00"
   },
   "Leg 2": {
-    "Start Time": "13:00",
-    "End Time": "14:30"
+    "Start Time": "13:00:00",
+    "End Time": "14:30:00"
   }
 }
