@@ -1,0 +1,16 @@
+{
+  "Suptitle": "ISWC Runs of the Day - {Date}",
+  "Period": "Session",
+  "Fields": "Name,Nation,Run 1 (kts),Run 2 (kts),Avg (kts)",
+  "Sort": "Avg (kts)=DSC",
+  "Reports": [
+    {
+      "Title": "Men",
+      "Filter": "ISWC=Round,Gender=M"
+    },
+    {
+      "Title": "Women",
+      "Filter": "ISWC=Round,Gender=F"
+    }
+  ]
+}
