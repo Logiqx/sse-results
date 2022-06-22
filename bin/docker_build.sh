@@ -24,6 +24,9 @@ run_py_script event.py
 # Run daily reporting
 run_py_script results.py
 
+# Run series reporting
+run_py_script series.py
+
 # Apply release tag, removing earlier tag / image if required
 if [ -n "$(docker image ls -q $IMAGE_NAME:$FINAL_TAG)" ]
 then
