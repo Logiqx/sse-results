@@ -18,6 +18,7 @@ Several of the topics have yet to be completed and may have little more than a w
 
 ### Technical Details
 
+- [Motion](motion.md) - details about the Motion server for automatic track downloads, etc.
 - [Configuration](configuration.md) (incomplete) - details of application, event and session configuration files.
 - [Reports](reports.md) (incomplete) - details of reporting engine, report definitions, configuration, etc.
 - [Countries](countries.md) - details of the country codes used by this project, just for the sake of completeness.
