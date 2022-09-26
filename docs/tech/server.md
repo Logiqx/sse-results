@@ -24,7 +24,7 @@ Communication between the workers in different thread pools is achieved via mess
 
 It can be seen from the diagram above that some of the thread pools do not have master threads. This is because the worker threads will consume directly from the appropriate message queue. The thread pools that detect connections and disconnections of Motions from the network both require a master thread. The role of the master thread is to allocate tasks to the worker threads via an internal message queue, based on the status of motions.
 
-Note: Message queues are a thread-safe way to effectively pass data between different threads, guaranteeing that only thread will ever consume the message and that all worker threads can be kept as busy as possible.
+Note: Message queues are a thread-safe way to effectively pass data between different threads, guaranteeing that only one thread will ever consume the message and that all worker threads can be kept as busy as possible.
 
 
 
@@ -35,6 +35,8 @@ All notable events should be written to a log file; connections, issues with set
 The log file can either be watched in real-time or analyzed at a later date / time.
 
 
+
+### Thread Pools
 
 #### Thread Pool 1 - Detect Motions
 
@@ -65,6 +67,9 @@ For each item retrieved from the queue (corresponding to a single motion), inspe
 
 - Retrieve info.json and settings.json from the motion and save in the local cache.
 - Retrieve logs.json and save in the local cache.
+- Determine if Motion firmware and settings are as expected so that a warning can be shown.
+  - Settings will be automatically fixed in the future, when it is supported by the firmware.
+
 - Determine if any tracks need to be downloaded by checking if they are already present locally.
   - If downloads are required then trigger the onwards processing:
     - Set the motion status to "pending".
@@ -73,12 +78,12 @@ For each item retrieved from the queue (corresponding to a single motion), inspe
   - If no downloads are required then there is no further processing:
     - Set the motion status to "completed".
     - Record the absence of files due for download in the log file.
-- If either of the above steps encounters an error then do the following:
+- If any of the above steps encounter an error then do the following:
   - Set the motion status to "failed".
   - Discard the address information. This will invoke an auto-retry, via the motion detection thread.
   - Record the nature of the error in the log file.
 
-Note: There is no need for a "sleep" because the worker threads are waiting on the "connections" queue.
+Note: There is no need for a sleep timer because the worker threads are waiting on the "connections" queue.
 
 
 
@@ -99,7 +104,7 @@ For each item retrieved from the queue (corresponding to a single motion), downl
   - Discard the address information. This will invoke an auto-retry, via the motion detection thread.
   - Record the nature of the error in the log file.
 
-Note: There is no need for a "sleep" because the threads are waiting on the "downloads" queue.
+Note: There is no need for a sleep timer because the threads are waiting on the "downloads" queue.
 
 
 
@@ -130,8 +135,12 @@ n.b. It is almost certain that the motion objects will require a mutex to avoid 
 
 
 
-### Startup and Shutdown
+### Technical Notes
 
-It is important to exit threads gracefully when the software is terminated. Failure to do so may result in partial HTML and / or log files.
+#### Startup and Shutdown
 
-Clean shutdown of active threads is easy to achieve using a single Python event.
+It is important to exit threads gracefully when the software is terminated.
+
+Failure to exit threads gracefully may result in partial HTML and / or log files.
+
+Graceful exit of active threads is easy to achieve using a single Python event.
