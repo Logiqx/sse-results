@@ -15,7 +15,7 @@ Entrant ID,Tally,Motion ID,Start Date,End Date,File ID,First Name,Family Name,Cr
 65,113,635,2022-10-15,2022-10-21,CON113GAR,Garry,Connell,Sailboard,Pro-Fleet
 66,114,639,2022-10-15,2022-10-21,NEW114MAR,Mark,Newman,Sailboard,Pro-Fleet
 67,115,656,2022-10-15,2022-10-21,LON115JAM,James,Longmuir,Kiteboard,Kite-Fleet
-82,116,999,2022-10-15,2022-10-21,GAU116BEN,Benoit,Gaudiot,Kiteboard,Kite-Fleet
-87,117,999,2022-10-15,2022-10-21,MAR117PET,Peter,Martin,Kiteboard,Kite-Fleet
-88,118,999,2022-10-15,2022-10-21,STA118SCO,Scotty,Stallman,Sailboard,Pro-Fleet
-91,119,999,2022-10-15,2022-10-21,VAN119PAT,Patrick,Van Hoof,Sailboard,Pro-Fleet
+82,116,0,2022-10-15,2022-10-21,GAU116BEN,Benoit,Gaudiot,Kiteboard,Kite-Fleet
+87,117,0,2022-10-15,2022-10-21,MAR117PET,Peter,Martin,Kiteboard,Kite-Fleet
+88,118,0,2022-10-15,2022-10-21,STA118SCO,Scotty,Stallman,Sailboard,Pro-Fleet
+91,119,0,2022-10-15,2022-10-21,VAN119PAT,Patrick,Van Hoof,Sailboard,Pro-Fleet
