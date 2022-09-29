@@ -26,7 +26,7 @@
     },
     {
       "Title": "Fastest Kiteboards",
-      "Fields": "Name,Nation,First Timer,Course,Start Time,Speed (kts)",
+      "Fields": "Name,Nation,Status,First Timer,Course,Start Time,Speed (kts)",
       "Filter": "Craft Type=Kiteboard"
     },
     {
@@ -48,6 +48,16 @@
       "Title": "Fastest Ladies",
       "Fields": "Name,Nation,Craft Type,Status,First Timer,Course,Start Time,Speed (kts)",
       "Filter": "Gender=F"
+    },
+    {
+      "Title": "Fastest Open Class Kiteboards",
+      "Fields": "Name,Nation,Course,Start Time,Speed (kts)",
+      "Filter": "Craft Type=Kiteboard,Status=Open Class"
+    },
+    {
+      "Title": "Fastest Freeride Kiteboards",
+      "Fields": "Name,Nation,Course,Start Time,Speed (kts)",
+      "Filter": "Craft Type=Kiteboard,Status=Freeride"
     },
     {
       "Title": "Fastest Pro Sailboards",
