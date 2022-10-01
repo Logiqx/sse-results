@@ -1,0 +1,19 @@
+{
+  "Logging": {
+    "Level": 20
+  },
+  "DetectionThreadPool": {
+    "Interval": 10,
+    "Threads": 8
+  },
+  "InspectionThreadPool": {
+    "Threads": 4
+  },
+  "DownloadThreadPool": {
+    "Threads": 4
+  },
+  "DisconnectionThreadPool": {
+    "Interval": 10,
+    "Threads": 8
+  }
+}
