@@ -2,30 +2,32 @@
   "Logging": {
     "Level": 20
   },
-  "DetectionThread": {
-    "Timeout": 5
-  },
-  "DetectionThreadPool": {
-    "Interval": 10,
-    "Threads": 8
-  },
-  "InspectionThread": {
-    "Timeout": 10
-  },
-  "InspectionThreadPool": {
-    "Threads": 4
-  },
-  "DownloadThread": {
-    "Timeout": 30
-  },
-  "DownloadThreadPool": {
-    "Threads": 4
-  },
-  "DisconnectionThread": {
-    "Timeout": 5
-  },
-  "DisconnectionThreadPool": {
-    "Interval": 10,
-    "Threads": 8
+  "Threading": {
+    "DetectionThread": {
+      "Timeout": 5
+    },
+    "DetectionThreadPool": {
+      "Interval": 10,
+      "Threads": 8
+    },
+    "InspectionThread": {
+      "Timeout": 10
+    },
+    "InspectionThreadPool": {
+      "Threads": 4
+    },
+    "DownloadThread": {
+      "Timeout": 30
+    },
+    "DownloadThreadPool": {
+      "Threads": 4
+    },
+    "DisconnectionThread": {
+      "Timeout": 5
+    },
+    "DisconnectionThreadPool": {
+      "Interval": 10,
+      "Threads": 8
+    }
   }
 }
