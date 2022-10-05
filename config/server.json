@@ -1,4 +1,23 @@
 {
+  "Motion": {
+    "Info": {
+      "Firmwares": [
+        3168
+      ],
+      "Thresholds": {
+        "Storage": 95,
+        "Battery": 85
+      }
+    },
+    "Settings": {
+      "Speed": "kn",
+      "Distance": "km",
+      "GNSS Rate": 5,
+      "One Log Per Day": 0,
+      "Timezone": 60,
+      "Flash": 1
+    }
+  },
   "Logging": {
     "Level": 20
   },
