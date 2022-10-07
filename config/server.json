@@ -2,11 +2,12 @@
   "Motion": {
     "Info": {
       "Firmwares": [
-        3168
+        9000,
+        9001
       ],
       "Thresholds": {
         "Storage": 95,
-        "Battery": 85
+        "Battery": 60
       }
     },
     "Settings": {
