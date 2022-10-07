@@ -31,32 +31,41 @@
     }
   },
   "Logging": {
+    "Comment": "10 = debug, 20 = info (recommended), 30 = warning, 40 = error, 50 = critical",
     "Level": 20
   },
   "Threading": {
     "DetectionThread": {
+      "Comment": "Timeout is for the socket connection (port 80)",
       "Timeout": 5
     },
     "DetectionThreadPool": {
+      "Comment": "Threads dictates how many motions can be checked concurrently",
       "Interval": 10,
       "Threads": 8
     },
     "InspectionThread": {
+      "Comment": "Timeout is for an individual HTTP request (info.json, settings.json and logs.json)",
       "Timeout": 10
     },
     "InspectionThreadPool": {
+      "Comment": "Threads dictates how many log downloads can happen concurrently",
       "Threads": 4
     },
     "DownloadThread": {
+      "Comment": "Timeout is for an individual HTTP request (*.oao)",
       "Timeout": 30
     },
     "DownloadThreadPool": {
+      "Comment": "Threads dictates how many log downloads can happen concurrently",
       "Threads": 4
     },
     "DisconnectionThread": {
+      "Comment": "Timeout is for the socket connection (port 80)",
       "Timeout": 5
     },
     "DisconnectionThreadPool": {
+      "Comment": "Threads dictates how many motions can be checked concurrently",
       "Interval": 10,
       "Threads": 8
     }
