@@ -2,7 +2,7 @@
   "Motion": {
     "Info": {
       "Firmwares": {
-        "3170 (development)": [
+        "3170 Development": [
           "GNSS configuration from firmware 3168; PMS = Full, LNA = Normal",
           "Devices will automatically restart and resume logging after a panic."
         ],
