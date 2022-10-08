@@ -14,6 +14,9 @@
         ],
         "9001": [
           "Updated list of WSW identifiers; 601 611 615 617 618 619 621 625 630 631 632 633 634 635 639 656"
+        ],
+        "9002": [
+          "Correct WiFi password and edition/deletion forbidden"
         ]
       },
       "Thresholds": {
@@ -52,7 +55,7 @@
     },
     "InspectionThreadPool": {
       "Comment": "Threads dictates how many log downloads can happen concurrently",
-      "Threads": 4
+      "Threads": 8
     },
     "DownloadThread": {
       "Comment": "Timeout is for an individual HTTP request (*.oao)",
