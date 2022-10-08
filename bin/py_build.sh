@@ -21,8 +21,9 @@ docker run --rm --entrypoint cat $IMAGE_NAME:$IMAGE_TAG $WORK_DIR/python/speedru
 docker run --rm --entrypoint cat $IMAGE_NAME:$IMAGE_TAG $WORK_DIR/python/period.py >$PROJ_DIR/python/period.py
 docker run --rm --entrypoint cat $IMAGE_NAME:$IMAGE_TAG $WORK_DIR/python/course.py >$PROJ_DIR/python/course.py
 docker run --rm --entrypoint cat $IMAGE_NAME:$IMAGE_TAG $WORK_DIR/python/session.py >$PROJ_DIR/python/session.py
-docker run --rm --entrypoint cat $IMAGE_NAME:$IMAGE_TAG $WORK_DIR/python/threadpool.py >$PROJ_DIR/python/threadpool.py
 docker run --rm --entrypoint cat $IMAGE_NAME:$IMAGE_TAG $WORK_DIR/python/event.py >$PROJ_DIR/python/event.py
+docker run --rm --entrypoint cat $IMAGE_NAME:$IMAGE_TAG $WORK_DIR/python/threadpool.py >$PROJ_DIR/python/threadpool.py
+docker run --rm --entrypoint cat $IMAGE_NAME:$IMAGE_TAG $WORK_DIR/python/motiongps.py >$PROJ_DIR/python/motiongps.py
 
 # Clear pycache
 rm -f $PROJ_DIR/python/__pycache__/*.*.pyc

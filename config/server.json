@@ -22,8 +22,6 @@
       }
     },
     "Settings": {
-      "Speed": "kn",
-      "Distance": "km",
       "GNSS Rate": 5,
       "One Log Per Day": 0,
       "Timezone": 60,
