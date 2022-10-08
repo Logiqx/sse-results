@@ -6,16 +6,16 @@
           "GNSS configuration from firmware 3168; PMS = Full, LNA = Normal",
           "Devices will automatically restart and resume logging after a panic."
         ],
-        "9000": [
+        "9000 Weymouth Speed Week": [
           "WSW version of 3170. Latest GNSS configuration and auto-restart.",
           "Fixed settings for all motions; 5Hz, 5kn min, UTC+1, WSW WiFi.",
           "Fixed settings for all minis; Blinker = on.",
           "Fixed settings for WSW motions; name = WSW, speed = knots, distance = km, custom blinkers = last 500m, best 500m, last 250m, best 250m."
         ],
-        "9001": [
+        "9001 Weymouth Speed Week": [
           "Updated list of WSW identifiers; 601 611 615 617 618 619 621 625 630 631 632 633 634 635 639 656"
         ],
-        "9002": [
+        "9002 Weymouth Speed Week": [
           "Correct WiFi password and edition/deletion forbidden"
         ]
       },
