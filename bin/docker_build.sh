@@ -19,6 +19,7 @@ run_py_script speedrun.py
 run_py_script period.py
 run_py_script course.py
 run_py_script session.py
+run_py_script threadpool.py
 run_py_script event.py
 
 # Run daily reporting

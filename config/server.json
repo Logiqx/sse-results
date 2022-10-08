@@ -34,6 +34,10 @@
     "Comment": "10 = debug, 20 = info (recommended), 30 = warning, 40 = error, 50 = critical",
     "Level": 20
   },
+  "Queuing": {
+    "Comment": "The queue timeout dictates how quickly a worker thread can process the stop event",
+    "Timeout": 1
+  },
   "Threading": {
     "DetectionThread": {
       "Comment": "Timeout is for the socket connection (port 80)",
