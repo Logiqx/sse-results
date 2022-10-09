@@ -10,7 +10,7 @@
           "Same features as 9002 Weymouth Speed Week, just without the fixed settings."
         ],
         "3175 Release": [
-          "Re-issue of 3174."
+          "Fixes issue that could cause mini to lock up and unable to restart, requiring ~24 hours of wait."
         ],
         "9000 Weymouth Speed Week": [
           "WSW version of 3170. Latest GNSS configuration and auto-restart.",
