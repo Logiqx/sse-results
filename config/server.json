@@ -6,6 +6,12 @@
           "GNSS configuration from firmware 3168; PMS = Full, LNA = Normal",
           "Devices will automatically restart and resume logging after a panic."
         ],
+        "3174 Release": [
+          "Same features as 9002 Weymouth Speed Week, just without the fixed settings."
+        ],
+        "3175 Release": [
+          "Re-issue of 3174."
+        ],
         "9000 Weymouth Speed Week": [
           "WSW version of 3170. Latest GNSS configuration and auto-restart.",
           "Fixed settings for all motions; 5Hz, 5kn min, UTC+1, WSW WiFi.",
@@ -55,7 +61,7 @@
     },
     "InspectionThreadPool": {
       "Comment": "Threads dictates how many log downloads can happen concurrently",
-      "Threads": 8
+      "Threads": 4
     },
     "DownloadThread": {
       "Comment": "Timeout is for an individual HTTP request (*.oao)",
