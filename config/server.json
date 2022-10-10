@@ -1,4 +1,5 @@
 {
+  "Event": 2022,
   "Motion": {
     "Info": {
       "Firmwares": {
@@ -39,7 +40,8 @@
   },
   "Logging": {
     "Comment": "10 = debug, 20 = info (recommended), 30 = warning, 40 = error, 50 = critical",
-    "Level": 20
+    "Console Level": 20,
+    "File Level": 10
   },
   "Queuing": {
     "Comment": "The queue timeout dictates how quickly a worker thread can process the stop event",
@@ -47,11 +49,11 @@
   },
   "Threading": {
     "DetectionThread": {
-      "Comment": "Timeout is for the socket connection (port 80)",
+      "Comment": "Timeout for the socket connection (port 80)",
       "Timeout": 5
     },
     "DetectionThreadPool": {
-      "Comment": "Threads dictates how many motions can be checked concurrently",
+      "Comment": "Threads dictates how many motions can be polled concurrently. Interval is the minimum time (s) between each iteration",
       "Interval": 10,
       "Threads": 8
     },
@@ -60,7 +62,7 @@
       "Timeout": 10
     },
     "InspectionThreadPool": {
-      "Comment": "Threads dictates how many log downloads can happen concurrently",
+      "Comment": "Threads dictates how many motions can be inspected concurrently",
       "Threads": 4
     },
     "DownloadThread": {
@@ -68,15 +70,15 @@
       "Timeout": 30
     },
     "DownloadThreadPool": {
-      "Comment": "Threads dictates how many log downloads can happen concurrently",
+      "Comment": "Threads dictates how many motions can have their logs downloaded concurrently",
       "Threads": 4
     },
     "DisconnectionThread": {
-      "Comment": "Timeout is for the socket connection (port 80)",
+      "Comment": "Timeout for the socket connection (port 80)",
       "Timeout": 5
     },
     "DisconnectionThreadPool": {
-      "Comment": "Threads dictates how many motions can be checked concurrently",
+      "Comment": "Threads dictates how many motions can be checked concurrently. Interval is the minimum time (s) between each iteration",
       "Interval": 10,
       "Threads": 8
     }
