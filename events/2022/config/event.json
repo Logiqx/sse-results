@@ -20,13 +20,11 @@
       "TBC"
     ],
     "Status": [
-      "Youth Fleet",
       "Amateur",
       "Gold Fleet",
       "Pro Fleet",
       "Freeride",
       "Open Class",
-      "Kite Fleet",
       "Boat Fleet",
       "Wing Fleet",
       "TBC"
@@ -59,11 +57,9 @@
       "Hamworthy Heroes",
       "Pitsford",
       "Portland Pirates",
-      "Production Kit Kiteboarders",
       "Puravida Allstars",
       "Surf Hogs",
       "Twb",
-      "Wwsc",
       "TBC"
     ]
   },
@@ -71,10 +67,16 @@
     "Filters": [
       "Craft Type=Boat",
       "Craft Type=Kiteboard",
-      "Craft Type=Sailboard"
+      "Craft Type=Sailboard",
+      "Craft Type=Wingboard"
     ]
   },
   "Trophies": [
+    {
+      "Name": "Fastest Overall Trophy",
+      "Category": "Craft",
+      "Filter": ""
+    },
     {
       "Name": "Gold Fleet 'Fastest Sailor' Shield",
       "Category": "Gold Fleet Sailboard",
@@ -106,6 +108,11 @@
       "Filter": "Craft Type=Sailboard"
     },
     {
+      "Name": "Fastest Wingboard Trophy",
+      "Category": "Wingboard",
+      "Filter": "Craft Type=Wingboard"
+    },
+    {
       "Name": "BKSA Speed Champion Trophy",
       "Category": "Kiteboard",
       "Filter": "Craft Type=Kiteboard"
@@ -113,8 +120,8 @@
   ],
   "Prizes": [
     {
-      "Category": "Youth Sailboards",
-      "Filter": "Craft Type=Sailboard,Status=Youth Fleet,Weekend=Y",
+      "Category": "Youths",
+      "Filter": "Entry Type=Youth Weekend,Weekend=Y",
       "Places": 3
     },
     {
@@ -129,7 +136,7 @@
     },
     {
       "Category": "Amateur Sailboards",
-      "Filter": "Craft Type=Sailboard,Status=Amateur,First Timer<>Y",
+      "Filter": "Craft Type=Sailboard,Status=Amateur",
       "Places": 3
     },
     {
@@ -148,14 +155,29 @@
       "Places": 1
     },
     {
-      "Category": "Kiteboards",
-      "Filter": "Craft Type=Kiteboard",
-      "Places": 3
+      "Category": "First Time Kiteboard",
+      "Filter": "Craft Type=Kiteboard,First Timer=Y",
+      "Places": 1
     },
     {
-      "Category": "Wingboard",
-      "Filter": "Craft Type=Wingboard",
+      "Category": "Open Class Kiteboard",
+      "Filter": "Craft Type=Kiteboard,Status=Open Class",
       "Places": 1
+    },
+    {
+      "Category": "Freeride Kiteboard",
+      "Filter": "Craft Type=Kiteboard,Status=Freeride",
+      "Places": 1
+    },
+    {
+      "Category": "First Time Wingboard",
+      "Filter": "Craft Type=Wingboard,First Timer=Y",
+      "Places": 1
+    },
+    {
+      "Category": "Wingboards",
+      "Filter": "Craft Type=Wingboard",
+      "Places": 3
     }
   ],
   "Series": {
