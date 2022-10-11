@@ -14,6 +14,11 @@
   "Profile": true,
   "Reports": [
     {
+      "Title": "Hamworthy Heroes",
+      "Filter": "Grouping=Hamworthy Heroes",
+      "Fields": "Name,Nation,Status,First Timer,Course,Start Time,Speed (kts)"
+    },
+    {
       "Title": "HM Forces",
       "Filter": "Grouping=Forces - %",
       "Fields": "Name,Nation,Grouping,First Timer,Course,Start Time,Speed (kts)"
