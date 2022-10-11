@@ -60,7 +60,12 @@
       "Filter": "Craft Type=Kiteboard,Status=Freeride"
     },
     {
-      "Title": "Fastest Pro Sailboards",
+      "Title": "Fastest First Time Kiteboards",
+      "Fields": "Name,Nation,Course,Start Time,Speed (kts)",
+      "Filter": "Craft Type=Kiteboard,First Timer=Y"
+    },
+    {
+      "Title": "Fastest Pro Fleet Sailboards",
       "Fields": "Name,Nation,Course,Start Time,Speed (kts)",
       "Filter": "Craft Type=Sailboard,Status=Pro Fleet"
     },
@@ -71,9 +76,8 @@
     },
     {
       "Title": "Fastest Amateur Sailboards",
-      "Comment": "(excludes first time amateur sailboards)",
       "Fields": "Name,Nation,Course,Start Time,Speed (kts)",
-      "Filter": "Craft Type=Sailboard,Status=Amateur,First Timer<>Y"
+      "Filter": "Craft Type=Sailboard,Status=Amateur"
     },
     {
       "Title": "Fastest First Time Amateur Sailboards",
@@ -81,23 +85,28 @@
       "Filter": "Craft Type=Sailboard,Status=Amateur,First Timer=Y"
     },
     {
-      "Title": "Fastest Lady Sailboards",
-      "Comment": "(excluding pros and youths)",
-      "Fields": "Name,Nation,Status,First Timer,Course,Start Time,Speed (kts)",
-      "Filter": "Craft Type=Sailboard,Gender=F,Status<>Pro Fleet,Status<>Youth Fleet"
+      "Title": "Fastest First Time Wingboards",
+      "Fields": "Name,Nation,Course,Start Time,Speed (kts)",
+      "Filter": "Craft Type=Wingboard,First Timer=Y"
     },
     {
-      "Title": "Fastest Youth Sailboards",
+      "Title": "Fastest Lady Sailboards",
+      "Comment": "(excluding pros)",
+      "Fields": "Name,Nation,Status,First Timer,Course,Start Time,Speed (kts)",
+      "Filter": "Craft Type=Sailboard,Gender=F,Status<>Pro Fleet"
+    },
+    {
+      "Title": "Fastest Youths",
       "Comment": "(age <18 on 31st Oct)",
       "Fields": "Name,Nation,First Timer,Course,Start Time,Speed (kts)",
-      "Filter": "Craft Type=Sailboard,Status=Youth Fleet",
+      "Filter": "Entry Type=Youth Weekend",
       "Period": "Session"
     },
     {
-      "Title": "Fastest Youth Sailboards",
+      "Title": "Fastest Youths",
       "Comment": "(age <18 on 31st Oct)",
       "Fields": "Name,Nation,First Timer,Course,Start Time,Speed (kts)",
-      "Filter": "Craft Type=Sailboard,Status=Youth Fleet,Weekend=Y",
+      "Filter": "Entry Type=Youth Weekend,Weekend=Y",
       "Sort": "Speed (kts)=DSC",
       "Period": "Event"
     }
