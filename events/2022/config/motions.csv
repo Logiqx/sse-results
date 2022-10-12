@@ -5,7 +5,7 @@ Entrant ID,Tally,Motion ID,Start Date,End Date,File ID,First Name,Family Name,Cr
 7,103,617,2022-10-15,2022-10-21,PET103SIM,Simon,Pettifer,Sailboard,Pro Fleet
 15,104,618,2022-10-15,2022-10-21,BUR104EMI,Emile,Burnaby Lautier,Kiteboard,Open Class
 22,105,0,2022-10-15,2022-10-21,WAD105ALF,Alfie,Wade,Kiteboard,Freeride
-31,106,621,2022-10-15,2022-10-21,SPR106NIG,Nigel,Spriggs,Sailboard,Pro Fleet
+31,106,642,2022-10-15,2022-10-21,SPR106NIG,Nigel,Spriggs,Sailboard,Pro Fleet
 32,107,625,2022-10-15,2022-10-21,BUR107EMI,Emile Jan,Burnaby Lautier,Kiteboard,Open Class
 38,108,630,2022-10-15,2022-10-21,TRU108STU,Stuart,Trunkfield,Sailboard,Pro Fleet
 44,109,631,2022-10-15,2022-10-21,CAR109MAR,Martin,Carter,Kiteboard,Open Class
@@ -18,4 +18,10 @@ Entrant ID,Tally,Motion ID,Start Date,End Date,File ID,First Name,Family Name,Cr
 82,116,619,2022-10-15,2022-10-21,GAU116BEN,Benoit,Gaudiot,Kiteboard,Open Class
 87,117,0,2022-10-15,2022-10-21,MAR117PET,Peter,Martin,Kiteboard,Freeride
 88,118,633,2022-10-15,2022-10-21,STA118SCO,Scotty,Stallman,Sailboard,Pro Fleet
-91,119,0,2022-10-15,2022-10-21,VAN119PAT,Patrick,Van Hoof,Sailboard,Pro Fleet
+91,119,641,2022-10-15,2022-10-21,VAN119PAT,Patrick,Van Hoof,Sailboard,Pro Fleet
+0,0,643,2022-10-15,2022-10-21,TBC0TBC,TBC,TBC,TBC,TBC
+0,0,647,2022-10-15,2022-10-21,TBC0TBC,TBC,TBC,TBC,TBC
+0,0,648,2022-10-15,2022-10-21,TBC0TBC,TBC,TBC,TBC,TBC
+0,0,651,2022-10-15,2022-10-21,TBC0TBC,TBC,TBC,TBC,TBC
+0,0,652,2022-10-15,2022-10-21,TBC0TBC,TBC,TBC,TBC,TBC
+0,0,653,2022-10-15,2022-10-21,TBC0TBC,TBC,TBC,TBC,TBC
