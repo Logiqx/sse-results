@@ -99,16 +99,8 @@
       "Title": "Fastest Youths",
       "Comment": "(age <18 on 31st Oct)",
       "Fields": "Name,Nation,First Timer,Course,Start Time,Speed (kts)",
-      "Filter": "Entry Type=Youth Weekend",
-      "Period": "Session"
-    },
-    {
-      "Title": "Fastest Youths",
-      "Comment": "(age <18 on 31st Oct)",
-      "Fields": "Name,Nation,First Timer,Course,Start Time,Speed (kts)",
       "Filter": "Entry Type=Youth Weekend,Weekend=Y",
-      "Sort": "Speed (kts)=DSC",
-      "Period": "Event"
+      "Sort": "Speed (kts)=DSC"
     }
   ]
 }
