@@ -167,7 +167,7 @@
       },
       "Validity": {
         "Filter": "Gender=M",
-        "Percentage": 20,
+        "Percentage": 25,
         "Runs": 2,
         "Speeds": {
           "Harbour": 28,
