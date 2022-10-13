@@ -45,17 +45,17 @@ ID,Gender,Title,First Name,Family Name,Nationality,First Timer,Craft Type,Status
 37,M,Mr,Maciej ,Bukolt,England,Y,Sailboard,Amateur,,BUKOL4MACIE,932000583,V1.4(B0803T),,All Week,Y
 66,M,Mr,Mark,Newman,England,N,Sailboard,Pro-Fleet,,NEWMA26MARK,833002174,V1.4(B0315C),,All Week,N
 89,M,Mr,Mark,Palmer,England,N,Sailboard,Gold-Fleet,,,,,,All Week,Y
-29,M,Mr,Mark,Salvage,England,N,Wingboard,Wing-Fleet,,SALVA31MARK,123201465,V1.4(B0803T),,All Week,N
+29,M,Mr,Mark,Salvage,England,N,Wingboard,Wing-Fleet,,SALVA31MARK,123201465,V1.4(B0803T),,All Week,Y
 44,M,Mr,Martin,Carter,England,N,Kiteboard,Open Class,,,,,,All Week,N
 57,M,Mr,Matthew,York,England,N,Sailboard,Gold-Fleet,,,,,Pitsford,All Week,Y
 1,M,Mr,Michael,George,England,N,Sailboard,Pro-Fleet,,,,,Portland Pirates,All Week,Y
-43,M,Mr,Michael,George,England,N,Wingboard,Wing-Fleet,,,,,Portland Pirates,All Week,N
+43,M,Mr,Michael,George,England,N,Wingboard,Wing-Fleet,,,,,Portland Pirates,All Week,Y
 5,M,Mr,Neil,Thompson,England,N,Kiteboard,Open Class,,,,,,All Week,N
 61,M,Mr,Neil,Thorne,England,Y,Wingboard,Wing-Fleet,,THORN37NEIL,932000550,V1.4(B0803T),,All Week,N
-34,M,Mr,Neven,Juretic,England,N,Sailboard,Gold-Fleet,,JURET16NEVEN,932000576,V1.4(B0803T),,All Week,Y
+34,M,Mr,Neven,Juretic,England,N,Sailboard,Gold-Fleet,,JURET16NEVEN,932000576,V1.4(B0803T),,All Week,N
 48,M,Mr,Nic,Dodd,England,N,Sailboard,Amateur,,,,,,All Week,Y
 78,M,Mr,Nick,Povey,England,N,Boat,Boat-Fleet,Astus,,,,,All Week,N
-31,M,Mr,Nigel,Spriggs,Uk,N,Sailboard,Pro-Fleet,,SPRIG34NIGEL,932000531,V1.4(B0803T),Hamworthy Heroes,All Week,Y
+31,M,Mr,Nigel,Spriggs,Uk,N,Sailboard,Pro-Fleet,,SPRIG34NIGEL,932000531,V1.4(B0803T),Hamworthy Heroes,All Week,N
 91,M,Mr,Patrick,Van Hoof,Belgium,N,Sailboard,Pro-Fleet,,,,,,All Week,N
 76,M,Mr,Paul,Arnold,England,N,Sailboard,Amateur,,,,,,All Week,Y
 54,M,Mr,Paul,Wakelin,Wales,Y,Wingboard,Wing-Fleet,,WAKEL41PAUL,932000552,V1.4(B0803T),,All Week,N
@@ -64,7 +64,7 @@ ID,Gender,Title,First Name,Family Name,Nationality,First Timer,Craft Type,Status
 87,M,Mr,Peter,Martin,England,N,Kiteboard,Freeride,,,,,,All Week,N
 52,M,Mr,Phil,Horder,England,N,Kiteboard,Freeride,,HORDE15PHIL,932000588,V1.4(B0803T),,All Week,N
 11,M,Mr,Richard,Crosby,England,N,Sailboard,Gold-Fleet,,CROSB9RICHA,932000560,V1.4(B0803T),Surf Hogs,All Week,Y
-27,M,Mr,Richard,Hobson,England,N,Wingboard,Wing-Fleet,,HOBSO14RICHA,932000712,V1.4(B0803T),,All Week,N
+27,M,Mr,Richard,Hobson,England,N,Wingboard,Wing-Fleet,,HOBSO14RICHA,932000712,V1.4(B0803T),,All Week,Y
 46,M,Mr,Rob,Dunn,England,N,Sailboard,Amateur,,,,,Forces - Royal Navy,All Week,N
 64,M,Mr,Robert,Spagnoletti,England,N,Sailboard,Gold-Fleet,,,,,,All Week,N
 49,M,Mr,Robin,Penna,England,N,Sailboard,Gold-Fleet,,,,,,All Week,N
@@ -89,4 +89,4 @@ ID,Gender,Title,First Name,Family Name,Nationality,First Timer,Craft Type,Status
 47,F,Mrs,Trish,Kohn,England,N,Sailboard,Amateur,,KOHN19TRISH,932001290,V1.4(B0803T),Forces - Royal Navy,All Week,N
 62,M,Mr,Will,Trossell,England,N,Sailboard,Gold-Fleet,,,,,,All Week,Y
 81,M,Mr,Zack,Peaple,England,Y,Sailboard,Amateur,,,,,,Youth Weekend,N
-69,F,Mrs,Zara,Davis,England,N,Wingboard,Wing-Fleet,,,,,,All Week,N
+69,F,Mrs,Zara,Davis,England,N,Wingboard,Wing-Fleet,,,,,,All Week,Y
