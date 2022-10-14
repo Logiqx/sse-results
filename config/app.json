@@ -5,7 +5,7 @@
     "Banner": "wswlogo_all.png"
   },
   "History": {
-    "Refresh": false,
+    "Refresh": true,
     "Verbosity": 1
   },
   "Latest": {
