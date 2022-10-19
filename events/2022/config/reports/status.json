@@ -67,7 +67,7 @@
     {
       "Title": "All Youths",
       "Comment": "(age <18 on 31st Oct)",
-      "Fields": "Name,Nation,First Timer,Course,Start Time,Speed (kts)",
+      "Fields": "Name,Nation,Craft Type,First Timer,Course,Start Time,Speed (kts)",
       "Filter": "Entry Type=Youth Weekend,Weekend=Y",
       "Sort": "Speed (kts)=DSC"
     }

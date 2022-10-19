@@ -2,40 +2,48 @@
   "Suptitle": "UKWA Runs of the Day - {Date}",
   "Period": "Session",
   "Fields": "Name,Nation,Run 1 (kts),Run 2 (kts),Avg (kts)",
-  "Series": true,
   "Sort": "Avg (kts)=DSC",
+  "Series": true,
   "Reports": [
     {
       "Title": "Leg 1 - Sailboards (Men)",
-      "Filter": "UKWA=Leg 1,Gender=M"
+      "Filter": "UKWA=Leg 1,Gender=M",
+      "Fleet": "Men's Sailboard"
     },
     {
       "Title": "Leg 1 - Sailboards (Women)",
-      "Filter": "UKWA=Leg 1,Gender=F"
+      "Filter": "UKWA=Leg 1,Gender=F",
+      "Fleet": "Women's Sailboard"
     },
     {
       "Title": "Leg 1 - Wingboards (Men)",
-      "Filter": "UKWA Wings=Leg 1,Gender=M"
+      "Filter": "UKWA Wings=Leg 1,Gender=M",
+      "Fleet": "Men's Wingboard"
     },
     {
       "Title": "Leg 1 - Wingboards (Women)",
-      "Filter": "UKWA Wings=Leg 1,Gender=F"
+      "Filter": "UKWA Wings=Leg 1,Gender=F",
+      "Fleet": "Women's Wingboard"
     },
     {
       "Title": "Leg 2 - Sailboards (Men)",
-      "Filter": "UKWA=Leg 2,Gender=M"
+      "Filter": "UKWA=Leg 2,Gender=M",
+      "Fleet": "Men's Sailboard"
     },
     {
       "Title": "Leg 2 - Sailboards (Women)",
-      "Filter": "UKWA=Leg 2,Gender=F"
+      "Filter": "UKWA=Leg 2,Gender=F",
+      "Fleet": "Women's Sailboard"
     },
     {
       "Title": "Leg 2 - Wingboards (Men)",
-      "Filter": "UKWA Wings=Leg 2,Gender=M"
+      "Filter": "UKWA Wings=Leg 2,Gender=M",
+      "Fleet": "Men's Wingboard"
     },
     {
       "Title": "Leg 2 - Wingboards (Women)",
-      "Filter": "UKWA Wings=Leg 2,Gender=F"
+      "Filter": "UKWA Wings=Leg 2,Gender=F",
+      "Fleet": "Women's Wingboard"
     }
   ]
 }

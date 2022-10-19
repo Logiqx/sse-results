@@ -51,6 +51,7 @@
       "?"
     ],
     "Grouping": [
+      "AFS",
       "Forces - Royal Navy",
       "Forces - The Army",
       "Forces - Royal Air Force",
@@ -126,7 +127,7 @@
     },
     {
       "Category": "Lady Sailboard",
-      "Filter": "Craft Type=Sailboard,Gender=F,Status<>Pro Fleet,Status<>Youth Fleet",
+      "Filter": "Craft Type=Sailboard,Gender=F,Status<>Pro Fleet",
       "Places": 1
     },
     {

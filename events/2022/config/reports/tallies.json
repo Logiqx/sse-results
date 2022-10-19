@@ -1,0 +1,13 @@
+{
+  "Suptitle": "Tallies",
+  "Period": "Event",
+  "Runs": false,
+  "Reports": [
+    {
+      "Title": "All Entrants",
+      "Fields": "Tally,Name,Nation,Craft Type,Status,Entry Type,First Timer",
+      "Filter": "Tally<>",
+      "Sort": "Tally=ASC"
+    }
+  ]
+}
