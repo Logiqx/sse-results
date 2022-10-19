@@ -30,7 +30,7 @@
     },
     {
       "Title": "Stan's 50th",
-      "Filter": "Grouping=Stan'S 50Th",
+      "Filter": "Grouping=Stan's 50Th",
       "Fields": "Name,Nation,Status,First Timer,Course,Start Time,Speed (kts)"
     },
     {

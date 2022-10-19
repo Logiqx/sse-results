@@ -20,7 +20,12 @@
     },
     {
       "Title": "Belgian RRD Loftsails Race Team",
-      "Filter": "Grouping=Belgian Rrd Loftsails Race Team",
+      "Filter": "Grouping=Belgian RRD Loftsails Race Team",
+      "Fields": "Name,Nation,Status,Course,Start Time,Speed (kts)"
+    },
+    {
+      "Title": "QSW",
+      "Filter": "Grouping=QSW",
       "Fields": "Name,Nation,Status,Course,Start Time,Speed (kts)"
     }
   ]

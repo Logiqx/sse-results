@@ -25,7 +25,7 @@
     },
     {
       "Title": "Team QSW",
-      "Filter": "Grouping=Qsw",
+      "Filter": "Grouping=QSW",
       "Fields": "Name,Nation,Status,First Timer,Course,Start Time,Speed (kts)"
     },
     {
