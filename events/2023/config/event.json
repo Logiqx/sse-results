@@ -1,0 +1,229 @@
+{
+  "Event": {
+    "Name": "Weymouth Speed Week 2023",
+    "Start Date": "2023-10-07",
+    "End Date": "2023-10-13",
+    "Banner": "wswlogo_2023.png"
+  },
+  "Decimals": 2,
+  "Courses": {
+    "H": "Harbour",
+    "S": "Shore",
+    "?": "TBC"
+  },
+  "Entrants": {
+    "Craft Type": [
+      "Boat",
+      "Kiteboard",
+      "Sailboard",
+      "Wingboard",
+      "TBC"
+    ],
+    "Status": [
+      "Amateur",
+      "Gold Fleet",
+      "Pro Fleet",
+      "Freeride",
+      "Open Class",
+      "Boat Fleet",
+      "Wing Fleet",
+      "TBC"
+    ],
+    "Entry Type": [
+      "All Week",
+      "Youth Weekend",
+      "2-Day",
+      "TBC"
+    ],
+    "Gender": [
+      "M",
+      "F",
+      "?"
+    ],
+    "First Timer": [
+      "Y",
+      "N",
+      "?"
+    ],
+    "UKWA Member": [
+      "Y",
+      "N",
+      "?"
+    ],
+    "Grouping": [
+      "Forces - Royal Navy",
+      "Forces - The Army",
+      "Forces - Royal Air Force",
+      "Hamworthy Heroes",
+      "Portland Pirates",
+      "Surf Hogs",
+      "None",
+      "TBC"
+    ]
+  },
+  "Tankards": {
+    "Filters": [
+      "Craft Type=Boat",
+      "Craft Type=Kiteboard",
+      "Craft Type=Sailboard",
+      "Craft Type=Wingboard"
+    ]
+  },
+  "Trophies": [
+    {
+      "Name": "Fastest Overall Trophy",
+      "Category": "Craft",
+      "Filter": ""
+    },
+    {
+      "Name": "Gold Fleet 'Fastest Sailor' Shield",
+      "Category": "Gold Fleet Sailboard",
+      "Filter": "Craft Type=Sailboard,Status=Gold Fleet"
+    },
+    {
+      "Name": "'Fastest Youth' Trophy",
+      "Category": "Youth Sailboard",
+      "Filter": "Craft Type=Sailboard,Age=Youth,Weekend=Y"
+    },
+    {
+      "Name": "'Fastest Lady' Shield",
+      "Category": "Lady",
+      "Filter": "Gender=F"
+    },
+    {
+      "Name": "Fastest Boat Shield",
+      "Category": "Boat",
+      "Filter": "Craft Type=Boat"
+    },
+    {
+      "Name": "Fastest Kiteboard Silver Cup",
+      "Category": "Kiteboard",
+      "Filter": "Craft Type=Kiteboard"
+    },
+    {
+      "Name": "Fastest Sailboard Shield",
+      "Category": "Sailboard",
+      "Filter": "Craft Type=Sailboard"
+    },
+    {
+      "Name": "Fastest Wingboard Trophy",
+      "Category": "Wingboard",
+      "Filter": "Craft Type=Wingboard"
+    },
+    {
+      "Name": "BKSA Speed Champion Trophy",
+      "Category": "Kiteboard",
+      "Filter": "Craft Type=Kiteboard"
+    }
+  ],
+  "Prizes": [
+    {
+      "Category": "Youths",
+      "Filter": "Age=Youth,Weekend=Y",
+      "Places": 3
+    },
+    {
+      "Category": "Lady Sailboard",
+      "Filter": "Craft Type=Sailboard,Gender=F,Status<>Pro Fleet",
+      "Places": 1
+    },
+    {
+      "Category": "First Time Amateur Sailboard",
+      "Filter": "Craft Type=Sailboard,Status=Amateur,First Timer=Y",
+      "Places": 1
+    },
+    {
+      "Category": "Amateur Sailboards",
+      "Filter": "Craft Type=Sailboard,Status=Amateur",
+      "Places": 3
+    },
+    {
+      "Category": "Gold Fleet Sailboards",
+      "Filter": "Craft Type=Sailboard,Status=Gold Fleet",
+      "Places": 3
+    },
+    {
+      "Category": "Pro Sailboard",
+      "Filter": "Craft Type=Sailboard,Status=Pro Fleet",
+      "Places": 1
+    },
+    {
+      "Category": "Boat",
+      "Filter": "Craft Type=Boat",
+      "Places": 1
+    },
+    {
+      "Category": "First Time Kiteboard",
+      "Filter": "Craft Type=Kiteboard,First Timer=Y",
+      "Places": 1
+    },
+    {
+      "Category": "Open Class Kiteboard",
+      "Filter": "Craft Type=Kiteboard,Status=Open Class",
+      "Places": 1
+    },
+    {
+      "Category": "Freeride Kiteboard",
+      "Filter": "Craft Type=Kiteboard,Status=Freeride",
+      "Places": 1
+    },
+    {
+      "Category": "First Time Wingboard",
+      "Filter": "Craft Type=Wingboard,First Timer=Y",
+      "Places": 1
+    },
+    {
+      "Category": "Wingboards",
+      "Filter": "Craft Type=Wingboard",
+      "Places": 3
+    }
+  ],
+  "Series": {
+    "UKWA": {
+      "Name": "UKWA Speed Championship 2023 (Sailboards)",
+      "Round": "Weymouth",
+      "Banner": "ukwa_logo.jpg",
+      "Website": "https://ukwindsurfing.com/",
+      "Average": 2,
+      "Filter": "Craft Type=Sailboard,UKWA Member=Y",
+      "Fleets": {
+        "Men": "Gender=M",
+        "Women": "Gender=F"
+      },
+      "Validity": {
+        "Filter": "Gender=M",
+        "Percentage": 25,
+        "Runs": 2,
+        "Speeds": {
+          "Harbour": 28,
+          "Shore": 28
+        }
+      },
+      "Discards": "0,0,0,1,1,1,2,2,2,2,3,3,3,3,3,4",
+      "Sort": "Net Score=ASC,Best Speed=DESC,Results=ASC,Final Result=ASC"
+    },
+    "UKWA Wings": {
+      "Name": "UKWA Speed Championship 2023 (Wingboards)",
+      "Round": "Weymouth",
+      "Banner": "ukwa_logo.jpg",
+      "Website": "https://ukwindsurfing.com/",
+      "Average": 2,
+      "Filter": "Craft Type=Wingboard,UKWA Member=Y",
+      "Fleets": {
+        "Men": "Gender=M",
+        "Women": "Gender=F"
+      },
+      "Validity": {
+        "Filter": "Gender=M",
+        "Percentage": 25,
+        "Runs": 2,
+        "Speeds": {
+          "Harbour": 18,
+          "Shore": 18
+        }
+      },
+      "Discards": "0,0,0,1,1,1,2,2,2,2,3,3,3,3,3,4",
+      "Sort": "Net Score=ASC,Best Speed=DESC,Results=ASC,Final Result=ASC"
+    }
+  }
+}

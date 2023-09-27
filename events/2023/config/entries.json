@@ -1,0 +1,169 @@
+{
+  "Filters": {
+    "Year": "2023"
+  },
+  "Defaults": {
+    "Entry Type": "2 Days",
+    "Start Date": "2023-10-07",
+    "End Date": "2023-10-13"
+  },
+  "Mappings": {
+    "ID": "Id",
+    "Created": "Created",
+    "Title": "Title",
+    "First Name": "First Name",
+    "Family Name": "Family Name",
+    "Country": "Country",
+    "First Timer": "First Timer",
+    "Grouping": "Grouping",
+    "Tally": "Tally"
+  },
+  "Derivations": {
+    "End Date": {
+      "2023-10-08": {
+        "Filters": {
+          "Youth Weekend": "YES"
+        }
+      }
+    },
+    "Entry Type": {
+      "All Week": {
+        "Filters": {
+          "All Week": "YES"
+        }
+      },
+      "2 Days": {
+        "Filters": {
+          "2 Dayer": "YES"
+        }
+      },
+      "Youth Weekend": {
+        "Filters": {
+          "Youth Weekend": "YES"
+        }
+      }
+    },
+    "Age": {
+      "Adult": {
+        "Filters": {
+          "Adult": "YES"
+        }
+      },
+      "Youth": {
+        "Filters": {
+          "Youth": "YES"
+        }
+      }
+    },
+    "Grouping": {
+      "Forces - Royal Navy": {
+        "Filters": {
+          "Grouping": "Royal Navy"
+        }
+      }
+    }
+  },
+  "Craft Types": [
+    {
+      "Filters": {
+        "Boat": "1"
+      },
+      "Defaults": {
+        "Craft Type": "Boat",
+        "Status": "Boat Fleet",
+        "UKWA Member": "N",
+        "ISWC Member": "N"
+      },
+      "Mappings": {
+        "Boat Name": "Boat Name"
+      },
+      "Motion ID": "Motion for Boat",
+      "ID Offset": 0
+    },
+    {
+      "Filters": {
+        "Sailboard": "1"
+      },
+      "Defaults": {
+        "Craft Type": "Sailboard"
+      },
+      "Mappings": {
+        "Status": "Sailboard Fleet",
+        "Sponsors": "Sailboard Sponsors",
+        "UKWA Member": "UKWA Member",
+        "ISWC Member": "ISWC Member"
+      },
+      "Motion ID": "Motion for Sailboard",
+      "ID Offset": 1000
+    },
+    {
+      "Filters": {
+        "Kiteboard": "1"
+      },
+      "Defaults": {
+        "Craft Type": "Kiteboard",
+        "UKWA Member": "N",
+        "ISWC Member": "N"
+      },
+      "Mappings": {
+        "Status": "Kiteboard Fleet",
+        "Sponsors": "Kiteboard Sponsors"
+      },
+      "Motion ID": "Motion for Kiteboard",
+      "ID Offset": 2000
+    },
+    {
+      "Filters": {
+        "Wingboard": "1"
+      },
+      "Defaults": {
+        "Craft Type": "Wingboard"
+      },
+      "Mappings": {
+        "Status": "Wingboard Fleet",
+        "Sponsors": "Wingboard Sponsors",
+        "UKWA Member": "UKWA Member",
+        "ISWC Member": "ISWC Member"
+      },
+      "Motion ID": "Motion for Wingboard",
+      "ID Offset": 3000
+    }
+  ],
+  "Outputs": [
+    {
+      "File": "entrants.csv",
+      "Fields": [
+        "ID",
+        "Tally",
+        "Title",
+        "First Name",
+        "Family Name",
+        "Country",
+        "First Timer",
+        "Craft Type",
+        "Status",
+        "Age",
+        "Boat Name",
+        "Grouping",
+        "Entry Type",
+        "UKWA Member"
+      ]
+    },
+    {
+      "File": "motions.csv",
+      "Fields": [
+        "Entrant ID",
+        "Tally",
+        "Motion ID",
+        "Start Date",
+        "End Date",
+        "File ID",
+        "First Name",
+        "Family Name",
+        "Craft Type",
+        "Status",
+        "Entry Type"
+      ]
+    }
+  ]
+}

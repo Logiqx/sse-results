@@ -1,0 +1,12 @@
+{
+  "Suptitle": "All Runs of the Day - {Date}",
+  "Period": "Session",
+  "Rank": false,
+  "Reports": [
+    {
+      "Title": "Sorted by Name and Time",
+      "Fields": "Name,Nation,Craft Type,Course,Start Time,Speed (kts)",
+      "Sort": "Name=ASC,Start Time=ASC"
+    }
+  ]
+}
