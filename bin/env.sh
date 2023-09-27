@@ -2,7 +2,7 @@ PROJ_DIR=$(realpath $(dirname $0)/..)
 PROJ_NAME=$(basename $PROJ_DIR)
 
 IMAGE_NAME=logiqx/$PROJ_NAME
-IMAGE_TAG=1.1.0
+IMAGE_TAG=1.1.1
 
 WORK_DIR=/home/jovyan/work/$PROJ_NAME
 
