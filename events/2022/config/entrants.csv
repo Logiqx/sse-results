@@ -17,8 +17,8 @@ ID,Gender,Title,"First Name","Family Name",Nationality,"First Timer","Craft Type
 96,M,mr,Claude,Van-Martyn,Guernsey,N,Sailboard,Amateur,,VANM63CLAUD,932000383,V1.4(D0428T),,"All Week",N
 18,M,Mr,Danny,Cartridge,England,N,Sailboard,Gold-Fleet,,CARTR6DANNY,133200506,V1.4(B0803T),"Hamworthy Heroes","All Week",N
 80,M,Mr,Dave,Strudwick,England,N,Sailboard,Gold-Fleet,,STRUD73DAVE,832004640,V1.4(B0803T),"Forces - Royal Navy","All Week",Y
-55,M,Mr,David,Williams,England,N,Kiteboard,"Open Class",,WILLI43DAVID,932000533,V1.4(B0803T),,"All Week",N
-94,M,Mr,"david ",williams,England,N,Wingboard,Wing-Fleet,,WILLI81DAVID,932000582,V1.4(B0803T),,"2 Days",N
+55,M,Mr,Dave,Williams,England,N,Kiteboard,"Open Class",,WILLI43DAVID,932000533,V1.4(B0803T),,"All Week",N
+94,M,Mr,Dave,Williams,England,N,Wingboard,Wing-Fleet,,WILLI81DAVID,932000582,V1.4(B0803T),,"2 Days",N
 40,M,Mr,Ed,Sibson,England,N,Boat,Boat-Fleet,Icarus,SIBSO33ED,932000546,V1.4(B0803T),,"All Week",N
 41,M,Mr,Eddie,Marsh,England,Y,Sailboard,Amateur,,MARSH44EDDIE,932000564,V1.4(B0803T),,"All Week",Y
 92,M,Mr,Emeric,Mouret,France,N,Wingboard,Wing-Fleet,,MOURE25EMERI,932001083,V1.4(B0803T),AFS,"All Week",N
@@ -50,7 +50,7 @@ ID,Gender,Title,"First Name","Family Name",Nationality,"First Timer","Craft Type
 77,M,Mr,Joshua,Pinder,England,N,Sailboard,Amateur,,PINDE30JOSHU,932001309;932000538,V1.3(B1015),"Forces - Royal Navy","All Week",N
 84,M,Mr,John-Paul,Standish,England,Y,Wingboard,Wing-Fleet,,STAND35JP,932000556,V1.4(B0803T),,"All Week",N
 85,M,Mr,Keith,Bowyer,England,Y,Wingboard,Wing-Fleet,,BOWYE3KEITH,932000563,V1.4(B0803T),AFS,"All Week",N
-95,M,Mr,Kev,Greenslade,England,N,Sailboard,Pro-Fleet,,,,,,"All Week",Y
+95,M,Mr,Kevin,Greenslade,England,N,Sailboard,Pro-Fleet,,,,,,"All Week",Y
 105,M,Mr,kyle,stoneham,England,N,Boat,Boat-Fleet,Vampire,STONE85KYLE,932000572,V1.4(B0803T),,"All Week",N
 83,F,Miss,"Lilia ","Yelland ",England,Y,Sailboard,Amateur,,YELLA66LILIA,123200455,V1.4(B0803T),,"Youth Weekend",Y
 37,M,Mr,"Maciej ",Bukolt,Poland,Y,Sailboard,Amateur,,BUKOL4MACIE,932000583,V1.4(B0803T),,"All Week",Y
@@ -82,7 +82,7 @@ ID,Gender,Title,"First Name","Family Name",Nationality,"First Timer","Craft Type
 27,M,Mr,Richard,Hobson,England,N,Wingboard,Wing-Fleet,,HOBSO14RICHA,932000712,V1.4(B0803T),,"All Week",Y
 46,M,Mr,Rob,Dunn,England,N,Sailboard,Amateur,,DUNN79ROB,133200830,V1.4(B0315C),"Forces - Royal Navy","All Week",N
 107,M,Mr,Rob,Dunn,England,N,Wingboard,Wing-Fleet,,DUNN86ROB,133201127,V1.4(B0315C),,"All Week",N
-64,M,Mr,Robert,Spagnoletti,England,N,Sailboard,Gold-Fleet,,SPAGN45ROBER,113200986,V1.4(D0428T),,"All Week",N
+64,M,Mr,Bob,Spagnoletti,England,N,Sailboard,Gold-Fleet,,SPAGN45ROBER,113200986,V1.4(D0428T),,"All Week",N
 49,M,Mr,Robin,Penna,England,N,Sailboard,Gold-Fleet,,PENNA91ROBIN,113200494,V1.4(B0315C),,"All Week",N
 16,M,Mr,Robin,Russell,England,N,Sailboard,Gold-Fleet,,RUSSE80ROBIN,113200238,V1.4(B0803T),"Surf Hogs","All Week",N
 117,M,Mr,Roger,Pierce,England,N,Wingboard,Wing-Fleet,,PIERC95ROGER,932000555,V1.4(B0803T),,"All Week",N
