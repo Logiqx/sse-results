@@ -1,5 +1,5 @@
 {
-  "Event": 2022,
+  "Event": 2023,
   "Motion": {
     "Info": {
       "Firmwares": {
@@ -58,7 +58,7 @@
     },
     "DetectionThreadPool": {
       "Comment": "Threads dictates how many motions can be polled concurrently. Interval is the minimum time (s) between each iteration",
-      "Interval": 10,
+      "Interval": 15,
       "Threads": 8
     },
     "InspectionThread": {
