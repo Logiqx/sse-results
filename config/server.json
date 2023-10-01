@@ -22,14 +22,14 @@
         "9001 Weymouth Speed Week": [
           "Updated list of WSW identifiers; 601 611 615 617 618 619 621 625 630 631 632 633 634 635 639 656"
         ],
-        "9002 Weymouth Speed Week 2022": [
-          "Correct WiFi password and edition/deletion forbidden"
+        "9002 Weymouth Speed Week": [
+          "Correct WiFi password and edition/deletion forbidden. Used for WSW 2022"
         ],
         "9003 Weymouth Speed Week": [
           "Based on 3175 (release). Fixes issue that could cause mini to lock up and unable to restart, requiring ~24 hours of wait"
         ],
-        "9004 Weymouth Speed Week 2023": [
-          "New custom firmware based on 3209. Required for newer Motion minis"
+        "9004 Weymouth Speed Week": [
+          "New custom firmware based on 3209. Required for newer Motion minis. Used for WSW 2023"
         ]
       },
       "Thresholds": {
