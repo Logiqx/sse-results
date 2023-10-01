@@ -26,7 +26,7 @@
           "Correct WiFi password and edition/deletion forbidden"
         ],
         "9003 Weymouth Speed Week": [
-          "New custom firmware based on 3175 (release)"
+          "Based on 3175 (release). Fixes issue that could cause mini to lock up and unable to restart, requiring ~24 hours of wait"
         ],
         "9004 Weymouth Speed Week 2023": [
           "New custom firmware based on 3209. Required for newer Motion minis"
