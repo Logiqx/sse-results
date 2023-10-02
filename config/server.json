@@ -60,11 +60,11 @@
   "Threading": {
     "DetectionThread": {
       "Comment": "Timeout for the socket connection (port 80)",
-      "Timeout": 5
+      "Timeout": 1
     },
     "DetectionThreadPool": {
       "Comment": "Threads dictates how many motions can be polled concurrently. Interval is the minimum time (s) between each iteration",
-      "Interval": 15,
+      "Interval": 5,
       "Threads": 8
     },
     "InspectionThread": {
