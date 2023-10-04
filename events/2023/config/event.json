@@ -31,7 +31,7 @@
     ],
     "Entry Type": [
       "All Week",
-      "Youth Weekend",
+      "Youth W/E",
       "2-Day",
       "TBC"
     ],
@@ -45,7 +45,7 @@
       "N",
       "?"
     ],
-    "UKWA Member": [
+    "UKWA": [
       "Y",
       "N",
       "?"
@@ -57,6 +57,7 @@
       "Hamworthy Heroes",
       "Portland Pirates",
       "Surf Hogs",
+      "The OTC",
       "None",
       "TBC"
     ]
@@ -173,8 +174,13 @@
       "Places": 1
     },
     {
-      "Category": "Wingboards",
-      "Filter": "Craft Type=Wingboard",
+      "Category": "Pro Wingboard",
+      "Filter": "Craft Type=Wingboard,Status=Pro Fleet",
+      "Places": 1
+    },
+    {
+      "Category": "Amateur Wingboards",
+      "Filter": "Craft Type=Wingboard,Status=Amateur",
       "Places": 3
     }
   ],
@@ -185,7 +191,7 @@
       "Banner": "ukwa_logo.jpg",
       "Website": "https://ukwindsurfing.com/",
       "Average": 2,
-      "Filter": "Craft Type=Sailboard,UKWA Member=Y",
+      "Filter": "Craft Type=Sailboard,UKWA=Y",
       "Fleets": {
         "Men": "Gender=M",
         "Women": "Gender=F"
@@ -208,7 +214,7 @@
       "Banner": "ukwa_logo.jpg",
       "Website": "https://ukwindsurfing.com/",
       "Average": 2,
-      "Filter": "Craft Type=Wingboard,UKWA Member=Y",
+      "Filter": "Craft Type=Wingboard,UKWA=Y",
       "Fleets": {
         "Men": "Gender=M",
         "Women": "Gender=F"

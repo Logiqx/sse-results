@@ -5,10 +5,12 @@
   "Defaults": {
     "Entry Type": "2 Days",
     "Start Date": "2023-10-07",
-    "End Date": "2023-10-13"
+    "End Date": "2023-10-13",
+    "Withdrawn": "N"
   },
   "Mappings": {
     "ID": "Id",
+    "Entrant ID": "Id",
     "Created": "Created",
     "Title": "Title",
     "First Name": "First Name",
@@ -37,7 +39,7 @@
           "2 Dayer": "YES"
         }
       },
-      "Youth Weekend": {
+      "Youth W/E": {
         "Filters": {
           "Youth Weekend": "YES"
         }
@@ -71,14 +73,26 @@
       "Defaults": {
         "Craft Type": "Boat",
         "Status": "Boat Fleet",
-        "UKWA Member": "N",
-        "ISWC Member": "N"
+        "UKWA": "N",
+        "ISWC": "N"
       },
       "Mappings": {
         "Boat Name": "Boat Name"
       },
-      "Motion ID": "Motion for Boat",
-      "ID Offset": 0
+      "Derivations": {
+        "Withdrawn": {
+          "Y": {
+            "Filters": {
+              "Motion for Boat": "WITHDRAWN"
+            }
+          }
+        }
+      },
+      "Offsets": {
+        "ID": 0,
+        "Entrant ID": 0
+      },
+      "Motion ID": "Motion for Boat"
     },
     {
       "Filters": {
@@ -90,11 +104,23 @@
       "Mappings": {
         "Status": "Sailboard Fleet",
         "Sponsors": "Sailboard Sponsors",
-        "UKWA Member": "UKWA Member",
-        "ISWC Member": "ISWC Member"
+        "UKWA": "UKWA Member",
+        "ISWC": "ISWC Member"
       },
-      "Motion ID": "Motion for Sailboard",
-      "ID Offset": 1000
+      "Derivations": {
+        "Withdrawn": {
+          "Y": {
+            "Filters": {
+              "Motion for Sailboard": "WITHDRAWN"
+            }
+          }
+        }
+      },
+      "Offsets": {
+        "ID": 1000,
+        "Entrant ID": 1000
+      },
+      "Motion ID": "Motion for Sailboard"
     },
     {
       "Filters": {
@@ -102,15 +128,27 @@
       },
       "Defaults": {
         "Craft Type": "Kiteboard",
-        "UKWA Member": "N",
-        "ISWC Member": "N"
+        "UKWA": "N",
+        "ISWC": "N"
       },
       "Mappings": {
         "Status": "Kiteboard Fleet",
         "Sponsors": "Kiteboard Sponsors"
       },
-      "Motion ID": "Motion for Kiteboard",
-      "ID Offset": 2000
+      "Derivations": {
+        "Withdrawn": {
+          "Y": {
+            "Filters": {
+              "Motion for Kiteboard": "WITHDRAWN"
+            }
+          }
+        }
+      },
+      "Offsets": {
+        "ID": 2000,
+        "Entrant ID": 2000
+      },
+      "Motion ID": "Motion for Kiteboard"
     },
     {
       "Filters": {
@@ -122,16 +160,31 @@
       "Mappings": {
         "Status": "Wingboard Fleet",
         "Sponsors": "Wingboard Sponsors",
-        "UKWA Member": "UKWA Member",
-        "ISWC Member": "ISWC Member"
+        "UKWA": "UKWA Member",
+        "ISWC": "ISWC Member"
       },
-      "Motion ID": "Motion for Wingboard",
-      "ID Offset": 3000
+      "Derivations": {
+        "Withdrawn": {
+          "Y": {
+            "Filters": {
+              "Motion for Wingboard": "WITHDRAWN"
+            }
+          }
+        }
+      },
+      "Offsets": {
+        "ID": 3000,
+        "Entrant ID": 3000
+      },
+      "Motion ID": "Motion for Wingboard"
     }
   ],
   "Outputs": [
     {
       "File": "entrants.csv",
+      "Filters": {
+        "Withdrawn": "N"
+      },
       "Fields": [
         "ID",
         "Tally",
@@ -146,11 +199,17 @@
         "Boat Name",
         "Grouping",
         "Entry Type",
-        "UKWA Member"
+        "UKWA"
+      ],
+      "Unique Keys": [
+        "ID"
       ]
     },
     {
       "File": "motions.csv",
+      "Filters": {
+        "Withdrawn": "N"
+      },
       "Fields": [
         "Entrant ID",
         "Tally",
@@ -163,7 +222,13 @@
         "Craft Type",
         "Status",
         "Entry Type"
-      ]
+      ],
+      "Unique Keys": [
+        "Entrant ID",
+        "Motion ID",
+        "File ID"
+      ],
+      "Extra": "motions-extra.csv"
     }
   ]
 }
