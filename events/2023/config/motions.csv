@@ -13,7 +13,7 @@ Entrant ID,Tally,Motion ID,Start Date,End Date,File ID,First Name,Family Name,Cr
 1163,12,633,2023-10-07,2023-10-13,PEA633ZAC,Zack,Peaple,Sailboard,Gold-Fleet,All Week
 3163,12,870,2023-10-07,2023-10-13,PEA870ZAC,Zack,Peaple,Wingboard,Amateur,All Week
 1164,13,634,2023-10-07,2023-10-13,CRO634RIC,Richard,Crosby,Sailboard,Gold-Fleet,All Week
-1165,14,635,2023-10-07,2023-10-13,BAT635TIM,Tim,Bate,Sailboard,Gold-Fleet,All Week
+1165,14,635,2023-10-07,2023-10-13,BAT635TIM,Tim,Bate,Sailboard,Amateur,All Week
 1166,15,639,2023-10-07,2023-10-13,PET639SIM,Simon,Pettifer,Sailboard,Pro-Fleet,All Week
 3167,16,641,2023-10-07,2023-10-13,CUN641CHR,Chris,Cunningham,Wingboard,Amateur,All Week
 1169,17,642,2023-10-07,2023-10-13,FUL642GEO,George,Fulton,Sailboard,Gold-Fleet,All Week
@@ -43,6 +43,7 @@ Entrant ID,Tally,Motion ID,Start Date,End Date,File ID,First Name,Family Name,Cr
 2200,42,717,2023-10-07,2023-10-13,WAD717ALF,Alfie,Wade,Kiteboard,Freeride,All Week
 1201,43,718,2023-10-07,2023-10-13,TRU718STU,Stuart,Trunkfield,Sailboard,Gold-Fleet,All Week
 2202,44,801,2023-10-07,2023-10-13,WIL801DAV,Dave,Williams,Kiteboard,Open Class,All Week
+3202,44,0,2023-10-07,2023-10-13,WIL0DAV,Dave,Williams,Wingboard,Amateur,All Week
 3203,45,802,2023-10-07,2023-10-13,MCC802MAR,Mark,McCafferty,Wingboard,Amateur,All Week
 1204,46,803,2023-10-07,2023-10-13,TRU803JOE,Joe,Trunkfield,Sailboard,Amateur,All Week
 1205,47,804,2023-10-07,2023-10-08,ING804JON,Jonathan,Ingram,Sailboard,Amateur,Youth W/E
@@ -82,6 +83,26 @@ Entrant ID,Tally,Motion ID,Start Date,End Date,File ID,First Name,Family Name,Cr
 3240,82,869,2023-10-07,2023-10-08,OGO869FIN,Finn,O'Gorman,Wingboard,Amateur,Youth W/E
 3242,84,871,2023-10-07,2023-10-13,COL871ANN,Anna,Collenette,Wingboard,Amateur,2 Days
 3243,85,872,2023-10-07,2023-10-13,COL872AND,Andrew,Collenette,Wingboard,Amateur,2 Days
-2244,86,873,2023-10-07,2023-10-13,EDE873MAR,Markus,Edegran,Kiteboard,Open Class,2 Days
+2244,86,0,2023-10-07,2023-10-13,EDE0MAR,Markus,Edegran,Kiteboard,Open Class,2 Days
 1245,87,861,2023-10-07,2023-10-13,VAN861PAT,Patrick,Van Hoof,Sailboard,Pro-Fleet,All Week
 1246,88,819,2023-10-07,2023-10-08,YOR819JAC,Jack James,York,Sailboard,Amateur,Youth W/E
+3247,89,858,2023-10-07,2023-10-13,CRI858GUY,Guy,Cribb,Wingboard,Pro-Fleet,2 Days
+3248,90,855,2023-10-07,2023-10-13,DAV855ZAR,Zara,Davis,Wingboard,Amateur,All Week
+3249,91,857,2023-10-07,2023-10-13,STA857KUB,kuba,staite,Wingboard,Amateur,2 Days
+3250,92,0,2023-10-07,2023-10-13,OLD0FRE,Freddie,Oldfield,Wingboard,Pro-Fleet,2 Days
+2251,93,0,2023-10-07,2023-10-13,CAR0MAR,Martin,Carter,Kiteboard,Open Class,2 Days
+3251,93,853,2023-10-07,2023-10-13,CAR853MAR,Martin,Carter,Wingboard,Amateur,2 Days
+3252,94,0,2023-10-07,2023-10-13,DAR0HEL,Helena,Darvelid,Wingboard,Amateur,2 Days
+1253,95,0,2023-10-07,2023-10-13,LAT0SAM,Sam,Latham,Sailboard,Gold-Fleet,2 Days
+3253,95,0,2023-10-07,2023-10-13,LAT0SAM,Sam,Latham,Wingboard,Amateur,2 Days
+3254,96,0,2023-10-07,2023-10-13,BUL0JAM,James,Bulson,Wingboard,Amateur,2 Days
+1255,97,0,2023-10-07,2023-10-13,NEW0MAR,Mark,Newman,Sailboard,Pro-Fleet,2 Days
+2244,86,873,2023-10-07,2023-10-07,EDE873MAR,Markus,Edegran,Kiteboard,Open Class,2 Days
+3250,92,873,2023-10-11,2023-10-13,OLD873FRE,Freddie,Oldfield,Wingboard,Pro-Fleet,2 Days
+3252,94,869,2023-10-11,2023-10-13,DAR869HEL,Helena,Darvelid,Wingboard,Amateur,2 Days
+1253,95,630,2023-10-12,2023-10-13,LAT630SAM,Sam,Latham,Sailboard,Gold-Fleet,2 Days
+3253,95,827,2023-10-12,2023-10-13,LAT827SAM,Sam,Latham,Wingboard,Amateur,2 Days
+3254,96,841,2023-10-12,2023-10-13,BUL841JAM,James,Bulson,Wingboard,Pro-Fleet,2 Days
+1255,97,822,2023-10-13,2023-10-13,NEW822MAR,Mark,Newman,Sailboard,Pro-Fleet,2 Days
+3202,44,819,2023-10-12,2023-10-13,WIL819DAV,Dave,Williams,Wingboard,Amateur,All Week
+2251,93,866,2023-10-13,2023-10-13,CAR866MAR,Martin,Carter,Kiteboard,Open Class,2 Days

@@ -1,7 +1,7 @@
 Surname, first name (Sail #)	Membership	Type	Age Category	Renewal Date
 Abel, Ben (GBR837)	837	Individual	Veteran	25 Oct 2023
 Adam, Duncan (GBR863)	863	Individual	Veteran	01 Dec 2023
-Adams, Joe (TBC)	None	Individual	Adult	01 Oct 2024
+Adams, Joe (GBR424)	424	Individual	Adult	01 Oct 2024
 Adcock, Izzy (GBR988 / 988)	988 (BWA)	Student	Adult	19 Aug 2024
 Adcock, Mia (GBR894)	894	Individual	Adult	10 Apr 2024
 Aldridge, Martin (GBR2)	2	Individual	Veteran	03 Dec 2023
@@ -31,6 +31,7 @@ Bate, Tim (GBR337)	337	Individual	Master	16 Aug 2024
 Beaman, Max (GBR262 / GBR3226)	262	Family	Adult	10 May 2024
 Beaman, Richard (GBR362)	262	Family	Veteran	10 May 2024
 Beaney, Nick (GBR38)	38	Individual	Master	17 Nov 2023
+Beattie, Kai (GBR533 / 3385)	533	Student	U20	10 Aug 2024
 Beaumont, Lawrence (GBR806)	806	Individual	Adult	16 Sep 2024
 Benbow, Susan (GBR509)	509	Individual	Veteran	01 Dec 2023
 Beng, Chris (GBR147)	147	Individual	Master	11 Oct 2023
@@ -82,8 +83,6 @@ Carney, Marc (GBR275)	275	Individual	Veteran	01 Dec 2023
 Castle, Rob (GBR304)	304	Individual	Veteran	20 May 2024
 Causer, Ivan (GBR753)	753	Individual	Veteran	22 Sep 2024
 Cave, Thomas (GBR289)	289	Individual	Adult	28 Jan 2024
-Cave, Darrell (GBR280 / GBR3063)	280	Family	Veteran	05 Oct 2023
-Cave, Toby (GBR281 / GBR3064)	280	Family	Adult	05 Oct 2023
 Chambers, Andy (GBRK540)	540	Individual	Master	12 Sep 2024
 Chan, Larry (GBR120)	120	Individual	Veteran	01 Dec 2023
 Chandler, Andrew (GBR104)	104	Family	Master	17 Oct 2023
@@ -313,7 +312,7 @@ Lee, Mark (GBR198)	198	Individual	Veteran	10 Jul 2024
 Leeds, Katie (GBR308 / 3361)	308	Student	U17	12 Jun 2024
 Leone, Paul (GBR1111)	1111	Individual	Veteran	01 Dec 2024
 Leseure, Michel (GBR760)	760	Individual	Veteran	23 Jul 2024
-Lilley, Matthew (TBC)	None	Individual	Veteran	02 Oct 2024
+Lilley, Matthew (GBR556)	556	Individual	Veteran	02 Oct 2024
 Limm, Lewis (GBR168 / GBR3264)	168	Individual	Adult	07 Mar 2024
 Lindsay, Euan (GBR693)	693	Youth	U20	22 Aug 2024
 Lindup, Milly (GBR439 / 439)	439	Youth	U20	28 Apr 2024
@@ -406,6 +405,7 @@ Palin, James (GBR999)	999	Individual	Veteran	27 Dec 2023
 Palmer, Mark (GBR490 / AUS-098)	490	Individual	Veteran	14 May 2024
 Paneesha , Gargi (GBR175)	175	Youth	U17	09 Apr 2024
 Pankhurst, Chris (GBR431)	431	Individual	Veteran	04 Apr 2024
+Paterson, Ewan (GBR250)	250	Individual	Master	05 Aug 2024
 Patterson, Tony (GBR977)	977	Individual	Veteran	04 Apr 2024
 Peaple, Zack (GBR126)	126	Youth	U20	17 Oct 2023
 Peile, Ashley (GBR301)	301	Individual	Master	27 May 2024
@@ -427,8 +427,6 @@ Powell, Holly (GBR227 / 223)	227	Youth	U15	02 Jun 2024
 Pringuer, Tom (GBR549)	549	Family	U15	29 Jul 2024
 Pringuer, Mike (GBR563)	549	Family	Adult	29 Jul 2024
 Proffitt, Kevin (GBR805)	805	Individual	Veteran	31 Dec 2023
-Pytlewski, Alexander (GBR294 / GBR3282)	293	Family	U15	05 Oct 2023
-Pytlewski, Adam (GBR293 / GBR62)	293	Family	U15	05 Oct 2023
 Rabbetts, David (GBR676)	676	Individual	Veteran	28 Jan 2024
 Raistrick, Neil (GBR768)	768	Individual	Veteran	23 Feb 2024
 Ramov, Preslav (GBR770)	770 (BWA)	Student	Master	13 Jul 2024
@@ -438,7 +436,6 @@ Randall, Oliver Robin (GBR557)	557	Individual	U20	26 Jul 2024
 Read, Rafferty (GBR577 / 3160)	577	Student	Adult	25 Apr 2024
 Read, Daniel (GBR933 / 3393)	933	Youth	U17	11 Aug 2024
 Reid, Douglas (GBR470)	470	Individual	Adult	15 Feb 2024
-Rendle-Grist, Jane (GBR351)	351	Individual	Veteran	04 Oct 2023
 Rexha, Aarian (GBR423)	423	Youth	U15	27 Aug 2024
 Richards, Dave (GBR614)	614	Family	Veteran	01 Dec 2023
 Richards, Megan (GBR615)	614	Family	Veteran	01 Dec 2023
@@ -449,6 +446,7 @@ Rippington, Adrian (GBR843)	843	Individual	Veteran	21 Apr 2024
 Roads, Alex (GBR654)	654	Individual	Veteran	12 Sep 2024
 Robbins, Ben (GBR620)	620	Individual	Adult	02 Sep 2024
 Roberts, Jennie (GBR667)	667	Individual	Adult	30 Jan 2024
+Robineau Potts, Milo (GBR515 / 3531)	515	Youth	U15	02 Oct 2024
 Robinson, Daniel (GBR161)	161	Individual	Veteran	03 Dec 2023
 Robinson, Dave (GBR459)	419	Individual	Adult	09 May 2024
 Robson, Olivia (GBR875)	875	Youth	U20	21 Apr 2024
@@ -468,8 +466,8 @@ Russell, Matthew (GBR406)	402	Family	Master	06 Jun 2024
 Salgueiro, Olivia (GBR741)	741	Youth	U20	28 Aug 2024
 Salvage, Mark (GBR962)	962	Individual	Veteran	30 Mar 2024
 Sambrook, Thomas (GBR259)	259	Individual	Adult	13 Feb 2024
-Sargent, Oliver (GBR534)	534	Family	Master	06 Oct 2023
-Sargent, Freddie (GBR535)	534	Family	U20	06 Oct 2023
+Sargent, Oliver (GBR534)	534	Family	Master	06 Oct 2024
+Sargent, Freddie (GBR535)	534	Family	U20	06 Oct 2024
 Savage, Ian (GBR926)	926	Individual	Veteran	29 Mar 2024
 Sawbridge, Jack (GBR108 / K108)	108	Individual	Master	25 Dec 2023
 Scheil, Leon (GBR358)	357	Family	U15	15 Apr 2024
@@ -502,10 +500,10 @@ Smith, Luke (GBR255)	255 (BWA)	Individual	Adult	30 Sep 2024
 Smith, Matt (GBR492)	492	Family	Veteran	07 Jul 2024
 Smith, Grace (GBR587)	587	Youth	U15	01 Sep 2024
 Snellgrove, Tim (GBR543)	543	Individual	Veteran	11 Sep 2024
-Somerville, Fiona (GBR611)	611 (BWA)	Family	Veteran	03 Oct 2023
-Somerville, Ronnie (GBR267)	611 (BWA)	Family	Veteran	03 Oct 2023
-Somerville, Nicola (GBR612)	611 (BWA)	Family	Adult	03 Oct 2023
-Somerville, Ruaraidh (GBR257 / 3285)	611 (BWA)	Family	Adult	03 Oct 2023
+Somerville, Fiona (GBR611)	611 (BWA)	Family	Veteran	03 Oct 2024
+Somerville, Ronnie (GBR267)	611 (BWA)	Family	Veteran	03 Oct 2024
+Somerville, Nicola (GBR612)	611 (BWA)	Family	Adult	03 Oct 2024
+Somerville, Ruaraidh (GBR257 / 3285)	611 (BWA)	Family	Adult	03 Oct 2024
 Somerville, Harry (GBR179)	179	Family	U20	07 Jun 2024
 Somerville, Adrian (GBR176)	179	Family	Veteran	07 Jun 2024
 Sosa de las Heras, Jaime (GBR694)	694	Individual	Adult	26 Aug 2024
@@ -550,6 +548,7 @@ Trunkfield, Joe (GBR305)	300	Family	U20	01 Jun 2024
 Tucker, John (GBR893)	893	Individual	Veteran	06 Apr 2024
 Tucker, Matthew (GBR525)	525 (BWA)	Individual	Master	08 Oct 2023
 Turvey, Andy (GBR433)	433	Individual	Veteran	07 Jan 2025
+Tweedle, Ben (GBR530)	530	Student	Adult	10 Sep 2024
 Twinn, Andrew (GBR559)	559	Individual	Master	08 May 2024
 Underdown, Peter (GBR740)	740	Individual	Veteran	23 Jul 2024
 Vale, Charlotte (GBR233)	233	Youth	U15	11 Jun 2024

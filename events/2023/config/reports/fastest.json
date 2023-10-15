@@ -36,7 +36,7 @@
     },
     {
       "Title": "Fastest Wingboards",
-      "Fields": "Name,Nation,First Timer,Course,Start Time,Speed (kts)",
+      "Fields": "Name,Nation,Status,First Timer,Course,Start Time,Speed (kts)",
       "Filter": "Craft Type=Wingboard"
     },
     {
@@ -60,9 +60,9 @@
       "Filter": "Craft Type=Kiteboard,Status=Freeride"
     },
     {
-      "Title": "Fastest First Time Kiteboards",
+      "Title": "Fastest First Time Freeride Kiteboards",
       "Fields": "Name,Nation,Course,Start Time,Speed (kts)",
-      "Filter": "Craft Type=Kiteboard,First Timer=Y"
+      "Filter": "Craft Type=Kiteboard,Status=Freeride,First Timer=Y"
     },
     {
       "Title": "Fastest Pro Fleet Sailboards",
@@ -95,9 +95,9 @@
       "Filter": "Craft Type=Wingboard,Status=Amateur"
     },
     {
-      "Title": "Fastest First Time Wingboards",
+      "Title": "Fastest First Time Amateur Wingboards",
       "Fields": "Name,Nation,Course,Start Time,Speed (kts)",
-      "Filter": "Craft Type=Wingboard,First Timer=Y"
+      "Filter": "Craft Type=Wingboard,Status=Amateur,First Timer=Y"
     },
     {
       "Title": "Fastest Lady Sailboards",
@@ -107,7 +107,7 @@
     },
     {
       "Title": "Fastest Youths",
-      "Comment": "(age <18 on 31st Oct)",
+      "Comment": "(age <18 for both days of the event)",
       "Fields": "Name,Nation,Craft Type,First Timer,Course,Start Time,Speed (kts)",
       "Filter": "Age=Youth,Weekend=Y",
       "Sort": "Speed (kts)=DSC"

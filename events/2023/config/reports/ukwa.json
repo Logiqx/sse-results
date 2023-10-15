@@ -1,47 +1,55 @@
 {
   "Suptitle": "UKWA Runs of the Day - {Date}",
   "Period": "Session",
-  "Fields": "Name,Nation,Run 1 (kts),Run 2 (kts),Avg (kts)",
+  "Fields": "Name,Nation,Status,Run 1 (kts),Run 2 (kts),Avg (kts)",
   "Sort": "Avg (kts)=DSC",
   "Series": true,
   "Reports": [
     {
       "Title": "Leg 1 - Sailboards (Men)",
+      "Comment": "Rounds will only count towards the event when 25% of the riders achieve over 28 knots two times",
       "Filter": "UKWA=Leg 1,Gender=M",
       "Fleet": "Men's Sailboard"
     },
     {
       "Title": "Leg 1 - Sailboards (Women)",
+      "Comment": "Rounds will only count towards the event when 25% of the riders achieve over 28 knots two times",
       "Filter": "UKWA=Leg 1,Gender=F",
       "Fleet": "Women's Sailboard"
     },
     {
       "Title": "Leg 1 - Wingboards (Men)",
+      "Comment": "Rounds will only count towards the event when 25% of the riders achieve over 18 knots two times",
       "Filter": "UKWA Wings=Leg 1,Gender=M",
       "Fleet": "Men's Wingboard"
     },
     {
       "Title": "Leg 1 - Wingboards (Women)",
+      "Comment": "Rounds will only count towards the event when 25% of the riders achieve over 18 knots two times",
       "Filter": "UKWA Wings=Leg 1,Gender=F",
       "Fleet": "Women's Wingboard"
     },
     {
       "Title": "Leg 2 - Sailboards (Men)",
+      "Comment": "Rounds will only count towards the event when 25% of the riders achieve over 28 knots two times",
       "Filter": "UKWA=Leg 2,Gender=M",
       "Fleet": "Men's Sailboard"
     },
     {
       "Title": "Leg 2 - Sailboards (Women)",
+      "Comment": "Rounds will only count towards the event when 25% of the riders achieve over 28 knots two times",
       "Filter": "UKWA=Leg 2,Gender=F",
       "Fleet": "Women's Sailboard"
     },
     {
       "Title": "Leg 2 - Wingboards (Men)",
+      "Comment": "Rounds will only count towards the event when 25% of the riders achieve over 18 knots two times",
       "Filter": "UKWA Wings=Leg 2,Gender=M",
       "Fleet": "Men's Wingboard"
     },
     {
       "Title": "Leg 2 - Wingboards (Women)",
+      "Comment": "Rounds will only count towards the event when 25% of the riders achieve over 18 knots two times",
       "Filter": "UKWA Wings=Leg 2,Gender=F",
       "Fleet": "Women's Wingboard"
     }

@@ -29,9 +29,9 @@
       "Filter": "Craft Type=Kiteboard,Status=Freeride"
     },
     {
-      "Title": "All First Time Kiteboards",
+      "Title": "All First Time Freeride Kiteboards",
       "Fields": "Name,Nation,Course,Start Time,Speed (kts)",
-      "Filter": "Craft Type=Kiteboard,First Timer=Y"
+      "Filter": "Craft Type=Kiteboard,Status=Freeride,First Timer=Y"
     },
     {
       "Title": "All Pro Fleet Sailboards",
@@ -64,9 +64,9 @@
       "Filter": "Craft Type=Wingboard,Status=Amateur"
     },
     {
-      "Title": "All First Time Wingboards",
+      "Title": "All First Time Amateur Wingboards",
       "Fields": "Name,Nation,Course,Start Time,Speed (kts)",
-      "Filter": "Craft Type=Wingboard,First Timer=Y"
+      "Filter": "Craft Type=Wingboard,Status=Amateur,First Timer=Y"
     },
     {
       "Title": "All Lady Sailboards",
@@ -76,7 +76,7 @@
     },
     {
       "Title": "All Youths",
-      "Comment": "(age <18 on 31st Oct)",
+      "Comment": "(age <18 for both days of the event)",
       "Fields": "Name,Nation,Craft Type,First Timer,Course,Start Time,Speed (kts)",
       "Filter": "Age=Youth,Weekend=Y",
       "Sort": "Speed (kts)=DSC"
