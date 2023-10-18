@@ -3,7 +3,7 @@
     "Year": "2023"
   },
   "Defaults": {
-    "Entry Type": "2 Days",
+    "Entry Type": "All Week",
     "Start Date": "2023-10-07",
     "End Date": "2023-10-13",
     "Withdrawn": "N"
@@ -21,6 +21,13 @@
     "Tally": "Tally"
   },
   "Derivations": {
+    "Start Date": {
+      "2023-10-09": {
+        "Filters": {
+          "2 Dayer": "YES"
+        }
+      }
+    },
     "End Date": {
       "2023-10-08": {
         "Filters": {
@@ -29,11 +36,6 @@
       }
     },
     "Entry Type": {
-      "All Week": {
-        "Filters": {
-          "All Week": "YES"
-        }
-      },
       "2 Days": {
         "Filters": {
           "2 Dayer": "YES"
