@@ -1,4 +1,4 @@
-Rank,Name,Fleet,Status,Run 1 (kts),Run 2 (kts),Avg (kts)
+Place,Helmname,Fleet,Status,Run 1 (kts),Run 2 (kts),Avg (kts)
 1,Scotty Stallman,Men's Sailboard,Pro Fleet,34.75,33.26,34.00
 2,James Battye,Men's Sailboard,Pro Fleet,34.34,33.10,33.72
 3,Simon Pettifer,Men's Sailboard,Pro Fleet,33.68,33.57,33.62
