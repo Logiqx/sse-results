@@ -1,16 +1,19 @@
 {
   "Suptitle": "UKWA Runs of the Day - {Date}",
   "Period": "Session",
-  "Fields": "Name,Nation,Run 1 (kts),Run 2 (kts),Avg (kts)",
+  "Fields": "Name,Nation,Status,Run 1 (kts),Run 2 (kts),Avg (kts)",
   "Sort": "Avg (kts)=DSC",
+  "Series": true,
   "Reports": [
     {
       "Title": "Men",
-      "Filter": "UKWA=Round,Gender=M"
+      "Filter": "UKWA=Round,Gender=M",
+      "Fleet": "Men's Sailboard"
     },
     {
       "Title": "Women",
-      "Filter": "UKWA=Round,Gender=F"
+      "Filter": "UKWA=Round,Gender=F",
+      "Fleet": "Women's Sailboard"
     }
   ]
 }
