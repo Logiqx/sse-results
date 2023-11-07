@@ -1,7 +1,7 @@
-Place,Helmname,Fleet
-1,Simon Pettifer,Men's Sailboard
-2,Scotty Stallman,Men's Sailboard
-3,James Battye,Men's Sailboard
-4,Michael George,Men's Sailboard
-5,Gavin Nicholson,Men's Sailboard
-6,Jonny Kirton,Men's Sailboard
+Rank,Name,Fleet,Status,Run 1 (kts),Run 2 (kts),Avg (kts)
+1,Simon Pettifer,Men's Sailboard,Pro Fleet,24.01,23.81,23.91
+2,Scotty Stallman,Men's Sailboard,Pro Fleet,23.84,23.78,23.81
+3,James Battye,Men's Sailboard,Pro Fleet,21.78,20.91,21.35
+4,Michael George,Men's Sailboard,Gold Fleet,21.29,20.91,21.10
+5,Gavin Nicholson,Men's Sailboard,Gold Fleet,19.03,18.23,18.63
+6,Jonny Kirton,Men's Sailboard,Amateur,15.91,14.88,15.40

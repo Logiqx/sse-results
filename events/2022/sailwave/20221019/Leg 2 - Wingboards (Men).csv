@@ -1,3 +1,3 @@
-Place,Helmname,Fleet
-1,Richard Hobson,Men's Wingboard
-2,Ian Kraft,Men's Wingboard
+Rank,Name,Fleet,Status,Run 1 (kts),Run 2 (kts),Avg (kts)
+1,Richard Hobson,Men's Wingboard,Wing Fleet,20.55,20.40,20.48
+2,Ian Kraft,Men's Wingboard,Wing Fleet,15.05,14.19,14.62

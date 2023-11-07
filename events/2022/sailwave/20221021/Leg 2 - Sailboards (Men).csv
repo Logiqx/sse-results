@@ -1,13 +1,13 @@
-Place,Helmname,Fleet
-1,Scotty Stallman,Men's Sailboard
-2,Kevin Greenslade,Men's Sailboard
-3,Simon Pettifer,Men's Sailboard
-4,Garry Connell,Men's Sailboard
-5,Nigel Spriggs,Men's Sailboard
-6,Jim Crossley,Men's Sailboard
-7,Simon Chippington,Men's Sailboard
-8,Joe Trunkfield,Men's Sailboard
-9,Dave Strudwick,Men's Sailboard
-10,Gavin Nicholson,Men's Sailboard
-11,Iain Neary,Men's Sailboard
-12,Maciej Bukolt,Men's Sailboard
+Rank,Name,Fleet,Status,Run 1 (kts),Run 2 (kts),Avg (kts)
+1,Scotty Stallman,Men's Sailboard,Pro Fleet,38.64,36.97,37.81
+2,Kevin Greenslade,Men's Sailboard,Pro Fleet,35.59,34.47,35.03
+3,Simon Pettifer,Men's Sailboard,Pro Fleet,32.46,31.34,31.90
+4,Garry Connell,Men's Sailboard,Pro Fleet,32.27,30.58,31.43
+5,Nigel Spriggs,Men's Sailboard,Pro Fleet,32.84,29.71,31.28
+6,Jim Crossley,Men's Sailboard,Pro Fleet,30.96,26.81,28.89
+7,Simon Chippington,Men's Sailboard,Gold Fleet,26.34,26.33,26.33
+8,Joe Trunkfield,Men's Sailboard,Amateur,26.53,24.80,25.66
+9,Dave Strudwick,Men's Sailboard,Gold Fleet,25.61,24.65,25.13
+10,Gavin Nicholson,Men's Sailboard,Gold Fleet,17.32,16.96,17.14
+11,Iain Neary,Men's Sailboard,Amateur,22.55,,11.27
+12,Maciej Bukolt,Men's Sailboard,Amateur,21.65,,10.83

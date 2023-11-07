@@ -1,12 +1,12 @@
-Place,Helmname,Fleet
-1,Scotty Stallman,Men's Sailboard
-2,Nigel Spriggs,Men's Sailboard
-3,Simon Pettifer,Men's Sailboard
-4,Michael George,Men's Sailboard
-5,Iain Neary,Men's Sailboard
-6,Garry Connell,Men's Sailboard
-7,Andy Stuart-William,Men's Sailboard
-8,Andrew Twinn,Men's Sailboard
-9,Scott Norman,Men's Sailboard
-10,Simon Chippington,Men's Sailboard
-11,Tim Laine,Men's Sailboard
+Rank,Name,Fleet,Status,Run 1 (kts),Run 2 (kts),Avg (kts)
+1,Scotty Stallman,Men's Sailboard,Pro Fleet,31.02,29.81,30.41
+2,Nigel Spriggs,Men's Sailboard,Pro Fleet,29.60,28.78,29.19
+3,Simon Pettifer,Men's Sailboard,Pro Fleet,26.84,26.84,26.84
+4,Michael George,Men's Sailboard,Pro Fleet,26.75,26.50,26.62
+5,Iain Neary,Men's Sailboard,Amateur,25.91,25.43,25.67
+6,Garry Connell,Men's Sailboard,Pro Fleet,25.98,23.83,24.91
+7,Andy Stuart-William,Men's Sailboard,Gold Fleet,24.05,23.43,23.74
+8,Andrew Twinn,Men's Sailboard,Gold Fleet,23.36,23.13,23.24
+9,Scott Norman,Men's Sailboard,Amateur,22.48,22.23,22.36
+10,Simon Chippington,Men's Sailboard,Gold Fleet,20.05,19.57,19.81
+11,Tim Laine,Men's Sailboard,Gold Fleet,19.13,19.09,19.11

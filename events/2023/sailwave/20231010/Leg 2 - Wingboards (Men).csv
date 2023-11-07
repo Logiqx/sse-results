@@ -1,7 +1,7 @@
-Place,Helmname,Fleet
-1,Richard Hobson,Men's Wingboard
-2,Joe Adams,Men's Wingboard
-3,Denis Gordo,Men's Wingboard
-4,John-Paul Standish,Men's Wingboard
-5,Mark Salvage,Men's Wingboard
-6,Zack Peaple,Men's Wingboard
+Rank,Name,Fleet,Status,Run 1 (kts),Run 2 (kts),Avg (kts)
+1,Richard Hobson,Men's Wingboard,Pro Fleet,26.26,25.66,25.96
+2,Joe Adams,Men's Wingboard,Amateur,25.31,24.98,25.15
+3,Denis Gordo,Men's Wingboard,Amateur,24.52,23.80,24.16
+4,John-Paul Standish,Men's Wingboard,Amateur,16.43,16.06,16.25
+5,Mark Salvage,Men's Wingboard,Amateur,13.70,13.44,13.57
+6,Zack Peaple,Men's Wingboard,Amateur,22.38,,11.19

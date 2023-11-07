@@ -1,23 +1,23 @@
-Place,Helmname,Fleet
-1,Scotty Stallman,Men's Sailboard
-2,Simon Pettifer,Men's Sailboard
-3,Jim Crossley,Men's Sailboard
-4,Zack Peaple,Men's Sailboard
-5,Michael George,Men's Sailboard
-6,George Fulton,Men's Sailboard
-7,Scott Norman,Men's Sailboard
-8,John Oliver,Men's Sailboard
-9,Will Trossell,Men's Sailboard
-10,Tim Bate,Men's Sailboard
-11,Stuart Trunkfield,Men's Sailboard
-12,Garry Connell,Men's Sailboard
-13,Scott Harrison,Men's Sailboard
-14,Dave Strudwick,Men's Sailboard
-15,Andy Stuart-William,Men's Sailboard
-16,Richard Crosby,Men's Sailboard
-17,Russell Thompson,Men's Sailboard
-18,Joe Trunkfield,Men's Sailboard
-19,Matthew Lilley,Men's Sailboard
-20,Simon Ramsden,Men's Sailboard
-21,Eddie Marsh,Men's Sailboard
-22,Neil Binding,Men's Sailboard
+Rank,Name,Fleet,Status,Run 1 (kts),Run 2 (kts),Avg (kts)
+1,Scotty Stallman,Men's Sailboard,Pro Fleet,31.14,29.95,30.55
+2,Simon Pettifer,Men's Sailboard,Pro Fleet,30.38,29.43,29.90
+3,Jim Crossley,Men's Sailboard,Pro Fleet,29.74,29.57,29.66
+4,Zack Peaple,Men's Sailboard,Gold Fleet,28.10,27.89,27.99
+5,Michael George,Men's Sailboard,Pro Fleet,27.24,26.81,27.03
+6,George Fulton,Men's Sailboard,Gold Fleet,26.84,26.59,26.72
+7,Scott Norman,Men's Sailboard,Gold Fleet,26.77,26.30,26.54
+8,John Oliver,Men's Sailboard,Gold Fleet,26.78,26.23,26.50
+9,Will Trossell,Men's Sailboard,Gold Fleet,26.21,26.19,26.20
+10,Tim Bate,Men's Sailboard,Amateur,25.90,25.46,25.68
+11,Stuart Trunkfield,Men's Sailboard,Gold Fleet,25.85,25.47,25.66
+12,Garry Connell,Men's Sailboard,Pro Fleet,26.60,24.24,25.42
+13,Scott Harrison,Men's Sailboard,Gold Fleet,25.32,25.06,25.19
+14,Dave Strudwick,Men's Sailboard,Gold Fleet,25.69,24.59,25.14
+15,Andy Stuart-William,Men's Sailboard,Gold Fleet,25.21,24.96,25.08
+16,Richard Crosby,Men's Sailboard,Gold Fleet,25.09,24.69,24.89
+17,Russell Thompson,Men's Sailboard,Amateur,25.10,24.37,24.73
+18,Joe Trunkfield,Men's Sailboard,Amateur,24.30,23.31,23.80
+19,Matthew Lilley,Men's Sailboard,Amateur,23.57,23.11,23.34
+20,Simon Ramsden,Men's Sailboard,Amateur,24.00,22.14,23.07
+21,Eddie Marsh,Men's Sailboard,Gold Fleet,22.70,22.52,22.61
+22,Neil Binding,Men's Sailboard,Amateur,23.67,,11.84

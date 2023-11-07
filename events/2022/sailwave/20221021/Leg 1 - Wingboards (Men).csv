@@ -1,5 +1,5 @@
-Place,Helmname,Fleet
-1,Richard Hobson,Men's Wingboard
-2,Michael George,Men's Wingboard
-3,Ian Kraft,Men's Wingboard
-4,Stacey Vass,Men's Wingboard
+Rank,Name,Fleet,Status,Run 1 (kts),Run 2 (kts),Avg (kts)
+1,Richard Hobson,Men's Wingboard,Wing Fleet,25.13,24.79,24.96
+2,Michael George,Men's Wingboard,Wing Fleet,24.27,23.64,23.95
+3,Ian Kraft,Men's Wingboard,Wing Fleet,17.63,17.13,17.38
+4,Stacey Vass,Men's Wingboard,Wing Fleet,16.77,16.40,16.58

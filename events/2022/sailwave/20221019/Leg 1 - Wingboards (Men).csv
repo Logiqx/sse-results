@@ -1,5 +1,5 @@
-Place,Helmname,Fleet
-1,Richard Hobson,Men's Wingboard
-2,Michael George,Men's Wingboard
-3,Ian Kraft,Men's Wingboard
-4,Simon Chippington,Men's Wingboard
+Rank,Name,Fleet,Status,Run 1 (kts),Run 2 (kts),Avg (kts)
+1,Richard Hobson,Men's Wingboard,Wing Fleet,22.16,21.83,21.99
+2,Michael George,Men's Wingboard,Wing Fleet,18.44,17.89,18.17
+3,Ian Kraft,Men's Wingboard,Wing Fleet,14.67,14.55,14.61
+4,Simon Chippington,Men's Wingboard,Wing Fleet,13.27,12.73,13.00

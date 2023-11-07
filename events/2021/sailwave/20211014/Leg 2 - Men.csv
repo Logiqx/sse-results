@@ -1,10 +1,10 @@
-Place,Helmname,Fleet
-1,James Battye,Men's Sailboard
-2,Scotty Stallman,Men's Sailboard
-3,Simon Pettifer,Men's Sailboard
-4,Michael George,Men's Sailboard
-5,Jonny Kirton,Men's Sailboard
-6,Jim Crossley,Men's Sailboard
-7,Andrew Twinn,Men's Sailboard
-8,Nic Dodd,Men's Sailboard
-9,Trevor Whatford,Men's Sailboard
+Rank,Name,Fleet,Status,Run 1 (kts),Run 2 (kts),Avg (kts)
+1,James Battye,Men's Sailboard,Pro Fleet,23.64,23.60,23.62
+2,Scotty Stallman,Men's Sailboard,Pro Fleet,23.60,23.49,23.55
+3,Simon Pettifer,Men's Sailboard,Pro Fleet,22.94,22.71,22.82
+4,Michael George,Men's Sailboard,Gold Fleet,21.86,21.71,21.79
+5,Jonny Kirton,Men's Sailboard,Amateur,18.50,17.99,18.25
+6,Jim Crossley,Men's Sailboard,Pro Fleet,17.89,17.55,17.72
+7,Andrew Twinn,Men's Sailboard,Amateur,16.04,15.80,15.92
+8,Nic Dodd,Men's Sailboard,Amateur,14.18,14.10,14.14
+9,Trevor Whatford,Men's Sailboard,Gold Fleet,10.27,9.78,10.02

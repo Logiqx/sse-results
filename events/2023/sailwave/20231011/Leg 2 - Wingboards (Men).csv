@@ -1,9 +1,9 @@
-Place,Helmname,Fleet
-1,Richard Hobson,Men's Wingboard
-2,Joe Adams,Men's Wingboard
-3,Guy Cribb,Men's Wingboard
-4,Denis Gordo,Men's Wingboard
-5,Kuba Staite,Men's Wingboard
-6,Rod Dickinson,Men's Wingboard
-7,Andrew Collenette,Men's Wingboard
-8,Mark Salvage,Men's Wingboard
+Rank,Name,Fleet,Status,Run 1 (kts),Run 2 (kts),Avg (kts)
+1,Richard Hobson,Men's Wingboard,Pro Fleet,28.24,27.29,27.76
+2,Joe Adams,Men's Wingboard,Amateur,27.36,26.93,27.14
+3,Guy Cribb,Men's Wingboard,Pro Fleet,26.80,26.76,26.78
+4,Denis Gordo,Men's Wingboard,Amateur,24.84,24.77,24.81
+5,Kuba Staite,Men's Wingboard,Amateur,24.69,24.54,24.62
+6,Rod Dickinson,Men's Wingboard,Amateur,24.73,23.87,24.30
+7,Andrew Collenette,Men's Wingboard,Amateur,23.37,23.25,23.31
+8,Mark Salvage,Men's Wingboard,Amateur,15.34,15.11,15.22
