@@ -8,29 +8,29 @@
     {
       "Suptitle": "Overall Rankings by Craft Type",
       "Period": "Event",
-      "HideFields": "Course,Start Time"
+      "HideFields": "Course,Time"
     }
   ],
   "Profile": true,
   "Reports": [
     {
       "Title": "All Boats",
-      "Fields": "Name,Nation,First Timer,Boat Name,Course,Start Time,Speed (kts)",
+      "Fields": "Name,Nation,First Timer,Boat Name,Course,Time,Speed (kts)",
       "Filter": "Craft Type=Boat"
     },
     {
       "Title": "All Kiteboards",
-      "Fields": "Name,Nation,First Timer,Course,Start Time,Speed (kts)",
+      "Fields": "Name,Nation,First Timer,Course,Time,Speed (kts)",
       "Filter": "Craft Type=Kiteboard"
     },
     {
       "Title": "All Sailboards",
-      "Fields": "Name,Nation,Status,First Timer,Course,Start Time,Speed (kts)",
+      "Fields": "Name,Nation,Status,First Timer,Course,Time,Speed (kts)",
       "Filter": "Craft Type=Sailboard"
     },
     {
       "Title": "All Craft TBCs",
-      "Fields": "Name,Nation,Craft Type,Status,First Timer,Course,Start Time,Speed (kts)",
+      "Fields": "Name,Nation,Craft Type,Status,First Timer,Course,Time,Speed (kts)",
       "Filter": "Craft Type=TBC"
     }
   ]

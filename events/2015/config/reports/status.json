@@ -8,134 +8,134 @@
     {
       "Suptitle": "Overall Rankings by Status",
       "Period": "Event",
-      "HideFields": "Course,Start Time"
+      "HideFields": "Course,Time"
     }
   ],
   "Profile": true,
   "Reports": [
     {
       "Title": "All Ladies",
-      "Fields": "Name,Nation,Craft Type,Status,Entry Type,First Timer,Course,Start Time,Speed (kts)",
+      "Fields": "Name,Nation,Craft Type,Status,Entry Type,First Timer,Course,Time,Speed (kts)",
       "Filter": "Gender=F"
     },
     {
       "Title": "All Pro Sailboards",
-      "Fields": "Name,Nation,Entry Type,Course,Start Time,Speed (kts)",
+      "Fields": "Name,Nation,Entry Type,Course,Time,Speed (kts)",
       "Filter": "Craft Type=Sailboard,Status=Pro Fleet"
     },
     {
       "Title": "All Pro Sailboards - Prize Eligible",
-      "Fields": "Name,Nation,Entry Type,Course,Start Time,Speed (kts)",
+      "Fields": "Name,Nation,Entry Type,Course,Time,Speed (kts)",
       "Filter": "Craft Type=Sailboard,Status=Pro Fleet,Entry Type=All Week",
       "Period": "Event"
     },
     {
       "Title": "All Gold Fleet Sailboards",
-      "Fields": "Name,Nation,Entry Type,Course,Start Time,Speed (kts)",
+      "Fields": "Name,Nation,Entry Type,Course,Time,Speed (kts)",
       "Filter": "Craft Type=Sailboard,Status=Gold Fleet"
     },
     {
       "Title": "All Gold Fleet Sailboards - Prize Eligible",
-      "Fields": "Name,Nation,Entry Type,Course,Start Time,Speed (kts)",
+      "Fields": "Name,Nation,Entry Type,Course,Time,Speed (kts)",
       "Filter": "Craft Type=Sailboard,Status=Gold Fleet,Entry Type=All Week",
       "Period": "Event"
     },
     {
       "Title": "All Amateur Sailboards",
       "Comment": "(excludes first time amateur sailboards)",
-      "Fields": "Name,Nation,Entry Type,Course,Start Time,Speed (kts)",
+      "Fields": "Name,Nation,Entry Type,Course,Time,Speed (kts)",
       "Filter": "Craft Type=Sailboard,Status=Amateur,First Timer<>Y"
     },
     {
       "Title": "All Amateur Sailboards - Prize Eligible",
       "Comment": "(excludes first time amateur sailboards)",
-      "Fields": "Name,Nation,Entry Type,Course,Start Time,Speed (kts)",
+      "Fields": "Name,Nation,Entry Type,Course,Time,Speed (kts)",
       "Filter": "Craft Type=Sailboard,Status=Amateur,First Timer<>Y,Entry Type=All Week",
       "Period": "Event"
     },
     {
       "Title": "All First Time Amateur Sailboards",
-      "Fields": "Name,Nation,Entry Type,Course,Start Time,Speed (kts)",
+      "Fields": "Name,Nation,Entry Type,Course,Time,Speed (kts)",
       "Filter": "Craft Type=Sailboard,Status=Amateur,First Timer=Y"
     },
     {
       "Title": "All First Time Amateur Sailboards - Prize Eligible",
-      "Fields": "Name,Nation,Entry Type,Course,Start Time,Speed (kts)",
+      "Fields": "Name,Nation,Entry Type,Course,Time,Speed (kts)",
       "Filter": "Craft Type=Sailboard,Status=Amateur,First Timer=Y,Entry Type=All Week",
       "Period": "Event"
     },
     {
       "Title": "All First Time Boats",
-      "Fields": "Name,Nation,Entry Type,Boat Name,Course,Start Time,Speed (kts)",
+      "Fields": "Name,Nation,Entry Type,Boat Name,Course,Time,Speed (kts)",
       "Filter": "Craft Type=Boat,First Timer=Y"
     },
     {
       "Title": "All First Time Boats - Prize Eligible",
-      "Fields": "Name,Nation,Entry Type,Boat Name,Course,Start Time,Speed (kts)",
+      "Fields": "Name,Nation,Entry Type,Boat Name,Course,Time,Speed (kts)",
       "Filter": "Craft Type=Boat,First Timer=Y,Entry Type=All Week",
       "Period": "Event"
     },
     {
       "Title": "All Non-Rookie Boats",
       "Comment": "(excludes first time boats)",
-      "Fields": "Name,Nation,Entry Type,Boat Name,Course,Start Time,Speed (kts)",
+      "Fields": "Name,Nation,Entry Type,Boat Name,Course,Time,Speed (kts)",
       "Filter": "Craft Type=Boat,First Timer<>Y"
     },
     {
       "Title": "All Non-Rookie Boats - Prize Eligible",
       "Comment": "(excludes first time boats)",
-      "Fields": "Name,Nation,Entry Type,Boat Name,Course,Start Time,Speed (kts)",
+      "Fields": "Name,Nation,Entry Type,Boat Name,Course,Time,Speed (kts)",
       "Filter": "Craft Type=Boat,First Timer<>Y,Entry Type=All Week",
       "Period": "Event"
     },
     {
       "Title": "All First Time Kiteboards",
-      "Fields": "Name,Nation,Entry Type,Course,Start Time,Speed (kts)",
+      "Fields": "Name,Nation,Entry Type,Course,Time,Speed (kts)",
       "Filter": "Craft Type=Kiteboard,First Timer=Y"
     },
     {
       "Title": "All First Time Kiteboards - Prize Eligible",
-      "Fields": "Name,Nation,Entry Type,Course,Start Time,Speed (kts)",
+      "Fields": "Name,Nation,Entry Type,Course,Time,Speed (kts)",
       "Filter": "Craft Type=Kiteboard,First Timer=Y,Entry Type=All Week",
       "Period": "Event"
     },
     {
       "Title": "All Non-Rookie Kiteboards",
       "Comment": "(excludes first time kiteboards)",
-      "Fields": "Name,Nation,Entry Type,Course,Start Time,Speed (kts)",
+      "Fields": "Name,Nation,Entry Type,Course,Time,Speed (kts)",
       "Filter": "Craft Type=Kiteboard,First Timer<>Y"
     },
     {
       "Title": "All Non-Rookie Kiteboards - Prize Eligible",
       "Comment": "(excludes first time kiteboards)",
-      "Fields": "Name,Nation,Entry Type,Course,Start Time,Speed (kts)",
+      "Fields": "Name,Nation,Entry Type,Course,Time,Speed (kts)",
       "Filter": "Craft Type=Kiteboard,First Timer<>Y,Entry Type=All Week",
       "Period": "Event"
     },
     {
       "Title": "All Lady Sailboards",
       "Comment": "(excluding pros and youths)",
-      "Fields": "Name,Nation,Status,Entry Type,First Timer,Course,Start Time,Speed (kts)",
+      "Fields": "Name,Nation,Status,Entry Type,First Timer,Course,Time,Speed (kts)",
       "Filter": "Craft Type=Sailboard,Gender=F,Status<>Pro Fleet,Status<>Youth Fleet"
     },
     {
       "Title": "All Lady Sailboards - Prize Eligible",
       "Comment": "(excluding pros and youths)",
-      "Fields": "Name,Nation,Status,Entry Type,First Timer,Course,Start Time,Speed (kts)",
+      "Fields": "Name,Nation,Status,Entry Type,First Timer,Course,Time,Speed (kts)",
       "Filter": "Craft Type=Sailboard,Gender=F,Status<>Pro Fleet,Status<>Youth Fleet,Entry Type=All Week",
       "Period": "Event"
     },
     {
       "Title": "All Youth Sailboards",
       "Comment": "(age <18 on 31st Oct)",
-      "Fields": "Name,Nation,Entry Type,First Timer,Course,Start Time,Speed (kts)",
+      "Fields": "Name,Nation,Entry Type,First Timer,Course,Time,Speed (kts)",
       "Filter": "Craft Type=Sailboard,Status=Youth Fleet",
       "Period": "Session"
     },
     {
       "Title": "All Youth Sailboards",
       "Comment": "(age <18 on 31st Oct)",
-      "Fields": "Name,Nation,Entry Type,First Timer,Course,Start Time,Speed (kts)",
+      "Fields": "Name,Nation,Entry Type,First Timer,Course,Time,Speed (kts)",
       "Filter": "Craft Type=Sailboard,Status=Youth Fleet,Weekend=Y",
       "Sort": "Speed (kts)=DSC",
       "Period": "Event"

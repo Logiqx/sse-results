@@ -8,7 +8,7 @@
     {
       "Suptitle": "Overall Rankings by Grouping",
       "Period": "Event",
-      "HideFields": "Course,Start Time"
+      "HideFields": "Course,Time"
     }
   ],
   "Profile": true,
@@ -16,27 +16,27 @@
     {
       "Title": "AFS",
       "Filter": "Grouping=AFS",
-      "Fields": "Name,Nation,Craft Type,Status,First Timer,Course,Start Time,Speed (kts)"
+      "Fields": "Name,Nation,Craft Type,Status,First Timer,Course,Time,Speed (kts)"
     },
     {
       "Title": "Hamworthy Heroes",
       "Filter": "Grouping=Hamworthy Heroes",
-      "Fields": "Name,Nation,Craft Type,Status,First Timer,Course,Start Time,Speed (kts)"
+      "Fields": "Name,Nation,Craft Type,Status,First Timer,Course,Time,Speed (kts)"
     },
     {
       "Title": "HM Forces",
       "Filter": "Grouping=Forces - %",
-      "Fields": "Name,Nation,Grouping,First Timer,Course,Start Time,Speed (kts)"
+      "Fields": "Name,Nation,Grouping,First Timer,Course,Time,Speed (kts)"
     },
     {
       "Title": "Portland Pirates",
       "Filter": "Grouping=Portland Pirates",
-      "Fields": "Name,Nation,Craft Type,Status,First Timer,Course,Start Time,Speed (kts)"
+      "Fields": "Name,Nation,Craft Type,Status,First Timer,Course,Time,Speed (kts)"
     },
     {
       "Title": "Surf Hogs",
       "Filter": "Grouping=Surf Hogs",
-      "Fields": "Name,Nation,Craft Type,Status,First Timer,Course,Start Time,Speed (kts)"
+      "Fields": "Name,Nation,Craft Type,Status,First Timer,Course,Time,Speed (kts)"
     }
   ]
 }

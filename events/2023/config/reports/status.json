@@ -8,76 +8,76 @@
     {
       "Suptitle": "Overall Rankings by Status",
       "Period": "Event",
-      "HideFields": "Course,Start Time"
+      "HideFields": "Course,Time"
     }
   ],
   "Profile": true,
   "Reports": [
     {
       "Title": "All Ladies",
-      "Fields": "Name,Nation,Craft Type,Status,First Timer,Course,Start Time,Speed (kts)",
+      "Fields": "Name,Nation,Craft Type,Status,First Timer,Course,Time,Speed (kts)",
       "Filter": "Gender=F"
     },
     {
       "Title": "All Open Class Kiteboards",
-      "Fields": "Name,Nation,Course,Start Time,Speed (kts)",
+      "Fields": "Name,Nation,Course,Time,Speed (kts)",
       "Filter": "Craft Type=Kiteboard,Status=Open Class"
     },
     {
       "Title": "All Freeride Kiteboards",
-      "Fields": "Name,Nation,Course,Start Time,Speed (kts)",
+      "Fields": "Name,Nation,Course,Time,Speed (kts)",
       "Filter": "Craft Type=Kiteboard,Status=Freeride"
     },
     {
       "Title": "All First Time Freeride Kiteboards",
-      "Fields": "Name,Nation,Course,Start Time,Speed (kts)",
+      "Fields": "Name,Nation,Course,Time,Speed (kts)",
       "Filter": "Craft Type=Kiteboard,Status=Freeride,First Timer=Y"
     },
     {
       "Title": "All Pro Fleet Sailboards",
-      "Fields": "Name,Nation,Course,Start Time,Speed (kts)",
+      "Fields": "Name,Nation,Course,Time,Speed (kts)",
       "Filter": "Craft Type=Sailboard,Status=Pro Fleet"
     },
     {
       "Title": "All Gold Fleet Sailboards",
-      "Fields": "Name,Nation,Course,Start Time,Speed (kts)",
+      "Fields": "Name,Nation,Course,Time,Speed (kts)",
       "Filter": "Craft Type=Sailboard,Status=Gold Fleet"
     },
     {
       "Title": "All Amateur Sailboards",
-      "Fields": "Name,Nation,Course,Start Time,Speed (kts)",
+      "Fields": "Name,Nation,Course,Time,Speed (kts)",
       "Filter": "Craft Type=Sailboard,Status=Amateur"
     },
     {
       "Title": "All First Time Amateur Sailboards",
-      "Fields": "Name,Nation,Course,Start Time,Speed (kts)",
+      "Fields": "Name,Nation,Course,Time,Speed (kts)",
       "Filter": "Craft Type=Sailboard,Status=Amateur,First Timer=Y"
     },
     {
       "Title": "All Pro Fleet Wingboards",
-      "Fields": "Name,Nation,Course,Start Time,Speed (kts)",
+      "Fields": "Name,Nation,Course,Time,Speed (kts)",
       "Filter": "Craft Type=Wingboard,Status=Pro Fleet"
     },
     {
       "Title": "All Amateur Wingboards",
-      "Fields": "Name,Nation,Course,Start Time,Speed (kts)",
+      "Fields": "Name,Nation,Course,Time,Speed (kts)",
       "Filter": "Craft Type=Wingboard,Status=Amateur"
     },
     {
       "Title": "All First Time Amateur Wingboards",
-      "Fields": "Name,Nation,Course,Start Time,Speed (kts)",
+      "Fields": "Name,Nation,Course,Time,Speed (kts)",
       "Filter": "Craft Type=Wingboard,Status=Amateur,First Timer=Y"
     },
     {
       "Title": "All Lady Sailboards",
       "Comment": "(excluding pros)",
-      "Fields": "Name,Nation,Status,First Timer,Course,Start Time,Speed (kts)",
+      "Fields": "Name,Nation,Status,First Timer,Course,Time,Speed (kts)",
       "Filter": "Craft Type=Sailboard,Gender=F,Status<>Pro Fleet"
     },
     {
       "Title": "All Youths",
       "Comment": "(age <18 for both days of the event)",
-      "Fields": "Name,Nation,Craft Type,First Timer,Course,Start Time,Speed (kts)",
+      "Fields": "Name,Nation,Craft Type,First Timer,Course,Time,Speed (kts)",
       "Filter": "Age=Youth,Weekend=Y",
       "Sort": "Speed (kts)=DSC"
     }

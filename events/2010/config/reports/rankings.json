@@ -8,14 +8,14 @@
     {
       "Suptitle": "Overall Rankings",
       "Period": "Event",
-      "HideFields": "Sail Number,Course,Start Time"
+      "HideFields": "Sail Number,Course,Time"
     }
   ],
   "Profile": true,
   "Reports": [
     {
       "Title": "All Craft",
-      "Fields": "Name,Nation,Sail Number,Craft Type,Status,Course,Start Time,Speed (kts)"
+      "Fields": "Name,Nation,Sail Number,Craft Type,Status,Course,Time,Speed (kts)"
     }
   ]
 }

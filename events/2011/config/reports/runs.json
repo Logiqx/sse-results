@@ -5,8 +5,8 @@
   "Reports": [
     {
       "Title": "Sorted by Name and Time",
-      "Fields": "Name,Nation,Craft Type,Course,Start Time,Speed (kts)",
-      "Sort": "Name=ASC,Start Time=ASC"
+      "Fields": "Name,Nation,Craft Type,Course,Time,Speed (kts)",
+      "Sort": "Name=ASC,Time=ASC"
     }
   ]
 }

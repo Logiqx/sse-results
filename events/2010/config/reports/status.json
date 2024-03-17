@@ -8,54 +8,54 @@
     {
       "Suptitle": "Overall Rankings by Status",
       "Period": "Event",
-      "HideFields": "Sail Number,Course,Start Time"
+      "HideFields": "Sail Number,Course,Time"
     }
   ],
   "Profile": true,
   "Reports": [
     {
       "Title": "All Pros",
-      "Fields": "Name,Nation,Sail Number,Craft Type,Course,Start Time,Speed (kts)",
+      "Fields": "Name,Nation,Sail Number,Craft Type,Course,Time,Speed (kts)",
       "Filter": "Status=Pro Fleet"
     },
     {
       "Title": "All Gold Fleet Entrants",
-      "Fields": "Name,Nation,Sail Number,Craft Type,Course,Start Time,Speed (kts)",
+      "Fields": "Name,Nation,Sail Number,Craft Type,Course,Time,Speed (kts)",
       "Filter": "Status=Gold Fleet"
     },
     {
       "Title": "All Amateur Sailboards",
-      "Fields": "Name,Nation,Sail Number,Craft Type,Course,Start Time,Speed (kts)",
+      "Fields": "Name,Nation,Sail Number,Craft Type,Course,Time,Speed (kts)",
       "Filter": "Craft Type=Sailboard,Status=Amateur"
     },
     {
       "Title": "All Novices",
-      "Fields": "Name,Nation,Sail Number,Craft Type,Course,Start Time,Speed (kts)",
+      "Fields": "Name,Nation,Sail Number,Craft Type,Course,Time,Speed (kts)",
       "Filter": "Novice=Y"
     },
     {
       "Title": "All Ladies",
-      "Fields": "Name,Nation,Sail Number,Craft Type,Status,Course,Start Time,Speed (kts)",
+      "Fields": "Name,Nation,Sail Number,Craft Type,Status,Course,Time,Speed (kts)",
       "Filter": "Gender=F"
     },
     {
       "Title": "All Youths",
       "Comment": "(age <17 on the first day of speed week)",
-      "Fields": "Name,Nation,Sail Number,Craft Type,Course,Start Time,Speed (kts)",
+      "Fields": "Name,Nation,Sail Number,Craft Type,Course,Time,Speed (kts)",
       "Filter": "Status=Youth Fleet",
       "Period": "Session"
     },
     {
       "Title": "All Youths",
       "Comment": "(age <17 on the first day of speed week)",
-      "Fields": "Name,Nation,Sail Number,Craft Type,Course,Start Time,Speed (kts)",
+      "Fields": "Name,Nation,Sail Number,Craft Type,Course,Time,Speed (kts)",
       "Filter": "Status=Youth Fleet,Weekend=Y",
       "Sort": "Speed (kts)=DSC",
       "Period": "Event"
     },
     {
       "Title": "All Masters",
-      "Fields": "Name,Nation,Sail Number,Craft Type,Status,Course,Start Time,Speed (kts)",
+      "Fields": "Name,Nation,Sail Number,Craft Type,Status,Course,Time,Speed (kts)",
       "Comment": "(age 45+)",
       "Filter": "Master=Y"
     }

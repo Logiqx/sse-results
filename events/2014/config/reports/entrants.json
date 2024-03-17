@@ -15,9 +15,36 @@
       "Filter": "Craft Type=Kiteboard"
     },
     {
-      "Title": "All Sailboards",
+      "Title": "Pro Sailboards",
       "Fields": "Name,Nation,Status,Entry Type,First Timer,Tally",
-      "Filter": "Craft Type=Sailboard"
+      "Filter": "Craft Type=Sailboard,Status=Pro Fleet"
+    },
+    {
+      "Title": "Gold Fleet Sailboards",
+      "Fields": "Name,Nation,Status,Entry Type,First Timer,Tally",
+      "Filter": "Craft Type=Sailboard,Status=Gold Fleet"
+    },
+    {
+      "Title": "Amateur Sailboards",
+      "Comment": "(excludes first time amateur sailboards)",
+      "Fields": "Name,Nation,Status,Entry Type,First Timer,Tally",
+      "Filter": "Craft Type=Sailboard,Status=Amateur,First Timer<>Y"
+    },
+    {
+      "Title": "First Time Amateur Sailboards",
+      "Fields": "Name,Nation,Status,Entry Type,First Timer,Tally",
+      "Filter": "Craft Type=Sailboard,Status=Amateur,First Timer=Y"
+    },
+    {
+      "Title": "Youth Sailboards",
+      "Comment": "(age <18 on 31st Oct)",
+      "Fields": "Name,Nation,Status,Entry Type,First Timer,Tally",
+      "Filter": "Craft Type=Sailboard,Status=Youth Fleet"
+    },
+    {
+      "Title": "All Wingboards",
+      "Fields": "Name,Nation,Status,Entry Type,First Timer,Tally",
+      "Filter": "Craft Type=Wingboard"
     },
     {
       "Title": "All Craft TBCs",

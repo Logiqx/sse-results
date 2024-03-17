@@ -8,7 +8,7 @@
     {
       "Suptitle": "Overall Rankings by Grouping",
       "Period": "Event",
-      "HideFields": "Course,Start Time"
+      "HideFields": "Course,Time"
     }
   ],
   "Profile": true,
@@ -16,12 +16,12 @@
     {
       "Title": "HM Forces",
       "Filter": "Grouping=Forces - %",
-      "Fields": "Name,Nation,Grouping,Course,Start Time,Speed (kts)"
+      "Fields": "Name,Nation,Grouping,Course,Time,Speed (kts)"
     },
     {
       "Title": "Team QSW",
       "Filter": "Grouping=QSW",
-      "Fields": "Name,Nation,Status,Course,Start Time,Speed (kts)"
+      "Fields": "Name,Nation,Status,Course,Time,Speed (kts)"
     }
   ]
 }
