@@ -15,18 +15,27 @@
       <p class="small">{{ prize|safe }}</p>
       {% endfor %}
       <table class="{{ report.tableClass }}">
-        <tr>
-        {% for field in report.fields %}
-          <th>{{ field }}</th>
+        <colgroup>
+        {% for colClass in report.colClasses %}
+          <col class="{{ colClass }}"/>
         {% endfor %}
-        </tr>
-        {% for result in report.results %}
-        <tr>
-          {% for value in result %}
-          <td>{{ value|safe }}</td>
+        </colgroup>
+        <thead>
+          <tr>
+            {% for field in report.fields %}
+            <th>{{ field }}</th>
+            {% endfor %}
+          </tr>
+        </thead>
+        <tbody>
+          {% for result in report.results %}
+          <tr>
+            {% for value in result %}
+            <td>{{ value|safe }}</td>
+            {% endfor %}
+          </tr>
           {% endfor %}
-        </tr>
-        {% endfor %}
+        </tbody>
       </table>
       {% endif %}
       {% endfor %}
