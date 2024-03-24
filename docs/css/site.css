@@ -79,14 +79,8 @@ col.speed-kts, col.run-1-kts, col.run-2-kts, col.run-3-kts, col.avg-kts {
   tr {
     height: 39px;
   }
-  table.bests tbody tr {
-    height: 55px;
-  }
   col.speed-kts, col.run-1-kts, col.run-2-kts, col.run-3-kts, col.avg-kts {
     width: 39px;
-  }
-  col.other-run-speeds-kts {
-    width: 105px;
   }
 }
 @media screen and (max-width: 932px) {
@@ -121,14 +115,8 @@ col.speed-kts, col.run-1-kts, col.run-2-kts, col.run-3-kts, col.avg-kts {
   tr {
     height: 36px;
   }
-  table.bests tbody tr {
-    height: 53px;
-  }
   col.speed-kts, col.run-1-kts, col.run-2-kts, col.run-3-kts, col.avg-kts {
     width: 36px;
-  }
-  col.other-run-speeds-kts {
-    width: 101px;
   }
 }
 @media screen and (max-width: 812px) {
@@ -161,9 +149,6 @@ col.speed-kts, col.run-1-kts, col.run-2-kts, col.run-3-kts, col.avg-kts {
     height: 33px;
   }
   col.speed-kts, col.run-1-kts, col.run-2-kts, col.run-3-kts, col.avg-kts {
-    width: 33px;
-  }
-  col.other-run-speeds-kts {
     width: 33px;
   }
 }
