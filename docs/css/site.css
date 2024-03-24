@@ -58,8 +58,9 @@ col.speed-kts, col.run-1-kts, col.run-2-kts, col.run-3-kts, col.avg-kts {
    Samsung Galaxy S20 Ultra (412 x 915)
    iPhone 6+/6S+/7+/8+ (414 x 736)
    iPhone XS Max/XR (414 x 896)
-   iPhone 12 Pro Max (428 x 926) */
-@media screen and (max-width: 428px) {
+   iPhone 12 Pro Max (428 x 926)
+   iPhone 14 Pro Max (430 x 932) */
+@media screen and (max-width: 430px) {
   body {
     font-size: 13px;
   }
@@ -78,11 +79,17 @@ col.speed-kts, col.run-1-kts, col.run-2-kts, col.run-3-kts, col.avg-kts {
   tr {
     height: 39px;
   }
+  table.bests tbody tr {
+    height: 55px;
+  }
   col.speed-kts, col.run-1-kts, col.run-2-kts, col.run-3-kts, col.avg-kts {
     width: 39px;
   }
+  col.other-run-speeds-kts {
+    width: 105px;
+  }
 }
-@media screen and (max-width: 926px) {
+@media screen and (max-width: 932px) {
   table.bests {
     font-size: 13px;
   }
@@ -114,8 +121,14 @@ col.speed-kts, col.run-1-kts, col.run-2-kts, col.run-3-kts, col.avg-kts {
   tr {
     height: 36px;
   }
+  table.bests tbody tr {
+    height: 53px;
+  }
   col.speed-kts, col.run-1-kts, col.run-2-kts, col.run-3-kts, col.avg-kts {
     width: 36px;
+  }
+  col.other-run-speeds-kts {
+    width: 101px;
   }
 }
 @media screen and (max-width: 812px) {
@@ -148,6 +161,9 @@ col.speed-kts, col.run-1-kts, col.run-2-kts, col.run-3-kts, col.avg-kts {
     height: 33px;
   }
   col.speed-kts, col.run-1-kts, col.run-2-kts, col.run-3-kts, col.avg-kts {
+    width: 33px;
+  }
+  col.other-run-speeds-kts {
     width: 33px;
   }
 }
