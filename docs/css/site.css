@@ -71,6 +71,12 @@ table th, table td {
   table {
     font-size: 12px;
   }
+  tr {
+    height: 39px;
+  }
+  col.speed-kts, col.run-1-kts, col.run-2-kts, col.run-3-kts, col.avg-kts {
+    width: 39px;
+  }
 }
 @media screen and (max-width: 926px) {
   table.bests {
@@ -98,6 +104,12 @@ table th, table td {
   table {
     font-size: 11px;
   }
+  tr {
+    height: 36px;
+  }
+  col.speed-kts, col.run-1-kts, col.run-2-kts, col.run-3-kts, col.avg-kts {
+    width: 36px;
+  }
 }
 @media screen and (max-width: 812px) {
   table.bests {
@@ -122,6 +134,12 @@ table th, table td {
   table {
     font-size: 10px;
   }
+  tr {
+    height: 33px;
+  }
+  col.speed-kts, col.run-1-kts, col.run-2-kts, col.run-3-kts, col.avg-kts {
+    width: 33px;
+  }
 }
 @media screen and (max-width: 653px) {
   table.bests {
@@ -129,10 +147,12 @@ table th, table td {
   }
 }
 
+/* Use slightly lighter weight font for table headers */
 table th {
   font-weight: 600;
 }
 
+/* Stripy tables rows look nice and improve clarity */
 table tr:nth-child(even) {
   background-color: #f6f8fa;
 }
@@ -143,6 +163,16 @@ table.entrants tr td:first-child {
 }
 /* Nation */
 table.entrants tr td:nth-child(2) {
+  text-align: left;
+  white-space: nowrap;
+}
+
+/* Name */
+table.tallies tr td:nth-child(2) {
+  text-align: left;
+}
+/* Nation */
+table.tallies tr td:nth-child(3) {
   text-align: left;
   white-space: nowrap;
 }
