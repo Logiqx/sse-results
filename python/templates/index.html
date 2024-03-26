@@ -1,6 +1,8 @@
 {% extends "site.html" %}
 {% block content %}
-      <h2>{{ pageTitle|replace('{Date}', periodDate) }}</h2>
+      {% if filesTitle is defined and filesTitle %}
+      <h2>{{ filesTitle|replace('{Date}', periodDate) }}</h2>
+      {% endif %}
       {% if pageComment is not none %}
       <p class="large">{{ pageComment|safe }}</p>
       {% endif %}
