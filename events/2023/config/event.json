@@ -186,50 +186,8 @@
   ],
   "Series": {
     "UKWA": {
-      "Name": "UKWA Speed Championship 2023 (Sailboards)",
-      "Round": "Weymouth",
-      "Banner": "ukwa_logo.jpg",
-      "Website": "https://ukwindsurfing.com/",
-      "Average": 2,
-      "Filter": "Craft Type=Sailboard,UKWA=Y",
-      "Fleets": {
-        "Men": "Gender=M",
-        "Women": "Gender=F"
-      },
-      "Validity": {
-        "Filter": "Gender=M",
-        "Percentage": 25,
-        "Runs": 2,
-        "Speeds": {
-          "Harbour": 28,
-          "Shore": 28
-        }
-      },
-      "Discards": "0,0,0,1,1,1,2,2,2,2,3,3,3,3,3,4",
-      "Sort": "Net Score=ASC,Best Speed=DESC,Results=ASC,Final Result=ASC"
-    },
-    "UKWA Wings": {
-      "Name": "UKWA Speed Championship 2023 (Wingboards)",
-      "Round": "Weymouth",
-      "Banner": "ukwa_logo.jpg",
-      "Website": "https://ukwindsurfing.com/",
-      "Average": 2,
-      "Filter": "Craft Type=Wingboard,UKWA=Y",
-      "Fleets": {
-        "Men": "Gender=M",
-        "Women": "Gender=F"
-      },
-      "Validity": {
-        "Filter": "Gender=M",
-        "Percentage": 25,
-        "Runs": 2,
-        "Speeds": {
-          "Harbour": 18,
-          "Shore": 18
-        }
-      },
-      "Discards": "0,0,0,1,1,1,2,2,2,2,3,3,3,3,3,4",
-      "Sort": "Net Score=ASC,Best Speed=DESC,Results=ASC,Final Result=ASC"
+      "Name": "UKWA Speed Championship",
+      "Filter": "UKWA=Y"
     }
   }
 }

@@ -45,7 +45,7 @@
       "N",
       "?"
     ],
-    "UKWA Member": [
+    "UKWA": [
       "Y",
       "N",
       "?"
@@ -86,7 +86,7 @@
     {
       "Name": "'Fastest Youth' Trophy",
       "Category": "Youth Sailboard",
-      "Filter": "Craft Type=Sailboard,Status=Youth Fleet"
+      "Filter": "Craft Type=Sailboard,Entry Type=Youth Weekend,Weekend=Y"
     },
     {
       "Name": "'Fastest Lady' Shield",
@@ -156,8 +156,8 @@
       "Places": 1
     },
     {
-      "Category": "First Time Kiteboard",
-      "Filter": "Craft Type=Kiteboard,First Timer=Y",
+      "Category": "First Time Freeride Kiteboard",
+      "Filter": "Craft Type=Kiteboard,Status=Freeride,First Timer=Y",
       "Places": 1
     },
     {
@@ -183,50 +183,8 @@
   ],
   "Series": {
     "UKWA": {
-      "Name": "UKWA Speed Championship 2022 (Sailboards)",
-      "Round": "Weymouth",
-      "Banner": "ukwa_logo.jpg",
-      "Website": "https://ukwindsurfing.com/",
-      "Average": 2,
-      "Filter": "Craft Type=Sailboard,UKWA Member=Y",
-      "Fleets": {
-        "Men": "Gender=M",
-        "Women": "Gender=F"
-      },
-      "Validity": {
-        "Filter": "Gender=M",
-        "Percentage": 25,
-        "Runs": 2,
-        "Speeds": {
-          "Harbour": 28,
-          "Shore": 28
-        }
-      },
-      "Discards": "0,0,0,1,1,1,2,2,2,2,3,3,3,3,3,4",
-      "Sort": "Net Score=ASC,Best Speed=DESC,Results=ASC,Final Result=ASC"
-    },
-    "UKWA Wings": {
-      "Name": "UKWA Speed Championship 2022 (Wingboards)",
-      "Round": "Weymouth",
-      "Banner": "ukwa_logo.jpg",
-      "Website": "https://ukwindsurfing.com/",
-      "Average": 2,
-      "Filter": "Craft Type=Wingboard,UKWA Member=Y",
-      "Fleets": {
-        "Men": "Gender=M",
-        "Women": "Gender=F"
-      },
-      "Validity": {
-        "Filter": "Gender=M",
-        "Percentage": 25,
-        "Runs": 2,
-        "Speeds": {
-          "Harbour": 18,
-          "Shore": 18
-        }
-      },
-      "Discards": "0,0,0,1,1,1,2,2,2,2,3,3,3,3,3,4",
-      "Sort": "Net Score=ASC,Best Speed=DESC,Results=ASC,Final Result=ASC"
+      "Name": "UKWA Speed Championship",
+      "Filter": "UKWA=Y"
     }
   }
 }
