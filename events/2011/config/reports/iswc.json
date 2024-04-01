@@ -7,19 +7,23 @@
   "Reports": [
     {
       "Title": "Leg 1 - Men",
-      "Filter": "ISWC=Leg 1,Gender=M"
+      "Filter": "ISWC=Leg 1,Gender=M",
+      "Fleet": "Men"
     },
     {
       "Title": "Leg 1 - Women",
-      "Filter": "ISWC=Leg 1,Gender=F"
+      "Filter": "ISWC=Leg 1,Gender=F",
+      "Fleet": "Women"
     },
     {
       "Title": "Leg 2 - Men",
-      "Filter": "ISWC=Leg 2,Gender=M"
+      "Filter": "ISWC=Leg 2,Gender=M",
+      "Fleet": "Men"
     },
     {
       "Title": "Leg 2 - Women",
-      "Filter": "ISWC=Leg 2,Gender=F"
+      "Filter": "ISWC=Leg 2,Gender=F",
+      "Fleet": "Women"
     }
   ]
 }

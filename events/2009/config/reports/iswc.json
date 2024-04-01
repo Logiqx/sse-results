@@ -6,11 +6,13 @@
   "Reports": [
     {
       "Title": "Men",
-      "Filter": "ISWC=Round,Gender=M"
+      "Filter": "ISWC=Round,Gender=M",
+      "Fleet": "Men"
     },
     {
       "Title": "Women",
-      "Filter": "ISWC=Round,Gender=F"
+      "Filter": "ISWC=Round,Gender=F",
+      "Fleet": "Women"
     }
   ]
 }
