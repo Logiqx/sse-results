@@ -1,19 +1,19 @@
-Place,Helmname,Fleet,Status,Run 1 (kts),Run 2 (kts),Avg (kts)
-1,Scotty Stallman,Men's Sailboard,Pro Fleet,34.43,34.35,34.39
-2,Jim Crossley,Men's Sailboard,Pro Fleet,33.77,33.75,33.76
-3,Simon Pettifer,Men's Sailboard,Pro Fleet,33.24,33.19,33.21
-4,James Battye,Men's Sailboard,Pro Fleet,33.00,32.72,32.86
-5,Michael George,Men's Sailboard,Gold Fleet,31.34,31.06,31.20
-6,Paul Sibley,Men's Sailboard,Gold Fleet,31.36,30.90,31.13
-7,Tyler Baker,Men's Sailboard,Youth Fleet,30.85,30.73,30.79
-8,Josh Lane,Men's Sailboard,Youth Fleet,30.32,29.93,30.12
-9,James Faley,Men's Sailboard,Youth Fleet,29.98,29.98,29.98
-10,George Fulton,Men's Sailboard,Gold Fleet,30.20,29.73,29.96
-11,Adrian Wallis,Men's Sailboard,Gold Fleet,29.52,28.91,29.22
-12,Dave Strudwick,Men's Sailboard,Gold Fleet,29.09,28.75,28.92
-13,Richard Crosby,Men's Sailboard,Amateur,29.03,28.30,28.67
-14,Trevor Whatford,Men's Sailboard,Gold Fleet,27.52,27.16,27.34
-15,Lewis Limm,Men's Sailboard,Youth Fleet,27.12,26.89,27.00
-16,Matt Roche,Men's Sailboard,Youth Fleet,26.34,26.23,26.29
-17,Peter Crosby,Men's Sailboard,Gold Fleet,27.76,18.53,23.15
-18,Gavin Nicholson,Men's Sailboard,Gold Fleet,18.48,18.35,18.41
+Place,HelmName,Fleet,Status
+1,Scotty Stallman,Men's Sailboard,Pro Fleet
+2,Jim Crossley,Men's Sailboard,Pro Fleet
+3,Simon Pettifer,Men's Sailboard,Pro Fleet
+4,James Battye,Men's Sailboard,Pro Fleet
+5,Michael George,Men's Sailboard,Gold Fleet
+6,Paul Sibley,Men's Sailboard,Gold Fleet
+7,Tyler Baker,Men's Sailboard,Youth Fleet
+8,Josh Lane,Men's Sailboard,Youth Fleet
+9,James Faley,Men's Sailboard,Youth Fleet
+10,George Fulton,Men's Sailboard,Gold Fleet
+11,Adrian Wallis,Men's Sailboard,Gold Fleet
+12,Dave Strudwick,Men's Sailboard,Gold Fleet
+13,Richard Crosby,Men's Sailboard,Amateur
+14,Trevor Whatford,Men's Sailboard,Gold Fleet
+15,Lewis Limm,Men's Sailboard,Youth Fleet
+16,Matt Roche,Men's Sailboard,Youth Fleet
+17,Peter Crosby,Men's Sailboard,Gold Fleet
+18,Gavin Nicholson,Men's Sailboard,Gold Fleet

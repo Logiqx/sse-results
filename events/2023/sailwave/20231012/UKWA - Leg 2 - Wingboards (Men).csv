@@ -1,6 +1,6 @@
-Place,Helmname,Fleet,Status,Run 1 (kts),Run 2 (kts),Avg (kts)
-1,Richard Hobson,Men's Wingboard,Pro Fleet,27.59,27.41,27.50
-2,James Bulson,Men's Wingboard,Amateur,27.11,27.09,27.10
-3,Denis Gordo,Men's Wingboard,Amateur,25.17,24.59,24.88
-4,Mark Salvage,Men's Wingboard,Amateur,16.02,16.01,16.02
-5,Andy Stuart-William,Men's Wingboard,Amateur,15.35,15.32,15.33
+Place,HelmName,Fleet,Status
+1,Richard Hobson,Men's Wingboard,Pro Fleet
+2,James Bulson,Men's Wingboard,Amateur
+3,Denis Gordo,Men's Wingboard,Amateur
+4,Mark Salvage,Men's Wingboard,Amateur
+5,Andy Stuart-William,Men's Wingboard,Amateur

@@ -1,4 +1,4 @@
-Place,Helmname,Fleet,Status,Run 1 (kts),Run 2 (kts),Avg (kts)
-1,Anna Collenette,Women's Wingboard,Amateur,24.74,24.30,24.52
-2,Mia Adcock,Women's Wingboard,Amateur,19.46,18.90,19.18
-3,Zara Davis,Women's Wingboard,Amateur,16.98,16.91,16.95
+Place,HelmName,Fleet,Status
+1,Anna Collenette,Women's Wingboard,Amateur
+2,Mia Adcock,Women's Wingboard,Amateur
+3,Zara Davis,Women's Wingboard,Amateur

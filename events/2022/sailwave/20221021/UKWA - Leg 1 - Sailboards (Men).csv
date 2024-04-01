@@ -1,9 +1,9 @@
-Place,Helmname,Fleet,Status,Run 1 (kts),Run 2 (kts),Avg (kts)
-1,Scotty Stallman,Men's Sailboard,Pro Fleet,35.20,34.77,34.98
-2,Garry Connell,Men's Sailboard,Pro Fleet,31.52,30.85,31.19
-3,Maciej Bukolt,Men's Sailboard,Amateur,29.22,28.58,28.90
-4,Simon Chippington,Men's Sailboard,Gold Fleet,28.86,26.05,27.46
-5,Iain Neary,Men's Sailboard,Amateur,26.14,26.06,26.10
-6,Nigel Spriggs,Men's Sailboard,Pro Fleet,29.05,,14.53
-7,Scott Norman,Men's Sailboard,Amateur,25.85,,12.92
-8,Stewart Veitch,Men's Sailboard,Amateur,20.93,,10.46
+Place,HelmName,Fleet,Status
+1,Scotty Stallman,Men's Sailboard,Pro Fleet
+2,Garry Connell,Men's Sailboard,Pro Fleet
+3,Maciej Bukolt,Men's Sailboard,Amateur
+4,Simon Chippington,Men's Sailboard,Gold Fleet
+5,Iain Neary,Men's Sailboard,Amateur
+6,Nigel Spriggs,Men's Sailboard,Pro Fleet
+7,Scott Norman,Men's Sailboard,Amateur
+8,Stewart Veitch,Men's Sailboard,Amateur

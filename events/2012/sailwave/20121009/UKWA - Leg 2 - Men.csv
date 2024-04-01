@@ -1,20 +1,20 @@
-Place,Helmname,Fleet,Status,Run 1 (kts),Run 2 (kts),Avg (kts)
-1,Antony Baker,Men's Sailboard,Pro Fleet,31.19,30.41,30.80
-2,Simon Cofield,Men's Sailboard,Gold Fleet,29.95,29.93,29.94
-3,Kevin Greenslade,Men's Sailboard,Pro Fleet,30.11,29.11,29.61
-4,Nigel Spriggs,Men's Sailboard,Gold Fleet,29.14,29.10,29.12
-5,Martyn Ogier,Men's Sailboard,Pro Fleet,27.75,27.41,27.58
-6,Adrian Wallis,Men's Sailboard,Gold Fleet,26.66,26.57,26.62
-7,Paul Morris,Men's Sailboard,Gold Fleet,26.52,26.38,26.45
-8,Dave White,Men's Sailboard,Pro Fleet,26.32,26.05,26.18
-9,Michael George,Men's Sailboard,Gold Fleet,25.98,25.89,25.94
-10,Jamie Walker,Men's Sailboard,Gold Fleet,25.65,25.59,25.62
-11,Matthew York,Men's Sailboard,Gold Fleet,25.11,25.11,25.11
-12,Chris Jackson,Men's Sailboard,Gold Fleet,24.77,24.62,24.70
-13,Gavin Nicholson,Men's Sailboard,Gold Fleet,24.78,24.58,24.68
-14,Iain Beaton,Men's Sailboard,Amateur,24.49,24.09,24.29
-15,Nic Dodd,Men's Sailboard,Gold Fleet,24.20,22.88,23.54
-16,Trevor Whatford,Men's Sailboard,Amateur,22.98,22.02,22.50
-17,Stephen Chatten,Men's Sailboard,Amateur,22.36,22.02,22.19
-18,Sam Gooch,Men's Sailboard,Amateur,22.99,,11.49
-19,Mark Hatton,Men's Sailboard,Amateur,19.45,,9.72
+Place,HelmName,Fleet,Status
+1,Antony Baker,Men's Sailboard,Pro Fleet
+2,Simon Cofield,Men's Sailboard,Gold Fleet
+3,Kevin Greenslade,Men's Sailboard,Pro Fleet
+4,Nigel Spriggs,Men's Sailboard,Gold Fleet
+5,Martyn Ogier,Men's Sailboard,Pro Fleet
+6,Adrian Wallis,Men's Sailboard,Gold Fleet
+7,Paul Morris,Men's Sailboard,Gold Fleet
+8,Dave White,Men's Sailboard,Pro Fleet
+9,Michael George,Men's Sailboard,Gold Fleet
+10,Jamie Walker,Men's Sailboard,Gold Fleet
+11,Matthew York,Men's Sailboard,Gold Fleet
+12,Chris Jackson,Men's Sailboard,Gold Fleet
+13,Gavin Nicholson,Men's Sailboard,Gold Fleet
+14,Iain Beaton,Men's Sailboard,Amateur
+15,Nic Dodd,Men's Sailboard,Gold Fleet
+16,Trevor Whatford,Men's Sailboard,Amateur
+17,Stephen Chatten,Men's Sailboard,Amateur
+18,Sam Gooch,Men's Sailboard,Amateur
+19,Mark Hatton,Men's Sailboard,Amateur

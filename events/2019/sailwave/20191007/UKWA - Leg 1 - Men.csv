@@ -1,10 +1,10 @@
-Place,Helmname,Fleet,Status,Run 1 (kts),Run 2 (kts),Avg (kts)
-1,James Battye,Men's Sailboard,Pro Fleet,34.45,34.25,34.35
-2,Jim Crossley,Men's Sailboard,Pro Fleet,34.24,33.75,34.00
-3,Simon Pettifer,Men's Sailboard,Pro Fleet,33.56,33.54,33.55
-4,Scotty Stallman,Men's Sailboard,Pro Fleet,33.61,33.29,33.45
-5,Garry Connell,Men's Sailboard,Gold Fleet,32.31,31.32,31.82
-6,Paul Sibley,Men's Sailboard,Gold Fleet,31.57,30.99,31.28
-7,Michael George,Men's Sailboard,Gold Fleet,30.80,30.57,30.68
-8,Gavin Nicholson,Men's Sailboard,Gold Fleet,17.28,17.06,17.17
-9,Olly Wood,Men's Sailboard,Amateur,23.45,,11.73
+Place,HelmName,Fleet,Status
+1,James Battye,Men's Sailboard,Pro Fleet
+2,Jim Crossley,Men's Sailboard,Pro Fleet
+3,Simon Pettifer,Men's Sailboard,Pro Fleet
+4,Scotty Stallman,Men's Sailboard,Pro Fleet
+5,Garry Connell,Men's Sailboard,Gold Fleet
+6,Paul Sibley,Men's Sailboard,Gold Fleet
+7,Michael George,Men's Sailboard,Gold Fleet
+8,Gavin Nicholson,Men's Sailboard,Gold Fleet
+9,Olly Wood,Men's Sailboard,Amateur

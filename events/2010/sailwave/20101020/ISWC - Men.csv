@@ -1,6 +1,6 @@
-Place,Helmname,Fleet,Run 1 (kts),Run 2 (kts),Avg (kts)
-1,Adrian Wallis,,21.80,21.62,21.71
-2,Torsten Mallon,,20.70,19.76,20.23
-3,Gavin Nicholson,,20.96,18.15,19.55
-4,Michael George,,18.00,,9.00
-5,Dave Strudwick,,17.70,,8.85
+Place,HelmName,Fleet,Status
+1,Adrian Wallis,,Gold Fleet
+2,Torsten Mallon,,Gold Fleet
+3,Gavin Nicholson,,Amateur
+4,Michael George,,Gold Fleet
+5,Dave Strudwick,,Gold Fleet

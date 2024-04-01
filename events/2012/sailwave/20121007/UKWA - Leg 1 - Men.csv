@@ -1,7 +1,7 @@
-Place,Helmname,Fleet,Status,Run 1 (kts),Run 2 (kts),Avg (kts)
-1,Adrian Wallis,Men's Sailboard,Gold Fleet,19.42,18.87,19.15
-2,Michael George,Men's Sailboard,Gold Fleet,18.99,18.98,18.99
-3,Paul Morris,Men's Sailboard,Gold Fleet,18.98,18.46,18.72
-4,Nic Dodd,Men's Sailboard,Gold Fleet,18.14,18.08,18.11
-5,Duncan Adam,Men's Sailboard,Amateur,17.90,17.77,17.84
-6,Jamie Walker,Men's Sailboard,Gold Fleet,18.04,16.98,17.51
+Place,HelmName,Fleet,Status
+1,Adrian Wallis,Men's Sailboard,Gold Fleet
+2,Michael George,Men's Sailboard,Gold Fleet
+3,Paul Morris,Men's Sailboard,Gold Fleet
+4,Nic Dodd,Men's Sailboard,Gold Fleet
+5,Duncan Adam,Men's Sailboard,Amateur
+6,Jamie Walker,Men's Sailboard,Gold Fleet

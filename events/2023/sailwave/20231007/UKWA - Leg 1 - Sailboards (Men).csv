@@ -1,18 +1,18 @@
-Place,Helmname,Fleet,Status,Run 1 (kts),Run 2 (kts),Avg (kts)
-1,Scotty Stallman,Men's Sailboard,Pro Fleet,26.90,26.36,26.63
-2,Michael George,Men's Sailboard,Pro Fleet,25.26,25.25,25.26
-3,Simon Pettifer,Men's Sailboard,Pro Fleet,24.70,24.57,24.63
-4,Garry Connell,Men's Sailboard,Pro Fleet,23.69,23.62,23.66
-5,Mark Ingram,Men's Sailboard,Gold Fleet,23.34,22.27,22.80
-6,Scott Norman,Men's Sailboard,Gold Fleet,22.69,22.57,22.63
-7,Jonathan Ingram,Men's Sailboard,Amateur,22.76,22.02,22.39
-8,Tim Bate,Men's Sailboard,Amateur,22.32,22.32,22.32
-9,Finnley Knight,Men's Sailboard,Amateur,21.97,21.79,21.88
-10,Scott Harrison,Men's Sailboard,Gold Fleet,21.64,21.20,21.42
-11,Zack Peaple,Men's Sailboard,Gold Fleet,21.43,21.28,21.35
-12,Joe Trunkfield,Men's Sailboard,Amateur,19.59,19.54,19.57
-13,Andrew Twinn,Men's Sailboard,Gold Fleet,17.59,17.48,17.54
-14,Dave Strudwick,Men's Sailboard,Gold Fleet,17.80,16.90,17.35
-15,Simon Ramsden,Men's Sailboard,Amateur,10.81,9.12,9.97
-16,Russell Thompson,Men's Sailboard,Amateur,19.76,,9.88
-17,Jack James York,Men's Sailboard,Amateur,7.29,6.46,6.88
+Place,HelmName,Fleet,Status
+1,Scotty Stallman,Men's Sailboard,Pro Fleet
+2,Michael George,Men's Sailboard,Pro Fleet
+3,Simon Pettifer,Men's Sailboard,Pro Fleet
+4,Garry Connell,Men's Sailboard,Pro Fleet
+5,Mark Ingram,Men's Sailboard,Gold Fleet
+6,Scott Norman,Men's Sailboard,Gold Fleet
+7,Jonathan Ingram,Men's Sailboard,Amateur
+8,Tim Bate,Men's Sailboard,Amateur
+9,Finnley Knight,Men's Sailboard,Amateur
+10,Scott Harrison,Men's Sailboard,Gold Fleet
+11,Zack Peaple,Men's Sailboard,Gold Fleet
+12,Joe Trunkfield,Men's Sailboard,Amateur
+13,Andrew Twinn,Men's Sailboard,Gold Fleet
+14,Dave Strudwick,Men's Sailboard,Gold Fleet
+15,Simon Ramsden,Men's Sailboard,Amateur
+16,Russell Thompson,Men's Sailboard,Amateur
+17,Jack James York,Men's Sailboard,Amateur

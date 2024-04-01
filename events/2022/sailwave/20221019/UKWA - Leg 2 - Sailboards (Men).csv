@@ -1,13 +1,13 @@
-Place,Helmname,Fleet,Status,Run 1 (kts),Run 2 (kts),Avg (kts)
-1,Scotty Stallman,Men's Sailboard,Pro Fleet,33.83,33.35,33.59
-2,Simon Pettifer,Men's Sailboard,Pro Fleet,31.11,30.70,30.90
-3,Garry Connell,Men's Sailboard,Pro Fleet,30.47,29.24,29.85
-4,Nigel Spriggs,Men's Sailboard,Pro Fleet,27.98,27.82,27.90
-5,Michael George,Men's Sailboard,Pro Fleet,26.78,26.61,26.70
-6,Eddie Marsh,Men's Sailboard,Amateur,27.13,26.14,26.64
-7,Simon Chippington,Men's Sailboard,Gold Fleet,27.41,25.83,26.62
-8,Richard Crosby,Men's Sailboard,Gold Fleet,24.59,24.57,24.58
-9,John Oliver,Men's Sailboard,Gold Fleet,24.73,16.84,20.79
-10,Andy Stuart-William,Men's Sailboard,Gold Fleet,19.89,19.66,19.78
-11,Dave Strudwick,Men's Sailboard,Gold Fleet,24.97,,12.48
-12,Iain Neary,Men's Sailboard,Amateur,19.07,,9.54
+Place,HelmName,Fleet,Status
+1,Scotty Stallman,Men's Sailboard,Pro Fleet
+2,Simon Pettifer,Men's Sailboard,Pro Fleet
+3,Garry Connell,Men's Sailboard,Pro Fleet
+4,Nigel Spriggs,Men's Sailboard,Pro Fleet
+5,Michael George,Men's Sailboard,Pro Fleet
+6,Eddie Marsh,Men's Sailboard,Amateur
+7,Simon Chippington,Men's Sailboard,Gold Fleet
+8,Richard Crosby,Men's Sailboard,Gold Fleet
+9,John Oliver,Men's Sailboard,Gold Fleet
+10,Andy Stuart-William,Men's Sailboard,Gold Fleet
+11,Dave Strudwick,Men's Sailboard,Gold Fleet
+12,Iain Neary,Men's Sailboard,Amateur

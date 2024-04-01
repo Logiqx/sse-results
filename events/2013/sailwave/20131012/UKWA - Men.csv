@@ -1,19 +1,19 @@
-Place,Helmname,Fleet,Status,Run 1 (kts),Run 2 (kts),Avg (kts)
-1,Antony Baker,Men's Sailboard,Pro Fleet,27.45,27.28,27.37
-2,Simon Cofield,Men's Sailboard,Gold Fleet,26.31,25.99,26.15
-3,Kevin Greenslade,Men's Sailboard,Pro Fleet,25.52,25.43,25.48
-4,Jim Crossley,Men's Sailboard,Gold Fleet,24.74,24.28,24.51
-5,Jack Trollope,Men's Sailboard,Gold Fleet,24.94,23.71,24.32
-6,Matthew Spooner,Men's Sailboard,Amateur,23.45,23.28,23.36
-7,Dave Strudwick,Men's Sailboard,Gold Fleet,23.25,23.01,23.13
-8,Tom Wells,Men's Sailboard,Youth Fleet,23.56,22.66,23.11
-9,Mark Ingram,Men's Sailboard,Gold Fleet,22.78,22.63,22.70
-10,Gavin Furmenger,Men's Sailboard,Amateur,22.86,22.26,22.56
-10,Allan Cross,Men's Sailboard,Pro Fleet,22.70,22.42,22.56
-12,Adrian Wallis,Men's Sailboard,Gold Fleet,22.52,22.00,22.26
-13,Tony Attfield,Men's Sailboard,Gold Fleet,21.49,20.27,20.88
-14,Nic Dodd,Men's Sailboard,Gold Fleet,21.22,20.30,20.76
-15,Ben Marshall,Men's Sailboard,Youth Fleet,21.00,19.70,20.34
-16,Henry Bloodworth,Men's Sailboard,Youth Fleet,21.56,16.82,19.19
-17,Tommy Walters,Men's Sailboard,Youth Fleet,18.35,18.30,18.33
-18,Martin Allman,Men's Sailboard,Amateur,18.34,17.87,18.10
+Place,HelmName,Fleet,Status
+1,Antony Baker,Men's Sailboard,Pro Fleet
+2,Simon Cofield,Men's Sailboard,Gold Fleet
+3,Kevin Greenslade,Men's Sailboard,Pro Fleet
+4,Jim Crossley,Men's Sailboard,Gold Fleet
+5,Jack Trollope,Men's Sailboard,Gold Fleet
+6,Matthew Spooner,Men's Sailboard,Amateur
+7,Dave Strudwick,Men's Sailboard,Gold Fleet
+8,Tom Wells,Men's Sailboard,Youth Fleet
+9,Mark Ingram,Men's Sailboard,Gold Fleet
+10,Gavin Furmenger,Men's Sailboard,Amateur
+10,Allan Cross,Men's Sailboard,Pro Fleet
+12,Adrian Wallis,Men's Sailboard,Gold Fleet
+13,Tony Attfield,Men's Sailboard,Gold Fleet
+14,Nic Dodd,Men's Sailboard,Gold Fleet
+15,Ben Marshall,Men's Sailboard,Youth Fleet
+16,Henry Bloodworth,Men's Sailboard,Youth Fleet
+17,Tommy Walters,Men's Sailboard,Youth Fleet
+18,Martin Allman,Men's Sailboard,Amateur

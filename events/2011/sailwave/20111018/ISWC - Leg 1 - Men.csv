@@ -1,9 +1,9 @@
-Place,Helmname,Fleet,Run 1 (kts),Run 2 (kts),Avg (kts)
-1,Martyn Ogier,,31.32,30.50,30.91
-2,David Garrel,,31.37,30.39,30.88
-3,Alain De Gendt,,31.01,29.92,30.47
-4,Daniel Borgelind,,31.04,29.49,30.26
-5,Torsten Mallon,,30.12,29.40,29.76
-6,Patrick Van Hoof,,30.02,29.26,29.64
-7,Anders Bjorkqvist,,29.86,27.93,28.90
-8,Jeroen Van Hoydonck,,24.15,23.59,23.87
+Place,HelmName,Fleet,Status
+1,Martyn Ogier,,Pro Fleet
+2,David Garrel,,Pro Fleet
+3,Alain De Gendt,,Gold Fleet
+4,Daniel Borgelind,,Gold Fleet
+5,Torsten Mallon,,Pro Fleet
+6,Patrick Van Hoof,,Pro Fleet
+7,Anders Bjorkqvist,,Gold Fleet
+8,Jeroen Van Hoydonck,,Gold Fleet

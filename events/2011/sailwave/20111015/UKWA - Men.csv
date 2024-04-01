@@ -1,6 +1,6 @@
-Place,Helmname,Fleet,Status,Run 1 (kts),Run 2 (kts),Avg (kts)
-1,Nic Dodd,Men's Sailboard,Gold Fleet,14.05,7.80,10.93
-2,Andrew Robinson,Men's Sailboard,Youth Fleet,10.78,10.54,10.66
-3,Henry Bloodworth,Men's Sailboard,Youth Fleet,9.04,8.98,9.01
-4,Paul Robinson,Men's Sailboard,Amateur,9.46,8.02,8.74
-5,Adrian Wallis,Men's Sailboard,Gold Fleet,13.71,,6.85
+Place,HelmName,Fleet,Status
+1,Nic Dodd,Men's Sailboard,Gold Fleet
+2,Andrew Robinson,Men's Sailboard,Youth Fleet
+3,Henry Bloodworth,Men's Sailboard,Youth Fleet
+4,Paul Robinson,Men's Sailboard,Amateur
+5,Adrian Wallis,Men's Sailboard,Gold Fleet

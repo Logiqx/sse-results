@@ -1,9 +1,9 @@
-Place,Helmname,Fleet,Status,Run 1 (kts),Run 2 (kts),Avg (kts)
-1,Richard Hobson,Men's Wingboard,Pro Fleet,26.84,26.43,26.64
-2,Joe Adams,Men's Wingboard,Amateur,27.16,26.02,26.59
-3,Guy Cribb,Men's Wingboard,Pro Fleet,26.32,25.98,26.15
-4,Kuba Staite,Men's Wingboard,Amateur,25.46,25.24,25.35
-5,Denis Gordo,Men's Wingboard,Amateur,24.73,24.67,24.70
-6,Rod Dickinson,Men's Wingboard,Amateur,24.80,24.28,24.54
-7,Andrew Collenette,Men's Wingboard,Amateur,23.02,22.58,22.80
-8,John-Paul Standish,Men's Wingboard,Amateur,16.35,16.15,16.25
+Place,HelmName,Fleet,Status
+1,Richard Hobson,Men's Wingboard,Pro Fleet
+2,Joe Adams,Men's Wingboard,Amateur
+3,Guy Cribb,Men's Wingboard,Pro Fleet
+4,Kuba Staite,Men's Wingboard,Amateur
+5,Denis Gordo,Men's Wingboard,Amateur
+6,Rod Dickinson,Men's Wingboard,Amateur
+7,Andrew Collenette,Men's Wingboard,Amateur
+8,John-Paul Standish,Men's Wingboard,Amateur

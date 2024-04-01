@@ -1,3 +1,3 @@
-Place,Helmname,Fleet,Status,Run 1 (kts),Run 2 (kts),Avg (kts)
-1,Zara Davis,Women's Sailboard,Pro Fleet,29.78,29.19,29.49
-2,Lilia Yelland,Women's Sailboard,Amateur,26.44,25.04,25.74
+Place,HelmName,Fleet,Status
+1,Zara Davis,Women's Sailboard,Pro Fleet
+2,Lilia Yelland,Women's Sailboard,Amateur

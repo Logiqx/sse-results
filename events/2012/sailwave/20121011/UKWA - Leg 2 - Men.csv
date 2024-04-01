@@ -1,7 +1,7 @@
-Place,Helmname,Fleet,Status,Run 1 (kts),Run 2 (kts),Avg (kts)
-1,Antony Baker,Men's Sailboard,Pro Fleet,24.18,23.38,23.78
-2,Michael George,Men's Sailboard,Gold Fleet,21.68,21.65,21.66
-3,Paul Morris,Men's Sailboard,Gold Fleet,19.75,19.14,19.45
-4,Jamie Walker,Men's Sailboard,Gold Fleet,19.82,18.92,19.37
-5,Gavin Nicholson,Men's Sailboard,Gold Fleet,17.63,17.15,17.39
-6,Sam Gooch,Men's Sailboard,Amateur,20.16,,10.08
+Place,HelmName,Fleet,Status
+1,Antony Baker,Men's Sailboard,Pro Fleet
+2,Michael George,Men's Sailboard,Gold Fleet
+3,Paul Morris,Men's Sailboard,Gold Fleet
+4,Jamie Walker,Men's Sailboard,Gold Fleet
+5,Gavin Nicholson,Men's Sailboard,Gold Fleet
+6,Sam Gooch,Men's Sailboard,Amateur

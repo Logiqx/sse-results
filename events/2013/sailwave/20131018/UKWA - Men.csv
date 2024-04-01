@@ -1,11 +1,11 @@
-Place,Helmname,Fleet,Status,Run 1 (kts),Run 2 (kts),Avg (kts)
-1,Simon Cofield,Men's Sailboard,Gold Fleet,32.67,32.51,32.59
-2,Kevin Greenslade,Men's Sailboard,Pro Fleet,31.71,31.48,31.59
-3,Jim Crossley,Men's Sailboard,Gold Fleet,30.04,29.66,29.85
-4,Andy Holland,Men's Sailboard,Gold Fleet,29.63,29.25,29.44
-5,Nigel Spriggs,Men's Sailboard,Gold Fleet,28.36,28.19,28.28
-6,Matthew York,Men's Sailboard,Gold Fleet,28.34,28.20,28.27
-7,Matthew Spooner,Men's Sailboard,Amateur,28.07,27.97,28.02
-8,Gavin Furmenger,Men's Sailboard,Amateur,27.64,27.36,27.50
-9,Chris Jackson,Men's Sailboard,Gold Fleet,26.67,26.30,26.48
-10,Jamie Bambridge,Men's Sailboard,Amateur,26.36,25.96,26.16
+Place,HelmName,Fleet,Status
+1,Simon Cofield,Men's Sailboard,Gold Fleet
+2,Kevin Greenslade,Men's Sailboard,Pro Fleet
+3,Jim Crossley,Men's Sailboard,Gold Fleet
+4,Andy Holland,Men's Sailboard,Gold Fleet
+5,Nigel Spriggs,Men's Sailboard,Gold Fleet
+6,Matthew York,Men's Sailboard,Gold Fleet
+7,Matthew Spooner,Men's Sailboard,Amateur
+8,Gavin Furmenger,Men's Sailboard,Amateur
+9,Chris Jackson,Men's Sailboard,Gold Fleet
+10,Jamie Bambridge,Men's Sailboard,Amateur

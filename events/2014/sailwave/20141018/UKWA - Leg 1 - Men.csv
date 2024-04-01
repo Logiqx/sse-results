@@ -1,20 +1,20 @@
-Place,Helmname,Fleet,Status,Run 1 (kts),Run 2 (kts),Avg (kts)
-1,Simon Cofield,Men's Sailboard,Pro Fleet,30.55,29.67,30.11
-2,James Dinsmore,Men's Sailboard,Gold Fleet,29.81,29.23,29.52
-3,Kevin Greenslade,Men's Sailboard,Pro Fleet,29.21,28.78,29.00
-4,Simon Pettifer,Men's Sailboard,Gold Fleet,28.72,27.12,27.92
-5,Jim Crossley,Men's Sailboard,Gold Fleet,27.87,26.73,27.30
-6,Nick Beaney,Men's Sailboard,Pro Fleet,27.20,27.10,27.15
-7,Matthew York,Men's Sailboard,Gold Fleet,27.15,26.22,26.69
-8,Dave Strudwick,Men's Sailboard,Gold Fleet,26.48,26.03,26.26
-9,Jamie Walker,Men's Sailboard,Gold Fleet,26.25,26.24,26.25
-10,Gavin Furmenger,Men's Sailboard,Amateur,25.91,24.80,25.36
-11,Adrian Wallis,Men's Sailboard,Gold Fleet,25.23,24.93,25.08
-12,Roddy Cooper,Men's Sailboard,Amateur,24.64,24.58,24.61
-13,Matthew Spooner,Men's Sailboard,Gold Fleet,23.65,23.51,23.58
-14,Ben Marshall,Men's Sailboard,Youth Fleet,23.69,22.85,23.27
-15,Mark Matthews,Men's Sailboard,Amateur,23.15,23.08,23.12
-16,Scotty Stallman,Men's Sailboard,Youth Fleet,23.27,21.92,22.60
-17,Tommy Walters,Men's Sailboard,Youth Fleet,21.17,21.10,21.13
-18,Ben McCann,Men's Sailboard,Youth Fleet,20.96,20.14,20.55
-19,Nic Dodd,Men's Sailboard,Gold Fleet,18.86,16.96,17.91
+Place,HelmName,Fleet,Status
+1,Simon Cofield,Men's Sailboard,Pro Fleet
+2,James Dinsmore,Men's Sailboard,Gold Fleet
+3,Kevin Greenslade,Men's Sailboard,Pro Fleet
+4,Simon Pettifer,Men's Sailboard,Gold Fleet
+5,Jim Crossley,Men's Sailboard,Gold Fleet
+6,Nick Beaney,Men's Sailboard,Pro Fleet
+7,Matthew York,Men's Sailboard,Gold Fleet
+8,Dave Strudwick,Men's Sailboard,Gold Fleet
+9,Jamie Walker,Men's Sailboard,Gold Fleet
+10,Gavin Furmenger,Men's Sailboard,Amateur
+11,Adrian Wallis,Men's Sailboard,Gold Fleet
+12,Roddy Cooper,Men's Sailboard,Amateur
+13,Matthew Spooner,Men's Sailboard,Gold Fleet
+14,Ben Marshall,Men's Sailboard,Youth Fleet
+15,Mark Matthews,Men's Sailboard,Amateur
+16,Scotty Stallman,Men's Sailboard,Youth Fleet
+17,Tommy Walters,Men's Sailboard,Youth Fleet
+18,Ben McCann,Men's Sailboard,Youth Fleet
+19,Nic Dodd,Men's Sailboard,Gold Fleet

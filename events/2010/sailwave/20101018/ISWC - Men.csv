@@ -1,31 +1,31 @@
-Place,Helmname,Fleet,Run 1 (kts),Run 2 (kts),Avg (kts)
-1,Daniel Borgelind,,28.85,27.98,28.42
-2,Patrick Van Hoof,,28.23,27.48,27.85
-3,Antony Baker,,28.26,26.73,27.49
-4,Torsten Mallon,,27.88,26.44,27.16
-5,Ian Richards,,27.90,26.08,26.99
-6,Martyn Ogier,,27.99,25.66,26.83
-7,Björn Haacke,,27.81,25.24,26.52
-8,Steve Flanagan,,27.48,25.50,26.49
-9,Markus Wilms,,27.49,23.86,25.67
-10,Allan Cross,,25.71,25.51,25.61
-11,Steve Jones,,25.59,25.51,25.55
-12,Manfred Fuchs,,25.50,25.42,25.46
-13,Michael George,,25.49,25.31,25.40
-14,Tris Best,,25.55,25.01,25.28
-15,Adrian Wallis,,25.62,24.81,25.22
-16,Nigel Spriggs,,27.42,22.91,25.17
-16,Andrew Chandler,,25.18,25.17,25.17
-18,Dave Strudwick,,25.79,24.03,24.91
-19,Anders Bjorkqvist,,24.86,24.75,24.80
-20,Mark Collins,,25.16,22.85,24.00
-21,Stephen Chatten,,23.83,23.72,23.78
-22,Nic Dodd,,24.71,22.77,23.74
-23,Gavin Nicholson,,23.86,23.49,23.68
-24,Eddie Murrell,,23.75,23.14,23.45
-25,Gordon Roach,,23.42,23.39,23.41
-26,Alastair Nichol,,23.46,23.20,23.33
-27,Neil Greentree,,22.03,19.38,20.71
-27,Martin Allman,,20.84,20.57,20.71
-29,Trevor Funnell,,20.91,,10.46
-30,Tim Tarrington,,18.23,,9.11
+Place,HelmName,Fleet,Status
+1,Daniel Borgelind,,Gold Fleet
+2,Patrick Van Hoof,,Gold Fleet
+3,Antony Baker,,Pro Fleet
+4,Torsten Mallon,,Gold Fleet
+5,Ian Richards,,Gold Fleet
+6,Martyn Ogier,,Pro Fleet
+7,Björn Haacke,,Gold Fleet
+8,Steve Flanagan,,Gold Fleet
+9,Markus Wilms,,Gold Fleet
+10,Allan Cross,,Gold Fleet
+11,Steve Jones,,Gold Fleet
+12,Manfred Fuchs,,Gold Fleet
+13,Michael George,,Gold Fleet
+14,Tris Best,,Pro Fleet
+15,Adrian Wallis,,Gold Fleet
+16,Nigel Spriggs,,Gold Fleet
+16,Andrew Chandler,,Gold Fleet
+18,Dave Strudwick,,Gold Fleet
+19,Anders Bjorkqvist,,Gold Fleet
+20,Mark Collins,,Gold Fleet
+21,Stephen Chatten,,Amateur
+22,Nic Dodd,,Gold Fleet
+23,Gavin Nicholson,,Amateur
+24,Eddie Murrell,,Gold Fleet
+25,Gordon Roach,,Amateur
+26,Alastair Nichol,,Gold Fleet
+27,Neil Greentree,,Amateur
+27,Martin Allman,,Amateur
+29,Trevor Funnell,,Amateur
+30,Tim Tarrington,,Amateur

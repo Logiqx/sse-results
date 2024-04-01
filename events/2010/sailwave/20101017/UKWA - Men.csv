@@ -1,6 +1,6 @@
-Place,Helmname,Fleet,Status,Run 1 (kts),Run 2 (kts),Avg (kts)
-1,Christian Body,Men's Sailboard,Youth Fleet,18.97,18.84,18.91
-2,Adrian Wallis,Men's Sailboard,Gold Fleet,17.05,15.43,16.24
-3,Gavin Nicholson,Men's Sailboard,Amateur,16.16,16.10,16.13
-4,Henry Bloodworth,Men's Sailboard,Youth Fleet,14.49,14.26,14.38
-5,Nic Dodd,Men's Sailboard,Gold Fleet,14.29,,7.14
+Place,HelmName,Fleet,Status
+1,Christian Body,Men's Sailboard,Youth Fleet
+2,Adrian Wallis,Men's Sailboard,Gold Fleet
+3,Gavin Nicholson,Men's Sailboard,Amateur
+4,Henry Bloodworth,Men's Sailboard,Youth Fleet
+5,Nic Dodd,Men's Sailboard,Gold Fleet

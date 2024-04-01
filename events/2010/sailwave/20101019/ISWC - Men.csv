@@ -1,43 +1,43 @@
-Place,Helmname,Fleet,Run 1 (kts),Run 2 (kts),Avg (kts)
-1,Kevin Greenslade,,32.75,30.54,31.65
-2,Patrick Van Hoof,,31.77,31.42,31.59
-3,Antony Baker,,31.41,31.15,31.28
-4,Dave White,,30.62,30.11,30.36
-5,Pete Young,,29.96,29.89,29.93
-6,Jim Crossley,,29.88,29.87,29.87
-7,Ian Richards,,30.12,29.61,29.86
-8,Martyn Ogier,,30.40,29.17,29.79
-9,Daniel Borgelind,,29.94,28.66,29.30
-10,Steve Flanagan,,29.43,29.13,29.28
-11,Anders Bjorkqvist,,29.34,29.18,29.26
-12,Nigel Spriggs,,29.13,28.73,28.93
-13,Manfred Fuchs,,28.38,28.35,28.37
-14,Björn Haacke,,28.10,28.09,28.09
-15,Torsten Mallon,,28.08,27.99,28.04
-16,Tris Best,,28.64,27.21,27.92
-17,Steve Jones,,27.82,27.58,27.70
-18,Paul Simmons,,28.21,27.09,27.65
-19,Adrian Wallis,,27.60,27.56,27.58
-20,Michael George,,27.72,27.42,27.57
-20,Simon Pettifer,,27.57,27.56,27.57
-22,Thorsten Niehaus,,27.34,27.21,27.27
-23,Jim Brooks-Dowsett,,27.57,26.82,27.20
-24,Andrew Chandler,,27.96,26.12,27.04
-25,Steve Giles,,27.09,26.50,26.80
-26,Pete Cunningham,,27.25,25.95,26.60
-27,Matthew York,,27.13,25.80,26.47
-28,Allan Cross,,26.39,26.37,26.38
-29,Richard Hobson,,26.46,25.75,26.10
-30,Markus Wilms,,26.02,25.98,26.00
-31,Dave Strudwick,,26.57,25.04,25.81
-32,Nic Dodd,,25.87,24.58,25.23
-33,Mark Collins,,24.79,24.35,24.57
-34,Gavin Nicholson,,24.14,24.13,24.14
-35,Richard Lloyd,,25.41,22.76,24.09
-36,Alastair Nichol,,24.41,22.84,23.62
-37,Stephen Chatten,,23.50,23.36,23.43
-38,Eddie Murrell,,25.17,21.22,23.19
-39,Neil Greentree,,23.60,21.55,22.57
-40,Trevor Funnell,,22.67,22.29,22.48
-41,Tim Tarrington,,23.49,21.35,22.42
-42,Martin Allman,,22.21,22.07,22.14
+Place,HelmName,Fleet,Status
+1,Kevin Greenslade,,Gold Fleet
+2,Patrick Van Hoof,,Gold Fleet
+3,Antony Baker,,Pro Fleet
+4,Dave White,,Pro Fleet
+5,Pete Young,,Gold Fleet
+6,Jim Crossley,,Gold Fleet
+7,Ian Richards,,Gold Fleet
+8,Martyn Ogier,,Pro Fleet
+9,Daniel Borgelind,,Gold Fleet
+10,Steve Flanagan,,Gold Fleet
+11,Anders Bjorkqvist,,Gold Fleet
+12,Nigel Spriggs,,Gold Fleet
+13,Manfred Fuchs,,Gold Fleet
+14,Björn Haacke,,Gold Fleet
+15,Torsten Mallon,,Gold Fleet
+16,Tris Best,,Pro Fleet
+17,Steve Jones,,Gold Fleet
+18,Paul Simmons,,Pro Fleet
+19,Adrian Wallis,,Gold Fleet
+20,Michael George,,Gold Fleet
+20,Simon Pettifer,,Gold Fleet
+22,Thorsten Niehaus,,Pro Fleet
+23,Jim Brooks-Dowsett,,Gold Fleet
+24,Andrew Chandler,,Gold Fleet
+25,Steve Giles,,Amateur
+26,Pete Cunningham,,Gold Fleet
+27,Matthew York,,Amateur
+28,Allan Cross,,Gold Fleet
+29,Richard Hobson,,Amateur
+30,Markus Wilms,,Gold Fleet
+31,Dave Strudwick,,Gold Fleet
+32,Nic Dodd,,Gold Fleet
+33,Mark Collins,,Gold Fleet
+34,Gavin Nicholson,,Amateur
+35,Richard Lloyd,,Gold Fleet
+36,Alastair Nichol,,Gold Fleet
+37,Stephen Chatten,,Amateur
+38,Eddie Murrell,,Gold Fleet
+39,Neil Greentree,,Amateur
+40,Trevor Funnell,,Amateur
+41,Tim Tarrington,,Amateur
+42,Martin Allman,,Amateur

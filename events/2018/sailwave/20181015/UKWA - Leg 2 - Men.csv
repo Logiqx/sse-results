@@ -1,10 +1,10 @@
-Place,Helmname,Fleet,Status,Run 1 (kts),Run 2 (kts),Avg (kts)
-1,Leigh Kingaby,Men's Sailboard,Pro Fleet,28.68,28.18,28.43
-2,Scotty Stallman,Men's Sailboard,Pro Fleet,25.89,25.31,25.60
-3,Dave Strudwick,Men's Sailboard,Gold Fleet,25.86,25.29,25.58
-4,Paul Sibley,Men's Sailboard,Gold Fleet,25.63,25.52,25.57
-5,Peter Crosby,Men's Sailboard,Gold Fleet,24.14,23.97,24.05
-6,Alex Smith,Men's Sailboard,Gold Fleet,24.16,23.74,23.95
-7,Trevor Whatford,Men's Sailboard,Amateur,21.98,19.86,20.92
-8,Gavin Nicholson,Men's Sailboard,Gold Fleet,16.31,16.22,16.26
-9,Garry Connell,Men's Sailboard,Gold Fleet,17.53,,8.77
+Place,HelmName,Fleet,Status
+1,Leigh Kingaby,Men's Sailboard,Pro Fleet
+2,Scotty Stallman,Men's Sailboard,Pro Fleet
+3,Dave Strudwick,Men's Sailboard,Gold Fleet
+4,Paul Sibley,Men's Sailboard,Gold Fleet
+5,Peter Crosby,Men's Sailboard,Gold Fleet
+6,Alex Smith,Men's Sailboard,Gold Fleet
+7,Trevor Whatford,Men's Sailboard,Amateur
+8,Gavin Nicholson,Men's Sailboard,Gold Fleet
+9,Garry Connell,Men's Sailboard,Gold Fleet

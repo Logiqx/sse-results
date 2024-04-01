@@ -1,20 +1,20 @@
-Place,Helmname,Fleet,Status,Run 1 (kts),Run 2 (kts),Avg (kts)
-1,Kevin Greenslade,Men's Sailboard,Pro Fleet,29.72,29.33,29.53
-2,Antony Baker,Men's Sailboard,Pro Fleet,29.59,29.34,29.46
-2,Simon Cofield,Men's Sailboard,Gold Fleet,29.54,29.38,29.46
-4,Martyn Ogier,Men's Sailboard,Pro Fleet,29.02,28.99,29.00
-5,Nigel Spriggs,Men's Sailboard,Gold Fleet,27.07,26.61,26.84
-6,Michael George,Men's Sailboard,Gold Fleet,26.28,26.25,26.26
-7,Adrian Wallis,Men's Sailboard,Gold Fleet,26.36,25.78,26.07
-8,Paul Morris,Men's Sailboard,Gold Fleet,25.94,25.57,25.75
-9,Matthew York,Men's Sailboard,Gold Fleet,26.08,24.38,25.23
-10,Chris Jackson,Men's Sailboard,Gold Fleet,25.13,24.49,24.81
-11,Jamie Walker,Men's Sailboard,Gold Fleet,24.59,24.59,24.59
-12,Iain Beaton,Men's Sailboard,Amateur,25.34,23.49,24.41
-13,Gavin Nicholson,Men's Sailboard,Gold Fleet,24.51,23.71,24.11
-14,Stephen Chatten,Men's Sailboard,Amateur,23.68,22.25,22.96
-15,Nic Dodd,Men's Sailboard,Gold Fleet,22.92,22.79,22.85
-16,Eddie Murrell,Men's Sailboard,Gold Fleet,23.43,22.13,22.78
-17,Martin Allman,Men's Sailboard,Amateur,20.82,19.12,19.97
-18,Peter Bennett,Men's Sailboard,Amateur,19.35,19.31,19.33
-19,Dave White,Men's Sailboard,Pro Fleet,24.24,,12.12
+Place,HelmName,Fleet,Status
+1,Kevin Greenslade,Men's Sailboard,Pro Fleet
+2,Antony Baker,Men's Sailboard,Pro Fleet
+2,Simon Cofield,Men's Sailboard,Gold Fleet
+4,Martyn Ogier,Men's Sailboard,Pro Fleet
+5,Nigel Spriggs,Men's Sailboard,Gold Fleet
+6,Michael George,Men's Sailboard,Gold Fleet
+7,Adrian Wallis,Men's Sailboard,Gold Fleet
+8,Paul Morris,Men's Sailboard,Gold Fleet
+9,Matthew York,Men's Sailboard,Gold Fleet
+10,Chris Jackson,Men's Sailboard,Gold Fleet
+11,Jamie Walker,Men's Sailboard,Gold Fleet
+12,Iain Beaton,Men's Sailboard,Amateur
+13,Gavin Nicholson,Men's Sailboard,Gold Fleet
+14,Stephen Chatten,Men's Sailboard,Amateur
+15,Nic Dodd,Men's Sailboard,Gold Fleet
+16,Eddie Murrell,Men's Sailboard,Gold Fleet
+17,Martin Allman,Men's Sailboard,Amateur
+18,Peter Bennett,Men's Sailboard,Amateur
+19,Dave White,Men's Sailboard,Pro Fleet

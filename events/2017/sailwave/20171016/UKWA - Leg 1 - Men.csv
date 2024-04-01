@@ -1,22 +1,22 @@
-Place,Helmname,Fleet,Status,Run 1 (kts),Run 2 (kts),Avg (kts)
-1,Kevin Greenslade,Men's Sailboard,Pro Fleet,34.99,34.67,34.83
-2,Jim Crossley,Men's Sailboard,Pro Fleet,34.50,34.19,34.35
-3,Simon Cofield,Men's Sailboard,Pro Fleet,34.36,34.31,34.34
-4,Scotty Stallman,Men's Sailboard,Gold Fleet,34.47,33.49,33.98
-5,Simon Pettifer,Men's Sailboard,Pro Fleet,34.02,33.72,33.87
-6,Nick Beaney,Men's Sailboard,Pro Fleet,34.00,33.37,33.68
-7,Paul Sibley,Men's Sailboard,Gold Fleet,33.70,33.27,33.48
-8,Garry Connell,Men's Sailboard,Gold Fleet,32.84,32.62,32.73
-9,Shaun Cook,Men's Sailboard,Pro Fleet,32.14,31.36,31.75
-10,Leigh Kingaby,Men's Sailboard,Pro Fleet,31.81,30.74,31.27
-11,Gavin Furmenger,Men's Sailboard,Gold Fleet,31.26,30.62,30.94
-12,Adrian Wallis,Men's Sailboard,Gold Fleet,31.04,30.34,30.69
-13,Grant Cottrell,Men's Sailboard,Gold Fleet,33.38,27.41,30.40
-14,Kacper Wozniak,Men's Sailboard,Gold Fleet,30.70,29.51,30.11
-15,Simon Chippington,Men's Sailboard,Gold Fleet,29.70,29.56,29.63
-16,James Battye,Men's Sailboard,Gold Fleet,31.26,27.98,29.62
-17,Ewan Paterson,Men's Sailboard,Amateur,29.43,29.14,29.28
-18,George Fulton,Men's Sailboard,Amateur,30.61,25.93,28.27
-19,Henry Bloodworth,Men's Sailboard,Pro Fleet,28.50,26.66,27.58
-20,Chris Cleland,Men's Sailboard,Amateur,27.24,27.21,27.22
-21,Mark Salvage,Men's Sailboard,Amateur,20.47,,10.23
+Place,HelmName,Fleet,Status
+1,Kevin Greenslade,Men's Sailboard,Pro Fleet
+2,Jim Crossley,Men's Sailboard,Pro Fleet
+3,Simon Cofield,Men's Sailboard,Pro Fleet
+4,Scotty Stallman,Men's Sailboard,Gold Fleet
+5,Simon Pettifer,Men's Sailboard,Pro Fleet
+6,Nick Beaney,Men's Sailboard,Pro Fleet
+7,Paul Sibley,Men's Sailboard,Gold Fleet
+8,Garry Connell,Men's Sailboard,Gold Fleet
+9,Shaun Cook,Men's Sailboard,Pro Fleet
+10,Leigh Kingaby,Men's Sailboard,Pro Fleet
+11,Gavin Furmenger,Men's Sailboard,Gold Fleet
+12,Adrian Wallis,Men's Sailboard,Gold Fleet
+13,Grant Cottrell,Men's Sailboard,Gold Fleet
+14,Kacper Wozniak,Men's Sailboard,Gold Fleet
+15,Simon Chippington,Men's Sailboard,Gold Fleet
+16,James Battye,Men's Sailboard,Gold Fleet
+17,Ewan Paterson,Men's Sailboard,Amateur
+18,George Fulton,Men's Sailboard,Amateur
+19,Henry Bloodworth,Men's Sailboard,Pro Fleet
+20,Chris Cleland,Men's Sailboard,Amateur
+21,Mark Salvage,Men's Sailboard,Amateur

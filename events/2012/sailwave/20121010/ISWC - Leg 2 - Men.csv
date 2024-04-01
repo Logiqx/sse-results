@@ -1,6 +1,6 @@
-Place,Helmname,Fleet,Run 1 (kts),Run 2 (kts),Avg (kts)
-1,Daniel Borgelind,,32.42,31.94,32.18
-2,Anders Bjorkqvist,,31.06,29.94,30.50
-3,David Garrel,,30.53,29.61,30.07
-4,Martyn Ogier,,29.77,29.52,29.65
-5,Torsten Mallon,,29.05,28.95,29.00
+Place,HelmName,Fleet,Status
+1,Daniel Borgelind,,Gold Fleet
+2,Anders Bjorkqvist,,Gold Fleet
+3,David Garrel,,Pro Fleet
+4,Martyn Ogier,,Pro Fleet
+5,Torsten Mallon,,Pro Fleet

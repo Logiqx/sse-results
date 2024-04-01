@@ -1,19 +1,19 @@
-Place,Helmname,Fleet,Status,Run 1 (kts),Run 2 (kts),Avg (kts)
-1,Simon Cofield,Men's Sailboard,Gold Fleet,29.95,29.27,29.61
-2,Antony Baker,Men's Sailboard,Pro Fleet,30.32,28.35,29.33
-3,Jim Crossley,Men's Sailboard,Gold Fleet,28.17,27.95,28.06
-4,Christian Body,Men's Sailboard,Gold Fleet,28.05,27.71,27.88
-5,Nigel Spriggs,Men's Sailboard,Gold Fleet,27.80,27.14,27.47
-6,Jamie Walker,Men's Sailboard,Gold Fleet,27.12,26.20,26.66
-7,Andy Holland,Men's Sailboard,Gold Fleet,27.59,25.47,26.53
-8,Jack Trollope,Men's Sailboard,Gold Fleet,26.83,26.14,26.49
-9,Allan Cross,Men's Sailboard,Pro Fleet,27.04,25.73,26.39
-10,Garry Connell,Men's Sailboard,Amateur,26.32,26.24,26.28
-11,Adrian Wallis,Men's Sailboard,Gold Fleet,26.33,25.88,26.10
-12,Dave Strudwick,Men's Sailboard,Gold Fleet,26.05,25.96,26.01
-13,Stephen Chatten,Men's Sailboard,Gold Fleet,25.76,23.83,24.80
-14,Gavin Furmenger,Men's Sailboard,Amateur,24.80,24.67,24.73
-15,Chris Jackson,Men's Sailboard,Gold Fleet,24.37,23.77,24.07
-16,Matthew York,Men's Sailboard,Gold Fleet,22.83,22.08,22.45
-17,Martin Allman,Men's Sailboard,Amateur,20.99,20.77,20.88
-18,Nic Dodd,Men's Sailboard,Gold Fleet,20.72,19.30,20.01
+Place,HelmName,Fleet,Status
+1,Simon Cofield,Men's Sailboard,Gold Fleet
+2,Antony Baker,Men's Sailboard,Pro Fleet
+3,Jim Crossley,Men's Sailboard,Gold Fleet
+4,Christian Body,Men's Sailboard,Gold Fleet
+5,Nigel Spriggs,Men's Sailboard,Gold Fleet
+6,Jamie Walker,Men's Sailboard,Gold Fleet
+7,Andy Holland,Men's Sailboard,Gold Fleet
+8,Jack Trollope,Men's Sailboard,Gold Fleet
+9,Allan Cross,Men's Sailboard,Pro Fleet
+10,Garry Connell,Men's Sailboard,Amateur
+11,Adrian Wallis,Men's Sailboard,Gold Fleet
+12,Dave Strudwick,Men's Sailboard,Gold Fleet
+13,Stephen Chatten,Men's Sailboard,Gold Fleet
+14,Gavin Furmenger,Men's Sailboard,Amateur
+15,Chris Jackson,Men's Sailboard,Gold Fleet
+16,Matthew York,Men's Sailboard,Gold Fleet
+17,Martin Allman,Men's Sailboard,Amateur
+18,Nic Dodd,Men's Sailboard,Gold Fleet

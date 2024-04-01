@@ -1,20 +1,20 @@
-Place,Helmname,Fleet,Status,Run 1 (kts),Run 2 (kts),Avg (kts)
-1,Allan Cross,Men's Sailboard,Gold Fleet,24.81,24.15,24.48
-2,Matthew York,Men's Sailboard,Gold Fleet,24.58,23.84,24.21
-3,Daniel Skudder,Men's Sailboard,Gold Fleet,23.73,23.41,23.57
-4,Christian Body,Men's Sailboard,Gold Fleet,24.18,22.89,23.54
-5,Jamie Walker,Men's Sailboard,Gold Fleet,23.62,23.35,23.49
-6,Tony Attfield,Men's Sailboard,Amateur,23.13,23.09,23.11
-7,Nigel Spriggs,Men's Sailboard,Gold Fleet,23.35,22.79,23.07
-8,Adrian Wallis,Men's Sailboard,Gold Fleet,23.44,22.38,22.91
-9,Michael George,Men's Sailboard,Gold Fleet,23.30,22.16,22.73
-10,Mark Collins,Men's Sailboard,Amateur,22.70,22.68,22.69
-11,Dave Strudwick,Men's Sailboard,Gold Fleet,22.83,22.33,22.58
-12,Antony Baker,Men's Sailboard,Pro Fleet,23.75,20.42,22.08
-13,John McIntyre,Men's Sailboard,Amateur,22.46,21.26,21.86
-14,Stephen Chatten,Men's Sailboard,Gold Fleet,22.29,21.14,21.72
-15,Gavin Nicholson,Men's Sailboard,Gold Fleet,21.64,20.82,21.23
-16,Nic Dodd,Men's Sailboard,Gold Fleet,20.83,20.76,20.80
-17,Martin Allman,Men's Sailboard,Amateur,20.90,20.45,20.67
-18,Neil Greentree,Men's Sailboard,Amateur,22.98,17.81,20.39
-19,Gordon Roach,Men's Sailboard,Amateur,20.30,,10.15
+Place,HelmName,Fleet,Status
+1,Allan Cross,Men's Sailboard,Gold Fleet
+2,Matthew York,Men's Sailboard,Gold Fleet
+3,Daniel Skudder,Men's Sailboard,Gold Fleet
+4,Christian Body,Men's Sailboard,Gold Fleet
+5,Jamie Walker,Men's Sailboard,Gold Fleet
+6,Tony Attfield,Men's Sailboard,Amateur
+7,Nigel Spriggs,Men's Sailboard,Gold Fleet
+8,Adrian Wallis,Men's Sailboard,Gold Fleet
+9,Michael George,Men's Sailboard,Gold Fleet
+10,Mark Collins,Men's Sailboard,Amateur
+11,Dave Strudwick,Men's Sailboard,Gold Fleet
+12,Antony Baker,Men's Sailboard,Pro Fleet
+13,John McIntyre,Men's Sailboard,Amateur
+14,Stephen Chatten,Men's Sailboard,Gold Fleet
+15,Gavin Nicholson,Men's Sailboard,Gold Fleet
+16,Nic Dodd,Men's Sailboard,Gold Fleet
+17,Martin Allman,Men's Sailboard,Amateur
+18,Neil Greentree,Men's Sailboard,Amateur
+19,Gordon Roach,Men's Sailboard,Amateur

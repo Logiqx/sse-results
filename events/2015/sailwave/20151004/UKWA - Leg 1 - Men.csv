@@ -1,11 +1,11 @@
-Place,Helmname,Fleet,Status,Run 1 (kts),Run 2 (kts),Avg (kts)
-1,Jim Crossley,Men's Sailboard,Gold Fleet,28.65,25.92,27.29
-2,Adrian Wallis,Men's Sailboard,Gold Fleet,24.86,24.56,24.71
-3,Mark Matthews,Men's Sailboard,Amateur,24.87,24.06,24.46
-4,Scotty Stallman,Men's Sailboard,Youth Fleet,23.94,23.16,23.55
-5,Denis Royet,Men's Sailboard,Pro Fleet,23.04,21.92,22.48
-6,Nic Dodd,Men's Sailboard,Gold Fleet,22.17,22.17,22.17
-7,Sam Anstey,Men's Sailboard,Youth Fleet,21.65,21.53,21.59
-8,Keith Atkinson,Men's Sailboard,Pro Fleet,29.30,,14.65
-9,Paul Morris,Men's Sailboard,Gold Fleet,24.19,,12.09
-10,Ben Easton,Men's Sailboard,Gold Fleet,18.95,,9.47
+Place,HelmName,Fleet,Status
+1,Jim Crossley,Men's Sailboard,Gold Fleet
+2,Adrian Wallis,Men's Sailboard,Gold Fleet
+3,Mark Matthews,Men's Sailboard,Amateur
+4,Scotty Stallman,Men's Sailboard,Youth Fleet
+5,Denis Royet,Men's Sailboard,Pro Fleet
+6,Nic Dodd,Men's Sailboard,Gold Fleet
+7,Sam Anstey,Men's Sailboard,Youth Fleet
+8,Keith Atkinson,Men's Sailboard,Pro Fleet
+9,Paul Morris,Men's Sailboard,Gold Fleet
+10,Ben Easton,Men's Sailboard,Gold Fleet

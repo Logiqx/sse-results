@@ -1,28 +1,28 @@
-Place,Helmname,Fleet,Status,Run 1 (kts),Run 2 (kts),Avg (kts)
-1,Kevin Greenslade,Men's Sailboard,Pro Fleet,28.91,28.75,28.83
-2,Simon Cofield,Men's Sailboard,Gold Fleet,28.27,28.20,28.23
-3,Nigel Spriggs,Men's Sailboard,Gold Fleet,27.59,27.57,27.58
-4,Jim Crossley,Men's Sailboard,Gold Fleet,27.74,26.88,27.31
-5,Christian Body,Men's Sailboard,Gold Fleet,26.27,26.21,26.24
-6,Andy Holland,Men's Sailboard,Gold Fleet,26.57,25.77,26.17
-7,Michael George,Men's Sailboard,Gold Fleet,26.17,26.11,26.14
-8,Jack Trollope,Men's Sailboard,Gold Fleet,25.90,25.90,25.90
-9,Allan Cross,Men's Sailboard,Pro Fleet,26.29,25.09,25.69
-9,Garry Connell,Men's Sailboard,Amateur,25.98,25.41,25.69
-11,Dave Strudwick,Men's Sailboard,Gold Fleet,25.55,25.31,25.43
-12,Jamie Bambridge,Men's Sailboard,Amateur,24.86,24.72,24.79
-13,Adrian Wallis,Men's Sailboard,Gold Fleet,25.01,24.42,24.71
-14,Matthew York,Men's Sailboard,Gold Fleet,25.51,23.62,24.57
-15,Stephen Chatten,Men's Sailboard,Gold Fleet,24.71,24.39,24.55
-16,Gavin Furmenger,Men's Sailboard,Amateur,24.82,24.09,24.45
-17,Mark Ingram,Men's Sailboard,Gold Fleet,24.62,24.25,24.43
-18,Chris Jackson,Men's Sailboard,Gold Fleet,24.50,23.96,24.23
-19,Tom Wade,Men's Sailboard,Gold Fleet,23.84,23.71,23.77
-20,Nic Dodd,Men's Sailboard,Gold Fleet,23.54,22.71,23.13
-21,Neil Greentree,Men's Sailboard,Gold Fleet,23.60,22.50,23.05
-22,Sam Gooch,Men's Sailboard,Amateur,22.96,22.17,22.57
-23,Bryn Dampney,Men's Sailboard,Amateur,21.74,20.91,21.32
-24,Bob Cunningham,Men's Sailboard,Pro Fleet,21.21,21.02,21.11
-25,Jamie Walker,Men's Sailboard,Gold Fleet,20.38,17.18,18.78
-26,Martin Allman,Men's Sailboard,Amateur,17.67,,8.83
-27,Ian Grounds,Men's Sailboard,Amateur,15.85,,7.93
+Place,HelmName,Fleet,Status
+1,Kevin Greenslade,Men's Sailboard,Pro Fleet
+2,Simon Cofield,Men's Sailboard,Gold Fleet
+3,Nigel Spriggs,Men's Sailboard,Gold Fleet
+4,Jim Crossley,Men's Sailboard,Gold Fleet
+5,Christian Body,Men's Sailboard,Gold Fleet
+6,Andy Holland,Men's Sailboard,Gold Fleet
+7,Michael George,Men's Sailboard,Gold Fleet
+8,Jack Trollope,Men's Sailboard,Gold Fleet
+9,Allan Cross,Men's Sailboard,Pro Fleet
+9,Garry Connell,Men's Sailboard,Amateur
+11,Dave Strudwick,Men's Sailboard,Gold Fleet
+12,Jamie Bambridge,Men's Sailboard,Amateur
+13,Adrian Wallis,Men's Sailboard,Gold Fleet
+14,Matthew York,Men's Sailboard,Gold Fleet
+15,Stephen Chatten,Men's Sailboard,Gold Fleet
+16,Gavin Furmenger,Men's Sailboard,Amateur
+17,Mark Ingram,Men's Sailboard,Gold Fleet
+18,Chris Jackson,Men's Sailboard,Gold Fleet
+19,Tom Wade,Men's Sailboard,Gold Fleet
+20,Nic Dodd,Men's Sailboard,Gold Fleet
+21,Neil Greentree,Men's Sailboard,Gold Fleet
+22,Sam Gooch,Men's Sailboard,Amateur
+23,Bryn Dampney,Men's Sailboard,Amateur
+24,Bob Cunningham,Men's Sailboard,Pro Fleet
+25,Jamie Walker,Men's Sailboard,Gold Fleet
+26,Martin Allman,Men's Sailboard,Amateur
+27,Ian Grounds,Men's Sailboard,Amateur

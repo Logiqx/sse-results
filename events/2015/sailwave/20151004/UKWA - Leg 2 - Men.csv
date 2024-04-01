@@ -1,22 +1,22 @@
-Place,Helmname,Fleet,Status,Run 1 (kts),Run 2 (kts),Avg (kts)
-1,Jim Crossley,Men's Sailboard,Gold Fleet,29.72,29.53,29.62
-2,Kevin Greenslade,Men's Sailboard,Pro Fleet,29.19,29.14,29.17
-3,Keith Atkinson,Men's Sailboard,Pro Fleet,29.12,28.98,29.05
-4,Simon Pettifer,Men's Sailboard,Gold Fleet,28.52,28.39,28.46
-5,Paul Morris,Men's Sailboard,Gold Fleet,26.08,25.90,25.99
-6,Adrian Wallis,Men's Sailboard,Gold Fleet,26.62,25.20,25.91
-6,Dave Strudwick,Men's Sailboard,Gold Fleet,26.29,25.53,25.91
-8,Jamie Walker,Men's Sailboard,Gold Fleet,25.83,25.60,25.71
-9,Allan Cross,Men's Sailboard,Pro Fleet,25.79,25.57,25.68
-10,Matthew Spooner,Men's Sailboard,Gold Fleet,25.65,25.62,25.64
-11,Garry Connell,Men's Sailboard,Gold Fleet,25.75,25.49,25.62
-12,Scotty Stallman,Men's Sailboard,Youth Fleet,25.04,24.98,25.01
-13,Gavin Nicholson,Men's Sailboard,Gold Fleet,24.46,24.16,24.31
-14,Denis Royet,Men's Sailboard,Pro Fleet,24.19,24.11,24.15
-15,Mark Matthews,Men's Sailboard,Amateur,24.53,23.49,24.01
-16,Thomas Eskdale,Men's Sailboard,Gold Fleet,24.00,23.03,23.52
-17,Nic Dodd,Men's Sailboard,Gold Fleet,23.46,23.05,23.25
-18,Duncan Adam,Men's Sailboard,Amateur,23.54,22.92,23.23
-19,Sam Anstey,Men's Sailboard,Youth Fleet,22.78,22.14,22.46
-20,Trevor Whatford,Men's Sailboard,Amateur,21.88,20.73,21.30
-21,Ben Easton,Men's Sailboard,Gold Fleet,21.06,21.01,21.03
+Place,HelmName,Fleet,Status
+1,Jim Crossley,Men's Sailboard,Gold Fleet
+2,Kevin Greenslade,Men's Sailboard,Pro Fleet
+3,Keith Atkinson,Men's Sailboard,Pro Fleet
+4,Simon Pettifer,Men's Sailboard,Gold Fleet
+5,Paul Morris,Men's Sailboard,Gold Fleet
+6,Adrian Wallis,Men's Sailboard,Gold Fleet
+6,Dave Strudwick,Men's Sailboard,Gold Fleet
+8,Jamie Walker,Men's Sailboard,Gold Fleet
+9,Allan Cross,Men's Sailboard,Pro Fleet
+10,Matthew Spooner,Men's Sailboard,Gold Fleet
+11,Garry Connell,Men's Sailboard,Gold Fleet
+12,Scotty Stallman,Men's Sailboard,Youth Fleet
+13,Gavin Nicholson,Men's Sailboard,Gold Fleet
+14,Denis Royet,Men's Sailboard,Pro Fleet
+15,Mark Matthews,Men's Sailboard,Amateur
+16,Thomas Eskdale,Men's Sailboard,Gold Fleet
+17,Nic Dodd,Men's Sailboard,Gold Fleet
+18,Duncan Adam,Men's Sailboard,Amateur
+19,Sam Anstey,Men's Sailboard,Youth Fleet
+20,Trevor Whatford,Men's Sailboard,Amateur
+21,Ben Easton,Men's Sailboard,Gold Fleet

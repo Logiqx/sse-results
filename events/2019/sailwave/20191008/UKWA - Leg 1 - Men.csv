@@ -1,20 +1,20 @@
-Place,Helmname,Fleet,Status,Run 1 (kts),Run 2 (kts),Avg (kts)
-1,Scotty Stallman,Men's Sailboard,Pro Fleet,33.80,33.80,33.80
-2,Simon Pettifer,Men's Sailboard,Pro Fleet,33.40,33.35,33.37
-3,James Battye,Men's Sailboard,Pro Fleet,34.00,32.65,33.33
-4,Jim Crossley,Men's Sailboard,Pro Fleet,33.18,33.04,33.11
-5,Garry Connell,Men's Sailboard,Gold Fleet,31.54,31.34,31.44
-6,Paul Sibley,Men's Sailboard,Gold Fleet,31.18,30.85,31.02
-7,Michael George,Men's Sailboard,Gold Fleet,30.45,29.97,30.21
-8,Adrian Wallis,Men's Sailboard,Gold Fleet,29.75,29.57,29.66
-9,Richard Crosby,Men's Sailboard,Amateur,29.80,29.19,29.49
-10,George Fulton,Men's Sailboard,Gold Fleet,29.68,29.23,29.46
-11,Neven Juretic,Men's Sailboard,Amateur,29.84,28.98,29.41
-12,Will Trossell,Men's Sailboard,Gold Fleet,29.66,28.80,29.23
-13,Peter Crosby,Men's Sailboard,Gold Fleet,28.23,27.94,28.08
-14,Olly Wood,Men's Sailboard,Amateur,27.25,26.04,26.64
-15,Tom Joyce,Men's Sailboard,Amateur,25.74,25.09,25.41
-16,Harry Keenan,Men's Sailboard,Gold Fleet,24.00,24.00,24.00
-17,Mark Salvage,Men's Sailboard,Amateur,23.96,23.30,23.63
-18,Gavin Nicholson,Men's Sailboard,Gold Fleet,21.88,21.77,21.82
-19,Dave Strudwick,Men's Sailboard,Gold Fleet,29.39,,14.70
+Place,HelmName,Fleet,Status
+1,Scotty Stallman,Men's Sailboard,Pro Fleet
+2,Simon Pettifer,Men's Sailboard,Pro Fleet
+3,James Battye,Men's Sailboard,Pro Fleet
+4,Jim Crossley,Men's Sailboard,Pro Fleet
+5,Garry Connell,Men's Sailboard,Gold Fleet
+6,Paul Sibley,Men's Sailboard,Gold Fleet
+7,Michael George,Men's Sailboard,Gold Fleet
+8,Adrian Wallis,Men's Sailboard,Gold Fleet
+9,Richard Crosby,Men's Sailboard,Amateur
+10,George Fulton,Men's Sailboard,Gold Fleet
+11,Neven Juretic,Men's Sailboard,Amateur
+12,Will Trossell,Men's Sailboard,Gold Fleet
+13,Peter Crosby,Men's Sailboard,Gold Fleet
+14,Olly Wood,Men's Sailboard,Amateur
+15,Tom Joyce,Men's Sailboard,Amateur
+16,Harry Keenan,Men's Sailboard,Gold Fleet
+17,Mark Salvage,Men's Sailboard,Amateur
+18,Gavin Nicholson,Men's Sailboard,Gold Fleet
+19,Dave Strudwick,Men's Sailboard,Gold Fleet

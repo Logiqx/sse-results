@@ -1,3 +1,3 @@
-Place,Helmname,Fleet,Status,Run 1 (kts),Run 2 (kts),Avg (kts)
-1,Zara Davis,Women's Sailboard,Pro Fleet,24.18,23.99,24.08
-2,Sarah Jackson,Women's Sailboard,Gold Fleet,23.09,21.99,22.54
+Place,HelmName,Fleet,Status
+1,Zara Davis,Women's Sailboard,Pro Fleet
+2,Sarah Jackson,Women's Sailboard,Gold Fleet

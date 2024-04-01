@@ -1,16 +1,16 @@
-Place,Helmname,Fleet,Status,Run 1 (kts),Run 2 (kts),Avg (kts)
-1,Kevin Greenslade,Men's Sailboard,Pro Fleet,28.44,28.23,28.33
-2,Simon Pettifer,Men's Sailboard,Gold Fleet,27.14,26.43,26.78
-3,Allan Cross,Men's Sailboard,Pro Fleet,25.76,25.73,25.75
-4,Nigel Spriggs,Men's Sailboard,Gold Fleet,25.30,25.24,25.27
-5,Adrian Wallis,Men's Sailboard,Gold Fleet,25.13,24.88,25.00
-6,Gavin Furmenger,Men's Sailboard,Amateur,25.26,24.53,24.89
-7,Matthew York,Men's Sailboard,Gold Fleet,24.89,24.18,24.54
-8,Matthew Spooner,Men's Sailboard,Gold Fleet,24.74,24.12,24.43
-9,Jamie Walker,Men's Sailboard,Gold Fleet,25.21,23.23,24.22
-10,Dave Strudwick,Men's Sailboard,Gold Fleet,24.34,24.09,24.21
-11,Garry Connell,Men's Sailboard,Amateur,24.35,23.84,24.10
-12,Gordon Roach,Men's Sailboard,Gold Fleet,23.19,21.93,22.56
-13,Mark Palmer,Men's Sailboard,Amateur,21.22,20.72,20.97
-14,Stephen Sugden,Men's Sailboard,Gold Fleet,20.64,20.57,20.61
-15,Ginge Ashmore,Men's Sailboard,Amateur,20.06,19.22,19.64
+Place,HelmName,Fleet,Status
+1,Kevin Greenslade,Men's Sailboard,Pro Fleet
+2,Simon Pettifer,Men's Sailboard,Gold Fleet
+3,Allan Cross,Men's Sailboard,Pro Fleet
+4,Nigel Spriggs,Men's Sailboard,Gold Fleet
+5,Adrian Wallis,Men's Sailboard,Gold Fleet
+6,Gavin Furmenger,Men's Sailboard,Amateur
+7,Matthew York,Men's Sailboard,Gold Fleet
+8,Matthew Spooner,Men's Sailboard,Gold Fleet
+9,Jamie Walker,Men's Sailboard,Gold Fleet
+10,Dave Strudwick,Men's Sailboard,Gold Fleet
+11,Garry Connell,Men's Sailboard,Amateur
+12,Gordon Roach,Men's Sailboard,Gold Fleet
+13,Mark Palmer,Men's Sailboard,Amateur
+14,Stephen Sugden,Men's Sailboard,Gold Fleet
+15,Ginge Ashmore,Men's Sailboard,Amateur

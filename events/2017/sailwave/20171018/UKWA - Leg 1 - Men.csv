@@ -1,8 +1,8 @@
-Place,Helmname,Fleet,Status,Run 1 (kts),Run 2 (kts),Avg (kts)
-1,James Battye,Men's Sailboard,Gold Fleet,21.55,21.38,21.46
-2,Kevin Greenslade,Men's Sailboard,Pro Fleet,21.04,20.93,20.98
-3,Kacper Wozniak,Men's Sailboard,Gold Fleet,20.23,18.66,19.45
-4,Adrian Wallis,Men's Sailboard,Gold Fleet,19.66,19.10,19.38
-5,Henry Bloodworth,Men's Sailboard,Pro Fleet,17.40,17.36,17.38
-6,Scotty Stallman,Men's Sailboard,Gold Fleet,17.37,17.23,17.30
-7,Paul Sibley,Men's Sailboard,Gold Fleet,16.98,16.94,16.96
+Place,HelmName,Fleet,Status
+1,James Battye,Men's Sailboard,Gold Fleet
+2,Kevin Greenslade,Men's Sailboard,Pro Fleet
+3,Kacper Wozniak,Men's Sailboard,Gold Fleet
+4,Adrian Wallis,Men's Sailboard,Gold Fleet
+5,Henry Bloodworth,Men's Sailboard,Pro Fleet
+6,Scotty Stallman,Men's Sailboard,Gold Fleet
+7,Paul Sibley,Men's Sailboard,Gold Fleet

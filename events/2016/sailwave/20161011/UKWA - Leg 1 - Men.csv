@@ -1,14 +1,14 @@
-Place,Helmname,Fleet,Status,Run 1 (kts),Run 2 (kts),Avg (kts)
-1,Kevin Greenslade,Men's Sailboard,Pro Fleet,27.80,27.52,27.66
-2,Simon Cofield,Men's Sailboard,Pro Fleet,27.71,26.98,27.35
-3,Simon Pettifer,Men's Sailboard,Gold Fleet,26.28,25.61,25.95
-4,Garry Connell,Men's Sailboard,Gold Fleet,26.21,24.98,25.59
-5,Paul Sibley,Men's Sailboard,Gold Fleet,24.29,23.65,23.97
-6,Leigh Kingaby,Men's Sailboard,Pro Fleet,23.89,23.86,23.88
-7,Gavin Furmenger,Men's Sailboard,Gold Fleet,23.64,23.37,23.50
-8,Matthew York,Men's Sailboard,Gold Fleet,23.67,23.30,23.48
-9,Dave Strudwick,Men's Sailboard,Gold Fleet,23.24,22.78,23.01
-10,Jason Sawyer,Men's Sailboard,Amateur,23.09,22.90,23.00
-11,Gavin Nicholson,Men's Sailboard,Gold Fleet,23.46,22.46,22.96
-12,James Battye,Men's Sailboard,Gold Fleet,22.97,22.81,22.89
-13,Nic Dodd,Men's Sailboard,Gold Fleet,20.24,20.22,20.23
+Place,HelmName,Fleet,Status
+1,Kevin Greenslade,Men's Sailboard,Pro Fleet
+2,Simon Cofield,Men's Sailboard,Pro Fleet
+3,Simon Pettifer,Men's Sailboard,Gold Fleet
+4,Garry Connell,Men's Sailboard,Gold Fleet
+5,Paul Sibley,Men's Sailboard,Gold Fleet
+6,Leigh Kingaby,Men's Sailboard,Pro Fleet
+7,Gavin Furmenger,Men's Sailboard,Gold Fleet
+8,Matthew York,Men's Sailboard,Gold Fleet
+9,Dave Strudwick,Men's Sailboard,Gold Fleet
+10,Jason Sawyer,Men's Sailboard,Amateur
+11,Gavin Nicholson,Men's Sailboard,Gold Fleet
+12,James Battye,Men's Sailboard,Gold Fleet
+13,Nic Dodd,Men's Sailboard,Gold Fleet

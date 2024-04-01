@@ -1,14 +1,14 @@
-Place,Helmname,Fleet,Status,Run 1 (kts),Run 2 (kts),Avg (kts)
-1,Simon Pettifer,Men's Sailboard,Pro Fleet,28.21,26.90,27.55
-2,Scott Norman,Men's Sailboard,Gold Fleet,25.42,24.84,25.13
-3,Russell Thompson,Men's Sailboard,Amateur,24.21,24.06,24.13
-4,Tim Bate,Men's Sailboard,Amateur,24.14,23.62,23.88
-5,Zack Peaple,Men's Sailboard,Gold Fleet,25.04,22.35,23.69
-6,Andrew Twinn,Men's Sailboard,Gold Fleet,23.35,22.39,22.87
-7,John Oliver,Men's Sailboard,Gold Fleet,23.52,21.70,22.61
-8,Scott Harrison,Men's Sailboard,Gold Fleet,22.82,22.21,22.52
-9,Andy Stuart-William,Men's Sailboard,Gold Fleet,22.72,22.21,22.46
-10,Matthew Lilley,Men's Sailboard,Amateur,21.49,20.82,21.15
-11,Joe Trunkfield,Men's Sailboard,Amateur,21.14,20.97,21.05
-12,Trevor Whatford,Men's Sailboard,Gold Fleet,21.30,20.64,20.97
-13,Michael George,Men's Sailboard,Pro Fleet,24.25,,12.12
+Place,HelmName,Fleet,Status
+1,Simon Pettifer,Men's Sailboard,Pro Fleet
+2,Scott Norman,Men's Sailboard,Gold Fleet
+3,Russell Thompson,Men's Sailboard,Amateur
+4,Tim Bate,Men's Sailboard,Amateur
+5,Zack Peaple,Men's Sailboard,Gold Fleet
+6,Andrew Twinn,Men's Sailboard,Gold Fleet
+7,John Oliver,Men's Sailboard,Gold Fleet
+8,Scott Harrison,Men's Sailboard,Gold Fleet
+9,Andy Stuart-William,Men's Sailboard,Gold Fleet
+10,Matthew Lilley,Men's Sailboard,Amateur
+11,Joe Trunkfield,Men's Sailboard,Amateur
+12,Trevor Whatford,Men's Sailboard,Gold Fleet
+13,Michael George,Men's Sailboard,Pro Fleet

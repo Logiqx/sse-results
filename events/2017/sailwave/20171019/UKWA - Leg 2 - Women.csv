@@ -1,4 +1,4 @@
-Place,Helmname,Fleet,Status,Run 1 (kts),Run 2 (kts),Avg (kts)
-1,Jenna Gibson,Women's Sailboard,Pro Fleet,27.61,27.48,27.55
-2,Zara Davis,Women's Sailboard,Pro Fleet,26.37,25.59,25.98
-3,Sarah Jackson,Women's Sailboard,Gold Fleet,26.30,24.57,25.43
+Place,HelmName,Fleet,Status
+1,Jenna Gibson,Women's Sailboard,Pro Fleet
+2,Zara Davis,Women's Sailboard,Pro Fleet
+3,Sarah Jackson,Women's Sailboard,Gold Fleet

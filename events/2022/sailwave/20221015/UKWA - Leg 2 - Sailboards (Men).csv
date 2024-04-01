@@ -1,35 +1,35 @@
-Place,Helmname,Fleet,Status,Run 1 (kts),Run 2 (kts),Avg (kts)
-1,Scotty Stallman,Men's Sailboard,Pro Fleet,38.02,37.86,37.94
-2,Jim Crossley,Men's Sailboard,Pro Fleet,36.05,35.07,35.56
-3,Kevin Greenslade,Men's Sailboard,Pro Fleet,35.46,35.23,35.34
-4,Simon Pettifer,Men's Sailboard,Pro Fleet,34.78,34.33,34.56
-5,Garry Connell,Men's Sailboard,Pro Fleet,33.77,33.73,33.75
-6,Nigel Spriggs,Men's Sailboard,Pro Fleet,33.67,33.48,33.58
-7,Will Trossell,Men's Sailboard,Gold Fleet,33.22,33.08,33.15
-8,Bob Cunningham,Men's Sailboard,Pro Fleet,33.35,32.49,32.92
-9,John Oliver,Men's Sailboard,Gold Fleet,32.02,31.93,31.98
-10,Eddie Marsh,Men's Sailboard,Amateur,32.35,30.10,31.22
-11,Matthew York,Men's Sailboard,Gold Fleet,31.18,31.11,31.15
-12,Michael George,Men's Sailboard,Pro Fleet,30.82,30.51,30.67
-13,Chris Bates,Men's Sailboard,Gold Fleet,31.09,29.85,30.47
-14,Richard Crosby,Men's Sailboard,Gold Fleet,30.56,30.21,30.38
-15,Neven Juretic,Men's Sailboard,Gold Fleet,30.15,29.92,30.04
-16,Thomas Harrison,Men's Sailboard,Amateur,30.52,29.43,29.97
-17,George Fulton,Men's Sailboard,Gold Fleet,30.13,29.65,29.89
-18,Dave Strudwick,Men's Sailboard,Gold Fleet,29.93,29.80,29.86
-19,Trevor Funnell,Men's Sailboard,Amateur,29.68,29.52,29.60
-20,Maciej Bukolt,Men's Sailboard,Amateur,30.09,28.68,29.39
-21,Simon Chippington,Men's Sailboard,Gold Fleet,29.28,29.02,29.15
-22,Stuart Trunkfield,Men's Sailboard,Gold Fleet,29.90,28.39,29.14
-23,Paul Arnold,Men's Sailboard,Amateur,29.11,28.83,28.97
-24,Garry Goodwin,Men's Sailboard,Amateur,29.12,28.02,28.57
-25,Andrew Twinn,Men's Sailboard,Gold Fleet,28.30,27.91,28.10
-26,Scott Norman,Men's Sailboard,Amateur,27.68,27.44,27.56
-27,Trevor Whatford,Men's Sailboard,Gold Fleet,27.15,27.02,27.08
-28,Andy Stuart-William,Men's Sailboard,Gold Fleet,27.84,26.21,27.02
-29,Joe Trunkfield,Men's Sailboard,Amateur,26.54,26.14,26.34
-30,Iain Neary,Men's Sailboard,Amateur,26.20,26.11,26.15
-31,Mark Palmer,Men's Sailboard,Gold Fleet,24.58,24.42,24.50
-32,Sullie Yelland,Men's Sailboard,Amateur,24.18,24.17,24.17
-33,Stewart Veitch,Men's Sailboard,Amateur,22.45,,11.22
-34,Alastair Nichol,Men's Sailboard,Gold Fleet,20.94,,10.47
+Place,HelmName,Fleet,Status
+1,Scotty Stallman,Men's Sailboard,Pro Fleet
+2,Jim Crossley,Men's Sailboard,Pro Fleet
+3,Kevin Greenslade,Men's Sailboard,Pro Fleet
+4,Simon Pettifer,Men's Sailboard,Pro Fleet
+5,Garry Connell,Men's Sailboard,Pro Fleet
+6,Nigel Spriggs,Men's Sailboard,Pro Fleet
+7,Will Trossell,Men's Sailboard,Gold Fleet
+8,Bob Cunningham,Men's Sailboard,Pro Fleet
+9,John Oliver,Men's Sailboard,Gold Fleet
+10,Eddie Marsh,Men's Sailboard,Amateur
+11,Matthew York,Men's Sailboard,Gold Fleet
+12,Michael George,Men's Sailboard,Pro Fleet
+13,Chris Bates,Men's Sailboard,Gold Fleet
+14,Richard Crosby,Men's Sailboard,Gold Fleet
+15,Neven Juretic,Men's Sailboard,Gold Fleet
+16,Thomas Harrison,Men's Sailboard,Amateur
+17,George Fulton,Men's Sailboard,Gold Fleet
+18,Dave Strudwick,Men's Sailboard,Gold Fleet
+19,Trevor Funnell,Men's Sailboard,Amateur
+20,Maciej Bukolt,Men's Sailboard,Amateur
+21,Simon Chippington,Men's Sailboard,Gold Fleet
+22,Stuart Trunkfield,Men's Sailboard,Gold Fleet
+23,Paul Arnold,Men's Sailboard,Amateur
+24,Garry Goodwin,Men's Sailboard,Amateur
+25,Andrew Twinn,Men's Sailboard,Gold Fleet
+26,Scott Norman,Men's Sailboard,Amateur
+27,Trevor Whatford,Men's Sailboard,Gold Fleet
+28,Andy Stuart-William,Men's Sailboard,Gold Fleet
+29,Joe Trunkfield,Men's Sailboard,Amateur
+30,Iain Neary,Men's Sailboard,Amateur
+31,Mark Palmer,Men's Sailboard,Gold Fleet
+32,Sullie Yelland,Men's Sailboard,Amateur
+33,Stewart Veitch,Men's Sailboard,Amateur
+34,Alastair Nichol,Men's Sailboard,Gold Fleet

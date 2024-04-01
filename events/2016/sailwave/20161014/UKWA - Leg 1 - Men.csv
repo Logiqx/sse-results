@@ -1,10 +1,10 @@
-Place,Helmname,Fleet,Status,Run 1 (kts),Run 2 (kts),Avg (kts)
-1,Simon Pettifer,Men's Sailboard,Gold Fleet,27.50,26.93,27.21
-2,Paul Sibley,Men's Sailboard,Gold Fleet,26.64,26.24,26.44
-3,Garry Connell,Men's Sailboard,Gold Fleet,25.17,25.15,25.16
-4,Kacper Wozniak,Men's Sailboard,Gold Fleet,24.13,23.97,24.05
-5,Gavin Furmenger,Men's Sailboard,Gold Fleet,24.46,23.56,24.01
-6,Gavin Nicholson,Men's Sailboard,Gold Fleet,22.66,22.29,22.47
-7,Dave Strudwick,Men's Sailboard,Gold Fleet,21.58,21.52,21.55
-8,Mark Salvage,Men's Sailboard,Amateur,19.65,19.59,19.62
-9,Stephen Sugden,Men's Sailboard,Gold Fleet,19.58,19.43,19.50
+Place,HelmName,Fleet,Status
+1,Simon Pettifer,Men's Sailboard,Gold Fleet
+2,Paul Sibley,Men's Sailboard,Gold Fleet
+3,Garry Connell,Men's Sailboard,Gold Fleet
+4,Kacper Wozniak,Men's Sailboard,Gold Fleet
+5,Gavin Furmenger,Men's Sailboard,Gold Fleet
+6,Gavin Nicholson,Men's Sailboard,Gold Fleet
+7,Dave Strudwick,Men's Sailboard,Gold Fleet
+8,Mark Salvage,Men's Sailboard,Amateur
+9,Stephen Sugden,Men's Sailboard,Gold Fleet

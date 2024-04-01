@@ -1,6 +1,6 @@
-Place,Helmname,Fleet,Status,Run 1 (kts),Run 2 (kts),Avg (kts)
-1,Iain Neary,Men's Sailboard,Amateur,24.68,23.47,24.08
-2,Stuart Trunkfield,Men's Sailboard,Gold Fleet,23.20,23.14,23.17
-3,Maciej Bukolt,Men's Sailboard,Amateur,23.59,21.92,22.76
-4,Tim Laine,Men's Sailboard,Gold Fleet,17.47,16.47,16.97
-5,Andy Stuart-William,Men's Sailboard,Gold Fleet,21.62,,10.81
+Place,HelmName,Fleet,Status
+1,Iain Neary,Men's Sailboard,Amateur
+2,Stuart Trunkfield,Men's Sailboard,Gold Fleet
+3,Maciej Bukolt,Men's Sailboard,Amateur
+4,Tim Laine,Men's Sailboard,Gold Fleet
+5,Andy Stuart-William,Men's Sailboard,Gold Fleet

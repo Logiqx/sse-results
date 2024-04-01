@@ -1,10 +1,10 @@
-Place,Helmname,Fleet,Status,Run 1 (kts),Run 2 (kts),Avg (kts)
-1,Finlay Chandler,Men's Wingboard,Amateur,24.50,24.46,24.48
-2,Richard Hobson,Men's Wingboard,Pro Fleet,23.04,22.94,22.99
-3,Sullie Yelland,Men's Wingboard,Amateur,23.00,22.75,22.87
-4,Finnley Knight,Men's Wingboard,Amateur,22.98,22.01,22.50
-5,Zack Peaple,Men's Wingboard,Amateur,21.02,20.50,20.76
-6,Denis Gordo,Men's Wingboard,Amateur,20.45,19.88,20.17
-7,Finn O'Gorman,Men's Wingboard,Amateur,20.17,19.84,20.00
-8,Mark Salvage,Men's Wingboard,Amateur,13.74,13.63,13.68
-9,Andy Stuart-William,Men's Wingboard,Amateur,14.38,,7.19
+Place,HelmName,Fleet,Status
+1,Finlay Chandler,Men's Wingboard,Amateur
+2,Richard Hobson,Men's Wingboard,Pro Fleet
+3,Sullie Yelland,Men's Wingboard,Amateur
+4,Finnley Knight,Men's Wingboard,Amateur
+5,Zack Peaple,Men's Wingboard,Amateur
+6,Denis Gordo,Men's Wingboard,Amateur
+7,Finn O'Gorman,Men's Wingboard,Amateur
+8,Mark Salvage,Men's Wingboard,Amateur
+9,Andy Stuart-William,Men's Wingboard,Amateur

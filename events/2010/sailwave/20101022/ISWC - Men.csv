@@ -1,31 +1,31 @@
-Place,Helmname,Fleet,Run 1 (kts),Run 2 (kts),Avg (kts)
-1,Antony Baker,,27.02,27.00,27.01
-2,Ian Richards,,26.79,26.52,26.66
-3,Torsten Mallon,,25.83,25.82,25.82
-4,Markus Wilms,,25.54,25.27,25.40
-5,Mark Collins,,25.43,24.24,24.83
-5,Patrick Van Hoof,,25.21,24.45,24.83
-7,Tris Best,,24.83,24.49,24.66
-8,Steve Flanagan,,24.68,24.62,24.65
-9,Allan Cross,,24.39,24.36,24.38
-10,Dave Strudwick,,24.32,24.31,24.31
-11,Michael George,,24.60,23.96,24.28
-12,Adrian Wallis,,24.63,23.90,24.27
-13,Andrew Chandler,,24.28,24.15,24.21
-14,Jim Brooks-Dowsett,,23.92,23.64,23.78
-15,Steve Jones,,23.67,23.27,23.47
-16,Nic Dodd,,23.41,23.06,23.24
-17,Gordon Roach,,23.22,22.97,23.10
-18,Stephen Chatten,,23.30,22.53,22.91
-19,Matthew York,,22.99,22.47,22.73
-20,Eddie Murrell,,23.05,22.37,22.71
-21,Jamie Bambridge,,22.98,22.37,22.68
-22,Alex Burges,,22.18,21.66,21.92
-23,Thorsten Niehaus,,22.14,21.59,21.87
-24,Gavin Nicholson,,21.42,21.30,21.36
-25,Neil Greentree,,21.77,20.69,21.23
-26,Martin Allman,,20.82,19.84,20.33
-27,Trevor Funnell,,20.80,19.62,20.21
-28,Michael Roberts,,14.77,14.21,14.49
-29,Manfred Fuchs,,21.56,,10.78
-30,Alastair Nichol,,20.02,,10.01
+Place,HelmName,Fleet,Status
+1,Antony Baker,,Pro Fleet
+2,Ian Richards,,Gold Fleet
+3,Torsten Mallon,,Gold Fleet
+4,Markus Wilms,,Gold Fleet
+5,Mark Collins,,Gold Fleet
+5,Patrick Van Hoof,,Gold Fleet
+7,Tris Best,,Pro Fleet
+8,Steve Flanagan,,Gold Fleet
+9,Allan Cross,,Gold Fleet
+10,Dave Strudwick,,Gold Fleet
+11,Michael George,,Gold Fleet
+12,Adrian Wallis,,Gold Fleet
+13,Andrew Chandler,,Gold Fleet
+14,Jim Brooks-Dowsett,,Gold Fleet
+15,Steve Jones,,Gold Fleet
+16,Nic Dodd,,Gold Fleet
+17,Gordon Roach,,Amateur
+18,Stephen Chatten,,Amateur
+19,Matthew York,,Amateur
+20,Eddie Murrell,,Gold Fleet
+21,Jamie Bambridge,,Amateur
+22,Alex Burges,,Amateur
+23,Thorsten Niehaus,,Pro Fleet
+24,Gavin Nicholson,,Amateur
+25,Neil Greentree,,Amateur
+26,Martin Allman,,Amateur
+27,Trevor Funnell,,Amateur
+28,Michael Roberts,,Amateur
+29,Manfred Fuchs,,Gold Fleet
+30,Alastair Nichol,,Gold Fleet

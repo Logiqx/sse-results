@@ -1,20 +1,20 @@
-Place,Helmname,Fleet,Status,Run 1 (kts),Run 2 (kts),Avg (kts)
-1,Kevin Greenslade,Men's Sailboard,Pro Fleet,30.27,29.08,29.67
-2,James Battye,Men's Sailboard,Gold Fleet,29.52,29.23,29.38
-3,Simon Cofield,Men's Sailboard,Pro Fleet,29.68,28.90,29.29
-4,Simon Pettifer,Men's Sailboard,Pro Fleet,28.88,28.60,28.74
-5,Leigh Kingaby,Men's Sailboard,Pro Fleet,28.91,28.32,28.62
-6,Scotty Stallman,Men's Sailboard,Pro Fleet,27.88,27.71,27.79
-7,Paul Sibley,Men's Sailboard,Gold Fleet,27.25,27.22,27.23
-8,Kacper Wozniak,Men's Sailboard,Gold Fleet,27.16,27.05,27.11
-9,Alex Smith,Men's Sailboard,Gold Fleet,26.79,26.54,26.66
-10,Adrian Wallis,Men's Sailboard,Gold Fleet,26.45,25.76,26.10
-11,George Fulton,Men's Sailboard,Gold Fleet,26.29,25.48,25.89
-12,Dave Strudwick,Men's Sailboard,Gold Fleet,25.37,25.36,25.37
-13,Peter Crosby,Men's Sailboard,Gold Fleet,25.74,24.07,24.91
-14,Garry Connell,Men's Sailboard,Gold Fleet,24.80,23.90,24.35
-15,Jason Sawyer,Men's Sailboard,Amateur,24.06,23.85,23.95
-16,Trevor Whatford,Men's Sailboard,Amateur,23.48,22.64,23.06
-17,Tom Joyce,Men's Sailboard,Amateur,23.23,22.43,22.83
-18,Stephen Sugden,Men's Sailboard,Amateur,22.35,21.97,22.16
-19,Nic Dodd,Men's Sailboard,Amateur,22.83,21.42,22.13
+Place,HelmName,Fleet,Status
+1,Kevin Greenslade,Men's Sailboard,Pro Fleet
+2,James Battye,Men's Sailboard,Gold Fleet
+3,Simon Cofield,Men's Sailboard,Pro Fleet
+4,Simon Pettifer,Men's Sailboard,Pro Fleet
+5,Leigh Kingaby,Men's Sailboard,Pro Fleet
+6,Scotty Stallman,Men's Sailboard,Pro Fleet
+7,Paul Sibley,Men's Sailboard,Gold Fleet
+8,Kacper Wozniak,Men's Sailboard,Gold Fleet
+9,Alex Smith,Men's Sailboard,Gold Fleet
+10,Adrian Wallis,Men's Sailboard,Gold Fleet
+11,George Fulton,Men's Sailboard,Gold Fleet
+12,Dave Strudwick,Men's Sailboard,Gold Fleet
+13,Peter Crosby,Men's Sailboard,Gold Fleet
+14,Garry Connell,Men's Sailboard,Gold Fleet
+15,Jason Sawyer,Men's Sailboard,Amateur
+16,Trevor Whatford,Men's Sailboard,Amateur
+17,Tom Joyce,Men's Sailboard,Amateur
+18,Stephen Sugden,Men's Sailboard,Amateur
+19,Nic Dodd,Men's Sailboard,Amateur

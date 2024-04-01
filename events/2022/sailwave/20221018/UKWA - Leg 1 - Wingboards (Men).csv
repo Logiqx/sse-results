@@ -1,6 +1,6 @@
-Place,Helmname,Fleet,Status,Run 1 (kts),Run 2 (kts),Avg (kts)
-1,Michael George,Men's Wingboard,Wing Fleet,21.19,20.57,20.88
-2,Richard Hobson,Men's Wingboard,Wing Fleet,21.12,20.51,20.82
-3,Stacey Vass,Men's Wingboard,Wing Fleet,18.04,18.03,18.03
-4,Ian Kraft,Men's Wingboard,Wing Fleet,14.60,14.05,14.33
-5,Simon Chippington,Men's Wingboard,Wing Fleet,14.38,,7.19
+Place,HelmName,Fleet,Status
+1,Michael George,Men's Wingboard,Wing Fleet
+2,Richard Hobson,Men's Wingboard,Wing Fleet
+3,Stacey Vass,Men's Wingboard,Wing Fleet
+4,Ian Kraft,Men's Wingboard,Wing Fleet
+5,Simon Chippington,Men's Wingboard,Wing Fleet

@@ -1,4 +1,4 @@
-Place,Helmname,Fleet,Status,Run 1 (kts),Run 2 (kts),Avg (kts)
-1,Scotty Stallman,Men's Sailboard,Pro Fleet,21.97,21.80,21.88
-2,Simon Pettifer,Men's Sailboard,Pro Fleet,20.57,19.77,20.17
-3,Michael George,Men's Sailboard,Gold Fleet,17.41,,8.71
+Place,HelmName,Fleet,Status
+1,Scotty Stallman,Men's Sailboard,Pro Fleet
+2,Simon Pettifer,Men's Sailboard,Pro Fleet
+3,Michael George,Men's Sailboard,Gold Fleet

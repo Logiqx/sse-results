@@ -1,6 +1,6 @@
-Place,Helmname,Fleet,Status,Run 1 (kts),Run 2 (kts),Avg (kts)
-1,Adrian Wallis,Men's Sailboard,Gold Fleet,17.96,16.18,17.07
-2,Nic Dodd,Men's Sailboard,Gold Fleet,15.27,14.59,14.93
-3,Thomas Eskdale,Men's Sailboard,Gold Fleet,17.92,,8.96
-4,Gavin Nicholson,Men's Sailboard,Gold Fleet,13.02,,6.51
-5,Scotty Stallman,Men's Sailboard,Youth Fleet,5.04,,2.52
+Place,HelmName,Fleet,Status
+1,Adrian Wallis,Men's Sailboard,Gold Fleet
+2,Nic Dodd,Men's Sailboard,Gold Fleet
+3,Thomas Eskdale,Men's Sailboard,Gold Fleet
+4,Gavin Nicholson,Men's Sailboard,Gold Fleet
+5,Scotty Stallman,Men's Sailboard,Youth Fleet

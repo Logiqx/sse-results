@@ -1,7 +1,7 @@
-Place,Helmname,Fleet,Status,Run 1 (kts),Run 2 (kts),Avg (kts)
-1,Gavin Furmenger,Men's Sailboard,Amateur,22.74,22.62,22.68
-2,Matthew Spooner,Men's Sailboard,Gold Fleet,24.25,19.98,22.12
-3,Adrian Wallis,Men's Sailboard,Gold Fleet,22.80,21.14,21.97
-4,Jamie Walker,Men's Sailboard,Gold Fleet,22.06,20.88,21.47
-5,Stephen Sugden,Men's Sailboard,Gold Fleet,20.54,20.28,20.41
-6,Garry Connell,Men's Sailboard,Amateur,22.01,16.94,19.47
+Place,HelmName,Fleet,Status
+1,Gavin Furmenger,Men's Sailboard,Amateur
+2,Matthew Spooner,Men's Sailboard,Gold Fleet
+3,Adrian Wallis,Men's Sailboard,Gold Fleet
+4,Jamie Walker,Men's Sailboard,Gold Fleet
+5,Stephen Sugden,Men's Sailboard,Gold Fleet
+6,Garry Connell,Men's Sailboard,Amateur

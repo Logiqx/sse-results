@@ -1,24 +1,24 @@
-Place,Helmname,Fleet,Status,Run 1 (kts),Run 2 (kts),Avg (kts)
-1,Jim Crossley,Men's Sailboard,Pro Fleet,36.30,35.67,35.99
-2,Kevin Greenslade,Men's Sailboard,Pro Fleet,36.00,35.48,35.74
-3,Simon Pettifer,Men's Sailboard,Pro Fleet,35.74,35.53,35.64
-4,Simon Cofield,Men's Sailboard,Pro Fleet,35.61,35.51,35.56
-5,Paul Sibley,Men's Sailboard,Gold Fleet,34.46,34.36,34.41
-6,Scotty Stallman,Men's Sailboard,Gold Fleet,34.71,33.78,34.25
-7,Garry Connell,Men's Sailboard,Gold Fleet,34.13,33.97,34.05
-8,Leigh Kingaby,Men's Sailboard,Pro Fleet,33.87,33.65,33.76
-9,James Battye,Men's Sailboard,Gold Fleet,33.81,33.60,33.71
-10,Grant Cottrell,Men's Sailboard,Gold Fleet,33.74,33.66,33.70
-11,Nick Beaney,Men's Sailboard,Pro Fleet,34.04,33.02,33.53
-12,Ewan Paterson,Men's Sailboard,Amateur,33.81,32.69,33.25
-13,Matthew York,Men's Sailboard,Gold Fleet,33.44,32.77,33.11
-14,Gavin Furmenger,Men's Sailboard,Gold Fleet,32.39,32.13,32.26
-15,Shaun Cook,Men's Sailboard,Pro Fleet,32.64,31.82,32.23
-16,Kacper Wozniak,Men's Sailboard,Gold Fleet,31.55,31.53,31.54
-17,Tyler Baker,Men's Sailboard,Youth Fleet,31.21,30.99,31.10
-18,Adrian Wallis,Men's Sailboard,Gold Fleet,31.01,30.93,30.97
-19,George Fulton,Men's Sailboard,Amateur,30.77,30.73,30.75
-20,Trevor Whatford,Men's Sailboard,Amateur,30.66,29.93,30.30
-21,Simon Chippington,Men's Sailboard,Gold Fleet,30.38,29.96,30.17
-22,Chris Cleland,Men's Sailboard,Amateur,29.40,29.07,29.24
-23,Mark Salvage,Men's Sailboard,Amateur,27.34,23.92,25.63
+Place,HelmName,Fleet,Status
+1,Jim Crossley,Men's Sailboard,Pro Fleet
+2,Kevin Greenslade,Men's Sailboard,Pro Fleet
+3,Simon Pettifer,Men's Sailboard,Pro Fleet
+4,Simon Cofield,Men's Sailboard,Pro Fleet
+5,Paul Sibley,Men's Sailboard,Gold Fleet
+6,Scotty Stallman,Men's Sailboard,Gold Fleet
+7,Garry Connell,Men's Sailboard,Gold Fleet
+8,Leigh Kingaby,Men's Sailboard,Pro Fleet
+9,James Battye,Men's Sailboard,Gold Fleet
+10,Grant Cottrell,Men's Sailboard,Gold Fleet
+11,Nick Beaney,Men's Sailboard,Pro Fleet
+12,Ewan Paterson,Men's Sailboard,Amateur
+13,Matthew York,Men's Sailboard,Gold Fleet
+14,Gavin Furmenger,Men's Sailboard,Gold Fleet
+15,Shaun Cook,Men's Sailboard,Pro Fleet
+16,Kacper Wozniak,Men's Sailboard,Gold Fleet
+17,Tyler Baker,Men's Sailboard,Youth Fleet
+18,Adrian Wallis,Men's Sailboard,Gold Fleet
+19,George Fulton,Men's Sailboard,Amateur
+20,Trevor Whatford,Men's Sailboard,Amateur
+21,Simon Chippington,Men's Sailboard,Gold Fleet
+22,Chris Cleland,Men's Sailboard,Amateur
+23,Mark Salvage,Men's Sailboard,Amateur
