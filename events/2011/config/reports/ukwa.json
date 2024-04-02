@@ -2,7 +2,7 @@
   "Suptitle": "UKWA Runs of the Day - {Date}",
   "Period": "Session",
   "Fields": "Name,Nation,Status,Run 1 (kts),Run 2 (kts),Avg (kts)",
-  "Sort": "Avg (kts)=DSC",
+  "Sort": "Avg (kts)=DSC,Run 1 (kts)=DSC",
   "Series": "UKWA",
   "Reports": [
     {
