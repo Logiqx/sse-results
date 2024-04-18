@@ -31,14 +31,47 @@
     </div>
     {% if logo is defined and logo %}
     <div id="logo" style="margin-top: 20px;">
+      {% if 'href' in logo %}
+      {% if logo['href'].startswith('http') %}
       <a href="{{ logo['href'] }}" target="_blank"><img src="{{ logo['src'] }}" alt="{{ logo['alt'] }}" width="{{ logo['width'] }}" height="{{ logo['height'] }}" /></a>
+      {% else %}
+      <a href="{{ logo['href'] }}"><img src="{{ logo['src'] }}" alt="{{ logo['alt'] }}" width="{{ logo['width'] }}" height="{{ logo['height'] }}" /></a>
+      {% endif %}
+      {% else %}
+      <img src="{{ logo['src'] }}" alt="{{ logo['alt'] }}" width="{{ logo['width'] }}" height="{{ logo['height'] }}" />
+      {% endif %}
     </div>
     {% else %}
     <h1>{{ eventName }}</h1>
     {% endif %}
+    {% if organisation is defined and organisation %}
+    <div id="organisation" style="margin-top: 20px;">
+      {% if 'href' in organisation %}
+      {% if organisation['href'].startswith('http') %}
+      <a href="{{ organisation['href'] }}" target="_blank"><img src="{{ organisation['src'] }}" alt="{{ organisation['alt'] }}" width="{{ organisation['width'] }}" height="{{ organisation['height'] }}" /></a>
+      {% else %}
+      <a href="{{ organisation['href'] }}"><img src="{{ organisation['src'] }}" alt="{{ organisation['alt'] }}" width="{{ organisation['width'] }}" height="{{ organisation['height'] }}" /></a>
+</a>
+      {% endif %}
+      {% else %}
+      <img src="{{ organisation['src'] }}" alt="{{ organisation['alt'] }}" width="{{ organisation['width'] }}" height="{{ organisation['height'] }}" />
+      {% endif %}
+      <p><br/></p>
+    </div>
+    {% endif %}
     {% if sponsors is defined and sponsors %}
     <div id="sponsors" style="margin-top: 20px;">
+      {% if 'href' in sponsors %}
+      {% if sponsors['href'].startswith('http') %}
       <a href="{{ sponsors['href'] }}" target="_blank"><img src="{{ sponsors['src'] }}" alt="{{ sponsors['alt'] }}" width="{{ sponsors['width'] }}" height="{{ sponsors['height'] }}" /></a>
+      {% else %}
+      <a href="{{ sponsors['href'] }}"><img src="{{ sponsors['src'] }}" alt="{{ sponsors['alt'] }}" width="{{ sponsors['width'] }}" height="{{ sponsors['height'] }}" /></a>
+</a>
+      {% endif %}
+      {% else %}
+      <img src="{{ sponsors['src'] }}" alt="{{ sponsors['alt'] }}" width="{{ sponsors['width'] }}" height="{{ sponsors['height'] }}" />
+      {% endif %}
+      <p><br/></p>
     </div>
     {% endif %}
     <div id="content" style="margin-top: 20px;">
