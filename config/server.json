@@ -30,6 +30,18 @@
         ],
         "9004 Weymouth Speed Week": [
           "New custom firmware based on 3209. Required for newer Motion minis. Used for WSW 2023"
+        ],
+        "9005 Weymouth Speed Week": [
+          "New custom firmware based on 3212. Special 2 knot minimum for youths"
+        ],
+        "9007 Weymouth SW (3231)": [
+          "New custom firmware based on 3231. Implements live 2s > 3 knots filter"
+        ],
+        "9008 Weymouth SW (3232)": [
+          "New custom firmware based on 3232. No other changes"
+        ],
+        "9009 Weymouth SW (3232)": [
+          "New custom firmware based on 3232. Recognises the last 16 identifiers"
         ]
       },
       "Thresholds": {
@@ -46,7 +58,7 @@
   },
   "Filters": {
     "Comment": "Ignore logs where the distance (km) or 10s speed (knots) are particularly low",
-    "500m Best": 5
+    "500m Best": 1
   },
   "Logging": {
     "Comment": "10 = debug, 20 = info (recommended), 30 = warning, 40 = error, 50 = critical",
