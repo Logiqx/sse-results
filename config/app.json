@@ -12,6 +12,12 @@
     "Refresh": true,
     "Verbosity": 2
   },
+  "Clubs": {
+    "Boat": [20, 25, 30],
+    "Kiteboard": [30, 35, 40],
+    "Sailboard": [30, 35, 40],
+    "Wingboard": [25, 30, 35]
+  },
   "Links": {
     "AYRS": {
       "Name": "The Amateur Yacht Research Society",
