@@ -274,20 +274,23 @@ table.grouping td:last-child {
 }
 
 /* Name */
+table.legs td:nth-child(2),
 table.ukwa td:nth-child(2),
 table.iswc td:nth-child(2) {
   text-align: left;
 }
 /* Nation */
+table.legs td:nth-child(3),
 table.ukwa td:nth-child(3),
 table.iswc td:nth-child(3) {
   text-align: left;
   white-space: nowrap;
 }
 /* Speeds */
+table.legs td:nth-last-child(1),
+table.legs td:nth-last-child(2),
+table.legs td:nth-last-child(3),
 table.ukwa td:nth-last-child(1),
-table.ukwa td:nth-last-child(2),
-table.ukwa td:nth-last-child(3),
 table.iswc td:nth-last-child(1),
 table.iswc td:nth-last-child(2),
 table.iswc td:nth-last-child(3) {
