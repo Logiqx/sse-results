@@ -104,10 +104,11 @@
     "grouping": 15,
     "bests": 20,
     "runs": 21,
-    "entrants": 25,
-    "tallies": 26,
     "ukwa": 30,
-    "iswc": 31
+    "legs": 31,
+    "iswc": 40,
+    "entrants": 50,
+    "tallies": 51
   },
   "Emojis": {
     "Tankard": "🍺",
