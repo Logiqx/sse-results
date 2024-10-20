@@ -1,0 +1,196 @@
+{
+  "Event": {
+    "Name": "Weymouth Speed Week 2024",
+    "Start Date": "2024-10-12",
+    "End Date": "2024-10-18",
+    "Banner": "wswlogo_2024.png"
+  },
+  "Time Zone": 60,
+  "Decimals": 2,
+  "Courses": {
+    "H": "Harbour",
+    "S": "Shore",
+    "?": "TBC"
+  },
+  "Entrants": {
+    "Craft Type": [
+      "Boat",
+      "Kiteboard",
+      "Sailboard",
+      "Wingboard",
+      "TBC"
+    ],
+    "Status": [
+      "Amateur",
+      "Gold Fleet",
+      "Pro Fleet",
+      "Freeride",
+      "Open Class",
+      "Boat Fleet",
+      "Wing Fleet",
+      "TBC"
+    ],
+    "Entry Type": [
+      "All Week",
+      "Youth W/E",
+      "2-Day",
+      "TBC"
+    ],
+    "Gender": [
+      "M",
+      "F",
+      "?"
+    ],
+    "First Timer": [
+      "Y",
+      "N",
+      "?"
+    ],
+    "UKWA": [
+      "Y",
+      "N",
+      "?"
+    ],
+    "Grouping": [
+      "Forces - Royal Navy",
+      "Forces - The Army",
+      "Forces - Royal Air Force",
+      "Hamworthy Heroes",
+      "Portland Pirates",
+      "Surf Hogs",
+      "SW Marine",
+      "The OTC",
+      "None",
+      "TBC"
+    ]
+  },
+  "Tankards": {
+    "Filters": [
+      "Craft Type=Boat",
+      "Craft Type=Kiteboard",
+      "Craft Type=Sailboard",
+      "Craft Type=Wingboard"
+    ]
+  },
+  "Trophies": [
+    {
+      "Name": "Fastest Overall Trophy",
+      "Category": "Craft",
+      "Filter": ""
+    },
+    {
+      "Name": "Gold Fleet 'Fastest Sailor' Shield",
+      "Category": "Gold Fleet Sailboard",
+      "Filter": "Craft Type=Sailboard,Status=Gold Fleet"
+    },
+    {
+      "Name": "'Fastest Youth' Trophy",
+      "Category": "Youth Sailboard",
+      "Filter": "Craft Type=Sailboard,Age=Youth,Weekend=Y"
+    },
+    {
+      "Name": "'Fastest Female' Shield",
+      "Category": "Female",
+      "Filter": "Gender=F"
+    },
+    {
+      "Name": "Fastest Boat Shield",
+      "Category": "Boat",
+      "Filter": "Craft Type=Boat"
+    },
+    {
+      "Name": "Fastest Kiteboard Silver Cup",
+      "Category": "Kiteboard",
+      "Filter": "Craft Type=Kiteboard"
+    },
+    {
+      "Name": "Fastest Sailboard Shield",
+      "Category": "Sailboard",
+      "Filter": "Craft Type=Sailboard"
+    },
+    {
+      "Name": "Fastest Wingboard Trophy",
+      "Category": "Wingboard",
+      "Filter": "Craft Type=Wingboard"
+    },
+    {
+      "Name": "BKSA Speed Champion Trophy",
+      "Category": "Kiteboard",
+      "Filter": "Craft Type=Kiteboard"
+    }
+  ],
+  "Prizes": [
+    {
+      "Category": "Youths",
+      "Filter": "Age=Youth,Weekend=Y",
+      "Places": 3
+    },
+    {
+      "Category": "Female Sailboard",
+      "Filter": "Craft Type=Sailboard,Gender=F,Status<>Pro Fleet",
+      "Places": 1
+    },
+    {
+      "Category": "First Time Amateur Sailboard",
+      "Filter": "Craft Type=Sailboard,Status=Amateur,First Timer=Y",
+      "Places": 1
+    },
+    {
+      "Category": "Amateur Sailboards",
+      "Filter": "Craft Type=Sailboard,Status=Amateur",
+      "Places": 3
+    },
+    {
+      "Category": "Gold Fleet Sailboards",
+      "Filter": "Craft Type=Sailboard,Status=Gold Fleet",
+      "Places": 3
+    },
+    {
+      "Category": "Pro Sailboard",
+      "Filter": "Craft Type=Sailboard,Status=Pro Fleet",
+      "Places": 1
+    },
+    {
+      "Category": "Boat",
+      "Filter": "Craft Type=Boat",
+      "Places": 1
+    },
+    {
+      "Category": "First Time Freeride Kiteboard",
+      "Filter": "Craft Type=Kiteboard,Status=Freeride,First Timer=Y",
+      "Places": 1
+    },
+    {
+      "Category": "Open Class Kiteboard",
+      "Filter": "Craft Type=Kiteboard,Status=Open Class",
+      "Places": 1
+    },
+    {
+      "Category": "Freeride Kiteboard",
+      "Filter": "Craft Type=Kiteboard,Status=Freeride",
+      "Places": 1
+    },
+    {
+      "Category": "First Time Amateur Wingboard",
+      "Filter": "Craft Type=Wingboard,Status=Amateur,First Timer=Y",
+      "Places": 1
+    },
+    {
+      "Category": "Pro Wingboard",
+      "Filter": "Craft Type=Wingboard,Status=Pro Fleet",
+      "Places": 1
+    },
+    {
+      "Category": "Amateur Wingboards",
+      "Filter": "Craft Type=Wingboard,Status=Amateur",
+      "Places": 3
+    }
+  ],
+  "Series": {
+    "UKWA": {
+      "Name": "UKWA Speed Championship",
+      "Filter": "UKWA=Y",
+      "Refresh": true
+    }
+  }
+}

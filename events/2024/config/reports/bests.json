@@ -1,0 +1,11 @@
+{
+  "Suptitle": "Best Runs of the Day - {Date}",
+  "Fields": "Name,Nation,Craft Type,Status,First Timer,Speed (kts),Other Run Speeds (kts)",
+  "ShowSpeeds": 10,
+  "Reports": [
+    {
+      "Title": "All Craft",
+      "Period": "Session"
+    }
+  ]
+}

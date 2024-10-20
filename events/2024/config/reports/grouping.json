@@ -1,0 +1,52 @@
+{
+  "Periods": [
+    {
+      "Suptitle": "Day Rankings by Grouping - {Date}",
+      "Period": "Session",
+      "HideFields": "Course"
+    },
+    {
+      "Suptitle": "Overall Rankings by Grouping",
+      "Period": "Event",
+      "HideFields": "Course,Time"
+    }
+  ],
+  "Profile": true,
+  "Reports": [
+    {
+      "Title": "AFS",
+      "Filter": "Grouping=AFS",
+      "Fields": "Name,Nation,Craft Type,Status,First Timer,Course,Time,Speed (kts)"
+    },
+    {
+      "Title": "Hamworthy Heroes",
+      "Filter": "Grouping=Hamworthy Heroes",
+      "Fields": "Name,Nation,Craft Type,Status,First Timer,Course,Time,Speed (kts)"
+    },
+    {
+      "Title": "HM Forces",
+      "Filter": "Grouping=Forces - %",
+      "Fields": "Name,Nation,Grouping,First Timer,Course,Time,Speed (kts)"
+    },
+    {
+      "Title": "Portland Pirates",
+      "Filter": "Grouping=Portland Pirates",
+      "Fields": "Name,Nation,Craft Type,Status,First Timer,Course,Time,Speed (kts)"
+    },
+    {
+      "Title": "Surf Hogs",
+      "Filter": "Grouping=Surf Hogs",
+      "Fields": "Name,Nation,Craft Type,Status,First Timer,Course,Time,Speed (kts)"
+    },
+    {
+      "Title": "SW Marine",
+      "Filter": "Grouping=SW Marine",
+      "Fields": "Name,Nation,Craft Type,Status,First Timer,Course,Time,Speed (kts)"
+    },
+    {
+      "Title": "The OTC",
+      "Filter": "Grouping=The OTC",
+      "Fields": "Name,Nation,Craft Type,Status,First Timer,Course,Time,Speed (kts)"
+    }
+  ]
+}

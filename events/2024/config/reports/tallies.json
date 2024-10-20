@@ -1,0 +1,20 @@
+{
+  "Suptitle": "Tally List",
+  "Period": "Event",
+  "Runs": false,
+  "Reports": [
+    {
+      "Title": "All Tallies",
+      "Comment": "Sorted by Tally Number",
+      "Fields": "Tally,Name,Nation,Craft Type,Status,Entry Type,First Timer",
+      "Filter": "Tally<>",
+      "Sort": "Tally=ASC,Craft Type=ASC"
+    },
+    {
+      "Title": "All Entrants",
+      "Comment": "Sorted by Name",
+      "Fields": "Tally,Name,Nation,Craft Type,Status,Entry Type,First Timer",
+      "Sort": "Name=ASC,Craft Type=ASC"
+    }
+  ]
+}

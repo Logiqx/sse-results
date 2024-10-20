@@ -1,0 +1,81 @@
+{
+  "Suptitle": "UKWA Results - {Date}",
+  "Period": "Session",
+  "Fields": "Name,Nation,Age,Tally,Run 1 (kts),Run 2 (kts),Avg (kts)",
+  "Sort": "Avg (kts)=DSC,Run 1 (kts)=DSC",
+  "Series": "UKWA",
+  "Reports": [
+    {
+      "Title": "Leg 1 - Overall Sailboard",
+      "Comment": "Rounds will only count towards the event if they meet the criteria in the notice of race",
+      "Filter": "Craft Type=Sailboard,UKWA=Leg 1",
+      "Fleet": "Overall Sailboard"
+    },
+    {
+      "Title": "Leg 1 - Male Sailboard",
+      "Comment": "Rounds will only count towards the event if they meet the criteria in the notice of race",
+      "Filter": "Craft Type=Sailboard,Gender=M,UKWA=Leg 1",
+      "Fleet": "Male Sailboard"
+    },
+    {
+      "Title": "Leg 1 - Female Sailboard",
+      "Comment": "Rounds will only count towards the event if they meet the criteria in the notice of race",
+      "Filter": "Craft Type=Sailboard,Gender=F,UKWA=Leg 1",
+      "Fleet": "Female Sailboard"
+    },
+    {
+      "Title": "Leg 1 - Overall Wingboard",
+      "Comment": "Rounds will only count towards the event if they meet the criteria in the notice of race",
+      "Filter": "Craft Type=Wingboard,UKWA=Leg 1",
+      "Fleet": "Overall Wingboard"
+    },
+    {
+      "Title": "Leg 1 - Male Wingboard",
+      "Comment": "Rounds will only count towards the event if they meet the criteria in the notice of race",
+      "Filter": "Craft Type=Wingboard,Gender=M,UKWA=Leg 1",
+      "Fleet": "Male Wingboard"
+    },
+    {
+      "Title": "Leg 1 - Female Wingboard",
+      "Comment": "Rounds will only count towards the event if they meet the criteria in the notice of race",
+      "Filter": "Craft Type=Wingboard,Gender=F,UKWA=Leg 1",
+      "Fleet": "Female Wingboard"
+    },
+    {
+      "Title": "Leg 2 - Overall Sailboard",
+      "Comment": "Rounds will only count towards the event if they meet the criteria in the notice of race",
+      "Filter": "Craft Type=Sailboard,UKWA=Leg 2",
+      "Fleet": "Overall Sailboard"
+    },
+    {
+      "Title": "Leg 2 - Male Sailboard",
+      "Comment": "Rounds will only count towards the event if they meet the criteria in the notice of race",
+      "Filter": "Craft Type=Sailboard,Gender=M,UKWA=Leg 2",
+      "Fleet": "Male Sailboard"
+    },
+    {
+      "Title": "Leg 2 - Female Sailboard",
+      "Comment": "Rounds will only count towards the event if they meet the criteria in the notice of race",
+      "Filter": "Craft Type=Sailboard,Gender=F,UKWA=Leg 2",
+      "Fleet": "Female Sailboard"
+    },
+    {
+      "Title": "Leg 2 - Overall Wingboard",
+      "Comment": "Rounds will only count towards the event if they meet the criteria in the notice of race",
+      "Filter": "Craft Type=Wingboard,UKWA=Leg 2",
+      "Fleet": "Overall Wingboard"
+    },
+    {
+      "Title": "Leg 2 - Male Wingboard",
+      "Comment": "Rounds will only count towards the event if they meet the criteria in the notice of race",
+      "Filter": "Craft Type=Wingboard,Gender=M,UKWA=Leg 2",
+      "Fleet": "Male Wingboard"
+    },
+    {
+      "Title": "Leg 2 - Female Wingboard",
+      "Comment": "Rounds will only count towards the event if they meet the criteria in the notice of race",
+      "Filter": "Craft Type=Wingboard,Gender=F,UKWA=Leg 2",
+      "Fleet": "Female Wingboard"
+    }
+  ]
+}

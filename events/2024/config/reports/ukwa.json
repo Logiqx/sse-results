@@ -1,0 +1,35 @@
+{
+  "Suptitle": "UKWA Rankings",
+  "Period": "Event",
+  "Fields": "Name,Nation,Age,Tally,Points,Nett,Speed (kts)",
+  "Reports": [
+    {
+      "Title": "Overall Sailboard",
+      "Filter": "Craft Type=Sailboard,UKWA<>"
+    },
+    {
+      "Title": "Male Sailboard",
+      "Filter": "Craft Type=Sailboard,Gender=M,UKWA<>"
+    },
+    {
+      "Title": "Female Sailboard",
+      "Filter": "Craft Type=Sailboard,Gender=F,UKWA<>"
+    },
+    {
+      "Title": "Overall Wingboard",
+      "Filter": "Craft Type=Wingboard,UKWA<>"
+    },
+    {
+      "Title": "Male Wingboard",
+      "Filter": "Craft Type=Wingboard,Gender=M,UKWA<>"
+    },
+    {
+      "Title": "Female Wingboard",
+      "Filter": "Craft Type=Wingboard,Gender=F,UKWA<>"
+    },
+    {
+      "Title": "All Craft TBCs",
+      "Filter": "Craft Type=TBC,UKWA<>"
+    }
+  ]
+}

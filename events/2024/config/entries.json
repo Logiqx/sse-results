@@ -1,0 +1,236 @@
+{
+  "Filters": {
+    "Year": "2025"
+  },
+  "Defaults": {
+    "Entry Type": "All Week",
+    "Start Date": "2024-10-12",
+    "End Date": "2024-10-18",
+    "Withdrawn": "N"
+  },
+  "Mappings": {
+    "ID": "Id",
+    "Entrant ID": "Id",
+    "Created": "Created",
+    "Title": "Title",
+    "First Name": "First Name",
+    "Family Name": "Family Name",
+    "Country": "Country",
+    "First Timer": "First Timer",
+    "Grouping": "Grouping",
+    "Tally": "Tally"
+  },
+  "Derivations": {
+    "Start Date": {
+      "2024-10-14": {
+        "Filters": {
+          "Week Days": "YES"
+        }
+      }
+    },
+    "End Date": {
+      "2024-10-13": {
+        "Filters": {
+          "Youth Weekend": "YES"
+        }
+      }
+    },
+    "Entry Type": {
+      "2 Days": {
+        "Filters": {
+          "Week Days": "YES"
+        }
+      },
+      "Youth W/E": {
+        "Filters": {
+          "Youth Weekend": "YES"
+        }
+      }
+    },
+    "Age": {
+      "Adult": {
+        "Filters": {
+          "Adult": "YES"
+        }
+      },
+      "Youth": {
+        "Filters": {
+          "Youth": "YES"
+        }
+      }
+    },
+    "Grouping": {
+      "Forces - Royal Navy": {
+        "Filters": {
+          "Grouping": "Royal Navy"
+        }
+      }
+    }
+  },
+  "Craft Types": [
+    {
+      "Filters": {
+        "Boat": "1"
+      },
+      "Defaults": {
+        "Craft Type": "Boat",
+        "Status": "Boat Fleet",
+        "UKWA": "N",
+        "ISWC": "N"
+      },
+      "Mappings": {
+        "Boat Name": "Boat Name"
+      },
+      "Derivations": {
+        "Withdrawn": {
+          "Y": {
+            "Filters": {
+              "Motion for Boat": "WITHDRAWN"
+            }
+          }
+        }
+      },
+      "Offsets": {
+        "ID": 0,
+        "Entrant ID": 0
+      },
+      "Motion ID": "Motion for Boat"
+    },
+    {
+      "Filters": {
+        "Sailboard": "1"
+      },
+      "Defaults": {
+        "Craft Type": "Sailboard"
+      },
+      "Mappings": {
+        "Status": "Sailboard Fleet",
+        "Sponsors": "Sailboard Sponsors",
+        "UKWA": "UKWA Member",
+        "ISWC": "ISWC Member"
+      },
+      "Derivations": {
+        "Withdrawn": {
+          "Y": {
+            "Filters": {
+              "Motion for Sailboard": "WITHDRAWN"
+            }
+          }
+        }
+      },
+      "Offsets": {
+        "ID": 1000,
+        "Entrant ID": 1000
+      },
+      "Motion ID": "Motion for Sailboard"
+    },
+    {
+      "Filters": {
+        "Kiteboard": "1"
+      },
+      "Defaults": {
+        "Craft Type": "Kiteboard",
+        "UKWA": "N",
+        "ISWC": "N"
+      },
+      "Mappings": {
+        "Status": "Kiteboard Fleet",
+        "Sponsors": "Kiteboard Sponsors"
+      },
+      "Derivations": {
+        "Withdrawn": {
+          "Y": {
+            "Filters": {
+              "Motion for Kiteboard": "WITHDRAWN"
+            }
+          }
+        }
+      },
+      "Offsets": {
+        "ID": 2000,
+        "Entrant ID": 2000
+      },
+      "Motion ID": "Motion for Kiteboard"
+    },
+    {
+      "Filters": {
+        "Wingboard": "1"
+      },
+      "Defaults": {
+        "Craft Type": "Wingboard"
+      },
+      "Mappings": {
+        "Status": "Wingboard Fleet",
+        "Sponsors": "Wingboard Sponsors",
+        "UKWA": "UKWA Member",
+        "ISWC": "ISWC Member"
+      },
+      "Derivations": {
+        "Withdrawn": {
+          "Y": {
+            "Filters": {
+              "Motion for Wingboard": "WITHDRAWN"
+            }
+          }
+        }
+      },
+      "Offsets": {
+        "ID": 3000,
+        "Entrant ID": 3000
+      },
+      "Motion ID": "Motion for Wingboard"
+    }
+  ],
+  "Outputs": [
+    {
+      "File": "entrants.csv",
+      "Filters": {
+        "Withdrawn": "N"
+      },
+      "Fields": [
+        "ID",
+        "Tally",
+        "Title",
+        "First Name",
+        "Family Name",
+        "Country",
+        "First Timer",
+        "Craft Type",
+        "Status",
+        "Age",
+        "Boat Name",
+        "Grouping",
+        "Entry Type",
+        "UKWA"
+      ],
+      "Unique Keys": [
+        "ID"
+      ]
+    },
+    {
+      "File": "motions.csv",
+      "Filters": {
+        "Withdrawn": "N"
+      },
+      "Fields": [
+        "Entrant ID",
+        "Tally",
+        "Motion ID",
+        "Start Date",
+        "End Date",
+        "File ID",
+        "First Name",
+        "Family Name",
+        "Craft Type",
+        "Status",
+        "Entry Type"
+      ],
+      "Unique Keys": [
+        "Entrant ID",
+        "Motion ID",
+        "File ID"
+      ],
+      "Extra": "motions-extra.csv"
+    }
+  ]
+}

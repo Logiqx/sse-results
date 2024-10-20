@@ -1,0 +1,21 @@
+{
+  "Periods": [
+    {
+      "Suptitle": "Day Rankings - {Date}",
+      "Period": "Session",
+      "HideFields": "Course"
+    },
+    {
+      "Suptitle": "Overall Rankings",
+      "Period": "Event",
+      "HideFields": "Course,Time"
+    }
+  ],
+  "Profile": true,
+  "Reports": [
+    {
+      "Title": "All Craft",
+      "Fields": "Name,Nation,Craft Type,Status,Course,Time,Speed (kts)"
+    }
+  ]
+}
